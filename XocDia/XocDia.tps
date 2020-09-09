@@ -420,7 +420,6 @@
                 <false/>
             </struct>
             <key type="filename">images/chan_ty-le.png</key>
-            <key type="filename">images/chan_ty-le_en.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -527,21 +526,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/icon_link.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>4,4,7,7</rect>
-                <key>scale9Paddings</key>
-                <rect>4,4,7,7</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/le1_1.98_active.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -558,7 +542,6 @@
                 <false/>
             </struct>
             <key type="filename">images/le_ty-le.png</key>
-            <key type="filename">images/le_ty-le_en.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -570,66 +553,6 @@
                 <rect>51,11,101,23</rect>
                 <key>scale9Paddings</key>
                 <rect>51,11,101,23</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/log.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>99,35,199,69</rect>
-                <key>scale9Paddings</key>
-                <rect>99,35,199,69</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/row_highlight_bg.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>3,3,5,5</rect>
-                <key>scale9Paddings</key>
-                <rect>3,3,5,5</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/table-header.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>91,12,182,24</rect>
-                <key>scale9Paddings</key>
-                <rect>91,12,182,24</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/table_group_border.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>91,8,182,15</rect>
-                <key>scale9Paddings</key>
-                <rect>91,8,182,15</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -638,7 +561,6 @@
         <array>
             <filename>images/bat.png</filename>
             <filename>images/dia.png</filename>
-            <filename>images/log.png</filename>
             <filename>images/1_16-1.png</filename>
             <filename>images/1_16-1_active.png</filename>
             <filename>images/1_16-1_ty-le.png</filename>
@@ -663,8 +585,6 @@
             <filename>images/le_ty-le.png</filename>
             <filename>images/dealer.png</filename>
             <filename>images/gp_table.png</filename>
-            <filename>images/chan_ty-le_en.png</filename>
-            <filename>images/le_ty-le_en.png</filename>
             <filename>images/dot_cr.png</filename>
             <filename>images/1_16-1_border_active.png</filename>
             <filename>images/1_16_border_active.png</filename>
@@ -672,10 +592,6 @@
             <filename>images/1_4_border_active.png</filename>
             <filename>images/chan1_1.98_border_active.png</filename>
             <filename>images/le1_1.98_border_active.png</filename>
-            <filename>images/table-header.png</filename>
-            <filename>images/table_group_border.png</filename>
-            <filename>images/icon_link.png</filename>
-            <filename>images/row_highlight_bg.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
