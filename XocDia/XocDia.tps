@@ -465,52 +465,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/dollar_active.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>26,11,53,21</rect>
-                <key>scale9Paddings</key>
-                <rect>26,11,53,21</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/dollar_bg.png</key>
-            <key type="filename">images/scoin_bg.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>52,11,104,22</rect>
-                <key>scale9Paddings</key>
-                <rect>52,11,104,22</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/dollar_overlay_bg.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>51,11,102,21</rect>
-                <key>scale9Paddings</key>
-                <rect>51,11,102,21</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/dot-red-large.png</key>
             <key type="filename">images/dot-white-large.png</key>
             <struct type="IndividualSpriteSettings">
@@ -649,36 +603,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/scoin.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>18,18,36,36</rect>
-                <key>scale9Paddings</key>
-                <rect>18,18,36,36</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/scoin_active.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>26,11,52,21</rect>
-                <key>scale9Paddings</key>
-                <rect>26,11,52,21</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/table-header.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -748,12 +672,6 @@
             <filename>images/1_4_border_active.png</filename>
             <filename>images/chan1_1.98_border_active.png</filename>
             <filename>images/le1_1.98_border_active.png</filename>
-            <filename>images/dollar_active.png</filename>
-            <filename>images/dollar_bg.png</filename>
-            <filename>images/dollar_overlay_bg.png</filename>
-            <filename>images/scoin_active.png</filename>
-            <filename>images/scoin_bg.png</filename>
-            <filename>images/scoin.png</filename>
             <filename>images/table-header.png</filename>
             <filename>images/table_group_border.png</filename>
             <filename>images/icon_link.png</filename>
