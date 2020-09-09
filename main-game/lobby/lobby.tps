@@ -277,57 +277,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/message.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>20,18,40,37</rect>
-                <key>scale9Paddings</key>
-                <rect>20,18,40,37</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/music-off.png</key>
-            <key type="filename">images/music-on.png</key>
-            <key type="filename">images/nutfacebook.png</key>
-            <key type="filename">images/nuttelegram.png</key>
-            <key type="filename">images/nutzalo.png</key>
-            <key type="filename">images/sound-off.png</key>
-            <key type="filename">images/sound-on.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>24,24,48,48</rect>
-                <key>scale9Paddings</key>
-                <rect>24,24,48,48</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/scoin.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>18,18,36,36</rect>
-                <key>scale9Paddings</key>
-                <rect>18,18,36,36</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/sign-in.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -343,21 +292,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/sign-out.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>20,19,40,37</rect>
-                <key>scale9Paddings</key>
-                <rect>20,19,40,37</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
         </map>
         <key>fileList</key>
         <array>
@@ -365,18 +299,8 @@
             <filename>images/dongxu.png</filename>
             <filename>images/header-background.png</filename>
             <filename>images/iconsapramat.png</filename>
-            <filename>images/message.png</filename>
-            <filename>images/music-off.png</filename>
-            <filename>images/music-on.png</filename>
-            <filename>images/nutfacebook.png</filename>
-            <filename>images/nuttelegram.png</filename>
-            <filename>images/nutzalo.png</filename>
             <filename>images/sign-in.png</filename>
-            <filename>images/sign-out.png</filename>
-            <filename>images/sound-off.png</filename>
-            <filename>images/sound-on.png</filename>
             <filename>images/bg-news-text.png</filename>
-            <filename>images/scoin.png</filename>
             <filename>images/NenTenNenTien.png</filename>
         </array>
         <key>ignoreFileList</key>
