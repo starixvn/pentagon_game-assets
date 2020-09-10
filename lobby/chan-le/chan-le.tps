@@ -4,7 +4,7 @@
         <key>fileFormatVersion</key>
         <int>4</int>
         <key>texturePackerVersion</key>
-        <string>5.3.0</string>
+        <string>5.4.0</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -218,21 +218,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/mask3.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>52,52,103,104</rect>
-                <key>scale9Paddings</key>
-                <rect>52,52,103,104</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/nen tro choi chan le1.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -313,7 +298,6 @@
         <array>
             <filename>images/Chu tro choi chan le.png</filename>
             <filename>images/Nhung dong xu lo lung chan le.png</filename>
-            <filename>images/mask3.png</filename>
             <filename>images/nen tro choi chan le1.png</filename>
             <filename>images/tia sáng.png</filename>
             <filename>images/tiensang.png</filename>

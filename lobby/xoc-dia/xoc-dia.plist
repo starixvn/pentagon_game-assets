@@ -11,11 +11,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{125,124}</string>
+                <string>{104,103}</string>
                 <key>spriteSourceSize</key>
-                <string>{125,124}</string>
+                <string>{104,103}</string>
                 <key>textureRect</key>
-                <string>{{329,517},{125,124}}</string>
+                <string>{{1,654},{104,103}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -26,13 +26,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{111,99}</string>
+                <string>{92,82}</string>
                 <key>spriteSourceSize</key>
-                <string>{111,99}</string>
+                <string>{92,82}</string>
                 <key>textureRect</key>
-                <string>{{410,298},{111,99}}</string>
+                <string>{{107,721},{92,82}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>TrangLon.png</key>
             <dict>
@@ -41,13 +41,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{104,95}</string>
+                <string>{87,79}</string>
                 <key>spriteSourceSize</key>
-                <string>{104,95}</string>
+                <string>{87,79}</string>
                 <key>textureRect</key>
-                <string>{{410,411},{104,95}}</string>
+                <string>{{1,759},{87,79}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>TrangNho.png</key>
             <dict>
@@ -56,11 +56,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{79,78}</string>
+                <string>{66,65}</string>
                 <key>spriteSourceSize</key>
-                <string>{79,78}</string>
+                <string>{66,65}</string>
                 <key>textureRect</key>
-                <string>{{329,380},{79,78}}</string>
+                <string>{{107,654},{66,65}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -71,13 +71,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{326,217}</string>
+                <string>{272,181}</string>
                 <key>spriteSourceSize</key>
-                <string>{326,217}</string>
+                <string>{272,181}</string>
                 <key>textureRect</key>
-                <string>{{1,380},{326,217}}</string>
+                <string>{{1,380},{272,181}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>chu xoc dia.png</key>
             <dict>
@@ -86,13 +86,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{407,80}</string>
+                <string>{339,67}</string>
                 <key>spriteSourceSize</key>
-                <string>{407,80}</string>
+                <string>{339,67}</string>
                 <key>textureRect</key>
-                <string>{{1,298},{407,80}}</string>
+                <string>{{184,380},{339,67}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>hinh nen tro xoc dia.png</key>
             <dict>
@@ -101,13 +101,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{452,295}</string>
+                <string>{377,246}</string>
                 <key>spriteSourceSize</key>
-                <string>{452,295}</string>
+                <string>{377,246}</string>
                 <key>textureRect</key>
-                <string>{{1,1},{452,295}}</string>
+                <string>{{1,1},{377,246}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
         </dict>
         <key>metadata</key>
@@ -121,9 +121,9 @@
             <key>realTextureFileName</key>
             <string>xoc-dia.png</string>
             <key>size</key>
-            <string>{510,642}</string>
+            <string>{252,839}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:4ffe69d668faa2833de1a28676542d20:070640626caa5c6264fa13359dce1248:9f944f74ef4ced94994d3ec5e993eb08$</string>
+            <string>$TexturePacker:SmartUpdate:2db77d6fc21ad2dc9b3e77a734adbcb3:9c6146a1e11d85e7606394d0967638e0:9f944f74ef4ced94994d3ec5e993eb08$</string>
             <key>textureFileName</key>
             <string>xoc-dia.png</string>
         </dict>

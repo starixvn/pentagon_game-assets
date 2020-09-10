@@ -165,7 +165,7 @@
         <key>globalSpriteSettings</key>
         <struct type="SpriteSettings">
             <key>scale</key>
-            <double>1</double>
+            <double>0.83333</double>
             <key>scaleMode</key>
             <enum type="ScaleMode">Smooth</enum>
             <key>extrude</key>
@@ -187,21 +187,6 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">images/AnhSangXoay.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>142,162,284,323</rect>
-                <key>scale9Paddings</key>
-                <rect>142,162,284,323</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/CHUBAU.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -259,21 +244,6 @@
                 <rect>55,54,109,109</rect>
                 <key>scale9Paddings</key>
                 <rect>55,54,109,109</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/background.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>52,52,104,104</rect>
-                <key>scale9Paddings</key>
-                <rect>52,52,104,104</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -340,12 +310,10 @@
         </map>
         <key>fileList</key>
         <array>
-            <filename>images/AnhSangXoay.png</filename>
             <filename>images/CHUBAU.png</filename>
             <filename>images/CHUCUA.png</filename>
             <filename>images/CHUMINI.png</filename>
             <filename>images/VienGame.png</filename>
-            <filename>images/background.png</filename>
             <filename>images/cucnho.png</filename>
             <filename>images/cucto.png</filename>
             <filename>images/cucvua.png</filename>

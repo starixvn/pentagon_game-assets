@@ -4,7 +4,7 @@
         <key>fileFormatVersion</key>
         <int>4</int>
         <key>texturePackerVersion</key>
-        <string>5.3.0</string>
+        <string>5.4.0</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -165,7 +165,7 @@
         <key>globalSpriteSettings</key>
         <struct type="SpriteSettings">
             <key>scale</key>
-            <double>1</double>
+            <double>0.83333</double>
             <key>scaleMode</key>
             <enum type="ScaleMode">Smooth</enum>
             <key>extrude</key>
@@ -248,21 +248,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/bg2.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>60,51,119,103</rect>
-                <key>scale9Paddings</key>
-                <rect>60,51,119,103</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/chanle.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -293,21 +278,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/mask.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>53,53,107,106</rect>
-                <key>scale9Paddings</key>
-                <rect>53,53,107,106</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/vien.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -331,11 +301,9 @@
             <filename>images/ST.png</filename>
             <filename>images/ST2.png</filename>
             <filename>images/bg.png</filename>
-            <filename>images/bg2.png</filename>
             <filename>images/chanle.png</filename>
             <filename>images/lua.png</filename>
             <filename>images/vien.png</filename>
-            <filename>images/mask.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

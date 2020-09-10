@@ -11,13 +11,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{212,211}</string>
+                <string>{177,176}</string>
                 <key>spriteSourceSize</key>
-                <string>{212,211}</string>
+                <string>{177,176}</string>
                 <key>textureRect</key>
-                <string>{{1,219},{212,211}}</string>
+                <string>{{289,1},{177,176}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>da0a014c6b21bde218a84e4e869f7064dba6099028d51-MoPYn0_fw658.png</key>
             <dict>
@@ -26,13 +26,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{116,50}</string>
+                <string>{97,42}</string>
                 <key>spriteSourceSize</key>
-                <string>{116,50}</string>
+                <string>{97,42}</string>
                 <key>textureRect</key>
-                <string>{{346,1},{116,50}}</string>
+                <string>{{366,180},{97,42}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>ho.png</key>
             <dict>
@@ -41,11 +41,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{74,51}</string>
+                <string>{62,42}</string>
                 <key>spriteSourceSize</key>
-                <string>{74,51}</string>
+                <string>{62,42}</string>
                 <key>textureRect</key>
-                <string>{{129,432},{74,51}}</string>
+                <string>{{519,155},{62,42}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -56,11 +56,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{260,125}</string>
+                <string>{217,104}</string>
                 <key>spriteSourceSize</key>
-                <string>{260,125}</string>
+                <string>{217,104}</string>
                 <key>textureRect</key>
-                <string>{{219,1},{260,125}}</string>
+                <string>{{1,1},{217,104}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -71,13 +71,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{57,34}</string>
+                <string>{47,28}</string>
                 <key>spriteSourceSize</key>
-                <string>{57,34}</string>
+                <string>{47,28}</string>
                 <key>textureRect</key>
-                <string>{{346,217},{57,34}}</string>
+                <string>{{336,180},{47,28}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>new_1.png</key>
             <dict>
@@ -86,13 +86,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{70,36}</string>
+                <string>{58,30}</string>
                 <key>spriteSourceSize</key>
-                <string>{70,36}</string>
+                <string>{58,30}</string>
                 <key>textureRect</key>
-                <string>{{364,420},{70,36}}</string>
+                <string>{{519,199},{58,30}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>new_new.png</key>
             <dict>
@@ -101,11 +101,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{96,60}</string>
+                <string>{80,50}</string>
                 <key>spriteSourceSize</key>
-                <string>{96,60}</string>
+                <string>{80,50}</string>
                 <key>textureRect</key>
-                <string>{{346,119},{96,60}}</string>
+                <string>{{467,155},{80,50}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -116,11 +116,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{126,63}</string>
+                <string>{105,52}</string>
                 <key>spriteSourceSize</key>
-                <string>{126,63}</string>
+                <string>{105,52}</string>
                 <key>textureRect</key>
-                <string>{{1,432},{126,63}}</string>
+                <string>{{229,183},{105,52}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -131,13 +131,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{116,50}</string>
+                <string>{97,42}</string>
                 <key>spriteSourceSize</key>
-                <string>{116,50}</string>
+                <string>{97,42}</string>
                 <key>textureRect</key>
-                <string>{{346,1},{116,50}}</string>
+                <string>{{366,180},{97,42}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>sámet.png</key>
             <dict>
@@ -146,26 +146,26 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{155,183}</string>
+                <string>{129,152}</string>
                 <key>spriteSourceSize</key>
-                <string>{155,183}</string>
+                <string>{129,152}</string>
                 <key>textureRect</key>
-                <string>{{215,263},{155,183}}</string>
+                <string>{{467,1},{129,152}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>sáng.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,0}</string>
+                <string>{0,1}</string>
                 <key>spriteSize</key>
-                <string>{62,147}</string>
+                <string>{52,120}</string>
                 <key>spriteSourceSize</key>
-                <string>{62,147}</string>
+                <string>{52,122}</string>
                 <key>textureRect</key>
-                <string>{{215,420},{62,147}}</string>
+                <string>{{107,183},{52,120}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -176,11 +176,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{216,216}</string>
+                <string>{180,180}</string>
                 <key>spriteSourceSize</key>
-                <string>{216,216}</string>
+                <string>{180,180}</string>
                 <key>textureRect</key>
-                <string>{{1,1},{216,216}}</string>
+                <string>{{107,1},{180,180}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -196,9 +196,9 @@
             <key>realTextureFileName</key>
             <string>rong-ho.png</string>
             <key>size</key>
-            <string>{407,496}</string>
+            <string>{597,236}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:d44a4d4ef42d55dcda1a5c7ae10a4d25:964f389e1a73cd2981d9d25a3b4d7e91:4641f319c4adfdd951ad56c42e1d5476$</string>
+            <string>$TexturePacker:SmartUpdate:b983cb4ba0367421e45dfc641c72616c:964f389e1a73cd2981d9d25a3b4d7e91:4641f319c4adfdd951ad56c42e1d5476$</string>
             <key>textureFileName</key>
             <string>rong-ho.png</string>
         </dict>

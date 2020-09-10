@@ -15,7 +15,7 @@
                 <key>spriteSourceSize</key>
                 <string>{184,68}</string>
                 <key>textureRect</key>
-                <string>{{1,929},{184,68}}</string>
+                <string>{{1,720},{184,68}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -30,24 +30,9 @@
                 <key>spriteSourceSize</key>
                 <string>{194,143}</string>
                 <key>textureRect</key>
-                <string>{{1,639},{194,143}}</string>
+                <string>{{1,430},{194,143}}</string>
                 <key>textureRotated</key>
                 <false/>
-            </dict>
-            <key>mask3.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{207,208}</string>
-                <key>spriteSourceSize</key>
-                <string>{207,208}</string>
-                <key>textureRect</key>
-                <string>{{1,430},{207,208}}</string>
-                <key>textureRotated</key>
-                <true/>
             </dict>
             <key>nen tro choi chan le1.png</key>
             <dict>
@@ -75,7 +60,7 @@
                 <key>spriteSourceSize</key>
                 <string>{127,110}</string>
                 <key>textureRect</key>
-                <string>{{1,999},{127,110}}</string>
+                <string>{{1,790},{127,110}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -90,7 +75,7 @@
                 <key>spriteSourceSize</key>
                 <string>{194,143}</string>
                 <key>textureRect</key>
-                <string>{{1,784},{194,143}}</string>
+                <string>{{1,575},{194,143}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -120,7 +105,7 @@
                 <key>spriteSourceSize</key>
                 <string>{80,71}</string>
                 <key>textureRect</key>
-                <string>{{113,1099},{80,71}}</string>
+                <string>{{113,890},{80,71}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -135,7 +120,7 @@
                 <key>spriteSourceSize</key>
                 <string>{102,98}</string>
                 <key>textureRect</key>
-                <string>{{113,999},{102,98}}</string>
+                <string>{{113,790},{102,98}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -151,9 +136,9 @@
             <key>realTextureFileName</key>
             <string>chan-le.png</string>
             <key>size</key>
-            <string>{218,1171}</string>
+            <string>{218,962}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:578ce0682f7efcc64216cb2c68e56372:97aaee2650685761831c7abd7155520c:af24c18c052f0ef19bb1d258ce1bc6e1$</string>
+            <string>$TexturePacker:SmartUpdate:1ef1eacd29ed562e9e1e833faba86f67:17fd084b50ccefaf192be56f8106d45d:af24c18c052f0ef19bb1d258ce1bc6e1$</string>
             <key>textureFileName</key>
             <string>chan-le.png</string>
         </dict>
