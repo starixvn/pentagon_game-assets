@@ -438,6 +438,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/time_bg.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>50,8,101,17</rect>
+                <key>scale9Paddings</key>
+                <rect>50,8,101,17</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/total_users.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -484,6 +499,7 @@
             <filename>images/odd_border.png</filename>
             <filename>images/odd_border_highlight.png</filename>
             <filename>images/total_users.png</filename>
+            <filename>images/time_bg.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

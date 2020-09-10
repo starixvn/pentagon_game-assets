@@ -237,6 +237,7 @@
                 <false/>
             </struct>
             <key type="filename">images/chip1000.png</key>
+            <key type="filename">images/chip2000.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -255,7 +256,9 @@
             <key type="filename">images/chip100_small.png</key>
             <key type="filename">images/chip10_small.png</key>
             <key type="filename">images/chip1_small.png</key>
+            <key type="filename">images/chip2000_small.png</key>
             <key type="filename">images/chip200_small.png</key>
+            <key type="filename">images/chip20_small.png</key>
             <key type="filename">images/chip500_small.png</key>
             <key type="filename">images/chip50_small.png</key>
             <key type="filename">images/chip5_small.png</key>
@@ -273,21 +276,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/chip50.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>24,25,49,49</rect>
-                <key>scale9Paddings</key>
-                <rect>24,25,49,49</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
+            <key type="filename">images/chip20.png</key>
             <key type="filename">images/chip500.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -300,6 +289,21 @@
                 <rect>22,23,44,45</rect>
                 <key>scale9Paddings</key>
                 <rect>22,23,44,45</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/chip50.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>24,25,49,49</rect>
+                <key>scale9Paddings</key>
+                <rect>24,25,49,49</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -378,6 +382,10 @@
             <filename>images/chip1000.png</filename>
             <filename>images/chip1000_small.png</filename>
             <filename>images/highlight_not_confirm.png</filename>
+            <filename>images/chip20.png</filename>
+            <filename>images/chip20_small.png</filename>
+            <filename>images/chip2000.png</filename>
+            <filename>images/chip2000_small.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

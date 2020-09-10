@@ -45,7 +45,7 @@
                 <key>spriteSourceSize</key>
                 <string>{88,90}</string>
                 <key>textureRect</key>
-                <string>{{836,2},{88,90}}</string>
+                <string>{{869,97},{88,90}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -60,7 +60,7 @@
                 <key>spriteSourceSize</key>
                 <string>{88,90}</string>
                 <key>textureRect</key>
-                <string>{{868,96},{88,90}}</string>
+                <string>{{929,2},{88,90}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -75,7 +75,7 @@
                 <key>spriteSourceSize</key>
                 <string>{88,90}</string>
                 <key>textureRect</key>
-                <string>{{928,2},{88,90}}</string>
+                <string>{{961,96},{88,90}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -154,6 +154,21 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>chip20.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{88,90}</string>
+                <key>spriteSourceSize</key>
+                <string>{88,90}</string>
+                <key>textureRect</key>
+                <string>{{1021,2},{88,90}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>chip200.png</key>
             <dict>
                 <key>aliases</key>
@@ -165,11 +180,26 @@
                 <key>spriteSourceSize</key>
                 <string>{88,90}</string>
                 <key>textureRect</key>
-                <string>{{960,96},{88,90}}</string>
+                <string>{{1053,96},{88,90}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>chip200_small.png</key>
+            <key>chip2000.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{90,91}</string>
+                <key>spriteSourceSize</key>
+                <string>{90,91}</string>
+                <key>textureRect</key>
+                <string>{{775,97},{90,91}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>chip2000_small.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -184,52 +214,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>chip5.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{88,90}</string>
-                <key>spriteSourceSize</key>
-                <string>{88,90}</string>
-                <key>textureRect</key>
-                <string>{{1020,2},{88,90}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>chip50.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{89,91}</string>
-                <key>spriteSourceSize</key>
-                <string>{89,91}</string>
-                <key>textureRect</key>
-                <string>{{775,97},{89,91}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>chip500.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{88,90}</string>
-                <key>spriteSourceSize</key>
-                <string>{88,90}</string>
-                <key>textureRect</key>
-                <string>{{1052,96},{88,90}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>chip500_small.png</key>
+            <key>chip200_small.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -244,7 +229,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>chip50_small.png</key>
+            <key>chip20_small.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -259,7 +244,52 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>chip5_small.png</key>
+            <key>chip5.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{88,90}</string>
+                <key>spriteSourceSize</key>
+                <string>{88,90}</string>
+                <key>textureRect</key>
+                <string>{{1113,2},{88,90}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>chip50.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{89,91}</string>
+                <key>spriteSourceSize</key>
+                <string>{89,91}</string>
+                <key>textureRect</key>
+                <string>{{836,2},{89,91}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>chip500.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{88,90}</string>
+                <key>spriteSourceSize</key>
+                <string>{88,90}</string>
+                <key>textureRect</key>
+                <string>{{1145,96},{88,90}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>chip500_small.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -271,6 +301,36 @@
                 <string>{26,26}</string>
                 <key>textureRect</key>
                 <string>{{444,212},{26,26}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>chip50_small.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{26,26}</string>
+                <key>spriteSourceSize</key>
+                <string>{26,26}</string>
+                <key>textureRect</key>
+                <string>{{474,212},{26,26}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>chip5_small.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{26,26}</string>
+                <key>spriteSourceSize</key>
+                <string>{26,26}</string>
+                <key>textureRect</key>
+                <string>{{504,212},{26,26}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -376,9 +436,9 @@
             <key>realTextureFileName</key>
             <string>money.png</string>
             <key>size</key>
-            <string>{1142,252}</string>
+            <string>{1235,252}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:55b1aa26b8f65d8f4353220e321a838a:0828745470e97d795f4464cc4c279dfa:3c02825eb380eb1e5a25f88264fb2632$</string>
+            <string>$TexturePacker:SmartUpdate:ae379c1761961906aba036ed0cb702de:e7c1997c6f86766b4f4154e6347303e5:3c02825eb380eb1e5a25f88264fb2632$</string>
             <key>textureFileName</key>
             <string>money.png</string>
         </dict>
