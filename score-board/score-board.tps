@@ -4,7 +4,7 @@
         <key>fileFormatVersion</key>
         <int>4</int>
         <key>texturePackerVersion</key>
-        <string>5.3.0</string>
+        <string>5.4.0</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -202,6 +202,41 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/chip_do.png</key>
+            <key type="filename">images/chip_trang.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>8,8,16,16</rect>
+                <key>scale9Paddings</key>
+                <rect>8,8,16,16</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/chip_do_1.png</key>
+            <key type="filename">images/chip_do_3.png</key>
+            <key type="filename">images/chip_trang_0.png</key>
+            <key type="filename">images/chip_trang_2.png</key>
+            <key type="filename">images/chip_trang_4.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>5,5,9,9</rect>
+                <key>scale9Paddings</key>
+                <rect>5,5,9,9</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/dot_highlight.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -293,6 +328,36 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/stats.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>31,30,61,61</rect>
+                <key>scale9Paddings</key>
+                <rect>31,30,61,61</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/tip.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>20,12,40,23</rect>
+                <key>scale9Paddings</key>
+                <rect>20,12,40,23</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
         </map>
         <key>fileList</key>
         <array>
@@ -304,6 +369,15 @@
             <filename>images/dot_highlight.png</filename>
             <filename>images/score_board_bg.png</filename>
             <filename>images/score_board_line.png</filename>
+            <filename>images/chip_do_1.png</filename>
+            <filename>images/chip_do_3.png</filename>
+            <filename>images/chip_trang_0.png</filename>
+            <filename>images/chip_trang_2.png</filename>
+            <filename>images/chip_trang_4.png</filename>
+            <filename>images/tip.png</filename>
+            <filename>images/chip_do.png</filename>
+            <filename>images/chip_trang.png</filename>
+            <filename>images/stats.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

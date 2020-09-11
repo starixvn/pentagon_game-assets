@@ -240,37 +240,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/chan_title_bg.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>30,5,61,9</rect>
-                <key>scale9Paddings</key>
-                <rect>30,5,61,9</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/chip_do_1.png</key>
-            <key type="filename">images/chip_do_3.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>5,5,9,10</rect>
-                <key>scale9Paddings</key>
-                <rect>5,5,9,10</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/chip_do_dia.png</key>
             <key type="filename">images/chip_trang_dia.png</key>
             <struct type="IndividualSpriteSettings">
@@ -287,25 +256,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/chip_do_history.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>4,4,7,8</rect>
-                <key>scale9Paddings</key>
-                <rect>4,4,7,8</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/chip_do_o_cuoc.png</key>
-            <key type="filename">images/chip_trang_0.png</key>
-            <key type="filename">images/chip_trang_2.png</key>
-            <key type="filename">images/chip_trang_4.png</key>
             <key type="filename">images/chip_trang_o_cuoc.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -321,21 +272,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/chip_trang_history.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>4,4,7,7</rect>
-                <key>scale9Paddings</key>
-                <rect>4,4,7,7</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/le.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -348,21 +284,6 @@
                 <rect>10,7,21,15</rect>
                 <key>scale9Paddings</key>
                 <rect>10,7,21,15</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/le_title_bg.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>30,5,61,10</rect>
-                <key>scale9Paddings</key>
-                <rect>30,5,61,10</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -424,21 +345,6 @@
                 <rect>30,28,61,57</rect>
                 <key>scale9Paddings</key>
                 <rect>30,28,61,57</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/stats.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>31,15,61,30</rect>
-                <key>scale9Paddings</key>
-                <rect>31,15,61,30</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -508,10 +414,8 @@
         <array>
             <filename>images/chan.png</filename>
             <filename>images/chip_do_dia.png</filename>
-            <filename>images/chip_do_history.png</filename>
             <filename>images/chip_do_o_cuoc.png</filename>
             <filename>images/chip_trang_dia.png</filename>
-            <filename>images/chip_trang_history.png</filename>
             <filename>images/chip_trang_o_cuoc.png</filename>
             <filename>images/le.png</filename>
             <filename>images/nen_cuoc_lon.png</filename>
@@ -522,14 +426,6 @@
             <filename>images/vien_cuoc_lon.png</filename>
             <filename>images/vien_cuoc_lon_outer.png</filename>
             <filename>images/vien_cuoc_nho_outer.png</filename>
-            <filename>images/stats.png</filename>
-            <filename>images/chan_title_bg.png</filename>
-            <filename>images/le_title_bg.png</filename>
-            <filename>images/chip_trang_4.png</filename>
-            <filename>images/chip_do_1.png</filename>
-            <filename>images/chip_do_3.png</filename>
-            <filename>images/chip_trang_0.png</filename>
-            <filename>images/chip_trang_2.png</filename>
             <filename>images/1_trang_3_do_border.png</filename>
             <filename>images/1_trang_3_do_border_active.png</filename>
             <filename>images/4_do_border.png</filename>
