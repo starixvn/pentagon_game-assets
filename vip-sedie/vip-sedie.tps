@@ -313,22 +313,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/chip_do_o_cuoc.png</key>
-            <key type="filename">images/chip_trang_o_cuoc.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>4,4,9,9</rect>
-                <key>scale9Paddings</key>
-                <rect>4,4,9,9</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/dealer.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -405,21 +389,6 @@
                 <rect>111,53,223,105</rect>
                 <key>scale9Paddings</key>
                 <rect>111,53,223,105</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/gp_table.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>329,156,657,313</rect>
-                <key>scale9Paddings</key>
-                <rect>329,156,657,313</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -530,16 +499,13 @@
             <filename>images/chair.png</filename>
             <filename>images/chan.png</filename>
             <filename>images/chip_do_dia.png</filename>
-            <filename>images/chip_do_o_cuoc.png</filename>
             <filename>images/chip_trang_dia.png</filename>
-            <filename>images/chip_trang_o_cuoc.png</filename>
             <filename>images/dealer.png</filename>
             <filename>images/dia.png</filename>
             <filename>images/dot_cr.png</filename>
             <filename>images/even_bg_highlight.png</filename>
             <filename>images/even_border.png</filename>
             <filename>images/even_border_highlight.png</filename>
-            <filename>images/gp_table.png</filename>
             <filename>images/le.png</filename>
             <filename>images/odd_bg_highlight.png</filename>
             <filename>images/odd_border.png</filename>
