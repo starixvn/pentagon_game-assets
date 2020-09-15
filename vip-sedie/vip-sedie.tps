@@ -148,7 +148,7 @@
         <key>outputFormat</key>
         <enum type="SettingsBase::OutputFormat">RGBA8888</enum>
         <key>alphaHandling</key>
-        <enum type="SettingsBase::AlphaHandling">KeepTransparentPixels</enum>
+        <enum type="SettingsBase::AlphaHandling">ReduceBorderArtifacts</enum>
         <key>contentProtection</key>
         <struct type="ContentProtection">
             <key>key</key>
@@ -264,21 +264,6 @@
                 <rect>40,40,80,80</rect>
                 <key>scale9Paddings</key>
                 <rect>40,40,80,80</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/chair.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>43,64,87,128</rect>
-                <key>scale9Paddings</key>
-                <rect>43,64,87,128</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -496,7 +481,6 @@
             <filename>images/4_white_border.png</filename>
             <filename>images/4_white_border_highlight.png</filename>
             <filename>images/bat.png</filename>
-            <filename>images/chair.png</filename>
             <filename>images/chan.png</filename>
             <filename>images/chip_do_dia.png</filename>
             <filename>images/chip_trang_dia.png</filename>
