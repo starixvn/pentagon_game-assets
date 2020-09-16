@@ -19,6 +19,21 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>player-avatar-border.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{105,104}</string>
+                <key>spriteSourceSize</key>
+                <string>{105,104}</string>
+                <key>textureRect</key>
+                <string>{{1,30},{105,104}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>player-box-balance.png</key>
             <dict>
                 <key>aliases</key>
@@ -30,7 +45,7 @@
                 <key>spriteSourceSize</key>
                 <string>{72,23}</string>
                 <key>textureRect</key>
-                <string>{{1,30},{72,23}}</string>
+                <string>{{1,136},{72,23}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -45,7 +60,7 @@
                 <key>spriteSourceSize</key>
                 <string>{58,17}</string>
                 <key>textureRect</key>
-                <string>{{1,55},{58,17}}</string>
+                <string>{{1,161},{58,17}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -56,11 +71,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{105,104}</string>
+                <string>{113,113}</string>
                 <key>spriteSourceSize</key>
-                <string>{105,104}</string>
+                <string>{113,113}</string>
                 <key>textureRect</key>
-                <string>{{1,74},{105,104}}</string>
+                <string>{{1,180},{113,113}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -75,7 +90,7 @@
                 <key>spriteSourceSize</key>
                 <string>{66,19}</string>
                 <key>textureRect</key>
-                <string>{{1,180},{66,19}}</string>
+                <string>{{1,295},{66,19}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -91,9 +106,9 @@
             <key>realTextureFileName</key>
             <string>avatar-vip.png</string>
             <key>size</key>
-            <string>{107,200}</string>
+            <string>{115,315}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:e15b2ae5dcb0893258a325b51f07c7cc:6f572b81d179cd6234efda36698293b7:3a032006349a07e6e12359b73c5a10d5$</string>
+            <string>$TexturePacker:SmartUpdate:ebe64e3e4c2d8291cbbccffbe5a5fd16:efa36e53a577981b0df1177f4afb208f:3a032006349a07e6e12359b73c5a10d5$</string>
             <key>textureFileName</key>
             <string>avatar-vip.png</string>
         </dict>
