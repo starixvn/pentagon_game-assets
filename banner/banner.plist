@@ -15,22 +15,7 @@
                 <key>spriteSourceSize</key>
                 <string>{193,326}</string>
                 <key>textureRect</key>
-                <string>{{458,217},{191,326}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
-            <key>keno-pro-viet.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{2,0}</string>
-                <key>spriteSize</key>
-                <string>{211,409}</string>
-                <key>spriteSourceSize</key>
-                <string>{221,409}</string>
-                <key>textureRect</key>
-                <string>{{1,1},{211,409}}</string>
+                <string>{{1,665},{191,326}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -45,22 +30,22 @@
                 <key>spriteSourceSize</key>
                 <string>{218,417}</string>
                 <key>textureRect</key>
-                <string>{{458,1},{214,335}}</string>
+                <string>{{1,1},{214,335}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
-            <key>xoc-dia.png</key>
+            <key>vip-sedie.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,0}</string>
+                <string>{-1,-1}</string>
                 <key>spriteSize</key>
-                <string>{242,323}</string>
+                <string>{204,325}</string>
                 <key>spriteSourceSize</key>
-                <string>{242,323}</string>
+                <string>{206,327}</string>
                 <key>textureRect</key>
-                <string>{{214,1},{242,323}}</string>
+                <string>{{1,338},{204,325}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -76,9 +61,9 @@
             <key>realTextureFileName</key>
             <string>banner.png</string>
             <key>size</key>
-            <string>{794,411}</string>
+            <string>{216,992}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:e81fb3bf402fd6f538adc5e630c7d61c:46a8ebc2c8b2a665c2a20f9b5c9d05a0:468a889166313e164748aa683a0b056a$</string>
+            <string>$TexturePacker:SmartUpdate:e5db74cacb707c9b1ded91a095147271:a0306f1b3c0fd699999983523893a06c:468a889166313e164748aa683a0b056a$</string>
             <key>textureFileName</key>
             <string>banner.png</string>
         </dict>

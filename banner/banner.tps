@@ -202,21 +202,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/keno-pro-viet.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>66,123,133,245</rect>
-                <key>scale9Paddings</key>
-                <rect>66,123,133,245</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/roulette.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -232,7 +217,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/xoc-dia.png</key>
+            <key type="filename">images/vip-sedie.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -241,9 +226,9 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>73,97,145,194</rect>
+                <rect>62,98,123,196</rect>
                 <key>scale9Paddings</key>
-                <rect>73,97,145,194</rect>
+                <rect>62,98,123,196</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -251,9 +236,8 @@
         <key>fileList</key>
         <array>
             <filename>images/baccarat.png</filename>
-            <filename>images/keno-pro-viet.png</filename>
-            <filename>images/xoc-dia.png</filename>
             <filename>images/roulette.png</filename>
+            <filename>images/vip-sedie.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
