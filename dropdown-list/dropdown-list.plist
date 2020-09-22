@@ -15,7 +15,7 @@
                 <key>spriteSourceSize</key>
                 <string>{10,7}</string>
                 <key>textureRect</key>
-                <string>{{192,192},{10,7}}</string>
+                <string>{{283,285},{10,7}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -26,13 +26,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{189,62}</string>
+                <string>{282,62}</string>
                 <key>spriteSourceSize</key>
-                <string>{189,62}</string>
+                <string>{282,62}</string>
                 <key>textureRect</key>
-                <string>{{1,172},{189,62}}</string>
+                <string>{{285,1},{282,62}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>dropdown_item_hover.png</key>
             <dict>
@@ -41,13 +41,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{189,44}</string>
+                <string>{280,62}</string>
                 <key>spriteSourceSize</key>
-                <string>{189,44}</string>
+                <string>{280,62}</string>
                 <key>textureRect</key>
-                <string>{{207,1},{189,44}}</string>
+                <string>{{1,224},{280,62}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>dropdown_list_bg.png</key>
             <dict>
@@ -56,11 +56,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{204,169}</string>
+                <string>{282,221}</string>
                 <key>spriteSourceSize</key>
-                <string>{204,169}</string>
+                <string>{282,221}</string>
                 <key>textureRect</key>
-                <string>{{1,1},{204,169}}</string>
+                <string>{{1,1},{282,221}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -76,9 +76,9 @@
             <key>realTextureFileName</key>
             <string>dropdown-list.png</string>
             <key>size</key>
-            <string>{252,235}</string>
+            <string>{348,293}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:1c8235ff14811ba4ccb07468f19ae931:1a3c41d8ff1c6a9b7ffff792f306ec79:53f49769f132ea907c96c14181da16e1$</string>
+            <string>$TexturePacker:SmartUpdate:ff2b1fe04ff3e583f09880c2fb130f60:46268b21c71bceb4044773afe1273d38:53f49769f132ea907c96c14181da16e1$</string>
             <key>textureFileName</key>
             <string>dropdown-list.png</string>
         </dict>

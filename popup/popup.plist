@@ -30,7 +30,7 @@
                 <key>spriteSourceSize</key>
                 <string>{208,58}</string>
                 <key>textureRect</key>
-                <string>{{529,1},{208,58}}</string>
+                <string>{{479,1},{208,58}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -45,7 +45,7 @@
                 <key>spriteSourceSize</key>
                 <string>{297,251}</string>
                 <key>textureRect</key>
-                <string>{{739,1},{297,251}}</string>
+                <string>{{689,1},{297,251}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -116,11 +116,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{180,254}</string>
+                <string>{130,359}</string>
                 <key>spriteSourceSize</key>
-                <string>{180,254}</string>
+                <string>{130,359}</string>
                 <key>textureRect</key>
-                <string>{{347,1},{180,254}}</string>
+                <string>{{347,1},{130,359}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -135,7 +135,7 @@
                 <key>spriteSourceSize</key>
                 <string>{331,78}</string>
                 <key>textureRect</key>
-                <string>{{1038,1},{331,78}}</string>
+                <string>{{988,1},{331,78}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -151,9 +151,9 @@
             <key>realTextureFileName</key>
             <string>popup.png</string>
             <key>size</key>
-            <string>{1370,873}</string>
+            <string>{1320,873}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:23e3d51f18708b86f44c7de0a6b37b88:7eed2de4cbfa6b50501eaa78eb289083:a90c11ab0396de5086de12c3ccb699d4$</string>
+            <string>$TexturePacker:SmartUpdate:f8c7fcaefb6b4110dd6e0de3b8a21a3f:af275313b2a10057c4c3c62601cb0f57:a90c11ab0396de5086de12c3ccb699d4$</string>
             <key>textureFileName</key>
             <string>popup.png</string>
         </dict>

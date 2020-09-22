@@ -130,6 +130,10 @@
         <key>dataFileNames</key>
         <map type="GFileNameMap">
             <key>data</key>
+            <struct type="DataFile">
+                <key>name</key>
+                <filename>blackjack.plist</filename>
+            </struct>
             <key>header</key>
             <key>source</key>
             <struct type="DataFile">
