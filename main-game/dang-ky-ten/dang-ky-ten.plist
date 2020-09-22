@@ -4,51 +4,6 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>btn-xac-nhan-hover.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{95,41}</string>
-                <key>spriteSourceSize</key>
-                <string>{95,41}</string>
-                <key>textureRect</key>
-                <string>{{562,551},{95,41}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>btn-xac-nhan.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{224,63}</string>
-                <key>spriteSourceSize</key>
-                <string>{224,63}</string>
-                <key>textureRect</key>
-                <string>{{566,486},{224,63}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>form-bg.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{811,483}</string>
-                <key>spriteSourceSize</key>
-                <string>{811,483}</string>
-                <key>textureRect</key>
-                <string>{{1,1},{811,483}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
             <key>icon_edit.png</key>
             <dict>
                 <key>aliases</key>
@@ -60,7 +15,7 @@
                 <key>spriteSourceSize</key>
                 <string>{32,32}</string>
                 <key>textureRect</key>
-                <string>{{695,551},{32,32}}</string>
+                <string>{{1163,1},{32,32}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -75,7 +30,7 @@
                 <key>spriteSourceSize</key>
                 <string>{34,34}</string>
                 <key>textureRect</key>
-                <string>{{659,551},{34,34}}</string>
+                <string>{{1127,1},{34,34}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -90,7 +45,7 @@
                 <key>spriteSourceSize</key>
                 <string>{563,55}</string>
                 <key>textureRect</key>
-                <string>{{1,486},{563,55}}</string>
+                <string>{{1,1},{563,55}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -105,7 +60,7 @@
                 <key>spriteSourceSize</key>
                 <string>{559,51}</string>
                 <key>textureRect</key>
-                <string>{{1,543},{559,51}}</string>
+                <string>{{566,1},{559,51}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -121,9 +76,9 @@
             <key>realTextureFileName</key>
             <string>dang-ky-ten.png</string>
             <key>size</key>
-            <string>{813,595}</string>
+            <string>{1196,57}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:5dbe14ad911c6ba1d838b078d22fd341:636f7ae733034b08463dfbb40f10017a:9899931fc46b34b403862881a096b6ad$</string>
+            <string>$TexturePacker:SmartUpdate:55b075881e96ca973e0f027f4338c623:d15e8e4668a1e02c7d2503fa6cad0582:9899931fc46b34b403862881a096b6ad$</string>
             <key>textureFileName</key>
             <string>dang-ky-ten.png</string>
         </dict>

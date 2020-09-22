@@ -202,7 +202,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/box-chat.png</key>
+            <key type="filename">images/button_bg.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -211,24 +211,9 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>85,101,171,201</rect>
+                <rect>52,15,104,29</rect>
                 <key>scale9Paddings</key>
-                <rect>85,101,171,201</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/box-stats.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>173,110,345,220</rect>
-                <key>scale9Paddings</key>
-                <rect>173,110,345,220</rect>
+                <rect>52,15,104,29</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -262,36 +247,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/error_popup_button.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>52,15,104,29</rect>
-                <key>scale9Paddings</key>
-                <rect>52,15,104,29</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/error_popup_text_ok.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>15,7,31,13</rect>
-                <key>scale9Paddings</key>
-                <rect>15,7,31,13</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/icon_close.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -322,6 +277,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/popup_bg.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>45,64,90,127</rect>
+                <key>scale9Paddings</key>
+                <rect>45,64,90,127</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/popup_bg_small.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -337,7 +307,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/popup_large_title_bg.png</key>
+            <key type="filename">images/title.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -346,42 +316,24 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>202,19,403,39</rect>
+                <rect>78,20,156,39</rect>
                 <key>scale9Paddings</key>
-                <rect>202,19,403,39</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/popup_text_ok.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>12,6,25,11</rect>
-                <key>scale9Paddings</key>
-                <rect>12,6,25,11</rect>
+                <rect>78,20,156,39</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
         </map>
         <key>fileList</key>
         <array>
-            <filename>images/box-chat.png</filename>
-            <filename>images/box-stats.png</filename>
             <filename>images/content_bg.png</filename>
             <filename>images/popup_bg_small.png</filename>
             <filename>images/error_popup.png</filename>
-            <filename>images/error_popup_button.png</filename>
-            <filename>images/error_popup_text_ok.png</filename>
-            <filename>images/popup_text_ok.png</filename>
             <filename>images/icon_close.png</filename>
             <filename>images/line_vang.png</filename>
-            <filename>images/popup_large_title_bg.png</filename>
             <filename>images/bg_highlight.png</filename>
+            <filename>images/popup_bg.png</filename>
+            <filename>images/title.png</filename>
+            <filename>images/button_bg.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
