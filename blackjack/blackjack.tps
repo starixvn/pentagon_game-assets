@@ -217,6 +217,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/black10.png</key>
             <key type="filename">images/black2.png</key>
             <key type="filename">images/black3.png</key>
             <key type="filename">images/black4.png</key>
@@ -229,13 +230,10 @@
             <key type="filename">images/blackJ.png</key>
             <key type="filename">images/blackK.png</key>
             <key type="filename">images/blackQ.png</key>
-            <key type="filename">images/blackT.png</key>
             <key type="filename">images/cardBack.png</key>
             <key type="filename">images/cardFaceBase.png</key>
             <key type="filename">images/cardShadow.png</key>
-            <key type="filename">images/clubs.png</key>
-            <key type="filename">images/diamonds.png</key>
-            <key type="filename">images/hearts.png</key>
+            <key type="filename">images/red10.png</key>
             <key type="filename">images/red2.png</key>
             <key type="filename">images/red3.png</key>
             <key type="filename">images/red4.png</key>
@@ -248,8 +246,10 @@
             <key type="filename">images/redJ.png</key>
             <key type="filename">images/redK.png</key>
             <key type="filename">images/redQ.png</key>
-            <key type="filename">images/redT.png</key>
-            <key type="filename">images/spades.png</key>
+            <key type="filename">images/suit0.png</key>
+            <key type="filename">images/suit1.png</key>
+            <key type="filename">images/suit2.png</key>
+            <key type="filename">images/suit3.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -432,7 +432,6 @@
             <filename>images/blackJ.png</filename>
             <filename>images/blackK.png</filename>
             <filename>images/blackQ.png</filename>
-            <filename>images/blackT.png</filename>
             <filename>images/buttonLeft.png</filename>
             <filename>images/buttonLeftHighlight.png</filename>
             <filename>images/buttonLeftHitArea.png</filename>
@@ -454,12 +453,9 @@
             <filename>images/cardBack.png</filename>
             <filename>images/cardFaceBase.png</filename>
             <filename>images/cardShadow.png</filename>
-            <filename>images/clubs.png</filename>
             <filename>images/dealButtonIcon.png</filename>
             <filename>images/dealingShoeGlass.png</filename>
-            <filename>images/diamonds.png</filename>
             <filename>images/doubleButtonIcon.png</filename>
-            <filename>images/hearts.png</filename>
             <filename>images/hitButtonIcon.png</filename>
             <filename>images/red2.png</filename>
             <filename>images/red3.png</filename>
@@ -473,11 +469,15 @@
             <filename>images/redJ.png</filename>
             <filename>images/redK.png</filename>
             <filename>images/redQ.png</filename>
-            <filename>images/redT.png</filename>
-            <filename>images/spades.png</filename>
             <filename>images/splitButtonIcon.png</filename>
             <filename>images/standButtonIcon.png</filename>
             <filename>images/tableGraphics.png</filename>
+            <filename>images/black10.png</filename>
+            <filename>images/red10.png</filename>
+            <filename>images/suit0.png</filename>
+            <filename>images/suit1.png</filename>
+            <filename>images/suit2.png</filename>
+            <filename>images/suit3.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

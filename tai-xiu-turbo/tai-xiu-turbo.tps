@@ -4,7 +4,7 @@
         <key>fileFormatVersion</key>
         <int>4</int>
         <key>texturePackerVersion</key>
-        <string>5.3.0</string>
+        <string>5.4.0</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -233,27 +233,11 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/table_taixiu_turbo.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>203,103,405,205</rect>
-                <key>scale9Paddings</key>
-                <rect>203,103,405,205</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
         </map>
         <key>fileList</key>
         <array>
             <filename>images/bet_btn_turbo.png</filename>
             <filename>images/bet_button_turbo_2.png</filename>
-            <filename>images/table_taixiu_turbo.png</filename>
             <filename>images/bg-choi-nhanh.png</filename>
             <filename>images/choinhanh_text.png</filename>
         </array>

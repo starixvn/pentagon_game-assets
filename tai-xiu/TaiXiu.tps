@@ -187,6 +187,21 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
+            <key type="filename">images/Nut dat cuoc trong suot dang gel.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>53,15,105,31</rect>
+                <key>scale9Paddings</key>
+                <rect>53,15,105,31</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/bg-text.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -856,6 +871,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/nen ket qua tai xiu.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>18,17,35,35</rect>
+                <key>scale9Paddings</key>
+                <rect>18,17,35,35</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/next.png</key>
             <key type="filename">images/prev.png</key>
             <struct type="IndividualSpriteSettings">
@@ -947,6 +977,21 @@
                 <rect>154,39,309,77</rect>
                 <key>scale9Paddings</key>
                 <rect>154,39,309,77</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/table_effect.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>60,58,119,115</rect>
+                <key>scale9Paddings</key>
+                <rect>60,58,119,115</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -1144,6 +1189,9 @@
             <filename>images/stats_btn.png</filename>
             <filename>images/stats_btn_active.png</filename>
             <filename>images/total_bg.png</filename>
+            <filename>images/Nut dat cuoc trong suot dang gel.png</filename>
+            <filename>images/nen ket qua tai xiu.png</filename>
+            <filename>images/table_effect.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

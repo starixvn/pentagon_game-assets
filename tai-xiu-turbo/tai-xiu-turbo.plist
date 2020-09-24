@@ -64,21 +64,6 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>table_taixiu_turbo.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{815,423}</string>
-                <key>spriteSourceSize</key>
-                <string>{815,423}</string>
-                <key>textureRect</key>
-                <string>{{1,324},{815,423}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
         </dict>
         <key>metadata</key>
         <dict>
@@ -91,9 +76,9 @@
             <key>realTextureFileName</key>
             <string>tai-xiu-turbo.png</string>
             <key>size</key>
-            <string>{426,1140}</string>
+            <string>{426,323}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:06d1cabd5b0f061cb6e6feed35a8af90:30cba042cc2c40192768caa8d0a56f92:2ba6578a51dcaef9fdbe84be67130c5e$</string>
+            <string>$TexturePacker:SmartUpdate:7ef83d321e0f57fa2bbe74dc9be5ccd3:5103b64a6b8007d0db0cea29c8c461b6:2ba6578a51dcaef9fdbe84be67130c5e$</string>
             <key>textureFileName</key>
             <string>tai-xiu-turbo.png</string>
         </dict>
