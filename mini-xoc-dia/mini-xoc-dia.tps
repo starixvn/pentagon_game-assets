@@ -348,21 +348,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/table.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>203,104,405,208</rect>
-                <key>scale9Paddings</key>
-                <rect>203,104,405,208</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/vien_cuoc_lon.png</key>
             <key type="filename">images/vien_cuoc_lon_outer.png</key>
             <struct type="IndividualSpriteSettings">
@@ -435,7 +420,6 @@
             <filename>images/chan_border.png</filename>
             <filename>images/chan_border_active.png</filename>
             <filename>images/le_border.png</filename>
-            <filename>images/table.png</filename>
             <filename>images/le_border_active.png</filename>
             <filename>images/light.png</filename>
         </array>
