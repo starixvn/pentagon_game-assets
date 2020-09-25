@@ -995,6 +995,36 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/table_effect1_tx.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>183,84,365,169</rect>
+                <key>scale9Paddings</key>
+                <rect>183,84,365,169</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/table_effect2_tx.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>181,84,362,167</rect>
+                <key>scale9Paddings</key>
+                <rect>181,84,362,167</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/tai-xiu-bet-bg.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -1192,6 +1222,8 @@
             <filename>images/Nut dat cuoc trong suot dang gel.png</filename>
             <filename>images/nen ket qua tai xiu.png</filename>
             <filename>images/table_effect.png</filename>
+            <filename>images/table_effect1_tx.png</filename>
+            <filename>images/table_effect2_tx.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
