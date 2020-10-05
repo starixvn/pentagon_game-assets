@@ -232,7 +232,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/coin.png</key>
+            <key type="filename">images/light.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -241,9 +241,9 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>12,12,23,23</rect>
+                <rect>13,13,25,25</rect>
                 <key>scale9Paddings</key>
-                <rect>12,12,23,23</rect>
+                <rect>13,13,25,25</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -315,9 +315,9 @@
             <filename>images/MaskTagline.png</filename>
             <filename>images/loadingtext.png</filename>
             <filename>images/tagline.png</filename>
-            <filename>images/coin.png</filename>
             <filename>images/progress-bar.png</filename>
             <filename>images/progress-bg.png</filename>
+            <filename>images/light.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
