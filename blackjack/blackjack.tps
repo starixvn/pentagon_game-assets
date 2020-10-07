@@ -248,6 +248,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/bg-betvalue.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>15,10,30,20</rect>
+                <key>scale9Paddings</key>
+                <rect>15,10,30,20</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/bg-menu.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -275,6 +290,21 @@
                 <rect>30,7,59,15</rect>
                 <key>scale9Paddings</key>
                 <rect>30,7,59,15</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/bg-score.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>20,13,40,25</rect>
+                <key>scale9Paddings</key>
+                <rect>20,13,40,25</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -310,6 +340,7 @@
             </struct>
             <key type="filename">images/button-list.png</key>
             <key type="filename">images/double-icon.png</key>
+            <key type="filename">images/rebet-icon.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -474,6 +505,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/hop-bai.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>45,40,89,80</rect>
+                <key>scale9Paddings</key>
+                <rect>45,40,89,80</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/lobby-icon.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -578,6 +624,10 @@
             <filename>images/double-icon.png</filename>
             <filename>images/split-icon.png</filename>
             <filename>images/deal-icon.png</filename>
+            <filename>images/bg-betvalue.png</filename>
+            <filename>images/bg-score.png</filename>
+            <filename>images/hop-bai.png</filename>
+            <filename>images/rebet-icon.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
