@@ -234,6 +234,37 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/chip_do_dia.png</key>
+            <key type="filename">images/chip_trang_dia.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>9,9,18,19</rect>
+                <key>scale9Paddings</key>
+                <rect>9,9,18,19</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/dot_cr.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>6,6,11,11</rect>
+                <key>scale9Paddings</key>
+                <rect>6,6,11,11</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/even.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -297,6 +328,37 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/light.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>14,12,27,24</rect>
+                <key>scale9Paddings</key>
+                <rect>14,12,27,24</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/next.png</key>
+            <key type="filename">images/prev.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>11,16,21,32</rect>
+                <key>scale9Paddings</key>
+                <rect>11,16,21,32</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/odd.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -324,6 +386,51 @@
                 <rect>44,42,87,85</rect>
                 <key>scale9Paddings</key>
                 <rect>44,42,87,85</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/stats_dot_red.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>8,7,15,15</rect>
+                <key>scale9Paddings</key>
+                <rect>8,7,15,15</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/stats_dot_white.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>7,7,15,15</rect>
+                <key>scale9Paddings</key>
+                <rect>7,7,15,15</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/time_line.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>143,47,287,95</rect>
+                <key>scale9Paddings</key>
+                <rect>143,47,287,95</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -360,6 +467,15 @@
             <filename>images/top.png</filename>
             <filename>images/plate.png</filename>
             <filename>images/bowl.png</filename>
+            <filename>images/dot_cr.png</filename>
+            <filename>images/time_line.png</filename>
+            <filename>images/stats_dot_white.png</filename>
+            <filename>images/stats_dot_red.png</filename>
+            <filename>images/light.png</filename>
+            <filename>images/chip_do_dia.png</filename>
+            <filename>images/chip_trang_dia.png</filename>
+            <filename>images/next.png</filename>
+            <filename>images/prev.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

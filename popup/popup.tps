@@ -187,6 +187,21 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
+            <key type="filename">images/bg-time.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>66,10,133,19</rect>
+                <key>scale9Paddings</key>
+                <rect>66,10,133,19</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/bg_highlight.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -334,6 +349,7 @@
             <filename>images/popup_bg.png</filename>
             <filename>images/title.png</filename>
             <filename>images/button_bg.png</filename>
+            <filename>images/bg-time.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

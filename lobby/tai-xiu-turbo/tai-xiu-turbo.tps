@@ -218,21 +218,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/BG.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>54,52,107,104</rect>
-                <key>scale9Paddings</key>
-                <rect>54,52,107,104</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/Layer 62.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -245,6 +230,22 @@
                 <rect>1,1,1,3</rect>
                 <key>scale9Paddings</key>
                 <rect>1,1,1,3</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/Vien.png</key>
+            <key type="filename">images/vien.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>54,54,108,108</rect>
+                <key>scale9Paddings</key>
+                <rect>54,54,108,108</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -263,7 +264,11 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/blur.png</key>
+            <key type="filename">images/background.png</key>
+            <key type="filename">images/light bottom.png</key>
+            <key type="filename">images/light.png</key>
+            <key type="filename">images/middle light.png</key>
+            <key type="filename">images/warm light.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -272,9 +277,9 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>77,18,155,36</rect>
+                <rect>54,54,107,107</rect>
                 <key>scale9Paddings</key>
-                <rect>77,18,155,36</rect>
+                <rect>54,54,107,107</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -309,6 +314,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/rocket.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>39,18,77,35</rect>
+                <key>scale9Paddings</key>
+                <rect>39,18,77,35</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/sieutoc.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -339,7 +359,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/tenlua.png</key>
+            <key type="filename">images/xi ngau giua.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -348,13 +368,13 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>36,15,72,31</rect>
+                <rect>23,25,46,50</rect>
                 <key>scale9Paddings</key>
-                <rect>36,15,72,31</rect>
+                <rect>23,25,46,50</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/vien.png</key>
+            <key type="filename">images/xi ngau phai.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -363,13 +383,13 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>54,54,108,108</rect>
+                <rect>18,20,36,40</rect>
                 <key>scale9Paddings</key>
-                <rect>54,54,108,108</rect>
+                <rect>18,20,36,40</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/x1.png</key>
+            <key type="filename">images/xi ngau trai.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -378,39 +398,9 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>27,28,55,55</rect>
+                <rect>19,20,38,39</rect>
                 <key>scale9Paddings</key>
-                <rect>27,28,55,55</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/x2.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>32,27,64,55</rect>
-                <key>scale9Paddings</key>
-                <rect>32,27,64,55</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/x3.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>33,34,65,67</rect>
-                <key>scale9Paddings</key>
-                <rect>33,34,65,67</rect>
+                <rect>19,20,38,39</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -420,20 +410,24 @@
             <filename>images/0.png</filename>
             <filename>images/30s.png</filename>
             <filename>images/3s.png</filename>
-            <filename>images/BG.png</filename>
-            <filename>images/Layer 62.png</filename>
             <filename>images/a.png</filename>
-            <filename>images/blur.png</filename>
             <filename>images/g.png</filename>
             <filename>images/i.png</filename>
             <filename>images/sieutoc.png</filename>
-            <filename>images/tenlua.png</filename>
             <filename>images/vien.png</filename>
             <filename>images/y.png</filename>
             <filename>images/taixiu.png</filename>
-            <filename>images/x1.png</filename>
-            <filename>images/x2.png</filename>
-            <filename>images/x3.png</filename>
+            <filename>images/Vien.png</filename>
+            <filename>images/background.png</filename>
+            <filename>images/light bottom.png</filename>
+            <filename>images/light.png</filename>
+            <filename>images/middle light.png</filename>
+            <filename>images/rocket.png</filename>
+            <filename>images/warm light.png</filename>
+            <filename>images/xi ngau giua.png</filename>
+            <filename>images/xi ngau phai.png</filename>
+            <filename>images/xi ngau trai.png</filename>
+            <filename>images/Layer 62.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

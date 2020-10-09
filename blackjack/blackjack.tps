@@ -323,6 +323,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/bg-win.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>35,13,70,25</rect>
+                <key>scale9Paddings</key>
+                <rect>35,13,70,25</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/button-large-left.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -628,6 +643,7 @@
             <filename>images/bg-score.png</filename>
             <filename>images/hop-bai.png</filename>
             <filename>images/rebet-icon.png</filename>
+            <filename>images/bg-win.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
