@@ -312,7 +312,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/icon_user_red.png</key>
             <key type="filename">images/icon_user_white.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -389,36 +388,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/stats_dot_red.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>8,7,15,15</rect>
-                <key>scale9Paddings</key>
-                <rect>8,7,15,15</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/stats_dot_white.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>7,7,15,15</rect>
-                <key>scale9Paddings</key>
-                <rect>7,7,15,15</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/time_line.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -459,7 +428,6 @@
             <filename>images/even.png</filename>
             <filename>images/even_bg.png</filename>
             <filename>images/even_highlight.png</filename>
-            <filename>images/icon_user_red.png</filename>
             <filename>images/icon_user_white.png</filename>
             <filename>images/odd.png</filename>
             <filename>images/odd_bg.png</filename>
@@ -469,8 +437,6 @@
             <filename>images/bowl.png</filename>
             <filename>images/dot_cr.png</filename>
             <filename>images/time_line.png</filename>
-            <filename>images/stats_dot_white.png</filename>
-            <filename>images/stats_dot_red.png</filename>
             <filename>images/light.png</filename>
             <filename>images/chip_do_dia.png</filename>
             <filename>images/chip_trang_dia.png</filename>

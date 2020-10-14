@@ -202,6 +202,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/blackjack.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>62,92,123,185</rect>
+                <key>scale9Paddings</key>
+                <rect>62,92,123,185</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/roulette.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -238,6 +253,7 @@
             <filename>images/baccarat.png</filename>
             <filename>images/roulette.png</filename>
             <filename>images/vip-sedie.png</filename>
+            <filename>images/blackjack.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

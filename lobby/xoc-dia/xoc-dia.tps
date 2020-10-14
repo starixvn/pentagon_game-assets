@@ -187,7 +187,7 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">images/DoLon.png</key>
+            <key type="filename">images/Background.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -196,13 +196,13 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>31,31,63,62</rect>
+                <rect>54,54,107,107</rect>
                 <key>scale9Paddings</key>
-                <rect>31,31,63,62</rect>
+                <rect>54,54,107,107</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/DoNho.png</key>
+            <key type="filename">images/Vien.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -211,54 +211,9 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>28,25,55,49</rect>
+                <rect>54,54,108,108</rect>
                 <key>scale9Paddings</key>
-                <rect>28,25,55,49</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/TrangLon.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>26,24,52,47</rect>
-                <key>scale9Paddings</key>
-                <rect>26,24,52,47</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/TrangNho.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>20,20,39,39</rect>
-                <key>scale9Paddings</key>
-                <rect>20,20,39,39</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/Vien tro choi xoc dia.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>118,78,235,157</rect>
-                <key>scale9Paddings</key>
-                <rect>118,78,235,157</rect>
+                <rect>54,54,108,108</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -277,7 +232,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/hinh nen tro xoc dia.png</key>
+            <key type="filename">images/dia trang.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -286,22 +241,133 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>113,74,226,147</rect>
+                <rect>41,32,82,63</rect>
                 <key>scale9Paddings</key>
-                <rect>113,74,226,147</rect>
+                <rect>41,32,82,63</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/do lon.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>18,19,36,37</rect>
+                <key>scale9Paddings</key>
+                <rect>18,19,36,37</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/do nho.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>16,15,33,30</rect>
+                <key>scale9Paddings</key>
+                <rect>16,15,33,30</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/gold 1.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>51,33,103,65</rect>
+                <key>scale9Paddings</key>
+                <rect>51,33,103,65</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/gold 2.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>28,19,56,38</rect>
+                <key>scale9Paddings</key>
+                <rect>28,19,56,38</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/trang lon.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>17,16,35,33</rect>
+                <key>scale9Paddings</key>
+                <rect>17,16,35,33</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/trang nho.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>14,14,29,29</rect>
+                <key>scale9Paddings</key>
+                <rect>14,14,29,29</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/vong sang duoi dia.png</key>
+            <key type="filename">images/vong-sang-duoi-dia_lighten.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>54,27,108,54</rect>
+                <key>scale9Paddings</key>
+                <rect>54,27,108,54</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
         </map>
         <key>fileList</key>
         <array>
-            <filename>images/DoLon.png</filename>
-            <filename>images/DoNho.png</filename>
-            <filename>images/TrangLon.png</filename>
-            <filename>images/TrangNho.png</filename>
-            <filename>images/Vien tro choi xoc dia.png</filename>
             <filename>images/chu xoc dia.png</filename>
-            <filename>images/hinh nen tro xoc dia.png</filename>
+            <filename>images/Background.png</filename>
+            <filename>images/Vien.png</filename>
+            <filename>images/dia trang.png</filename>
+            <filename>images/do lon.png</filename>
+            <filename>images/do nho.png</filename>
+            <filename>images/gold 1.png</filename>
+            <filename>images/gold 2.png</filename>
+            <filename>images/trang lon.png</filename>
+            <filename>images/trang nho.png</filename>
+            <filename>images/vong sang duoi dia.png</filename>
+            <filename>images/vong-sang-duoi-dia_lighten.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

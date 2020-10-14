@@ -4,80 +4,35 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>DoLon.png</key>
+            <key>Background.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{104,103}</string>
+                <string>{179,179}</string>
                 <key>spriteSourceSize</key>
-                <string>{104,103}</string>
+                <string>{179,179}</string>
                 <key>textureRect</key>
-                <string>{{1,654},{104,103}}</string>
+                <string>{{1,183},{179,179}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>DoNho.png</key>
+            <key>Vien.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{92,82}</string>
+                <string>{180,180}</string>
                 <key>spriteSourceSize</key>
-                <string>{92,82}</string>
+                <string>{180,180}</string>
                 <key>textureRect</key>
-                <string>{{107,721},{92,82}}</string>
+                <string>{{1,1},{180,180}}</string>
                 <key>textureRotated</key>
                 <false/>
-            </dict>
-            <key>TrangLon.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{87,79}</string>
-                <key>spriteSourceSize</key>
-                <string>{87,79}</string>
-                <key>textureRect</key>
-                <string>{{1,759},{87,79}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>TrangNho.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{66,65}</string>
-                <key>spriteSourceSize</key>
-                <string>{66,65}</string>
-                <key>textureRect</key>
-                <string>{{107,654},{66,65}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>Vien tro choi xoc dia.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{272,181}</string>
-                <key>spriteSourceSize</key>
-                <string>{272,181}</string>
-                <key>textureRect</key>
-                <string>{{1,380},{272,181}}</string>
-                <key>textureRotated</key>
-                <true/>
             </dict>
             <key>chu xoc dia.png</key>
             <dict>
@@ -86,26 +41,146 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{339,67}</string>
+                <string>{162,35}</string>
                 <key>spriteSourceSize</key>
-                <string>{339,67}</string>
+                <string>{162,35}</string>
                 <key>textureRect</key>
-                <string>{{184,380},{339,67}}</string>
+                <string>{{183,1},{162,35}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>hinh nen tro xoc dia.png</key>
+            <key>dia trang.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{377,246}</string>
+                <string>{137,106}</string>
                 <key>spriteSourceSize</key>
-                <string>{377,246}</string>
+                <string>{137,106}</string>
                 <key>textureRect</key>
-                <string>{{1,1},{377,246}}</string>
+                <string>{{93,566},{137,106}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>do lon.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{60,62}</string>
+                <key>spriteSourceSize</key>
+                <string>{60,62}</string>
+                <key>textureRect</key>
+                <string>{{174,364},{60,62}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>do nho.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{54,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{54,50}</string>
+                <key>textureRect</key>
+                <string>{{183,165},{54,50}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>gold 1.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{171,108}</string>
+                <key>spriteSourceSize</key>
+                <string>{171,108}</string>
+                <key>textureRect</key>
+                <string>{{1,364},{171,108}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>gold 2.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{93,63}</string>
+                <key>spriteSourceSize</key>
+                <string>{93,63}</string>
+                <key>textureRect</key>
+                <string>{{93,674},{93,63}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>trang lon.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{57,54}</string>
+                <key>spriteSourceSize</key>
+                <string>{57,54}</string>
+                <key>textureRect</key>
+                <string>{{182,221},{57,54}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>trang nho.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{47,47}</string>
+                <key>spriteSourceSize</key>
+                <string>{47,47}</string>
+                <key>textureRect</key>
+                <string>{{182,280},{47,47}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>vong sang duoi dia.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{180,90}</string>
+                <key>spriteSourceSize</key>
+                <string>{180,90}</string>
+                <key>textureRect</key>
+                <string>{{1,474},{180,90}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>vong-sang-duoi-dia_lighten.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{180,90}</string>
+                <key>spriteSourceSize</key>
+                <string>{180,90}</string>
+                <key>textureRect</key>
+                <string>{{1,566},{180,90}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -121,9 +196,9 @@
             <key>realTextureFileName</key>
             <string>xoc-dia.png</string>
             <key>size</key>
-            <string>{252,839}</string>
+            <string>{237,747}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:2db77d6fc21ad2dc9b3e77a734adbcb3:9c6146a1e11d85e7606394d0967638e0:9f944f74ef4ced94994d3ec5e993eb08$</string>
+            <string>$TexturePacker:SmartUpdate:e6d4c4f5efda588abbb5ba61c52687a0:45d9a163a96cdd7a6e13cdecbb92417a:9f944f74ef4ced94994d3ec5e993eb08$</string>
             <key>textureFileName</key>
             <string>xoc-dia.png</string>
         </dict>
