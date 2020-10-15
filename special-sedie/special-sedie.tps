@@ -204,6 +204,7 @@
             </struct>
             <key type="filename">images/btn_left.png</key>
             <key type="filename">images/btn_left_hover.png</key>
+            <key type="filename">images/btn_right_hover.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -219,7 +220,6 @@
                 <false/>
             </struct>
             <key type="filename">images/btn_right.png</key>
-            <key type="filename">images/btn_right_hover.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -424,7 +424,6 @@
             <filename>images/btn_left.png</filename>
             <filename>images/btn_left_hover.png</filename>
             <filename>images/btn_right.png</filename>
-            <filename>images/btn_right_hover.png</filename>
             <filename>images/even.png</filename>
             <filename>images/even_bg.png</filename>
             <filename>images/even_highlight.png</filename>
@@ -442,6 +441,7 @@
             <filename>images/chip_trang_dia.png</filename>
             <filename>images/next.png</filename>
             <filename>images/prev.png</filename>
+            <filename>images/btn_right_hover.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

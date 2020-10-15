@@ -207,21 +207,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/chan.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>23,8,46,16</rect>
-                <key>scale9Paddings</key>
-                <rect>23,8,46,16</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/chan_border.png</key>
             <key type="filename">images/chan_border_active.png</key>
             <key type="filename">images/le_border.png</key>
@@ -272,7 +257,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/le.png</key>
+            <key type="filename">images/even.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -281,9 +266,9 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>10,7,21,15</rect>
+                <rect>28,11,55,21</rect>
                 <key>scale9Paddings</key>
-                <rect>10,7,21,15</rect>
+                <rect>28,11,55,21</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -348,6 +333,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/odd.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>13,10,25,20</rect>
+                <key>scale9Paddings</key>
+                <rect>13,10,25,20</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/vien_cuoc_lon.png</key>
             <key type="filename">images/vien_cuoc_lon_outer.png</key>
             <struct type="IndividualSpriteSettings">
@@ -397,12 +397,10 @@
         </map>
         <key>fileList</key>
         <array>
-            <filename>images/chan.png</filename>
             <filename>images/chip_do_dia.png</filename>
             <filename>images/chip_do_o_cuoc.png</filename>
             <filename>images/chip_trang_dia.png</filename>
             <filename>images/chip_trang_o_cuoc.png</filename>
-            <filename>images/le.png</filename>
             <filename>images/nen_cuoc_lon.png</filename>
             <filename>images/nen_cuoc_nho.png</filename>
             <filename>images/vien_cuoc_nho.png</filename>
@@ -422,6 +420,8 @@
             <filename>images/le_border.png</filename>
             <filename>images/le_border_active.png</filename>
             <filename>images/light.png</filename>
+            <filename>images/even.png</filename>
+            <filename>images/odd.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
