@@ -388,6 +388,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/round_history.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>146,8,293,17</rect>
+                <key>scale9Paddings</key>
+                <rect>146,8,293,17</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/time_line.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -442,6 +457,7 @@
             <filename>images/next.png</filename>
             <filename>images/prev.png</filename>
             <filename>images/btn_right_hover.png</filename>
+            <filename>images/round_history.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

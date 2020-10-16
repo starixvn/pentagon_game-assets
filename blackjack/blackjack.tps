@@ -445,6 +445,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/day-hop-bai.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>32,30,64,61</rect>
+                <key>scale9Paddings</key>
+                <rect>32,30,64,61</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/deal-icon.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -457,21 +472,6 @@
                 <rect>17,18,33,35</rect>
                 <key>scale9Paddings</key>
                 <rect>17,18,33,35</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/dealingShoeGlass.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>55,48,110,97</rect>
-                <key>scale9Paddings</key>
-                <rect>55,48,110,97</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -565,6 +565,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/minmax_bg.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>49,29,97,57</rect>
+                <key>scale9Paddings</key>
+                <rect>49,29,97,57</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/split-icon.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -592,6 +607,21 @@
                 <rect>8,9,15,18</rect>
                 <key>scale9Paddings</key>
                 <rect>8,9,15,18</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/thu-bai.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>36,33,73,66</rect>
+                <key>scale9Paddings</key>
+                <rect>36,33,73,66</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -626,7 +656,6 @@
             <filename>images/buttonhighlight-small-left.png</filename>
             <filename>images/cardShadow.png</filename>
             <filename>images/clear-icon.png</filename>
-            <filename>images/dealingShoeGlass.png</filename>
             <filename>images/gameguide-icon.png</filename>
             <filename>images/history-icon.png</filename>
             <filename>images/hit-icon.png</filename>
@@ -644,6 +673,9 @@
             <filename>images/hop-bai.png</filename>
             <filename>images/rebet-icon.png</filename>
             <filename>images/bg-win.png</filename>
+            <filename>images/minmax_bg.png</filename>
+            <filename>images/thu-bai.png</filename>
+            <filename>images/day-hop-bai.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
