@@ -217,6 +217,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/chip0.5.png</key>
             <key type="filename">images/chip1.png</key>
             <key type="filename">images/chip10.png</key>
             <key type="filename">images/chip100.png</key>
@@ -386,6 +387,7 @@
             <filename>images/chip20_small.png</filename>
             <filename>images/chip2000.png</filename>
             <filename>images/chip2000_small.png</filename>
+            <filename>images/chip0.5.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

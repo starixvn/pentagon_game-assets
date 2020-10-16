@@ -265,6 +265,7 @@
             </struct>
             <key type="filename">images/baccarat.png</key>
             <key type="filename">images/big_small.png</key>
+            <key type="filename">images/blackjack.png</key>
             <key type="filename">images/dragon_tiger.png</key>
             <key type="filename">images/fish_prawn_crab.png</key>
             <key type="filename">images/keno_pro_max.png</key>
@@ -426,6 +427,7 @@
             <filename>images/roulette.png</filename>
             <filename>images/vip-sedie.png</filename>
             <filename>images/special_sedie.png</filename>
+            <filename>images/blackjack.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
