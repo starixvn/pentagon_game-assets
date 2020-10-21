@@ -130,6 +130,10 @@
         <key>dataFileNames</key>
         <map type="GFileNameMap">
             <key>data</key>
+            <struct type="DataFile">
+                <key>name</key>
+                <filename>blackjack.plist</filename>
+            </struct>
             <key>header</key>
             <key>source</key>
             <struct type="DataFile">
@@ -161,7 +165,7 @@
         <key>globalSpriteSettings</key>
         <struct type="SpriteSettings">
             <key>scale</key>
-            <double>1</double>
+            <double>0.83333</double>
             <key>scaleMode</key>
             <enum type="ScaleMode">Smooth</enum>
             <key>extrude</key>
@@ -213,6 +217,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/CHƠI NGAY_.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>35,15,71,29</rect>
+                <key>scale9Paddings</key>
+                <rect>35,15,71,29</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/J.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -225,6 +244,36 @@
                 <rect>14,38,29,75</rect>
                 <key>scale9Paddings</key>
                 <rect>14,38,29,75</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/Lable.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>59,30,117,59</rect>
+                <key>scale9Paddings</key>
+                <rect>59,30,117,59</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/Phiên chưa kết thúc .png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>52,19,103,39</rect>
+                <key>scale9Paddings</key>
+                <rect>52,19,103,39</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -298,6 +347,9 @@
             <filename>images/bg-Logo.png</filename>
             <filename>images/bg.png</filename>
             <filename>images/tia sang.png</filename>
+            <filename>images/CHƠI NGAY_.png</filename>
+            <filename>images/Lable.png</filename>
+            <filename>images/Phiên chưa kết thúc .png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
