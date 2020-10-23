@@ -505,6 +505,24 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/guide_double.png</key>
+            <key type="filename">images/guide_hit.png</key>
+            <key type="filename">images/guide_split.png</key>
+            <key type="filename">images/guide_stop.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>15,15,29,29</rect>
+                <key>scale9Paddings</key>
+                <rect>15,15,29,29</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/history-icon.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -547,6 +565,21 @@
                 <rect>45,40,89,80</rect>
                 <key>scale9Paddings</key>
                 <rect>45,40,89,80</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/hop-chip.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>111,30,222,61</rect>
+                <key>scale9Paddings</key>
+                <rect>111,30,222,61</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -692,6 +725,11 @@
             <filename>images/thu-bai.png</filename>
             <filename>images/day-hop-bai.png</filename>
             <filename>images/error-icon.png</filename>
+            <filename>images/hop-chip.png</filename>
+            <filename>images/guide_double.png</filename>
+            <filename>images/guide_split.png</filename>
+            <filename>images/guide_stop.png</filename>
+            <filename>images/guide_hit.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

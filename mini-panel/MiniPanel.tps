@@ -304,6 +304,37 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/bj_pending_bg.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>46,14,93,27</rect>
+                <key>scale9Paddings</key>
+                <rect>46,14,93,27</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/bj_pending_text.png</key>
+            <key type="filename">images/bj_play.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>42,7,83,13</rect>
+                <key>scale9Paddings</key>
+                <rect>42,7,83,13</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/circle_yellow.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -428,6 +459,9 @@
             <filename>images/vip-sedie.png</filename>
             <filename>images/special_sedie.png</filename>
             <filename>images/blackjack.png</filename>
+            <filename>images/bj_pending_bg.png</filename>
+            <filename>images/bj_pending_text.png</filename>
+            <filename>images/bj_play.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
