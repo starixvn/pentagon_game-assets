@@ -218,6 +218,7 @@
                 <false/>
             </struct>
             <key type="filename">images/chip10.png</key>
+            <key type="filename">images/chip20.png</key>
             <key type="filename">images/chip2000.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -334,6 +335,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/chip20_small.png</key>
             <key type="filename">images/chip5000_small.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -412,6 +414,8 @@
             <filename>images/chip5000_small.png</filename>
             <filename>images/chip2000.png</filename>
             <filename>images/chip2000_small.png</filename>
+            <filename>images/chip20.png</filename>
+            <filename>images/chip20_small.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
