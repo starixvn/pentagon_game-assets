@@ -217,7 +217,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/MaskTagline.png</key>
+            <key type="filename">images/background.jpg</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -226,39 +226,9 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>110,9,219,18</rect>
+                <rect>0,197,1,394</rect>
                 <key>scale9Paddings</key>
-                <rect>110,9,219,18</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/light.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>13,13,25,25</rect>
-                <key>scale9Paddings</key>
-                <rect>13,13,25,25</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/loadingtext.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>69,5,138,9</rect>
-                <key>scale9Paddings</key>
-                <rect>69,5,138,9</rect>
+                <rect>0,197,1,394</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -312,12 +282,10 @@
         <array>
             <filename>images/AnhSangChuTaiXiu.png</filename>
             <filename>images/Logo_Saba.png</filename>
-            <filename>images/MaskTagline.png</filename>
-            <filename>images/loadingtext.png</filename>
             <filename>images/tagline.png</filename>
             <filename>images/progress-bar.png</filename>
             <filename>images/progress-bg.png</filename>
-            <filename>images/light.png</filename>
+            <filename>images/background.jpg</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
