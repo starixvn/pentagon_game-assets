@@ -165,7 +165,7 @@
         <key>globalSpriteSettings</key>
         <struct type="SpriteSettings">
             <key>scale</key>
-            <double>0.83333</double>
+            <double>1</double>
             <key>scaleMode</key>
             <enum type="ScaleMode">Smooth</enum>
             <key>extrude</key>
@@ -187,7 +187,7 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">images/baccarat.png</key>
+            <key type="filename">images/special-sedie.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -196,13 +196,13 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>86,145,171,289</rect>
+                <rect>59,93,119,186</rect>
                 <key>scale9Paddings</key>
-                <rect>86,145,171,289</rect>
+                <rect>59,93,119,186</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/roulette.png</key>
+            <key type="filename">images/vip-sedie.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -211,33 +211,17 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>95,122,190,244</rect>
+                <rect>62,92,123,185</rect>
                 <key>scale9Paddings</key>
-                <rect>95,122,190,244</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/xoc-dia.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>73,97,145,194</rect>
-                <key>scale9Paddings</key>
-                <rect>73,97,145,194</rect>
+                <rect>62,92,123,185</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
         </map>
         <key>fileList</key>
         <array>
-            <filename>images/baccarat.png</filename>
-            <filename>images/roulette.png</filename>
-            <filename>images/xoc-dia.png</filename>
+            <filename>images/special-sedie.png</filename>
+            <filename>images/vip-sedie.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

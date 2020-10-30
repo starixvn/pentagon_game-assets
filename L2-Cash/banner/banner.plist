@@ -4,48 +4,33 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>baccarat.png</key>
+            <key>special-sedie.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{191,326}</string>
+                <string>{237,372}</string>
                 <key>spriteSourceSize</key>
-                <string>{193,326}</string>
+                <string>{237,372}</string>
                 <key>textureRect</key>
-                <string>{{1,663},{191,326}}</string>
+                <string>{{1,1},{237,372}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>roulette.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{2,6}</string>
-                <key>spriteSize</key>
-                <string>{214,335}</string>
-                <key>spriteSourceSize</key>
-                <string>{218,417}</string>
-                <key>textureRect</key>
-                <string>{{1,326},{214,335}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>xoc-dia.png</key>
+            <key>vip-sedie.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{242,323}</string>
+                <string>{247,369}</string>
                 <key>spriteSourceSize</key>
-                <string>{242,323}</string>
+                <string>{247,369}</string>
                 <key>textureRect</key>
-                <string>{{1,1},{242,323}}</string>
+                <string>{{240,1},{247,369}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -61,9 +46,9 @@
             <key>realTextureFileName</key>
             <string>banner.png</string>
             <key>size</key>
-            <string>{244,990}</string>
+            <string>{488,374}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:4014bdae410139822ccb31bfbdc7efeb:404fc686a5a02413342c16ac0ffc385b:468a889166313e164748aa683a0b056a$</string>
+            <string>$TexturePacker:SmartUpdate:6563ca2733666d03a4a38882f0731b17:dbd800584e8c6bd742281d2ed1392482:468a889166313e164748aa683a0b056a$</string>
             <key>textureFileName</key>
             <string>banner.png</string>
         </dict>
