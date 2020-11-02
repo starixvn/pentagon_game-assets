@@ -130,6 +130,10 @@
         <key>dataFileNames</key>
         <map type="GFileNameMap">
             <key>data</key>
+            <struct type="DataFile">
+                <key>name</key>
+                <filename>roulette-mobile.plist</filename>
+            </struct>
             <key>header</key>
             <key>source</key>
             <struct type="DataFile">
@@ -244,6 +248,21 @@
                 <rect>24,29,49,57</rect>
                 <key>scale9Paddings</key>
                 <rect>24,29,49,57</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/orphelins.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>30,7,59,13</rect>
+                <key>scale9Paddings</key>
+                <rect>30,7,59,13</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -401,6 +420,36 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/tiers_du_cylindre.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>55,7,109,13</rect>
+                <key>scale9Paddings</key>
+                <rect>55,7,109,13</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/voisins_du_zero.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>49,5,97,11</rect>
+                <key>scale9Paddings</key>
+                <rect>49,5,97,11</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/winning_highlight_0.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -493,6 +542,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/zero.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>14,5,29,10</rect>
+                <key>scale9Paddings</key>
+                <rect>14,5,29,10</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
         </map>
         <key>fileList</key>
         <array>
@@ -526,6 +590,10 @@
             <filename>images/winning_highlight_19-36.png</filename>
             <filename>images/winning_highlight_normal.png</filename>
             <filename>images/winning_highlight_red_black.png</filename>
+            <filename>images/orphelins.png</filename>
+            <filename>images/tiers_du_cylindre.png</filename>
+            <filename>images/voisins_du_zero.png</filename>
+            <filename>images/zero.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
