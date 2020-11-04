@@ -148,7 +148,7 @@
         <key>outputFormat</key>
         <enum type="SettingsBase::OutputFormat">RGBA8888</enum>
         <key>alphaHandling</key>
-        <enum type="SettingsBase::AlphaHandling">ClearTransparentPixels</enum>
+        <enum type="SettingsBase::AlphaHandling">ReduceBorderArtifacts</enum>
         <key>contentProtection</key>
         <struct type="ContentProtection">
             <key>key</key>
@@ -382,21 +382,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/btn_menu_bg.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>18,18,37,37</rect>
-                <key>scale9Paddings</key>
-                <rect>18,18,37,37</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/count_down_bg.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -457,66 +442,6 @@
                 <rect>12,12,23,23</rect>
                 <key>scale9Paddings</key>
                 <rect>12,12,23,23</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/icon-gameguide.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>4,7,9,14</rect>
-                <key>scale9Paddings</key>
-                <rect>4,7,9,14</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/icon-history.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>9,8,19,16</rect>
-                <key>scale9Paddings</key>
-                <rect>9,8,19,16</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/icon-lobby.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>8,6,17,11</rect>
-                <key>scale9Paddings</key>
-                <rect>8,6,17,11</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/icon_back.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>10,7,19,13</rect>
-                <key>scale9Paddings</key>
-                <rect>10,7,19,13</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -594,21 +519,6 @@
                 <rect>8,8,15,15</rect>
                 <key>scale9Paddings</key>
                 <rect>8,8,15,15</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/icon_menu.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>8,6,16,13</rect>
-                <key>scale9Paddings</key>
-                <rect>8,6,16,13</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -699,21 +609,6 @@
                 <rect>30,12,59,23</rect>
                 <key>scale9Paddings</key>
                 <rect>30,12,59,23</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/menu_expand_bg.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>21,86,41,171</rect>
-                <key>scale9Paddings</key>
-                <rect>21,86,41,171</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -979,7 +874,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/user_bet_bg.png</key>
+            <key type="filename">images/tong_cuoc_line.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -988,9 +883,9 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>9,9,18,18</rect>
+                <rect>0,8,1,16</rect>
                 <key>scale9Paddings</key>
-                <rect>9,9,18,18</rect>
+                <rect>0,8,1,16</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -1006,7 +901,6 @@
             <filename>images/btn_confirm.png</filename>
             <filename>images/btn_disable.png</filename>
             <filename>images/btn_hover.png</filename>
-            <filename>images/btn_menu_bg.png</filename>
             <filename>images/count_down_bg.png</filename>
             <filename>images/count_down_border.png</filename>
             <filename>images/history_number.png</filename>
@@ -1014,23 +908,17 @@
             <filename>images/history_number_green.png</filename>
             <filename>images/history_number_highlight.png</filename>
             <filename>images/history_number_red.png</filename>
-            <filename>images/icon-gameguide.png</filename>
-            <filename>images/icon-history.png</filename>
-            <filename>images/icon-lobby.png</filename>
-            <filename>images/icon_back.png</filename>
             <filename>images/icon_clear.png</filename>
             <filename>images/icon_confirm.png</filename>
             <filename>images/icon_double.png</filename>
             <filename>images/icon_game-guide.png</filename>
             <filename>images/icon_history.png</filename>
-            <filename>images/icon_menu.png</filename>
             <filename>images/icon_quick_bet.png</filename>
             <filename>images/icon_rebet.png</filename>
             <filename>images/icon_regular_bet.png</filename>
             <filename>images/icon_stats.png</filename>
             <filename>images/icon_undo.png</filename>
             <filename>images/logo.png</filename>
-            <filename>images/menu_expand_bg.png</filename>
             <filename>images/popup_bg.png</filename>
             <filename>images/progress_bar_blue.png</filename>
             <filename>images/progress_bar_full.png</filename>
@@ -1056,12 +944,12 @@
             <filename>images/table_group_border.png</filename>
             <filename>images/table_item_border.png</filename>
             <filename>images/ticket_detail_bg.png</filename>
-            <filename>images/user_bet_bg.png</filename>
             <filename>images/btn_confirm_disable.png</filename>
             <filename>images/btn_confirm_hover.png</filename>
             <filename>images/btn_confirm_light.png</filename>
             <filename>images/user_money_bg.png</filename>
             <filename>images/avatar_border.png</filename>
+            <filename>images/tong_cuoc_line.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

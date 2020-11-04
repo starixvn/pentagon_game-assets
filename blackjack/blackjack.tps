@@ -263,21 +263,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/bg-menu.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>21,86,41,171</rect>
-                <key>scale9Paddings</key>
-                <rect>21,86,41,171</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/bg-money-avatar.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -350,23 +335,6 @@
                 <rect>34,69,68,138</rect>
                 <key>scale9Paddings</key>
                 <rect>34,69,68,138</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/button-list.png</key>
-            <key type="filename">images/double-icon.png</key>
-            <key type="filename">images/rebet-icon.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>18,18,37,37</rect>
-                <key>scale9Paddings</key>
-                <rect>18,18,37,37</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -490,6 +458,22 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/double-icon.png</key>
+            <key type="filename">images/rebet-icon.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>18,18,37,37</rect>
+                <key>scale9Paddings</key>
+                <rect>18,18,37,37</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/error-icon.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -502,21 +486,6 @@
                 <rect>11,11,22,21</rect>
                 <key>scale9Paddings</key>
                 <rect>11,11,22,21</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/gameguide-icon.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>4,7,9,14</rect>
-                <key>scale9Paddings</key>
-                <rect>4,7,9,14</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -535,21 +504,6 @@
                 <rect>15,15,29,29</rect>
                 <key>scale9Paddings</key>
                 <rect>15,15,29,29</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/history-icon.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>9,8,19,16</rect>
-                <key>scale9Paddings</key>
-                <rect>9,8,19,16</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -595,36 +549,6 @@
                 <rect>111,30,222,61</rect>
                 <key>scale9Paddings</key>
                 <rect>111,30,222,61</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/lobby-icon.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>8,6,17,11</rect>
-                <key>scale9Paddings</key>
-                <rect>8,6,17,11</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/menu.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>8,6,16,13</rect>
-                <key>scale9Paddings</key>
-                <rect>8,6,16,13</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -713,21 +637,15 @@
             <filename>images/bg-money-avatar.png</filename>
             <filename>images/bg-totalbet.png</filename>
             <filename>images/button-large-left.png</filename>
-            <filename>images/button-list.png</filename>
             <filename>images/button-small-left.png</filename>
             <filename>images/buttonhighlight-large-left.png</filename>
             <filename>images/buttonhighlight-small-left.png</filename>
             <filename>images/cardShadow.png</filename>
             <filename>images/clear-icon.png</filename>
-            <filename>images/gameguide-icon.png</filename>
-            <filename>images/history-icon.png</filename>
             <filename>images/hit-icon.png</filename>
-            <filename>images/lobby-icon.png</filename>
-            <filename>images/menu.png</filename>
             <filename>images/newbet-icon.png</filename>
             <filename>images/stand-icon.png</filename>
             <filename>images/totalbet-icon.png</filename>
-            <filename>images/bg-menu.png</filename>
             <filename>images/double-icon.png</filename>
             <filename>images/split-icon.png</filename>
             <filename>images/deal-icon.png</filename>

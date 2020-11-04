@@ -251,6 +251,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/btn_menu_bg.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>18,18,37,37</rect>
+                <key>scale9Paddings</key>
+                <rect>18,18,37,37</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/btn_stats.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -281,6 +296,81 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/gameguide-icon.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>4,7,9,14</rect>
+                <key>scale9Paddings</key>
+                <rect>4,7,9,14</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/history-icon.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>9,8,19,16</rect>
+                <key>scale9Paddings</key>
+                <rect>9,8,19,16</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/lobby-icon.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>8,6,17,11</rect>
+                <key>scale9Paddings</key>
+                <rect>8,6,17,11</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/menu.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>8,6,16,13</rect>
+                <key>scale9Paddings</key>
+                <rect>8,6,16,13</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/menu_expand_bg.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>21,25,41,49</rect>
+                <key>scale9Paddings</key>
+                <rect>21,25,41,49</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
         </map>
         <key>fileList</key>
         <array>
@@ -294,6 +384,12 @@
             <filename>images/btn_tien_cuoc.png</filename>
             <filename>images/bantay.png</filename>
             <filename>images/bantay_disabled.png</filename>
+            <filename>images/btn_menu_bg.png</filename>
+            <filename>images/gameguide-icon.png</filename>
+            <filename>images/history-icon.png</filename>
+            <filename>images/lobby-icon.png</filename>
+            <filename>images/menu.png</filename>
+            <filename>images/menu_expand_bg.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
