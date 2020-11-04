@@ -1,0 +1,99 @@
+{
+    "children": [
+        {
+            "options": {
+                "input_files": [
+                    [
+                        "input",
+                        "*.*"
+                    ]
+                ]
+            },
+            "children": [
+                {
+                    "options": {
+                        "params": [
+                            "--texture-format",
+                            "png"
+                        ],
+                        "sheet_extension": "png",
+                        "output_path": [
+                            "png",
+                            "{v}",
+                            "outputname"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "options": {
+        "params": [
+            [
+                "--maxrects-heuristics",
+                "Best"
+            ],
+            [
+                "--scale-mode",
+                "Smooth"
+            ],
+            [
+                "--pack-mode",
+                "Best"
+            ],
+            [
+                "--shape-padding",
+                0
+            ],
+            [
+                "--format",
+                "cocos2d"
+            ],
+            [
+                "--algorithm",
+                "MaxRects"
+            ],
+            [
+                "--opt",
+                "RGBA8888"
+            ],
+            [
+                "--max-height",
+                2048
+            ],
+            [
+                "--size-constraints",
+                "POT"
+            ],
+            [
+                "--png-opt-level",
+                0
+            ],
+            [
+                "--alpha-handling",
+                "PremultiplyAlpha"
+            ],
+            [
+                "--max-width",
+                2048
+            ],
+            [
+                "--trim-mode",
+                "Trim"
+            ],
+            [
+                "--variant",
+                "1.00:ipadhd"
+            ],
+            [
+                "--border-padding",
+                2
+            ],
+            [
+                "--extrude",
+                1
+            ]
+        ],
+        "rotation": true
+    }
+}
