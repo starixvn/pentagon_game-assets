@@ -247,6 +247,36 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/count_down_bg.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>38,38,76,76</rect>
+                <key>scale9Paddings</key>
+                <rect>38,38,76,76</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/count_down_border.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>44,44,88,88</rect>
+                <key>scale9Paddings</key>
+                <rect>44,44,88,88</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/error_popup.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -350,6 +380,8 @@
             <filename>images/title.png</filename>
             <filename>images/button_bg.png</filename>
             <filename>images/bg-time.png</filename>
+            <filename>images/count_down_bg.png</filename>
+            <filename>images/count_down_border.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

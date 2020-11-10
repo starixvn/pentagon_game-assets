@@ -106,7 +106,7 @@
             <key>freeSizeMode</key>
             <enum type="AlgorithmSettings::AlgorithmFreeSizeMode">Best</enum>
             <key>sizeConstraints</key>
-            <enum type="AlgorithmSettings::SizeConstraints">AnySize</enum>
+            <enum type="AlgorithmSettings::SizeConstraints">POT</enum>
             <key>forceSquared</key>
             <false/>
             <key>maxRects</key>
@@ -233,6 +233,7 @@
                 <false/>
             </struct>
             <key type="filename">images/bg_stakeamount.png</key>
+            <key type="filename">images/result_wheel_border.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -658,6 +659,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/result_wheel_white.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>7,7,14,14</rect>
+                <key>scale9Paddings</key>
+                <rect>7,7,14,14</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/stats_0.png</key>
             <key type="filename">images/stats_black.png</key>
             <key type="filename">images/stats_red.png</key>
@@ -950,6 +966,8 @@
             <filename>images/user_money_bg.png</filename>
             <filename>images/avatar_border.png</filename>
             <filename>images/tong_cuoc_line.png</filename>
+            <filename>images/result_wheel_border.png</filename>
+            <filename>images/result_wheel_white.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
