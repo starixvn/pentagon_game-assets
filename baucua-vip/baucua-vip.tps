@@ -368,6 +368,36 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/dot_grey.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>4,4,9,9</rect>
+                <key>scale9Paddings</key>
+                <rect>4,4,9,9</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/grid.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>6,36,11,73</rect>
+                <key>scale9Paddings</key>
+                <rect>6,36,11,73</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/hop_day.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -684,6 +714,8 @@
             <filename>images/next.png</filename>
             <filename>images/prev.png</filename>
             <filename>images/avatar_border.png</filename>
+            <filename>images/grid.png</filename>
+            <filename>images/dot_grey.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

@@ -275,6 +275,7 @@
             <key type="filename">images/sedie.png</key>
             <key type="filename">images/turbo_big_small.png</key>
             <key type="filename">images/turbo_odd_even.png</key>
+            <key type="filename">images/vip_fish_prawn_crab.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -462,6 +463,7 @@
             <filename>images/bj_pending_bg.png</filename>
             <filename>images/bj_pending_text.png</filename>
             <filename>images/bj_play.png</filename>
+            <filename>images/vip_fish_prawn_crab.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

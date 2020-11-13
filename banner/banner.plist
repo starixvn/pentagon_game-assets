@@ -15,7 +15,7 @@
                 <key>spriteSourceSize</key>
                 <string>{206,307}</string>
                 <key>textureRect</key>
-                <string>{{1,324},{206,307}}</string>
+                <string>{{1,1},{206,307}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -24,28 +24,28 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,0}</string>
+                <string>{0,-3}</string>
                 <key>spriteSize</key>
-                <string>{197,310}</string>
+                <string>{197,292}</string>
                 <key>spriteSourceSize</key>
                 <string>{197,310}</string>
                 <key>textureRect</key>
-                <string>{{1,633},{197,310}}</string>
+                <string>{{1,619},{197,292}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>vip-sedie.png</key>
+            <key>vip_fish_prawn_crab.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,3}</string>
+                <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{206,321}</string>
+                <string>{206,307}</string>
                 <key>spriteSourceSize</key>
-                <string>{206,327}</string>
+                <string>{206,307}</string>
                 <key>textureRect</key>
-                <string>{{1,1},{206,321}}</string>
+                <string>{{1,310},{206,307}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -61,9 +61,9 @@
             <key>realTextureFileName</key>
             <string>banner.png</string>
             <key>size</key>
-            <string>{208,944}</string>
+            <string>{208,912}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:e848c48750080557997dee858bec3544:334cf83bf3ead26f9c482bb75f51b228:468a889166313e164748aa683a0b056a$</string>
+            <string>$TexturePacker:SmartUpdate:9c81cd133a480358cc7bee612113125e:69684ac2e04e083816a25e4d74067027:468a889166313e164748aa683a0b056a$</string>
             <key>textureFileName</key>
             <string>banner.png</string>
         </dict>
