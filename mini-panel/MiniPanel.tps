@@ -187,21 +187,6 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">images/AnhSangGlowMinigame.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>40,38,79,75</rect>
-                <key>scale9Paddings</key>
-                <rect>40,38,79,75</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/BongDenSang.png</key>
             <key type="filename">images/BongDenToi.png</key>
             <struct type="IndividualSpriteSettings">
@@ -215,51 +200,6 @@
                 <rect>50,50,100,100</rect>
                 <key>scale9Paddings</key>
                 <rect>50,50,100,100</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/Menu_text.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>25,6,49,12</rect>
-                <key>scale9Paddings</key>
-                <rect>25,6,49,12</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/NenMiniGame.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>36,34,71,67</rect>
-                <key>scale9Paddings</key>
-                <rect>36,34,71,67</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/anhsangxoayminigame.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>38,37,75,75</rect>
-                <key>scale9Paddings</key>
-                <rect>38,37,75,75</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -336,6 +276,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/border.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>27,23,54,46</rect>
+                <key>scale9Paddings</key>
+                <rect>27,23,54,46</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/circle_yellow.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -363,6 +318,51 @@
                 <rect>14,14,27,27</rect>
                 <key>scale9Paddings</key>
                 <rect>14,14,27,27</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/flare.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>6,6,11,11</rect>
+                <key>scale9Paddings</key>
+                <rect>6,6,11,11</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/glowing light.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>36,36,71,71</rect>
+                <key>scale9Paddings</key>
+                <rect>36,36,71,71</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/inside.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>23,23,47,47</rect>
+                <key>scale9Paddings</key>
+                <rect>23,23,47,47</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -414,6 +414,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/shadow.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>24,4,47,8</rect>
+                <key>scale9Paddings</key>
+                <rect>24,4,47,8</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/sound_off.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -429,16 +444,27 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/text.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>26,8,52,15</rect>
+                <key>scale9Paddings</key>
+                <rect>26,8,52,15</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
         </map>
         <key>fileList</key>
         <array>
-            <filename>images/AnhSangGlowMinigame.png</filename>
             <filename>images/BongDenSang.png</filename>
             <filename>images/BongDenToi.png</filename>
-            <filename>images/NenMiniGame.png</filename>
-            <filename>images/anhsangxoayminigame.png</filename>
             <filename>images/bg_TopHu.png</filename>
-            <filename>images/Menu_text.png</filename>
             <filename>images/baccarat.png</filename>
             <filename>images/big_small.png</filename>
             <filename>images/dragon_tiger.png</filename>
@@ -464,6 +490,12 @@
             <filename>images/bj_pending_text.png</filename>
             <filename>images/bj_play.png</filename>
             <filename>images/vip_fish_prawn_crab.png</filename>
+            <filename>images/border.png</filename>
+            <filename>images/flare.png</filename>
+            <filename>images/inside.png</filename>
+            <filename>images/shadow.png</filename>
+            <filename>images/text.png</filename>
+            <filename>images/glowing light.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

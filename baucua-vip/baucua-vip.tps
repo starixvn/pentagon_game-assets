@@ -148,7 +148,7 @@
         <key>outputFormat</key>
         <enum type="SettingsBase::OutputFormat">RGBA8888</enum>
         <key>alphaHandling</key>
-        <enum type="SettingsBase::AlphaHandling">ReduceBorderArtifacts</enum>
+        <enum type="SettingsBase::AlphaHandling">KeepTransparentPixels</enum>
         <key>contentProtection</key>
         <struct type="ContentProtection">
             <key>key</key>
@@ -187,9 +187,24 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
+            <key type="filename">images/1_bg_highlight.png</key>
+            <key type="filename">images/2_bg_highlight.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>69,32,138,63</rect>
+                <key>scale9Paddings</key>
+                <rect>69,32,138,63</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/1_border.png</key>
             <key type="filename">images/1_border_highlight.png</key>
-            <key type="filename">images/1_highlight.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -201,6 +216,22 @@
                 <rect>70,36,140,71</rect>
                 <key>scale9Paddings</key>
                 <rect>70,36,140,71</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/1_border_winning.png</key>
+            <key type="filename">images/2_border_winning.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>65,28,130,55</rect>
+                <key>scale9Paddings</key>
+                <rect>65,28,130,55</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -220,7 +251,6 @@
                 <false/>
             </struct>
             <key type="filename">images/2_border_highlight.png</key>
-            <key type="filename">images/2_highlight.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -232,12 +262,26 @@
                 <rect>120,28,241,56</rect>
                 <key>scale9Paddings</key>
                 <rect>120,28,241,56</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/4_bg_highlight.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>112,41,223,81</rect>
+                <key>scale9Paddings</key>
+                <rect>112,41,223,81</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
             <key type="filename">images/4_border.png</key>
             <key type="filename">images/4_border_highlight.png</key>
-            <key type="filename">images/4_highlight.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -252,9 +296,38 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/4_border_winning.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>108,37,215,73</rect>
+                <key>scale9Paddings</key>
+                <rect>108,37,215,73</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/5_bg_highlight.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>56,54,111,108</rect>
+                <key>scale9Paddings</key>
+                <rect>56,54,111,108</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/5_border.png</key>
             <key type="filename">images/5_border_highlight.png</key>
-            <key type="filename">images/5_highlight.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -266,6 +339,21 @@
                 <rect>73,43,145,86</rect>
                 <key>scale9Paddings</key>
                 <rect>73,43,145,86</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/5_border_winning.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>52,50,103,100</rect>
+                <key>scale9Paddings</key>
+                <rect>52,50,103,100</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -281,21 +369,6 @@
                 <rect>38,38,75,75</rect>
                 <key>scale9Paddings</key>
                 <rect>38,38,75,75</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/bg_result.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>276,29,551,59</rect>
-                <key>scale9Paddings</key>
-                <rect>276,29,551,59</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -316,6 +389,26 @@
                 <rect>23,23,45,45</rect>
                 <key>scale9Paddings</key>
                 <rect>23,23,45,45</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/crab_outer.png</key>
+            <key type="filename">images/crooster_outer.png</key>
+            <key type="filename">images/fish_outer.png</key>
+            <key type="filename">images/gourd_outer.png</key>
+            <key type="filename">images/prawn_outer.png</key>
+            <key type="filename">images/stag_outer.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>25,25,50,50</rect>
+                <key>scale9Paddings</key>
+                <rect>25,25,50,50</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -565,46 +658,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/stats_crab.png</key>
-            <key type="filename">images/stats_crab_highlight.png</key>
-            <key type="filename">images/stats_fish_highlight.png</key>
-            <key type="filename">images/stats_gourd.png</key>
-            <key type="filename">images/stats_gourd_highlight.png</key>
-            <key type="filename">images/stats_prawn.png</key>
-            <key type="filename">images/stats_prawn_highlight.png</key>
-            <key type="filename">images/stats_rooster.png</key>
-            <key type="filename">images/stats_rooster_highlight.png</key>
-            <key type="filename">images/stats_stag.png</key>
-            <key type="filename">images/stats_stag_highlight.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>12,12,24,24</rect>
-                <key>scale9Paddings</key>
-                <rect>12,12,24,24</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/stats_fish.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>8,8,15,16</rect>
-                <key>scale9Paddings</key>
-                <rect>8,8,15,16</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/stats_overlay.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -635,6 +688,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/winning_light.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>14,12,27,24</rect>
+                <key>scale9Paddings</key>
+                <rect>14,12,27,24</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/x2.png</key>
             <key type="filename">images/x2_last.png</key>
             <key type="filename">images/x3.png</key>
@@ -657,30 +725,13 @@
         <key>fileList</key>
         <array>
             <filename>images/1_border.png</filename>
-            <filename>images/1_highlight.png</filename>
             <filename>images/2_border.png</filename>
-            <filename>images/2_highlight.png</filename>
             <filename>images/4_border.png</filename>
-            <filename>images/4_highlight.png</filename>
             <filename>images/5_border.png</filename>
-            <filename>images/5_highlight.png</filename>
-            <filename>images/bg_result.png</filename>
             <filename>images/dealer.png</filename>
             <filename>images/hop_day.png</filename>
             <filename>images/hop_dung.png</filename>
             <filename>images/light.png</filename>
-            <filename>images/stats_crab.png</filename>
-            <filename>images/stats_crab_highlight.png</filename>
-            <filename>images/stats_fish.png</filename>
-            <filename>images/stats_fish_highlight.png</filename>
-            <filename>images/stats_gourd.png</filename>
-            <filename>images/stats_gourd_highlight.png</filename>
-            <filename>images/stats_rooster.png</filename>
-            <filename>images/stats_rooster_highlight.png</filename>
-            <filename>images/stats_stag.png</filename>
-            <filename>images/stats_stag_highlight.png</filename>
-            <filename>images/stats_prawn.png</filename>
-            <filename>images/stats_prawn_highlight.png</filename>
             <filename>images/money_avatar.png</filename>
             <filename>images/stats_bg.png</filename>
             <filename>images/stats_separate.png</filename>
@@ -716,6 +767,21 @@
             <filename>images/avatar_border.png</filename>
             <filename>images/grid.png</filename>
             <filename>images/dot_grey.png</filename>
+            <filename>images/1_bg_highlight.png</filename>
+            <filename>images/2_bg_highlight.png</filename>
+            <filename>images/4_bg_highlight.png</filename>
+            <filename>images/5_bg_highlight.png</filename>
+            <filename>images/1_border_winning.png</filename>
+            <filename>images/2_border_winning.png</filename>
+            <filename>images/4_border_winning.png</filename>
+            <filename>images/5_border_winning.png</filename>
+            <filename>images/winning_light.png</filename>
+            <filename>images/crab_outer.png</filename>
+            <filename>images/crooster_outer.png</filename>
+            <filename>images/fish_outer.png</filename>
+            <filename>images/gourd_outer.png</filename>
+            <filename>images/prawn_outer.png</filename>
+            <filename>images/stag_outer.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
