@@ -189,6 +189,9 @@
         <map type="IndividualSpriteSettingsMap">
             <key type="filename">images/1_bg_highlight.png</key>
             <key type="filename">images/2_bg_highlight.png</key>
+            <key type="filename">images/3_bg_highlight.png</key>
+            <key type="filename">images/3_border.png</key>
+            <key type="filename">images/3_border_highlight.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -782,6 +785,9 @@
             <filename>images/gourd_outer.png</filename>
             <filename>images/prawn_outer.png</filename>
             <filename>images/stag_outer.png</filename>
+            <filename>images/3_bg_highlight.png</filename>
+            <filename>images/3_border.png</filename>
+            <filename>images/3_border_highlight.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
