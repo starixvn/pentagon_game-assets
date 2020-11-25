@@ -277,6 +277,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/logo.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>34,13,67,27</rect>
+                <key>scale9Paddings</key>
+                <rect>34,13,67,27</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/sign-in.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -302,6 +317,7 @@
             <filename>images/sign-in.png</filename>
             <filename>images/bg-news-text.png</filename>
             <filename>images/NenTenNenTien.png</filename>
+            <filename>images/logo.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

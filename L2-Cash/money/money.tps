@@ -220,6 +220,7 @@
             <key type="filename">images/chip10.png</key>
             <key type="filename">images/chip20.png</key>
             <key type="filename">images/chip2000.png</key>
+            <key type="filename">images/chip5.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -416,6 +417,7 @@
             <filename>images/chip2000_small.png</filename>
             <filename>images/chip20.png</filename>
             <filename>images/chip20_small.png</filename>
+            <filename>images/chip5.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
