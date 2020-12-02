@@ -213,6 +213,7 @@
             <key type="filename">images/mini_sedie.png</key>
             <key type="filename">images/odd_even.png</key>
             <key type="filename">images/sedie.png</key>
+            <key type="filename">images/sicbo.png</key>
             <key type="filename">images/turbo_big_small.png</key>
             <key type="filename">images/turbo_odd_even.png</key>
             <key type="filename">images/vip_fish_prawn_crab.png</key>
@@ -496,6 +497,7 @@
             <filename>images/shadow.png</filename>
             <filename>images/text.png</filename>
             <filename>images/glowing light.png</filename>
+            <filename>images/sicbo.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

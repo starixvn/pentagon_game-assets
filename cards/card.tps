@@ -106,9 +106,9 @@
             <key>freeSizeMode</key>
             <enum type="AlgorithmSettings::AlgorithmFreeSizeMode">Best</enum>
             <key>sizeConstraints</key>
-            <enum type="AlgorithmSettings::SizeConstraints">POT</enum>
+            <enum type="AlgorithmSettings::SizeConstraints">AnySize</enum>
             <key>forceSquared</key>
-            <true/>
+            <false/>
             <key>maxRects</key>
             <struct type="AlgorithmMaxRectsSettings">
                 <key>heuristic</key>
@@ -148,7 +148,7 @@
         <key>outputFormat</key>
         <enum type="SettingsBase::OutputFormat">RGBA8888</enum>
         <key>alphaHandling</key>
-        <enum type="SettingsBase::AlphaHandling">PremultiplyAlpha</enum>
+        <enum type="SettingsBase::AlphaHandling">ClearTransparentPixels</enum>
         <key>contentProtection</key>
         <struct type="ContentProtection">
             <key>key</key>
@@ -187,59 +187,14 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">images/10A.png</key>
-            <key type="filename">images/10B.png</key>
-            <key type="filename">images/10C.png</key>
-            <key type="filename">images/10D.png</key>
-            <key type="filename">images/2A.png</key>
-            <key type="filename">images/2B.png</key>
-            <key type="filename">images/2C.png</key>
-            <key type="filename">images/2D.png</key>
-            <key type="filename">images/3A.png</key>
-            <key type="filename">images/3B.png</key>
-            <key type="filename">images/3C.png</key>
-            <key type="filename">images/3D.png</key>
-            <key type="filename">images/4A.png</key>
-            <key type="filename">images/4B.png</key>
-            <key type="filename">images/4C.png</key>
-            <key type="filename">images/4D.png</key>
-            <key type="filename">images/5A.png</key>
-            <key type="filename">images/5B.png</key>
-            <key type="filename">images/5C.png</key>
-            <key type="filename">images/5D.png</key>
-            <key type="filename">images/6A.png</key>
-            <key type="filename">images/6B.png</key>
-            <key type="filename">images/6C.png</key>
-            <key type="filename">images/6D.png</key>
-            <key type="filename">images/7A.png</key>
-            <key type="filename">images/7B.png</key>
-            <key type="filename">images/7C.png</key>
-            <key type="filename">images/7D.png</key>
-            <key type="filename">images/8A.png</key>
-            <key type="filename">images/8B.png</key>
-            <key type="filename">images/8C.png</key>
-            <key type="filename">images/8D.png</key>
-            <key type="filename">images/9A.png</key>
-            <key type="filename">images/9B.png</key>
-            <key type="filename">images/9C.png</key>
-            <key type="filename">images/9D.png</key>
-            <key type="filename">images/AA.png</key>
-            <key type="filename">images/AB.png</key>
-            <key type="filename">images/AC.png</key>
-            <key type="filename">images/AD.png</key>
-            <key type="filename">images/BACK_1.png</key>
-            <key type="filename">images/JA.png</key>
-            <key type="filename">images/JB.png</key>
-            <key type="filename">images/JC.png</key>
-            <key type="filename">images/JD.png</key>
-            <key type="filename">images/KA.png</key>
-            <key type="filename">images/KB.png</key>
-            <key type="filename">images/KC.png</key>
-            <key type="filename">images/KD.png</key>
-            <key type="filename">images/QA.png</key>
-            <key type="filename">images/QB.png</key>
-            <key type="filename">images/QC.png</key>
-            <key type="filename">images/QD.png</key>
+            <key type="filename">images/10.png</key>
+            <key type="filename">images/3.png</key>
+            <key type="filename">images/5.png</key>
+            <key type="filename">images/7.png</key>
+            <key type="filename">images/9.png</key>
+            <key type="filename">images/a.png</key>
+            <key type="filename">images/j.png</key>
+            <key type="filename">images/k.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -248,9 +203,44 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>28,40,55,79</rect>
+                <rect>11,13,21,25</rect>
                 <key>scale9Paddings</key>
-                <rect>28,40,55,79</rect>
+                <rect>11,13,21,25</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/2.png</key>
+            <key type="filename">images/4.png</key>
+            <key type="filename">images/6.png</key>
+            <key type="filename">images/8.png</key>
+            <key type="filename">images/q.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>10,13,19,25</rect>
+                <key>scale9Paddings</key>
+                <rect>10,13,19,25</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/BACK_1.png</key>
+            <key type="filename">images/card_bg.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>38,48,76,95</rect>
+                <key>scale9Paddings</key>
+                <rect>38,48,76,95</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -263,69 +253,127 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>29,41,57,81</rect>
+                <rect>40,49,79,98</rect>
                 <key>scale9Paddings</key>
-                <rect>29,41,57,81</rect>
+                <rect>40,49,79,98</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/card_shadow.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>50,62,99,123</rect>
+                <key>scale9Paddings</key>
+                <rect>50,62,99,123</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/chiabai.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>25,22,50,43</rect>
+                <key>scale9Paddings</key>
+                <rect>25,22,50,43</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/club.jpg</key>
+            <key type="filename">images/diamond.jpg</key>
+            <key type="filename">images/heart.jpg</key>
+            <key type="filename">images/spade.jpg</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>24,25,48,50</rect>
+                <key>scale9Paddings</key>
+                <rect>24,25,48,50</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/club_small.jpg</key>
+            <key type="filename">images/diamond_small.jpg</key>
+            <key type="filename">images/heart_small.jpg</key>
+            <key type="filename">images/spade_small.jpg</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>10,9,19,19</rect>
+                <key>scale9Paddings</key>
+                <rect>10,9,19,19</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/j_picture.jpg</key>
+            <key type="filename">images/k_picture.jpg</key>
+            <key type="filename">images/q_picture.jpg</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>34,44,67,87</rect>
+                <key>scale9Paddings</key>
+                <rect>34,44,67,87</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
         </map>
         <key>fileList</key>
         <array>
-            <filename>images/10A.png</filename>
-            <filename>images/10B.png</filename>
-            <filename>images/10C.png</filename>
-            <filename>images/10D.png</filename>
-            <filename>images/2A.png</filename>
-            <filename>images/2B.png</filename>
-            <filename>images/2C.png</filename>
-            <filename>images/2D.png</filename>
-            <filename>images/3A.png</filename>
-            <filename>images/3B.png</filename>
-            <filename>images/3C.png</filename>
-            <filename>images/3D.png</filename>
-            <filename>images/4A.png</filename>
-            <filename>images/4B.png</filename>
-            <filename>images/4C.png</filename>
-            <filename>images/4D.png</filename>
-            <filename>images/5A.png</filename>
-            <filename>images/5B.png</filename>
-            <filename>images/5C.png</filename>
-            <filename>images/5D.png</filename>
-            <filename>images/6A.png</filename>
-            <filename>images/6B.png</filename>
-            <filename>images/6C.png</filename>
-            <filename>images/6D.png</filename>
-            <filename>images/7A.png</filename>
-            <filename>images/7B.png</filename>
-            <filename>images/7C.png</filename>
-            <filename>images/7D.png</filename>
-            <filename>images/8A.png</filename>
-            <filename>images/8B.png</filename>
-            <filename>images/8C.png</filename>
-            <filename>images/8D.png</filename>
-            <filename>images/9A.png</filename>
-            <filename>images/9B.png</filename>
-            <filename>images/9C.png</filename>
-            <filename>images/9D.png</filename>
-            <filename>images/AA.png</filename>
-            <filename>images/AB.png</filename>
-            <filename>images/AC.png</filename>
-            <filename>images/AD.png</filename>
+            <filename>images/10.png</filename>
+            <filename>images/2.png</filename>
+            <filename>images/3.png</filename>
+            <filename>images/4.png</filename>
+            <filename>images/5.png</filename>
+            <filename>images/6.png</filename>
+            <filename>images/7.png</filename>
+            <filename>images/8.png</filename>
+            <filename>images/9.png</filename>
             <filename>images/BACK_1.png</filename>
             <filename>images/BACK_2.png</filename>
-            <filename>images/JA.png</filename>
-            <filename>images/JB.png</filename>
-            <filename>images/JC.png</filename>
-            <filename>images/JD.png</filename>
-            <filename>images/KA.png</filename>
-            <filename>images/KB.png</filename>
-            <filename>images/KC.png</filename>
-            <filename>images/KD.png</filename>
-            <filename>images/QA.png</filename>
-            <filename>images/QB.png</filename>
-            <filename>images/QC.png</filename>
-            <filename>images/QD.png</filename>
+            <filename>images/a.png</filename>
+            <filename>images/card_bg.png</filename>
+            <filename>images/chiabai.png</filename>
+            <filename>images/club.jpg</filename>
+            <filename>images/club_small.jpg</filename>
+            <filename>images/diamond.jpg</filename>
+            <filename>images/diamond_small.jpg</filename>
+            <filename>images/heart.jpg</filename>
+            <filename>images/j.png</filename>
+            <filename>images/j_picture.jpg</filename>
+            <filename>images/k.png</filename>
+            <filename>images/k_picture.jpg</filename>
+            <filename>images/q.png</filename>
+            <filename>images/q_picture.jpg</filename>
+            <filename>images/spade.jpg</filename>
+            <filename>images/spade_small.jpg</filename>
+            <filename>images/card_shadow.png</filename>
+            <filename>images/heart_small.jpg</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
