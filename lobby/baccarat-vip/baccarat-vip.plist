@@ -11,11 +11,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{118,148}</string>
+                <string>{98,123}</string>
                 <key>spriteSourceSize</key>
-                <string>{118,148}</string>
+                <string>{98,123}</string>
                 <key>textureRect</key>
-                <string>{{3,484},{118,148}}</string>
+                <string>{{500,151},{98,123}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -26,11 +26,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{217,217}</string>
+                <string>{181,181}</string>
                 <key>spriteSourceSize</key>
-                <string>{217,217}</string>
+                <string>{181,181}</string>
                 <key>textureRect</key>
-                <string>{{3,3},{217,217}}</string>
+                <string>{{1,1},{181,181}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -39,13 +39,13 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{-6,-4}</string>
+                <string>{-4,-4}</string>
                 <key>spriteSize</key>
-                <string>{119,161}</string>
+                <string>{99,133}</string>
                 <key>spriteSourceSize</key>
-                <string>{157,169}</string>
+                <string>{131,141}</string>
                 <key>textureRect</key>
-                <string>{{3,363},{119,161}}</string>
+                <string>{{365,151},{99,133}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -56,11 +56,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{214,139}</string>
+                <string>{178,116}</string>
                 <key>spriteSourceSize</key>
-                <string>{214,139}</string>
+                <string>{178,116}</string>
                 <key>textureRect</key>
-                <string>{{3,222},{214,139}}</string>
+                <string>{{514,1},{178,116}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -71,13 +71,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{134,32}</string>
+                <string>{112,27}</string>
                 <key>spriteSourceSize</key>
-                <string>{134,32}</string>
+                <string>{112,27}</string>
                 <key>textureRect</key>
-                <string>{{440,60},{134,32}}</string>
+                <string>{{183,184},{112,27}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>textbaccarat.png</key>
             <dict>
@@ -86,11 +86,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{216,85}</string>
+                <string>{180,71}</string>
                 <key>spriteSourceSize</key>
-                <string>{216,85}</string>
+                <string>{180,71}</string>
                 <key>textureRect</key>
-                <string>{{222,3},{216,85}}</string>
+                <string>{{1,184},{180,71}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -101,13 +101,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{55,56}</string>
+                <string>{46,47}</string>
                 <key>spriteSourceSize</key>
-                <string>{55,56}</string>
+                <string>{46,47}</string>
                 <key>textureRect</key>
-                <string>{{440,3},{55,56}}</string>
+                <string>{{297,182},{46,47}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>trontron.png</key>
             <dict>
@@ -116,11 +116,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{18,18}</string>
+                <string>{15,15}</string>
                 <key>spriteSourceSize</key>
-                <string>{18,18}</string>
+                <string>{15,15}</string>
                 <key>textureRect</key>
-                <string>{{474,60},{18,18}}</string>
+                <string>{{183,213},{15,15}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -131,11 +131,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{215,215}</string>
+                <string>{179,179}</string>
                 <key>spriteSourceSize</key>
-                <string>{215,215}</string>
+                <string>{179,179}</string>
                 <key>textureRect</key>
-                <string>{{222,90},{215,215}}</string>
+                <string>{{184,1},{179,179}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -146,11 +146,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{138,108}</string>
+                <string>{115,90}</string>
                 <key>spriteSourceSize</key>
-                <string>{138,108}</string>
+                <string>{115,90}</string>
                 <key>textureRect</key>
-                <string>{{399,307},{138,108}}</string>
+                <string>{{625,119},{115,90}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -161,13 +161,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{178,176}</string>
+                <string>{148,147}</string>
                 <key>spriteSourceSize</key>
-                <string>{178,176}</string>
+                <string>{148,147}</string>
                 <key>textureRect</key>
-                <string>{{219,307},{178,176}}</string>
+                <string>{{365,1},{148,147}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
         </dict>
         <key>metadata</key>
@@ -177,13 +177,13 @@
             <key>pixelFormat</key>
             <string>RGBA8888</string>
             <key>premultiplyAlpha</key>
-            <true/>
+            <false/>
             <key>realTextureFileName</key>
             <string>baccarat-vip.png</string>
             <key>size</key>
-            <string>{512,1024}</string>
+            <string>{716,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:21ab6fa309023491e8b4be2b925aece2:3442bb50095230065931e1507d045492:0354047a2935497a3e8222d45e898058$</string>
+            <string>$TexturePacker:SmartUpdate:556b1907f7e1ce25199c89ce081e4247:3442bb50095230065931e1507d045492:0354047a2935497a3e8222d45e898058$</string>
             <key>textureFileName</key>
             <string>baccarat-vip.png</string>
         </dict>
