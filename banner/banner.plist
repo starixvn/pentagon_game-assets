@@ -9,13 +9,13 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,4}</string>
+                <string>{0,3}</string>
                 <key>spriteSize</key>
-                <string>{245,362}</string>
+                <string>{204,302}</string>
                 <key>spriteSourceSize</key>
-                <string>{245,370}</string>
+                <string>{204,308}</string>
                 <key>textureRect</key>
-                <string>{{250,1},{245,362}}</string>
+                <string>{{1,310},{204,302}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -24,13 +24,13 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,-5}</string>
+                <string>{0,-4}</string>
                 <key>spriteSize</key>
-                <string>{233,359}</string>
+                <string>{194,299}</string>
                 <key>spriteSourceSize</key>
-                <string>{247,369}</string>
+                <string>{206,307}</string>
                 <key>textureRect</key>
-                <string>{{497,1},{233,359}}</string>
+                <string>{{1,614},{194,299}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -41,11 +41,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{247,369}</string>
+                <string>{206,307}</string>
                 <key>spriteSourceSize</key>
-                <string>{247,369}</string>
+                <string>{206,307}</string>
                 <key>textureRect</key>
-                <string>{{1,1},{247,369}}</string>
+                <string>{{1,1},{206,307}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -61,9 +61,9 @@
             <key>realTextureFileName</key>
             <string>banner.png</string>
             <key>size</key>
-            <string>{731,371}</string>
+            <string>{208,914}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:bd4a1b0eac2f9fe8e99a60cf1409bf39:aadfee5dd9cb1bd28ae36c34fca9f1fe:468a889166313e164748aa683a0b056a$</string>
+            <string>$TexturePacker:SmartUpdate:317f45c767dfb72cf2aec4b6f3bc88de:7f65410179f5427b95b0de35b2f63a2c:468a889166313e164748aa683a0b056a$</string>
             <key>textureFileName</key>
             <string>banner.png</string>
         </dict>
