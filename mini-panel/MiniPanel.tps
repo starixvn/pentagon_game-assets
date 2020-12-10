@@ -216,7 +216,9 @@
             <key type="filename">images/sicbo.png</key>
             <key type="filename">images/turbo_big_small.png</key>
             <key type="filename">images/turbo_odd_even.png</key>
+            <key type="filename">images/vip_baccarat.png</key>
             <key type="filename">images/vip_fish_prawn_crab.png</key>
+            <key type="filename">images/vip_sediewar.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -460,6 +462,22 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/vip_baccarat_lobby_comming_soon.png</key>
+            <key type="filename">images/vip_sedie_war_lobby_comming_soon.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>54,54,108,108</rect>
+                <key>scale9Paddings</key>
+                <rect>54,54,108,108</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
         </map>
         <key>fileList</key>
         <array>
@@ -498,6 +516,10 @@
             <filename>images/text.png</filename>
             <filename>images/glowing light.png</filename>
             <filename>images/sicbo.png</filename>
+            <filename>images/vip_baccarat_lobby_comming_soon.png</filename>
+            <filename>images/vip_sedie_war_lobby_comming_soon.png</filename>
+            <filename>images/vip_baccarat.png</filename>
+            <filename>images/vip_sediewar.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

@@ -203,7 +203,7 @@
                 <false/>
             </struct>
             <key type="filename">images/sicbo.png</key>
-            <key type="filename">images/vip_fish_prawn_crab.png</key>
+            <key type="filename">images/vip_sedie_war.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -221,9 +221,9 @@
         </map>
         <key>fileList</key>
         <array>
-            <filename>images/vip_fish_prawn_crab.png</filename>
             <filename>images/sicbo.png</filename>
             <filename>images/baccarat_vip.png</filename>
+            <filename>images/vip_sedie_war.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

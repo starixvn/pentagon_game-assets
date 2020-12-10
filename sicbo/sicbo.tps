@@ -767,6 +767,53 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/stats_10.png</key>
+            <key type="filename">images/stats_11.png</key>
+            <key type="filename">images/stats_12.png</key>
+            <key type="filename">images/stats_13.png</key>
+            <key type="filename">images/stats_14.png</key>
+            <key type="filename">images/stats_15.png</key>
+            <key type="filename">images/stats_16.png</key>
+            <key type="filename">images/stats_17.png</key>
+            <key type="filename">images/stats_18.png</key>
+            <key type="filename">images/stats_3.png</key>
+            <key type="filename">images/stats_4.png</key>
+            <key type="filename">images/stats_5.png</key>
+            <key type="filename">images/stats_6.png</key>
+            <key type="filename">images/stats_7.png</key>
+            <key type="filename">images/stats_8.png</key>
+            <key type="filename">images/stats_9.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>5,3,10,7</rect>
+                <key>scale9Paddings</key>
+                <rect>5,3,10,7</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/stats_B.png</key>
+            <key type="filename">images/stats_T.png</key>
+            <key type="filename">images/stats_X.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>3,3,7,7</rect>
+                <key>scale9Paddings</key>
+                <rect>3,3,7,7</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/stats_bg.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -779,6 +826,21 @@
                 <rect>10,32,20,65</rect>
                 <key>scale9Paddings</key>
                 <rect>10,32,20,65</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/stats_bg_dark.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>9,32,17,65</rect>
+                <key>scale9Paddings</key>
+                <rect>9,32,17,65</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -994,6 +1056,26 @@
             <filename>images/total_points_border_winning.png</filename>
             <filename>images/tray.png</filename>
             <filename>images/winning_light.png</filename>
+            <filename>images/stats_bg_dark.png</filename>
+            <filename>images/stats_10.png</filename>
+            <filename>images/stats_11.png</filename>
+            <filename>images/stats_12.png</filename>
+            <filename>images/stats_13.png</filename>
+            <filename>images/stats_14.png</filename>
+            <filename>images/stats_15.png</filename>
+            <filename>images/stats_16.png</filename>
+            <filename>images/stats_17.png</filename>
+            <filename>images/stats_18.png</filename>
+            <filename>images/stats_3.png</filename>
+            <filename>images/stats_4.png</filename>
+            <filename>images/stats_5.png</filename>
+            <filename>images/stats_6.png</filename>
+            <filename>images/stats_7.png</filename>
+            <filename>images/stats_8.png</filename>
+            <filename>images/stats_9.png</filename>
+            <filename>images/stats_B.png</filename>
+            <filename>images/stats_T.png</filename>
+            <filename>images/stats_X.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

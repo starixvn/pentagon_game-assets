@@ -148,7 +148,7 @@
         <key>outputFormat</key>
         <enum type="SettingsBase::OutputFormat">RGBA8888</enum>
         <key>alphaHandling</key>
-        <enum type="SettingsBase::AlphaHandling">ClearTransparentPixels</enum>
+        <enum type="SettingsBase::AlphaHandling">ReduceBorderArtifacts</enum>
         <key>contentProtection</key>
         <struct type="ContentProtection">
             <key>key</key>
@@ -187,21 +187,6 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">images/ban.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>320,162,639,323</rect>
-                <key>scale9Paddings</key>
-                <rect>320,162,639,323</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/banker.png</key>
             <key type="filename">images/player.png</key>
             <struct type="IndividualSpriteSettings">
@@ -233,6 +218,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/banker_bg_winning.png</key>
             <key type="filename">images/banker_border.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -248,7 +234,24 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/banker_highlight.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>62,63,123,126</rect>
+                <key>scale9Paddings</key>
+                <rect>62,63,123,126</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/banker_pair_bg_winning.png</key>
             <key type="filename">images/banker_pair_border.png</key>
+            <key type="filename">images/player_pair_bg_winning.png</key>
             <key type="filename">images/player_pair_border.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -261,6 +264,22 @@
                 <rect>56,30,111,59</rect>
                 <key>scale9Paddings</key>
                 <rect>56,30,111,59</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/banker_pair_highlight.png</key>
+            <key type="filename">images/player_pair_highlight.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>58,31,115,62</rect>
+                <key>scale9Paddings</key>
+                <rect>58,31,115,62</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -294,6 +313,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/big_bg_winning.png</key>
             <key type="filename">images/big_border.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -306,6 +326,51 @@
                 <rect>56,29,112,58</rect>
                 <key>scale9Paddings</key>
                 <rect>56,29,112,58</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/big_border_highlight.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>58,31,116,62</rect>
+                <key>scale9Paddings</key>
+                <rect>58,31,116,62</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/chamdo.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>4,3,7,6</rect>
+                <key>scale9Paddings</key>
+                <rect>4,3,7,6</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/chamxanh.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>4,4,8,7</rect>
+                <key>scale9Paddings</key>
+                <rect>4,4,8,7</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -342,6 +407,22 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/container_history_statistic.png</key>
+            <key type="filename">images/history_border_vertical.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>40,39,80,77</rect>
+                <key>scale9Paddings</key>
+                <rect>40,39,80,77</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/dealer.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -354,6 +435,66 @@
                 <rect>44,53,87,106</rect>
                 <key>scale9Paddings</key>
                 <rect>44,53,87,106</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/dot_next.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>4,4,9,9</rect>
+                <key>scale9Paddings</key>
+                <rect>4,4,9,9</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/dot_yellow.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>2,2,4,4</rect>
+                <key>scale9Paddings</key>
+                <rect>2,2,4,4</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/gachxanhla.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>2,2,3,3</rect>
+                <key>scale9Paddings</key>
+                <rect>2,2,3,3</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/grid.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>10,29,19,57</rect>
+                <key>scale9Paddings</key>
+                <rect>10,29,19,57</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -372,7 +513,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/history_border_vertical.png</key>
+            <key type="filename">images/history_grid.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -381,9 +522,39 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>40,39,80,77</rect>
+                <rect>4,26,9,51</rect>
                 <key>scale9Paddings</key>
-                <rect>40,39,80,77</rect>
+                <rect>4,26,9,51</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/hopchiabai.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>19,17,37,33</rect>
+                <key>scale9Paddings</key>
+                <rect>19,17,37,33</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/light.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>14,12,27,24</rect>
+                <key>scale9Paddings</key>
+                <rect>14,12,27,24</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -447,6 +618,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/tie_bg_winning.png</key>
             <key type="filename">images/tie_border.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -459,6 +631,21 @@
                 <rect>35,61,71,122</rect>
                 <key>scale9Paddings</key>
                 <rect>35,61,71,122</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/tie_highlight.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>37,63,75,126</rect>
+                <key>scale9Paddings</key>
+                <rect>37,63,75,126</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -477,10 +664,73 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/total_users.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>28,28,55,56</rect>
+                <key>scale9Paddings</key>
+                <rect>28,28,55,56</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/trondo.png</key>
+            <key type="filename">images/trondo_coruot.png</key>
+            <key type="filename">images/tronxanh.png</key>
+            <key type="filename">images/tronxanh_coruot.png</key>
+            <key type="filename">images/tronxanhla_coruot.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>5,5,9,9</rect>
+                <key>scale9Paddings</key>
+                <rect>5,5,9,9</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/win-background.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>82,9,165,18</rect>
+                <key>scale9Paddings</key>
+                <rect>82,9,165,18</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/win-card-outer.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>25,32,51,64</rect>
+                <key>scale9Paddings</key>
+                <rect>25,32,51,64</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
         </map>
         <key>fileList</key>
         <array>
-            <filename>images/ban.png</filename>
             <filename>images/banker.png</filename>
             <filename>images/bankerPair.png</filename>
             <filename>images/banker_border.png</filename>
@@ -504,6 +754,34 @@
             <filename>images/tie.png</filename>
             <filename>images/tie_border.png</filename>
             <filename>images/total_points.png</filename>
+            <filename>images/banker_bg_winning.png</filename>
+            <filename>images/banker_highlight.png</filename>
+            <filename>images/banker_pair_bg_winning.png</filename>
+            <filename>images/banker_pair_highlight.png</filename>
+            <filename>images/big_bg_winning.png</filename>
+            <filename>images/big_border_highlight.png</filename>
+            <filename>images/container_history_statistic.png</filename>
+            <filename>images/grid.png</filename>
+            <filename>images/history_grid.png</filename>
+            <filename>images/hopchiabai.png</filename>
+            <filename>images/light.png</filename>
+            <filename>images/player_pair_bg_winning.png</filename>
+            <filename>images/player_pair_highlight.png</filename>
+            <filename>images/tie_bg_winning.png</filename>
+            <filename>images/tie_highlight.png</filename>
+            <filename>images/total_users.png</filename>
+            <filename>images/chamdo.png</filename>
+            <filename>images/chamxanh.png</filename>
+            <filename>images/dot_next.png</filename>
+            <filename>images/dot_yellow.png</filename>
+            <filename>images/gachxanhla.png</filename>
+            <filename>images/trondo.png</filename>
+            <filename>images/trondo_coruot.png</filename>
+            <filename>images/tronxanh.png</filename>
+            <filename>images/tronxanh_coruot.png</filename>
+            <filename>images/tronxanhla_coruot.png</filename>
+            <filename>images/win-background.png</filename>
+            <filename>images/win-card-outer.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
