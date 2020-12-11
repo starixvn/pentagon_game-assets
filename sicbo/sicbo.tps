@@ -844,6 +844,40 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/stats_dice1.png</key>
+            <key type="filename">images/stats_dice2.png</key>
+            <key type="filename">images/stats_dice3.png</key>
+            <key type="filename">images/stats_dice4.png</key>
+            <key type="filename">images/stats_dice6.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>6,6,12,12</rect>
+                <key>scale9Paddings</key>
+                <rect>6,6,12,12</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/stats_dice5.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>5,5,10,10</rect>
+                <key>scale9Paddings</key>
+                <rect>5,5,10,10</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/stats_overlay.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -1076,6 +1110,12 @@
             <filename>images/stats_B.png</filename>
             <filename>images/stats_T.png</filename>
             <filename>images/stats_X.png</filename>
+            <filename>images/stats_dice1.png</filename>
+            <filename>images/stats_dice2.png</filename>
+            <filename>images/stats_dice3.png</filename>
+            <filename>images/stats_dice4.png</filename>
+            <filename>images/stats_dice5.png</filename>
+            <filename>images/stats_dice6.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
