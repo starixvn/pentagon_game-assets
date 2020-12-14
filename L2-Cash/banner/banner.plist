@@ -4,22 +4,7 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>special-sedie.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{197,310}</string>
-                <key>spriteSourceSize</key>
-                <string>{197,310}</string>
-                <key>textureRect</key>
-                <string>{{209,1},{197,310}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>vip-sedie.png</key>
+            <key>blackjack.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -31,6 +16,36 @@
                 <string>{206,307}</string>
                 <key>textureRect</key>
                 <string>{{1,1},{206,307}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>sicbo.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-4}</string>
+                <key>spriteSize</key>
+                <string>{194,299}</string>
+                <key>spriteSourceSize</key>
+                <string>{206,307}</string>
+                <key>textureRect</key>
+                <string>{{1,619},{194,299}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>vip_fish_prawn_crab.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{206,307}</string>
+                <key>spriteSourceSize</key>
+                <string>{206,307}</string>
+                <key>textureRect</key>
+                <string>{{1,310},{206,307}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -46,9 +61,9 @@
             <key>realTextureFileName</key>
             <string>banner.png</string>
             <key>size</key>
-            <string>{407,312}</string>
+            <string>{208,919}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:544b6d4204f66fe6c3add5fe51363ce5:dbd800584e8c6bd742281d2ed1392482:468a889166313e164748aa683a0b056a$</string>
+            <string>$TexturePacker:SmartUpdate:51b86b228730e65c0c42645972d5b65d:d1e3cdcd420c2f649d47f21411ab69a3:468a889166313e164748aa683a0b056a$</string>
             <key>textureFileName</key>
             <string>banner.png</string>
         </dict>

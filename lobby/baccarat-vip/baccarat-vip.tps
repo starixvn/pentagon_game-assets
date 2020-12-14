@@ -277,6 +277,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/textcao.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>19,13,37,25</rect>
+                <key>scale9Paddings</key>
+                <rect>19,13,37,25</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/tiasang.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -366,6 +381,7 @@
             <filename>images/vien.png</filename>
             <filename>images/vip.png</filename>
             <filename>images/vuongmien.png</filename>
+            <filename>images/textcao.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
