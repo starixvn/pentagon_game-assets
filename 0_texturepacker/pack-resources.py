@@ -8,6 +8,8 @@ if __name__ == '__main__':
     current_dir = os.path.dirname(os.path.realpath(__file__))
     project_dir = os.path.join(current_dir, '..')
 
+    images_dir = 'longlan'
+
     # Pack.
     packer_path = os.path.join(
         project_dir,
@@ -24,9 +26,9 @@ if __name__ == '__main__':
         '-a',
         'http://10.10.50.17:3456',
         '-i',
-        os.path.join(project_dir, '0_texturepacker', 'raw_images', 'texture_packer.json'),
+        os.path.join(project_dir, '0_texturepacker', '..', images_dir, 'texture_packer.json'),
         '-o',
-        os.path.join(project_dir, '0_texturepacker', 'packed')
+        os.path.join(project_dir, '0_texturepacker', '..', images_dir, 'packed')
     ]).wait()
 
     # Copy resources (PNG) for editor.

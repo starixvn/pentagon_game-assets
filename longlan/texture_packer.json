@@ -4,8 +4,8 @@
             "options": {
                 "input_files": [
                     [
-                        "input",
-                        "*.*"
+                        "",
+                        "*.png"
                     ]
                 ]
             },
@@ -18,8 +18,6 @@
                         ],
                         "sheet_extension": "png",
                         "output_path": [
-                            "png",
-                            "{v}",
                             "longlan"
                         ]
                     }
@@ -71,7 +69,7 @@
             ],
             [
                 "--alpha-handling",
-                "PremultiplyAlpha"
+                "KeepTransparentPixels"
             ],
             [
                 "--max-width",
@@ -80,10 +78,6 @@
             [
                 "--trim-mode",
                 "Trim"
-            ],
-            [
-                "--variant",
-                "1.00:ipadhd"
             ],
             [
                 "--border-padding",
