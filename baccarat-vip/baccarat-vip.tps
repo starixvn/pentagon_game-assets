@@ -663,6 +663,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/tip.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>33,15,65,30</rect>
+                <key>scale9Paddings</key>
+                <rect>33,15,65,30</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/total_points.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -790,6 +805,7 @@
             <filename>images/tronxanh.png</filename>
             <filename>images/win-background.png</filename>
             <filename>images/win-card-outer.png</filename>
+            <filename>images/tip.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
