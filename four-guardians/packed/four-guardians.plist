@@ -1499,13 +1499,13 @@
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
-            <string>longlan.png</string>
+            <string>four-guardians.png</string>
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:7e44c3cb8817de16032de8882768b50a:1dde3cbaee0d8dc7a369c6114d818dd0:0faf4a422bae51dc06fb4bcf80d1a8db$</string>
+            <string>$TexturePacker:SmartUpdate:451ab1abee9f481af9b5f32ae7ce683d:1dde3cbaee0d8dc7a369c6114d818dd0:1d9d1f8dba9261e0e05045ff55606533$</string>
             <key>textureFileName</key>
-            <string>longlan.png</string>
+            <string>four-guardians.png</string>
         </dict>
     </dict>
 </plist>
