@@ -161,11 +161,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{17,17}</string>
+                <string>{19,19}</string>
                 <key>spriteSourceSize</key>
-                <string>{17,17}</string>
+                <string>{19,19}</string>
                 <key>textureRect</key>
-                <string>{{516,1233},{17,17}}</string>
+                <string>{{516,1233},{19,19}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -735,7 +735,7 @@
                 <key>spriteSourceSize</key>
                 <string>{19,19}</string>
                 <key>textureRect</key>
-                <string>{{516,1252},{17,17}}</string>
+                <string>{{516,1254},{17,17}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -750,7 +750,7 @@
                 <key>spriteSourceSize</key>
                 <string>{19,19}</string>
                 <key>textureRect</key>
-                <string>{{516,1271},{17,17}}</string>
+                <string>{{516,1273},{17,17}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -813,7 +813,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:0b681e014e37a4427d2c3b8c48f6aace:4a97a11106687208a6534c3ee9c51d36:c41d94721d004ffc6a01426d3f3d01ec$</string>
+            <string>$TexturePacker:SmartUpdate:90438905e4165e687dd5fc263c7e0a8d:ae2312482d80bf3bc3e3b2eb4cd1d1b5:c41d94721d004ffc6a01426d3f3d01ec$</string>
             <key>textureFileName</key>
             <string>baccarat.png</string>
         </dict>
