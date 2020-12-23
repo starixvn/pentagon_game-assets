@@ -262,6 +262,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/header_season.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>341,28,681,57</rect>
+                <key>scale9Paddings</key>
+                <rect>341,28,681,57</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/iconsapramat.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -318,6 +333,7 @@
             <filename>images/bg-news-text.png</filename>
             <filename>images/NenTenNenTien.png</filename>
             <filename>images/logo.png</filename>
+            <filename>images/header_season.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

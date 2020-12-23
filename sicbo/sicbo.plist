@@ -945,7 +945,7 @@
                 <key>spriteSourceSize</key>
                 <string>{20,13}</string>
                 <key>textureRect</key>
-                <string>{{1541,366},{20,13}}</string>
+                <string>{{1312,544},{20,13}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -960,26 +960,11 @@
                 <key>spriteSourceSize</key>
                 <string>{20,13}</string>
                 <key>textureRect</key>
-                <string>{{1312,544},{20,13}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>stats_13.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{20,13}</string>
-                <key>spriteSourceSize</key>
-                <string>{20,13}</string>
-                <key>textureRect</key>
                 <string>{{1608,350},{20,13}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>stats_14.png</key>
+            <key>stats_13.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -994,7 +979,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>stats_15.png</key>
+            <key>stats_14.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1009,7 +994,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>stats_16.png</key>
+            <key>stats_15.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1024,7 +1009,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>stats_17.png</key>
+            <key>stats_16.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1039,7 +1024,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>stats_18.png</key>
+            <key>stats_17.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -1051,6 +1036,21 @@
                 <string>{20,13}</string>
                 <key>textureRect</key>
                 <string>{{1216,377},{20,13}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>stats_18.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{20,13}</string>
+                <key>spriteSourceSize</key>
+                <string>{20,13}</string>
+                <key>textureRect</key>
+                <string>{{799,1001},{20,13}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1200,7 +1200,7 @@
                 <key>spriteSourceSize</key>
                 <string>{13,13}</string>
                 <key>textureRect</key>
-                <string>{{799,1001},{13,13}}</string>
+                <string>{{1238,377},{13,13}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1503,7 +1503,7 @@
             <key>size</key>
             <string>{1729,1023}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:a16bb5f23ccf80f4be0effbadb1a36ea:371ee00435ed6f206eb74db0ce5911a5:2137678510243ad0df8186a600fc552a$</string>
+            <string>$TexturePacker:SmartUpdate:d800fbbad1508d01fbd1dc93c44ca63d:b852db71d3bdc63ef3d7995653f92ea0:2137678510243ad0df8186a600fc552a$</string>
             <key>textureFileName</key>
             <string>sicbo.png</string>
         </dict>
