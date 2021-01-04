@@ -233,6 +233,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/ad_jackpot_amount_text.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>30,10,59,21</rect>
+                <key>scale9Paddings</key>
+                <rect>30,10,59,21</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/ad_jackpot_avatar_bg.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -293,21 +308,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/ad_jackpot_item_bg.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>12,10,23,20</rect>
-                <key>scale9Paddings</key>
-                <rect>12,10,23,20</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/ad_jackpot_item_bg_ative.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -320,6 +320,21 @@
                 <rect>13,11,25,22</rect>
                 <key>scale9Paddings</key>
                 <rect>13,11,25,22</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/ad_jackpot_text.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>25,11,49,21</rect>
+                <key>scale9Paddings</key>
+                <rect>25,11,49,21</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -395,13 +410,14 @@
             <filename>images/ad_jackpot_gold.png</filename>
             <filename>images/ad_jackpot_icon.png</filename>
             <filename>images/ad_jackpot_info_bg.png</filename>
-            <filename>images/ad_jackpot_item_bg.png</filename>
             <filename>images/ad_jackpot_item_bg_ative.png</filename>
             <filename>images/ad_nav_active.png</filename>
             <filename>images/ad_nav_bg.png</filename>
             <filename>images/baccarat_vip.png</filename>
             <filename>images/sicbo.png</filename>
             <filename>images/vip_sedie_war.png</filename>
+            <filename>images/ad_jackpot_amount_text.png</filename>
+            <filename>images/ad_jackpot_text.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
