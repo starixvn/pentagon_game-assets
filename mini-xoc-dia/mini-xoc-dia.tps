@@ -207,6 +207,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/bat.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>40,40,80,80</rect>
+                <key>scale9Paddings</key>
+                <rect>40,40,80,80</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/chan_border.png</key>
             <key type="filename">images/chan_border_active.png</key>
             <key type="filename">images/le_border.png</key>
@@ -254,6 +269,21 @@
                 <rect>5,5,9,9</rect>
                 <key>scale9Paddings</key>
                 <rect>5,5,9,9</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/dia.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>46,45,93,89</rect>
+                <key>scale9Paddings</key>
+                <rect>46,45,93,89</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -422,6 +452,8 @@
             <filename>images/light.png</filename>
             <filename>images/even.png</filename>
             <filename>images/odd.png</filename>
+            <filename>images/bat.png</filename>
+            <filename>images/dia.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
