@@ -208,6 +208,7 @@
             <key type="filename">images/blackjack.png</key>
             <key type="filename">images/dragon_tiger.png</key>
             <key type="filename">images/fish_prawn_crab.png</key>
+            <key type="filename">images/icon-home.png</key>
             <key type="filename">images/keno_pro_max.png</key>
             <key type="filename">images/keno_pro_viet.png</key>
             <key type="filename">images/mini_sedie.png</key>
@@ -444,6 +445,7 @@
             <filename>images/mini-game_border.png</filename>
             <filename>images/mini-game_icon.png</filename>
             <filename>images/mini-game_shadow.png</filename>
+            <filename>images/icon-home.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
