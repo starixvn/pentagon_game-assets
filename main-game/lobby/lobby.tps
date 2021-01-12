@@ -307,6 +307,22 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/result.png</key>
+            <key type="filename">images/sound.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>24,24,47,47</rect>
+                <key>scale9Paddings</key>
+                <rect>24,24,47,47</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/sign-in.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -322,6 +338,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/sound_off.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>24,24,48,48</rect>
+                <key>scale9Paddings</key>
+                <rect>24,24,48,48</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
         </map>
         <key>fileList</key>
         <array>
@@ -334,6 +365,9 @@
             <filename>images/NenTenNenTien.png</filename>
             <filename>images/logo.png</filename>
             <filename>images/header_season.png</filename>
+            <filename>images/result.png</filename>
+            <filename>images/sound.png</filename>
+            <filename>images/sound_off.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

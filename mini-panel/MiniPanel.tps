@@ -233,21 +233,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/bg_TopHu.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>52,71,103,141</rect>
-                <key>scale9Paddings</key>
-                <rect>52,71,103,141</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/bj_pending_bg.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -276,21 +261,6 @@
                 <rect>42,7,83,13</rect>
                 <key>scale9Paddings</key>
                 <rect>42,7,83,13</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/border.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>27,23,54,46</rect>
-                <key>scale9Paddings</key>
-                <rect>27,23,54,46</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -324,36 +294,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/flare.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>6,6,11,11</rect>
-                <key>scale9Paddings</key>
-                <rect>6,6,11,11</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/glowing light.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>36,36,71,71</rect>
-                <key>scale9Paddings</key>
-                <rect>36,36,71,71</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/inside.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -381,6 +321,23 @@
                 <rect>267,1,533,1</rect>
                 <key>scale9Paddings</key>
                 <rect>267,1,533,1</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/mini-game_border.png</key>
+            <key type="filename">images/mini-game_icon.png</key>
+            <key type="filename">images/mini-game_shadow.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>27,27,54,54</rect>
+                <key>scale9Paddings</key>
+                <rect>27,27,54,54</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -417,21 +374,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/shadow.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>24,4,47,8</rect>
-                <key>scale9Paddings</key>
-                <rect>24,4,47,8</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/sound_off.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -444,21 +386,6 @@
                 <rect>24,24,48,48</rect>
                 <key>scale9Paddings</key>
                 <rect>24,24,48,48</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/text.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>26,8,52,15</rect>
-                <key>scale9Paddings</key>
-                <rect>26,8,52,15</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -483,7 +410,6 @@
         <array>
             <filename>images/BongDenSang.png</filename>
             <filename>images/BongDenToi.png</filename>
-            <filename>images/bg_TopHu.png</filename>
             <filename>images/baccarat.png</filename>
             <filename>images/big_small.png</filename>
             <filename>images/dragon_tiger.png</filename>
@@ -509,17 +435,15 @@
             <filename>images/bj_pending_text.png</filename>
             <filename>images/bj_play.png</filename>
             <filename>images/vip_fish_prawn_crab.png</filename>
-            <filename>images/border.png</filename>
-            <filename>images/flare.png</filename>
             <filename>images/inside.png</filename>
-            <filename>images/shadow.png</filename>
-            <filename>images/text.png</filename>
-            <filename>images/glowing light.png</filename>
             <filename>images/sicbo.png</filename>
             <filename>images/vip_baccarat_lobby_comming_soon.png</filename>
             <filename>images/vip_sedie_war_lobby_comming_soon.png</filename>
             <filename>images/vip_baccarat.png</filename>
             <filename>images/vip_sediewar.png</filename>
+            <filename>images/mini-game_border.png</filename>
+            <filename>images/mini-game_icon.png</filename>
+            <filename>images/mini-game_shadow.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

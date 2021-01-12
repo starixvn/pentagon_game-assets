@@ -13,7 +13,7 @@
                 <key>spriteSize</key>
                 <string>{198,150}</string>
                 <key>spriteSourceSize</key>
-                <string>{198,150}</string>
+                <string>{200,152}</string>
                 <key>textureRect</key>
                 <string>{{596,399},{198,150}}</string>
                 <key>textureRotated</key>
@@ -393,7 +393,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:3ec0a213ea7c57b790bf9ebd48c291b6:184b7bea3e42529a124adccfecda5185:eabdee996efeea0589181ec9e9a262f8$</string>
+            <string>$TexturePacker:SmartUpdate:c1beac9d58b2a687c00a9b6471536054:d3745a2af4bf4e5224000b9ace9af187:eabdee996efeea0589181ec9e9a262f8$</string>
             <key>textureFileName</key>
             <string>sedie.png</string>
         </dict>
