@@ -219,6 +219,7 @@
                 <false/>
             </struct>
             <key type="filename">images/ad_jackpot.png</key>
+            <key type="filename">images/ad_jackpot_amount.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -418,6 +419,7 @@
             <filename>images/ad_jackpot_text.png</filename>
             <filename>images/ad_nav_active.png</filename>
             <filename>images/ad_nav_bg.png</filename>
+            <filename>images/ad_jackpot_amount.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
