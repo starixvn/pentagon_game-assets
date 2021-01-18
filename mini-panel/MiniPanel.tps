@@ -187,39 +187,14 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">images/BongDenSang.png</key>
-            <key type="filename">images/BongDenToi.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>50,50,100,100</rect>
-                <key>scale9Paddings</key>
-                <rect>50,50,100,100</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/baccarat.png</key>
             <key type="filename">images/big_small.png</key>
-            <key type="filename">images/blackjack.png</key>
             <key type="filename">images/dragon_tiger.png</key>
             <key type="filename">images/fish_prawn_crab.png</key>
             <key type="filename">images/icon-home.png</key>
-            <key type="filename">images/keno_pro_max.png</key>
             <key type="filename">images/keno_pro_viet.png</key>
             <key type="filename">images/mini_sedie.png</key>
-            <key type="filename">images/odd_even.png</key>
-            <key type="filename">images/sedie.png</key>
-            <key type="filename">images/sicbo.png</key>
             <key type="filename">images/turbo_big_small.png</key>
             <key type="filename">images/turbo_odd_even.png</key>
-            <key type="filename">images/vip_baccarat.png</key>
-            <key type="filename">images/vip_fish_prawn_crab.png</key>
-            <key type="filename">images/vip_sediewar.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -234,7 +209,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/bj_pending_bg.png</key>
+            <key type="filename">images/circle.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -243,25 +218,9 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>46,14,93,27</rect>
+                <rect>113,113,225,225</rect>
                 <key>scale9Paddings</key>
-                <rect>46,14,93,27</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/bj_pending_text.png</key>
-            <key type="filename">images/bj_play.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>42,7,83,13</rect>
-                <key>scale9Paddings</key>
-                <rect>42,7,83,13</rect>
+                <rect>113,113,225,225</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -310,21 +269,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/line.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>267,1,533,1</rect>
-                <key>scale9Paddings</key>
-                <rect>267,1,533,1</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/mini-game_border.png</key>
             <key type="filename">images/mini-game_icon.png</key>
             <key type="filename">images/mini-game_shadow.png</key>
@@ -358,23 +302,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/roulette.png</key>
-            <key type="filename">images/special_sedie.png</key>
-            <key type="filename">images/vip-sedie.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>39,39,77,77</rect>
-                <key>scale9Paddings</key>
-                <rect>39,39,77,77</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/sound_off.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -390,8 +317,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/vip_baccarat_lobby_comming_soon.png</key>
-            <key type="filename">images/vip_sedie_war_lobby_comming_soon.png</key>
+            <key type="filename">images/special_sedie.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -400,52 +326,34 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>54,54,108,108</rect>
+                <rect>39,39,77,77</rect>
                 <key>scale9Paddings</key>
-                <rect>54,54,108,108</rect>
+                <rect>39,39,77,77</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
         </map>
         <key>fileList</key>
         <array>
-            <filename>images/BongDenSang.png</filename>
-            <filename>images/BongDenToi.png</filename>
-            <filename>images/baccarat.png</filename>
             <filename>images/big_small.png</filename>
+            <filename>images/circle_yellow.png</filename>
+            <filename>images/close_icon.png</filename>
             <filename>images/dragon_tiger.png</filename>
             <filename>images/fish_prawn_crab.png</filename>
-            <filename>images/keno_pro_max.png</filename>
-            <filename>images/keno_pro_viet.png</filename>
-            <filename>images/mini_sedie.png</filename>
-            <filename>images/odd_even.png</filename>
-            <filename>images/result.png</filename>
-            <filename>images/sedie.png</filename>
-            <filename>images/sound.png</filename>
-            <filename>images/turbo_big_small.png</filename>
-            <filename>images/turbo_odd_even.png</filename>
-            <filename>images/line.png</filename>
-            <filename>images/close_icon.png</filename>
-            <filename>images/sound_off.png</filename>
-            <filename>images/circle_yellow.png</filename>
-            <filename>images/roulette.png</filename>
-            <filename>images/vip-sedie.png</filename>
-            <filename>images/special_sedie.png</filename>
-            <filename>images/blackjack.png</filename>
-            <filename>images/bj_pending_bg.png</filename>
-            <filename>images/bj_pending_text.png</filename>
-            <filename>images/bj_play.png</filename>
-            <filename>images/vip_fish_prawn_crab.png</filename>
+            <filename>images/icon-home.png</filename>
             <filename>images/inside.png</filename>
-            <filename>images/sicbo.png</filename>
-            <filename>images/vip_baccarat_lobby_comming_soon.png</filename>
-            <filename>images/vip_sedie_war_lobby_comming_soon.png</filename>
-            <filename>images/vip_baccarat.png</filename>
-            <filename>images/vip_sediewar.png</filename>
+            <filename>images/keno_pro_viet.png</filename>
             <filename>images/mini-game_border.png</filename>
             <filename>images/mini-game_icon.png</filename>
             <filename>images/mini-game_shadow.png</filename>
-            <filename>images/icon-home.png</filename>
+            <filename>images/mini_sedie.png</filename>
+            <filename>images/result.png</filename>
+            <filename>images/sound.png</filename>
+            <filename>images/sound_off.png</filename>
+            <filename>images/special_sedie.png</filename>
+            <filename>images/turbo_big_small.png</filename>
+            <filename>images/turbo_odd_even.png</filename>
+            <filename>images/circle.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
