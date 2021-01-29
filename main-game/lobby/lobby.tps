@@ -187,6 +187,21 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
+            <key type="filename">images/2021.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>52,32,103,63</rect>
+                <key>scale9Paddings</key>
+                <rect>52,32,103,63</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/NenTenNenTien.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -262,6 +277,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/hoa_mai.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>27,27,53,53</rect>
+                <key>scale9Paddings</key>
+                <rect>27,27,53,53</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/iconsapramat.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -289,6 +319,81 @@
                 <rect>34,13,67,27</rect>
                 <key>scale9Paddings</key>
                 <rect>34,13,67,27</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/long_den_phai.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>33,43,65,86</rect>
+                <key>scale9Paddings</key>
+                <rect>33,43,65,86</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/long_den_trai.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>32,43,63,86</rect>
+                <key>scale9Paddings</key>
+                <rect>32,43,63,86</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/may_vang.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>52,16,105,32</rect>
+                <key>scale9Paddings</key>
+                <rect>52,16,105,32</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/may_vang2.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>40,13,79,27</rect>
+                <key>scale9Paddings</key>
+                <rect>40,13,79,27</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/may_vang3.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>73,24,146,47</rect>
+                <key>scale9Paddings</key>
+                <rect>73,24,146,47</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -352,6 +457,13 @@
             <filename>images/result.png</filename>
             <filename>images/sound.png</filename>
             <filename>images/sound_off.png</filename>
+            <filename>images/2021.png</filename>
+            <filename>images/hoa_mai.png</filename>
+            <filename>images/long_den_phai.png</filename>
+            <filename>images/long_den_trai.png</filename>
+            <filename>images/may_vang.png</filename>
+            <filename>images/may_vang2.png</filename>
+            <filename>images/may_vang3.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

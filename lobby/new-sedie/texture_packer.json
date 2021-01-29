@@ -26,7 +26,10 @@
         }
     ],
     "options": {
-        "params": [
+        "params": [ [
+                "--scale", 
+                0.83333
+            ],
             [
                 "--maxrects-heuristics",
                 "Best"

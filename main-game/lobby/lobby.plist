@@ -4,6 +4,21 @@
     <dict>
         <key>frames</key>
         <dict>
+            <key>2021.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,1}</string>
+                <key>spriteSize</key>
+                <string>{205,124}</string>
+                <key>spriteSourceSize</key>
+                <string>{207,126}</string>
+                <key>textureRect</key>
+                <string>{{681,56},{205,124}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>NenTenNenTien.png</key>
             <dict>
                 <key>aliases</key>
@@ -15,7 +30,7 @@
                 <key>spriteSourceSize</key>
                 <string>{360,44}</string>
                 <key>textureRect</key>
-                <string>{{416,185},{360,44}}</string>
+                <string>{{268,1},{360,44}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -30,7 +45,7 @@
                 <key>spriteSourceSize</key>
                 <string>{66,66}</string>
                 <key>textureRect</key>
-                <string>{{714,112},{66,66}}</string>
+                <string>{{1192,1},{66,66}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -45,7 +60,7 @@
                 <key>spriteSourceSize</key>
                 <string>{265,38}</string>
                 <key>textureRect</key>
-                <string>{{832,167},{265,38}}</string>
+                <string>{{1,1},{265,38}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -60,7 +75,7 @@
                 <key>spriteSourceSize</key>
                 <string>{52,52}</string>
                 <key>textureRect</key>
-                <string>{{778,180},{52,52}}</string>
+                <string>{{630,1},{52,52}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -71,11 +86,26 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{1154,109}</string>
+                <string>{1141,85}</string>
                 <key>spriteSourceSize</key>
-                <string>{1154,109}</string>
+                <string>{1141,85}</string>
                 <key>textureRect</key>
-                <string>{{1,1},{1154,109}}</string>
+                <string>{{888,105},{1141,85}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>hoa_mai.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{106,106}</string>
+                <key>spriteSourceSize</key>
+                <string>{106,106}</string>
+                <key>textureRect</key>
+                <string>{{446,47},{106,106}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -90,7 +120,7 @@
                 <key>spriteSourceSize</key>
                 <string>{125,120}</string>
                 <key>textureRect</key>
-                <string>{{1,112},{125,120}}</string>
+                <string>{{554,55},{125,120}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -105,7 +135,82 @@
                 <key>spriteSourceSize</key>
                 <string>{134,53}</string>
                 <key>textureRect</key>
-                <string>{{782,112},{134,53}}</string>
+                <string>{{684,1},{134,53}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>long_den_phai.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-3,11}</string>
+                <key>spriteSize</key>
+                <string>{102,150}</string>
+                <key>spriteSourceSize</key>
+                <string>{130,172}</string>
+                <key>textureRect</key>
+                <string>{{1846,1},{102,150}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>long_den_trai.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{8,11}</string>
+                <key>spriteSize</key>
+                <string>{102,150}</string>
+                <key>spriteSourceSize</key>
+                <string>{126,172}</string>
+                <key>textureRect</key>
+                <string>{{294,47},{102,150}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>may_vang.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{209,64}</string>
+                <key>spriteSourceSize</key>
+                <string>{209,64}</string>
+                <key>textureRect</key>
+                <string>{{981,1},{209,64}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>may_vang2.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{159,53}</string>
+                <key>spriteSourceSize</key>
+                <string>{159,53}</string>
+                <key>textureRect</key>
+                <string>{{820,1},{159,53}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>may_vang3.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{291,95}</string>
+                <key>spriteSourceSize</key>
+                <string>{291,95}</string>
+                <key>textureRect</key>
+                <string>{{1,47},{291,95}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -120,7 +225,7 @@
                 <key>spriteSourceSize</key>
                 <string>{94,94}</string>
                 <key>textureRect</key>
-                <string>{{128,112},{94,94}}</string>
+                <string>{{1558,1},{94,94}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -135,7 +240,7 @@
                 <key>spriteSourceSize</key>
                 <string>{296,71}</string>
                 <key>textureRect</key>
-                <string>{{416,112},{296,71}}</string>
+                <string>{{1260,1},{296,71}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -150,7 +255,7 @@
                 <key>spriteSourceSize</key>
                 <string>{94,94}</string>
                 <key>textureRect</key>
-                <string>{{224,112},{94,94}}</string>
+                <string>{{1654,1},{94,94}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -165,7 +270,7 @@
                 <key>spriteSourceSize</key>
                 <string>{96,96}</string>
                 <key>textureRect</key>
-                <string>{{320,112},{94,94}}</string>
+                <string>{{1750,1},{94,94}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -181,9 +286,9 @@
             <key>realTextureFileName</key>
             <string>lobby.png</string>
             <key>size</key>
-            <string>{1156,233}</string>
+            <string>{2030,191}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:98d28ddef16ddae842b858a67c94c3cf:2714d45474ee904e2cb263b3a39021f7:f1bafa2c26deda73cfe01e78b270c574$</string>
+            <string>$TexturePacker:SmartUpdate:8842050ac85dbb7c9b5605cad3db67c4:8fbf7fb6fac14de6f0a9635da19c583c:f1bafa2c26deda73cfe01e78b270c574$</string>
             <key>textureFileName</key>
             <string>lobby.png</string>
         </dict>
