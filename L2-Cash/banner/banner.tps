@@ -324,6 +324,36 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/ad_jackpot_no_user.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>37,37,74,74</rect>
+                <key>scale9Paddings</key>
+                <rect>37,37,74,74</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/ad_jackpot_no_user_text.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>43,15,85,29</rect>
+                <key>scale9Paddings</key>
+                <rect>43,15,85,29</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/ad_jackpot_text.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -420,6 +450,8 @@
             <filename>images/ad_nav_active.png</filename>
             <filename>images/ad_nav_bg.png</filename>
             <filename>images/ad_jackpot_amount.png</filename>
+            <filename>images/ad_jackpot_no_user.png</filename>
+            <filename>images/ad_jackpot_no_user_text.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
