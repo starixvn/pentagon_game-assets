@@ -148,7 +148,7 @@
         <key>outputFormat</key>
         <enum type="SettingsBase::OutputFormat">RGBA8888</enum>
         <key>alphaHandling</key>
-        <enum type="SettingsBase::AlphaHandling">ClearTransparentPixels</enum>
+        <enum type="SettingsBase::AlphaHandling">KeepTransparentPixels</enum>
         <key>contentProtection</key>
         <struct type="ContentProtection">
             <key>key</key>
@@ -260,7 +260,7 @@
             <key type="filename">images/chip2000_small.png</key>
             <key type="filename">images/chip200_small.png</key>
             <key type="filename">images/chip20_small.png</key>
-            <key type="filename">images/chip5000_small.png</key>
+            <key type="filename">images/chip3000_small.png</key>
             <key type="filename">images/chip500_small.png</key>
             <key type="filename">images/chip50_small.png</key>
             <key type="filename">images/chip5_small.png</key>
@@ -279,8 +279,8 @@
                 <false/>
             </struct>
             <key type="filename">images/chip20.png</key>
+            <key type="filename">images/chip3000.png</key>
             <key type="filename">images/chip500.png</key>
-            <key type="filename">images/chip5000.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -390,8 +390,8 @@
             <filename>images/chip2000.png</filename>
             <filename>images/chip2000_small.png</filename>
             <filename>images/chip0.5.png</filename>
-            <filename>images/chip5000.png</filename>
-            <filename>images/chip5000_small.png</filename>
+            <filename>images/chip3000.png</filename>
+            <filename>images/chip3000_small.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

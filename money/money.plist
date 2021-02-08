@@ -259,7 +259,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>chip5.png</key>
+            <key>chip3000.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -274,7 +274,22 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>chip50.png</key>
+            <key>chip3000_small.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{26,26}</string>
+                <key>spriteSourceSize</key>
+                <string>{26,26}</string>
+                <key>textureRect</key>
+                <string>{{453,96},{26,26}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>chip5.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -289,7 +304,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>chip500.png</key>
+            <key>chip50.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -304,7 +319,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>chip5000.png</key>
+            <key>chip500.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -316,21 +331,6 @@
                 <string>{88,90}</string>
                 <key>textureRect</key>
                 <string>{{691,96},{88,90}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>chip5000_small.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{26,26}</string>
-                <key>spriteSourceSize</key>
-                <string>{26,26}</string>
-                <key>textureRect</key>
-                <string>{{453,96},{26,26}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -483,7 +483,7 @@
             <key>size</key>
             <string>{781,246}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:e37ee0e58e263b3f8b3642235b9aa16d:7e4153aeddec110dfe6d0c368cc43397:3c02825eb380eb1e5a25f88264fb2632$</string>
+            <string>$TexturePacker:SmartUpdate:6e7e18a3aa91e39cc7361ce5923f0554:19ac1c3692b314db4de2006be0462d80:3c02825eb380eb1e5a25f88264fb2632$</string>
             <key>textureFileName</key>
             <string>money.png</string>
         </dict>
