@@ -187,21 +187,6 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">images/AnhSangChuTaiXiu.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>15,27,30,53</rect>
-                <key>scale9Paddings</key>
-                <rect>15,27,30,53</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">images/Logo_Saba.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -211,9 +196,24 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>77,73,154,145</rect>
+                <rect>98,40,196,80</rect>
                 <key>scale9Paddings</key>
-                <rect>77,73,154,145</rect>
+                <rect>98,40,196,80</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/anh_sang.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>15,27,30,53</rect>
+                <key>scale9Paddings</key>
+                <rect>15,27,30,53</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -232,7 +232,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/progress-bar.png</key>
+            <key type="filename">images/background_90.jpg</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -241,12 +241,13 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>210,7,419,13</rect>
+                <rect>197,0,394,1</rect>
                 <key>scale9Paddings</key>
-                <rect>210,7,419,13</rect>
+                <rect>197,0,394,1</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">images/progress-bar.png</key>
             <key type="filename">images/progress-bg.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -256,13 +257,13 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>217,13,434,27</rect>
+                <rect>160,1,320,2</rect>
                 <key>scale9Paddings</key>
-                <rect>217,13,434,27</rect>
+                <rect>160,1,320,2</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/tagline.png</key>
+            <key type="filename">images/tagline_sc1.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -271,21 +272,38 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>109,8,217,16</rect>
+                <rect>162,10,323,19</rect>
                 <key>scale9Paddings</key>
-                <rect>109,8,217,16</rect>
+                <rect>162,10,323,19</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/tagline_sc2.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>156,10,312,19</rect>
+                <key>scale9Paddings</key>
+                <rect>156,10,312,19</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
         </map>
         <key>fileList</key>
         <array>
-            <filename>images/AnhSangChuTaiXiu.png</filename>
             <filename>images/Logo_Saba.png</filename>
-            <filename>images/tagline.png</filename>
+            <filename>images/anh_sang.png</filename>
+            <filename>images/background.jpg</filename>
+            <filename>images/background_90.jpg</filename>
             <filename>images/progress-bar.png</filename>
             <filename>images/progress-bg.png</filename>
-            <filename>images/background.jpg</filename>
+            <filename>images/tagline_sc1.png</filename>
+            <filename>images/tagline_sc2.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
