@@ -187,6 +187,51 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
+            <key type="filename">images/22.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>62,98,123,196</rect>
+                <key>scale9Paddings</key>
+                <rect>62,98,123,196</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/25.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>62,92,123,185</rect>
+                <key>scale9Paddings</key>
+                <rect>62,92,123,185</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">images/27.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>61,93,123,185</rect>
+                <key>scale9Paddings</key>
+                <rect>61,93,123,185</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">images/ad_4guardians_text.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -399,56 +444,9 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/baccarat_vip.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>61,93,123,185</rect>
-                <key>scale9Paddings</key>
-                <rect>61,93,123,185</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/sicbo.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>62,92,123,185</rect>
-                <key>scale9Paddings</key>
-                <rect>62,92,123,185</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">images/vip-sedie.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>62,98,123,196</rect>
-                <key>scale9Paddings</key>
-                <rect>62,98,123,196</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
         </map>
         <key>fileList</key>
         <array>
-            <filename>images/baccarat_vip.png</filename>
-            <filename>images/sicbo.png</filename>
             <filename>images/ad_4guardians_text.png</filename>
             <filename>images/ad_event_icon.png</filename>
             <filename>images/ad_jackpot.png</filename>
@@ -465,7 +463,9 @@
             <filename>images/ad_jackpot_amount.png</filename>
             <filename>images/ad_jackpot_no_user.png</filename>
             <filename>images/ad_jackpot_no_user_text.png</filename>
-            <filename>images/vip-sedie.png</filename>
+            <filename>images/22.png</filename>
+            <filename>images/25.png</filename>
+            <filename>images/27.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

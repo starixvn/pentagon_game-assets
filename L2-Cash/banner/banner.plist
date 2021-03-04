@@ -4,6 +4,51 @@
     <dict>
         <key>frames</key>
         <dict>
+            <key>22.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,3}</string>
+                <key>spriteSize</key>
+                <string>{247,386}</string>
+                <key>spriteSourceSize</key>
+                <string>{247,392}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{247,386}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>25.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-3}</string>
+                <key>spriteSize</key>
+                <string>{233,363}</string>
+                <key>spriteSourceSize</key>
+                <string>{247,369}</string>
+                <key>textureRect</key>
+                <string>{{1,939},{233,363}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>27.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,4}</string>
+                <key>spriteSize</key>
+                <string>{245,362}</string>
+                <key>spriteSourceSize</key>
+                <string>{245,370}</string>
+                <key>textureRect</key>
+                <string>{{1,575},{245,362}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>ad_4guardians_text.png</key>
             <dict>
                 <key>aliases</key>
@@ -244,51 +289,6 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>baccarat_vip.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,4}</string>
-                <key>spriteSize</key>
-                <string>{245,362}</string>
-                <key>spriteSourceSize</key>
-                <string>{245,370}</string>
-                <key>textureRect</key>
-                <string>{{1,575},{245,362}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>sicbo.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,-3}</string>
-                <key>spriteSize</key>
-                <string>{233,363}</string>
-                <key>spriteSourceSize</key>
-                <string>{247,369}</string>
-                <key>textureRect</key>
-                <string>{{1,939},{233,363}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>vip-sedie.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,3}</string>
-                <key>spriteSize</key>
-                <string>{247,386}</string>
-                <key>spriteSourceSize</key>
-                <string>{247,392}</string>
-                <key>textureRect</key>
-                <string>{{1,1},{247,386}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
         </dict>
         <key>metadata</key>
         <dict>
@@ -303,7 +303,7 @@
             <key>size</key>
             <string>{256,1792}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:9237da8035dea038235564d839e96086:45262a11238644571ce3e3a6b110ac3d:468a889166313e164748aa683a0b056a$</string>
+            <string>$TexturePacker:SmartUpdate:f634d4102be954f88066747d8b9c68d6:c5a0d3864545c54c42394ffd37046279:468a889166313e164748aa683a0b056a$</string>
             <key>textureFileName</key>
             <string>banner.png</string>
         </dict>
