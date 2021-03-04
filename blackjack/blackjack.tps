@@ -552,7 +552,8 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">images/hop-chip.png</key>
+            <key type="filename">images/hop-chip-SC1.png</key>
+            <key type="filename">images/hop-chip-SC2.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -673,13 +674,14 @@
             <filename>images/thu-bai.png</filename>
             <filename>images/day-hop-bai.png</filename>
             <filename>images/error-icon.png</filename>
-            <filename>images/hop-chip.png</filename>
             <filename>images/guide_double.png</filename>
             <filename>images/guide_split.png</filename>
             <filename>images/guide_stop.png</filename>
             <filename>images/guide_hit.png</filename>
             <filename>images/chip_shadow.png</filename>
             <filename>images/active_icon.png</filename>
+            <filename>images/hop-chip-SC1.png</filename>
+            <filename>images/hop-chip-SC2.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

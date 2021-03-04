@@ -109,7 +109,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>chip_2.png</key>
+            <key>chip_14.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -124,7 +124,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>chip_3.png</key>
+            <key>chip_2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -139,7 +139,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>chip_4.png</key>
+            <key>chip_3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -154,7 +154,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>chip_5.png</key>
+            <key>chip_4.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -169,7 +169,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>chip_6.png</key>
+            <key>chip_5.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -184,7 +184,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>chip_7.png</key>
+            <key>chip_6.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -199,7 +199,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>chip_8.png</key>
+            <key>chip_7.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -214,7 +214,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>chip_9.png</key>
+            <key>chip_8.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -226,6 +226,21 @@
                 <string>{88,90}</string>
                 <key>textureRect</key>
                 <string>{{183,312},{88,90}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>chip_9.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{88,90}</string>
+                <key>spriteSourceSize</key>
+                <string>{88,90}</string>
+                <key>textureRect</key>
+                <string>{{183,404},{88,90}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -394,7 +409,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>small_chip_2.png</key>
+            <key>small_chip_14.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -409,7 +424,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>small_chip_3.png</key>
+            <key>small_chip_2.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -424,7 +439,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>small_chip_4.png</key>
+            <key>small_chip_3.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -439,7 +454,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>small_chip_5.png</key>
+            <key>small_chip_4.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -454,7 +469,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>small_chip_6.png</key>
+            <key>small_chip_5.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -469,7 +484,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>small_chip_7.png</key>
+            <key>small_chip_6.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -484,7 +499,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>small_chip_8.png</key>
+            <key>small_chip_7.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -499,7 +514,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>small_chip_9.png</key>
+            <key>small_chip_8.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -511,6 +526,21 @@
                 <string>{26,26}</string>
                 <key>textureRect</key>
                 <string>{{227,216},{26,26}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>small_chip_9.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{26,26}</string>
+                <key>spriteSourceSize</key>
+                <string>{26,26}</string>
+                <key>textureRect</key>
+                <string>{{95,241},{26,26}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -528,7 +558,7 @@
             <key>size</key>
             <string>{512,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:6c43db39400697f9e67042056861db2a:305c3bd44cea6b4650451db823b65f14:3c02825eb380eb1e5a25f88264fb2632$</string>
+            <string>$TexturePacker:SmartUpdate:413981c82a240e5cb0d1cfab65164f84:7112a873869408689127dd1c1b03e274:3c02825eb380eb1e5a25f88264fb2632$</string>
             <key>textureFileName</key>
             <string>money.png</string>
         </dict>
