@@ -41,13 +41,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{129,126}</string>
+                <string>{69,67}</string>
                 <key>spriteSourceSize</key>
-                <string>{129,126}</string>
+                <string>{69,67}</string>
                 <key>textureRect</key>
-                <string>{{3,303},{129,126}}</string>
+                <string>{{398,3},{69,67}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
         </dict>
         <key>metadata</key>
@@ -63,7 +63,7 @@
             <key>size</key>
             <string>{512,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:6229b28c2ead60ad5f6bb24162053c8f:992cabcf699f03e672b8806cc77db93e:75b25f5c893edb9a6a5648b3948f93ec$</string>
+            <string>$TexturePacker:SmartUpdate:f0d238241af79d89871fcbcf11359698:acdb424e9aab03b9023dffa0d2596979:75b25f5c893edb9a6a5648b3948f93ec$</string>
             <key>textureFileName</key>
             <string>four-guardians-sc1.png</string>
         </dict>
