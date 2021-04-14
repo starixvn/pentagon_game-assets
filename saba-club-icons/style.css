@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'saba-club';
-  src:  url('fonts/saba-club.eot?fqv0rj');
-  src:  url('fonts/saba-club.eot?fqv0rj#iefix') format('embedded-opentype'),
-    url('fonts/saba-club.ttf?fqv0rj') format('truetype'),
-    url('fonts/saba-club.woff?fqv0rj') format('woff'),
-    url('fonts/saba-club.svg?fqv0rj#saba-club') format('svg');
+  src:  url('fonts/saba-club.eot?w5di9w');
+  src:  url('fonts/saba-club.eot?w5di9w#iefix') format('embedded-opentype'),
+    url('fonts/saba-club.ttf?w5di9w') format('truetype'),
+    url('fonts/saba-club.woff?w5di9w') format('woff'),
+    url('fonts/saba-club.svg?w5di9w#saba-club') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-warning:before {
+  content: "\e913";
+  color: #ffb52a;
+}
 .icon-dragon:before {
   content: "\e911";
   color: #ff9a00;
