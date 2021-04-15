@@ -34,7 +34,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>chip_do.png</key>
+            <key>black_dot.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -49,37 +49,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>chip_do_1.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{19,19}</string>
-                <key>spriteSourceSize</key>
-                <string>{19,19}</string>
-                <key>textureRect</key>
-                <string>{{69,3},{19,19}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>chip_do_3.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{19,19}</string>
-                <key>spriteSourceSize</key>
-                <string>{19,19}</string>
-                <key>textureRect</key>
-                <string>{{69,24},{19,19}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>chip_trang.png</key>
+            <key>chip_do.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -94,6 +64,51 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>chip_do_1.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{19,19}</string>
+                <key>spriteSourceSize</key>
+                <string>{19,19}</string>
+                <key>textureRect</key>
+                <string>{{69,37},{19,19}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>chip_do_3.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{19,19}</string>
+                <key>spriteSourceSize</key>
+                <string>{19,19}</string>
+                <key>textureRect</key>
+                <string>{{69,58},{19,19}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>chip_trang.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{32,32}</string>
+                <key>spriteSourceSize</key>
+                <string>{32,32}</string>
+                <key>textureRect</key>
+                <string>{{69,3},{32,32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>chip_trang_0.png</key>
             <dict>
                 <key>aliases</key>
@@ -105,7 +120,7 @@
                 <key>spriteSourceSize</key>
                 <string>{19,19}</string>
                 <key>textureRect</key>
-                <string>{{69,45},{19,19}}</string>
+                <string>{{69,79},{19,19}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -120,7 +135,7 @@
                 <key>spriteSourceSize</key>
                 <string>{19,19}</string>
                 <key>textureRect</key>
-                <string>{{69,66},{19,19}}</string>
+                <string>{{69,100},{19,19}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -135,7 +150,7 @@
                 <key>spriteSourceSize</key>
                 <string>{19,19}</string>
                 <key>textureRect</key>
-                <string>{{69,87},{19,19}}</string>
+                <string>{{90,37},{19,19}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -165,7 +180,7 @@
                 <key>spriteSourceSize</key>
                 <string>{17,17}</string>
                 <key>textureRect</key>
-                <string>{{69,108},{17,17}}</string>
+                <string>{{103,3},{17,17}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -288,7 +303,7 @@
             <key>size</key>
             <string>{128,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:6474bd9a7f09c7528fa9a80c5f708190:2cd605fb286a1082e1bdf6b8af71163c:c528b66cfb1fde4de470cab2d0cc5153$</string>
+            <string>$TexturePacker:SmartUpdate:9d5cef43083dcf5338cd5e4a9e07c22d:24b105d36a40da4bfb1ac5de48a8ca16:c528b66cfb1fde4de470cab2d0cc5153$</string>
             <key>textureFileName</key>
             <string>score-board.png</string>
         </dict>
