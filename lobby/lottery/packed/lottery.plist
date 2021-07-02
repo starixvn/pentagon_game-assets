@@ -15,7 +15,7 @@
                 <key>spriteSourceSize</key>
                 <string>{62,62}</string>
                 <key>textureRect</key>
-                <string>{{180,436},{62,62}}</string>
+                <string>{{206,436},{62,62}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -30,7 +30,7 @@
                 <key>spriteSourceSize</key>
                 <string>{121,120}</string>
                 <key>textureRect</key>
-                <string>{{58,360},{121,120}}</string>
+                <string>{{84,360},{121,120}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -45,7 +45,7 @@
                 <key>spriteSourceSize</key>
                 <string>{76,76}</string>
                 <key>textureRect</key>
-                <string>{{180,358},{76,76}}</string>
+                <string>{{206,358},{76,76}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -135,7 +135,22 @@
                 <key>spriteSourceSize</key>
                 <string>{132,29}</string>
                 <key>textureRect</key>
-                <string>{{27,360},{132,29}}</string>
+                <string>{{53,360},{132,29}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>xoso_en.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{136,24}</string>
+                <key>spriteSourceSize</key>
+                <string>{144,24}</string>
+                <key>textureRect</key>
+                <string>{{27,360},{136,24}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -153,7 +168,7 @@
             <key>size</key>
             <string>{512,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:c23ec39618446eb55de851b6fda78742:9799a86b14041b59d604db69c8e50a00:46f5d11ef30bdcad5d0a70d6497c3a2d$</string>
+            <string>$TexturePacker:SmartUpdate:6e98bf787bb227a0df1fb7bcee67d67e:ff0fac72875508d349d374478bf0d35d:46f5d11ef30bdcad5d0a70d6497c3a2d$</string>
             <key>textureFileName</key>
             <string>lottery.png</string>
         </dict>
