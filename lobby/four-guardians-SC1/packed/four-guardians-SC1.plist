@@ -34,6 +34,36 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>freespin.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{245,82}</string>
+                <key>spriteSourceSize</key>
+                <string>{245,82}</string>
+                <key>textureRect</key>
+                <string>{{3,902},{245,82}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>freespin_en.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{1,-3}</string>
+                <key>spriteSize</key>
+                <string>{227,76}</string>
+                <key>spriteSourceSize</key>
+                <string>{245,82}</string>
+                <key>textureRect</key>
+                <string>{{250,893},{227,76}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>guardians.png</key>
             <dict>
                 <key>aliases</key>
@@ -64,6 +94,21 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>label.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{262,148}</string>
+                <key>spriteSourceSize</key>
+                <string>{262,148}</string>
+                <key>textureRect</key>
+                <string>{{479,174},{262,148}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
             <key>lightning_1.png</key>
             <dict>
                 <key>aliases</key>
@@ -75,7 +120,7 @@
                 <key>spriteSourceSize</key>
                 <string>{169,373}</string>
                 <key>textureRect</key>
-                <string>{{479,141},{169,373}}</string>
+                <string>{{610,3},{169,373}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -90,9 +135,9 @@
                 <key>spriteSourceSize</key>
                 <string>{136,435}</string>
                 <key>textureRect</key>
-                <string>{{479,3},{136,435}}</string>
+                <string>{{472,442},{136,435}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>lightning_3.png</key>
             <dict>
@@ -105,7 +150,52 @@
                 <key>spriteSourceSize</key>
                 <string>{211,338}</string>
                 <key>textureRect</key>
-                <string>{{479,312},{203,334}}</string>
+                <string>{{629,174},{203,334}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>playnow.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{182,70}</string>
+                <key>spriteSourceSize</key>
+                <string>{182,70}</string>
+                <key>textureRect</key>
+                <string>{{479,879},{182,70}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>playnow_en.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-8,1}</string>
+                <key>spriteSize</key>
+                <string>{166,68}</string>
+                <key>spriteSourceSize</key>
+                <string>{182,70}</string>
+                <key>textureRect</key>
+                <string>{{479,3},{166,68}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>samset.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{159,193}</string>
+                <key>spriteSourceSize</key>
+                <string>{159,193}</string>
+                <key>textureRect</key>
+                <string>{{760,538},{159,193}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -116,13 +206,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{230,157}</string>
+                <string>{217,157}</string>
                 <key>spriteSourceSize</key>
-                <string>{230,157}</string>
+                <string>{217,157}</string>
                 <key>textureRect</key>
-                <string>{{854,141},{230,157}}</string>
+                <string>{{663,379},{217,157}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>text_en.png</key>
             <dict>
@@ -135,7 +225,7 @@
                 <key>spriteSourceSize</key>
                 <string>{213,152}</string>
                 <key>textureRect</key>
-                <string>{{815,373},{213,148}}</string>
+                <string>{{610,538},{213,148}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -153,7 +243,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:bd273a2a5784b9886c26990b966625ef:8e42e4d91576b6efe935b5efa0726865:5c0a62274adb9e1bec3a63e3da133d91$</string>
+            <string>$TexturePacker:SmartUpdate:2fcbf5d000f905c835eda9ab86206b3a:f708fb2d0d6915ed9b75b9d200e7fb08:5c0a62274adb9e1bec3a63e3da133d91$</string>
             <key>textureFileName</key>
             <string>four-guardians-SC1.png</string>
         </dict>
