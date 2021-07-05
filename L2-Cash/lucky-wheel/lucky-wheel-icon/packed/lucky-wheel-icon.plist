@@ -15,9 +15,9 @@
                 <key>spriteSourceSize</key>
                 <string>{39,36}</string>
                 <key>textureRect</key>
-                <string>{{102,157},{39,36}}</string>
+                <string>{{208,30},{39,36}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>10.png</key>
             <dict>
@@ -30,9 +30,9 @@
                 <key>spriteSourceSize</key>
                 <string>{26,21}</string>
                 <key>textureRect</key>
-                <string>{{102,198},{26,21}}</string>
+                <string>{{142,159},{26,21}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>11.png</key>
             <dict>
@@ -45,9 +45,9 @@
                 <key>spriteSourceSize</key>
                 <string>{33,26}</string>
                 <key>textureRect</key>
-                <string>{{140,157},{33,26}}</string>
+                <string>{{159,131},{33,26}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>3.png</key>
             <dict>
@@ -60,9 +60,9 @@
                 <key>spriteSourceSize</key>
                 <string>{33,26}</string>
                 <key>textureRect</key>
-                <string>{{140,157},{33,26}}</string>
+                <string>{{159,131},{33,26}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>4.png</key>
             <dict>
@@ -75,9 +75,9 @@
                 <key>spriteSourceSize</key>
                 <string>{33,26}</string>
                 <key>textureRect</key>
-                <string>{{140,157},{33,26}}</string>
+                <string>{{159,131},{33,26}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>5.png</key>
             <dict>
@@ -90,9 +90,9 @@
                 <key>spriteSourceSize</key>
                 <string>{26,21}</string>
                 <key>textureRect</key>
-                <string>{{102,198},{26,21}}</string>
+                <string>{{142,159},{26,21}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>6.png</key>
             <dict>
@@ -105,9 +105,9 @@
                 <key>spriteSourceSize</key>
                 <string>{33,26}</string>
                 <key>textureRect</key>
-                <string>{{140,157},{33,26}}</string>
+                <string>{{159,131},{33,26}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>7.png</key>
             <dict>
@@ -120,9 +120,9 @@
                 <key>spriteSourceSize</key>
                 <string>{26,21}</string>
                 <key>textureRect</key>
-                <string>{{102,198},{26,21}}</string>
+                <string>{{142,159},{26,21}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>8.png</key>
             <dict>
@@ -135,9 +135,9 @@
                 <key>spriteSourceSize</key>
                 <string>{26,21}</string>
                 <key>textureRect</key>
-                <string>{{102,198},{26,21}}</string>
+                <string>{{142,159},{26,21}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>9.png</key>
             <dict>
@@ -150,9 +150,9 @@
                 <key>spriteSourceSize</key>
                 <string>{26,21}</string>
                 <key>textureRect</key>
-                <string>{{102,198},{26,21}}</string>
+                <string>{{142,159},{26,21}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>QUAY.png</key>
             <dict>
@@ -165,7 +165,7 @@
                 <key>spriteSourceSize</key>
                 <string>{108,108}</string>
                 <key>textureRect</key>
-                <string>{{293,1},{108,108}}</string>
+                <string>{{142,197},{108,108}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -180,9 +180,9 @@
                 <key>spriteSourceSize</key>
                 <string>{137,135}</string>
                 <key>textureRect</key>
-                <string>{{156,1},{137,135}}</string>
+                <string>{{3,158},{137,135}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>anhsang2.png</key>
             <dict>
@@ -195,9 +195,9 @@
                 <key>spriteSourceSize</key>
                 <string>{154,153}</string>
                 <key>textureRect</key>
-                <string>{{1,1},{154,153}}</string>
+                <string>{{3,3},{154,153}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>densang.png</key>
             <dict>
@@ -210,7 +210,7 @@
                 <key>spriteSourceSize</key>
                 <string>{108,108}</string>
                 <key>textureRect</key>
-                <string>{{293,111},{108,108}}</string>
+                <string>{{3,295},{108,108}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -225,9 +225,24 @@
                 <key>spriteSourceSize</key>
                 <string>{99,47}</string>
                 <key>textureRect</key>
-                <string>{{1,157},{99,47}}</string>
+                <string>{{159,30},{99,47}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
+            </dict>
+            <key>textmayman_en.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,5}</string>
+                <key>spriteSize</key>
+                <string>{127,35}</string>
+                <key>spriteSourceSize</key>
+                <string>{127,47}</string>
+                <key>textureRect</key>
+                <string>{{208,68},{127,35}}</string>
+                <key>textureRotated</key>
+                <true/>
             </dict>
             <key>textvongquay.png</key>
             <dict>
@@ -240,7 +255,22 @@
                 <key>spriteSourceSize</key>
                 <string>{85,25}</string>
                 <key>textureRect</key>
-                <string>{{140,192},{85,25}}</string>
+                <string>{{159,3},{85,25}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>textvongquay_en.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{1,-1}</string>
+                <key>spriteSize</key>
+                <string>{3,3}</string>
+                <key>spriteSourceSize</key>
+                <string>{1,1}</string>
+                <key>textureRect</key>
+                <string>{{246,3},{3,3}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -256,9 +286,9 @@
             <key>realTextureFileName</key>
             <string>lucky-wheel-icon.png</string>
             <key>size</key>
-            <string>{402,220}</string>
+            <string>{256,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:02cd9ead683bfc147c11e000021bc50e:b16ac25a37345e2d97a564ac0bf708e4:4b08fc2737af09fca74211ab1a17ae28$</string>
+            <string>$TexturePacker:SmartUpdate:1f3a62f338ec4b1414dfebce4dc43b97:b7f48621039b7999d59f110680c1f7fa:4b08fc2737af09fca74211ab1a17ae28$</string>
             <key>textureFileName</key>
             <string>lucky-wheel-icon.png</string>
         </dict>

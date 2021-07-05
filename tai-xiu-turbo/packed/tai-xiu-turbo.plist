@@ -15,9 +15,9 @@
                 <key>spriteSourceSize</key>
                 <string>{211,61}</string>
                 <key>textureRect</key>
-                <string>{{703,1},{211,61}}</string>
+                <string>{{404,3},{211,61}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>bet_button_turbo_2.png</key>
             <dict>
@@ -30,37 +30,67 @@
                 <key>spriteSourceSize</key>
                 <string>{211,61}</string>
                 <key>textureRect</key>
-                <string>{{703,64},{211,61}}</string>
+                <string>{{404,216},{211,61}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
-            <key>bg-choi-nhanh.png</key>
+            <key>tagline.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{399,114}</string>
+                <string>{399,116}</string>
                 <key>spriteSourceSize</key>
-                <string>{399,114}</string>
+                <string>{399,116}</string>
                 <key>textureRect</key>
-                <string>{{1,1},{399,114}}</string>
+                <string>{{3,3},{399,116}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>choinhanh_text.png</key>
+            <key>tagline_en.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{299,101}</string>
+                <string>{399,116}</string>
                 <key>spriteSourceSize</key>
-                <string>{299,101}</string>
+                <string>{399,116}</string>
                 <key>textureRect</key>
-                <string>{{402,1},{299,101}}</string>
+                <string>{{3,121},{399,116}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>tagline_oe.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{399,116}</string>
+                <key>spriteSourceSize</key>
+                <string>{399,116}</string>
+                <key>textureRect</key>
+                <string>{{3,3},{399,116}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>tagline_oe_en.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{399,116}</string>
+                <key>spriteSourceSize</key>
+                <string>{399,116}</string>
+                <key>textureRect</key>
+                <string>{{3,239},{399,116}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -76,9 +106,9 @@
             <key>realTextureFileName</key>
             <string>tai-xiu-turbo.png</string>
             <key>size</key>
-            <string>{915,126}</string>
+            <string>{512,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:f8ad72a3cf2bfc6e4dab29818b08e5bf:7aa48e53e681788796731780764fc800:2ba6578a51dcaef9fdbe84be67130c5e$</string>
+            <string>$TexturePacker:SmartUpdate:a847b4024f2cea4bce8b123013e1d783:e826f74bf2a57c06c0d7ae3781c7e6a5:2ba6578a51dcaef9fdbe84be67130c5e$</string>
             <key>textureFileName</key>
             <string>tai-xiu-turbo.png</string>
         </dict>
