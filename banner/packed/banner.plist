@@ -94,6 +94,21 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
+            <key>ad_4guardians_text_en.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{189,26}</string>
+                <key>spriteSourceSize</key>
+                <string>{189,26}</string>
+                <key>textureRect</key>
+                <string>{{423,189},{189,26}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
             <key>ad_event_icon.png</key>
             <dict>
                 <key>aliases</key>
@@ -135,7 +150,7 @@
                 <key>spriteSourceSize</key>
                 <string>{144,107}</string>
                 <key>textureRect</key>
-                <string>{{423,251},{144,107}}</string>
+                <string>{{451,251},{144,107}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -150,7 +165,22 @@
                 <key>spriteSourceSize</key>
                 <string>{118,41}</string>
                 <key>textureRect</key>
-                <string>{{423,189},{116,41}}</string>
+                <string>{{560,36},{116,41}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>ad_jackpot_amount_text_en.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-4}</string>
+                <key>spriteSize</key>
+                <string>{125,31}</string>
+                <key>spriteSourceSize</key>
+                <string>{127,41}</string>
+                <key>textureRect</key>
+                <string>{{560,3},{125,31}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -289,6 +319,21 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
+            <key>ad_jackpot_text_en.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-6}</string>
+                <key>spriteSize</key>
+                <string>{136,31}</string>
+                <key>spriteSourceSize</key>
+                <string>{136,43}</string>
+                <key>textureRect</key>
+                <string>{{987,151},{136,31}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
             <key>ad_nav_active.png</key>
             <dict>
                 <key>aliases</key>
@@ -315,9 +360,9 @@
                 <key>spriteSourceSize</key>
                 <string>{40,37}</string>
                 <key>textureRect</key>
-                <string>{{541,3},{40,37}}</string>
+                <string>{{451,189},{40,37}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
         </dict>
         <key>metadata</key>
@@ -333,7 +378,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:8450e679c625868842861761cdddad35:1492c90c559751f51f2837ef4cdbc113:468a889166313e164748aa683a0b056a$</string>
+            <string>$TexturePacker:SmartUpdate:59edf25862736177f56d0df2c35aaf3b:df4186ce36a65a4b952bb8a665e5e5b6:468a889166313e164748aa683a0b056a$</string>
             <key>textureFileName</key>
             <string>banner.png</string>
         </dict>
