@@ -29,7 +29,7 @@
       ["--png-opt-level", 0],
       ["--alpha-handling", "KeepTransparentPixels"],
       ["--max-width", 2048],
-      ["--trim-mode", "Trim"],
+      ["--trim-mode", "None"],
       ["--border-padding", 2],
       ["--extrude", 1]
     ],
