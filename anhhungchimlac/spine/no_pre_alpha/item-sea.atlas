@@ -1,0 +1,48 @@
+
+item-sea.png
+size: 527,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sea
+  rotate: true
+  xy: 156, 8
+  size: 144, 92
+  orig: 146, 93
+  offset: 1, 0
+  index: -1
+bg
+  rotate: false
+  xy: 250, 10
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+border
+  rotate: true
+  xy: 2, 2
+  size: 150, 152
+  orig: 150, 152
+  offset: 0, 0
+  index: -1
+cloud-sea
+  rotate: false
+  xy: 425, 117
+  size: 100, 35
+  orig: 101, 35
+  offset: 1, 0
+  index: -1
+sea-vaysong
+  rotate: true
+  xy: 394, 21
+  size: 131, 29
+  orig: 131, 29
+  offset: 0, 0
+  index: -1
+wave-run
+  rotate: true
+  xy: 425, 20
+  size: 95, 89
+  orig: 95, 89
+  offset: 0, 0
+  index: -1

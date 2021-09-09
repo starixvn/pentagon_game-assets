@@ -1,0 +1,76 @@
+
+item-llq.png
+size: 467,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 2, 5
+  size: 150, 154
+  orig: 150, 154
+  offset: 0, 0
+  index: -1
+llq
+  rotate: false
+  xy: 297, 16
+  size: 119, 139
+  orig: 121, 139
+  offset: 1, 0
+  index: -1
+soi
+  rotate: true
+  xy: 158, 2
+  size: 13, 31
+  orig: 14, 31
+  offset: 1, 0
+  index: -1
+soi2
+  rotate: false
+  xy: 418, 105
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+soi3
+  rotate: false
+  xy: 418, 3
+  size: 23, 56
+  orig: 23, 56
+  offset: 0, 0
+  index: -1
+soi4
+  rotate: false
+  xy: 443, 17
+  size: 22, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+soi5
+  rotate: true
+  xy: 217, 9
+  size: 6, 15
+  orig: 10, 29
+  offset: 0, 14
+  index: -1
+soi6
+  rotate: true
+  xy: 191, 3
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+thunderright
+  rotate: true
+  xy: 158, 17
+  size: 138, 137
+  orig: 138, 141
+  offset: 0, 3
+  index: -1
+vaiao
+  rotate: true
+  xy: 418, 61
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1

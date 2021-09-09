@@ -1,0 +1,48 @@
+
+skeleton-item-freespin.png
+size: 428,121
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Egg
+  rotate: false
+  xy: 2, 4
+  size: 115, 115
+  orig: 117, 117
+  offset: 1, 1
+  index: -1
+egg-children
+  rotate: true
+  xy: 119, 11
+  size: 108, 79
+  orig: 110, 82
+  offset: 1, 1
+  index: -1
+egg-fly
+  rotate: false
+  xy: 200, 5
+  size: 19, 19
+  orig: 22, 22
+  offset: 1, 2
+  index: -1
+lotus-back
+  rotate: false
+  xy: 253, 2
+  size: 172, 77
+  orig: 177, 84
+  offset: 3, 2
+  index: -1
+lotus-front
+  rotate: true
+  xy: 200, 26
+  size: 93, 51
+  orig: 96, 54
+  offset: 1, 1
+  index: -1
+text-freespin
+  rotate: false
+  xy: 253, 81
+  size: 173, 38
+  orig: 173, 38
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+item-dragon.png
+size: 255,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 2
+  size: 108, 134
+  orig: 223, 246
+  offset: 78, 108
+  index: -1
+Head
+  rotate: true
+  xy: 138, 5
+  size: 105, 115
+  orig: 105, 115
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 112
+  size: 151, 154
+  orig: 151, 154
+  offset: 0, 0
+  index: -1
+blur
+  rotate: false
+  xy: 155, 185
+  size: 62, 81
+  orig: 66, 85
+  offset: 2, 2
+  index: -1
+eye-close
+  rotate: true
+  xy: 232, 250
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+eye-open
+  rotate: true
+  xy: 219, 232
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+rau1
+  rotate: true
+  xy: 155, 117
+  size: 66, 39
+  orig: 66, 39
+  offset: 0, 0
+  index: -1
+rau2
+  rotate: false
+  xy: 219, 248
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+sung1
+  rotate: false
+  xy: 196, 139
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+sung2
+  rotate: true
+  xy: 196, 120
+  size: 17, 39
+  orig: 17, 39
+  offset: 0, 0
+  index: -1

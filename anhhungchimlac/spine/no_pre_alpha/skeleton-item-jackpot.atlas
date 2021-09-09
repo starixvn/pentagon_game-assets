@@ -1,0 +1,41 @@
+
+skeleton-item-jackpot.png
+size: 172,279
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diamond
+  rotate: true
+  xy: 21, 254
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+item_jackpot
+  rotate: false
+  xy: 2, 2
+  size: 168, 129
+  orig: 168, 130
+  offset: 0, 1
+  index: -1
+light_00000
+  rotate: false
+  xy: 2, 133
+  size: 160, 107
+  orig: 201, 137
+  offset: 18, 1
+  index: -1
+nhapnhay
+  rotate: false
+  xy: 47, 242
+  size: 112, 35
+  orig: 113, 35
+  offset: 1, 0
+  index: -1
+star
+  rotate: false
+  xy: 2, 260
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
