@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'saba-club';
-  src:  url('fonts/saba-club.eot?cqtd4p');
-  src:  url('fonts/saba-club.eot?cqtd4p#iefix') format('embedded-opentype'),
-    url('fonts/saba-club.ttf?cqtd4p') format('truetype'),
-    url('fonts/saba-club.woff?cqtd4p') format('woff'),
-    url('fonts/saba-club.svg?cqtd4p#saba-club') format('svg');
+  src:  url('fonts/saba-club.eot?c23bn6');
+  src:  url('fonts/saba-club.eot?c23bn6#iefix') format('embedded-opentype'),
+    url('fonts/saba-club.ttf?c23bn6') format('truetype'),
+    url('fonts/saba-club.woff?c23bn6') format('woff'),
+    url('fonts/saba-club.svg?c23bn6#saba-club') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,23 +25,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-help:before {
-  content: "\e911";
-  color: #5e85c0;
-}
-.icon-icon-delete:before {
+.icon-arrow-left:before {
   content: "\e900";
-}
-.icon-icon-dollar:before {
-  content: "\e907";
-  color: #818181;
-}
-.icon-icon-arrow-down:before {
-  content: "\e90b";
-  color: #825000;
-}
-.icon-check:before {
-  content: "\e918";
+  color: #fff;
 }
 .icon-edit:before {
   content: "\e90a";
@@ -86,30 +72,6 @@
 .icon-chip-symbol:before {
   content: "\e90c";
   color: #fff;
-}
-.icon-tom:before {
-  content: "\e903";
-  color: #0870a3;
-}
-.icon-bau:before {
-  content: "\e905";
-  color: #4861bb;
-}
-.icon-ca:before {
-  content: "\e906";
-  color: #d03824;
-}
-.icon-cua:before {
-  content: "\e915";
-  color: #359b5b;
-}
-.icon-ga:before {
-  content: "\e916";
-  color: #f9604f;
-}
-.icon-nai:before {
-  content: "\e917";
-  color: #c59400;
 }
 .icon-close:before {
   content: "\e902";
