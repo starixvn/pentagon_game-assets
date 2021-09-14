@@ -1,0 +1,48 @@
+
+exportAtlas.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+drum_00001
+  rotate: true
+  xy: 154, 534
+  size: 153, 139
+  orig: 153, 139
+  offset: 0, 0
+  index: -1
+drum_00003
+  rotate: true
+  xy: 488, 260
+  size: 153, 139
+  orig: 153, 139
+  offset: 0, 0
+  index: -1
+drum_00005
+  rotate: true
+  xy: 14, 521
+  size: 153, 139
+  orig: 153, 139
+  offset: 0, 0
+  index: -1
+drum_00007
+  rotate: true
+  xy: 494, 104
+  size: 153, 139
+  orig: 153, 139
+  offset: 0, 0
+  index: -1
+drum_00009
+  rotate: true
+  xy: 340, 320
+  size: 153, 139
+  orig: 153, 139
+  offset: 0, 0
+  index: -1
+item-drum
+  rotate: true
+  xy: 354, 166
+  size: 152, 140
+  orig: 152, 140
+  offset: 0, 0
+  index: -1

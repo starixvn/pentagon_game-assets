@@ -1,0 +1,731 @@
+{
+	"version": 8,
+	"type": "suv2",
+	"appVer": "1.6.1",
+	"atlasSettings": {
+		"id": "Fl0pK2majyE88D1ROHER",
+		"type": 0,
+		"width": 0,
+		"height": 0,
+		"algorithm": "LEGACY",
+		"padding": 1,
+		"algorithmSettings": [
+			{
+				"type": "LEGACY",
+				"quality": 16
+			},
+			{
+				"type": "HEURISTIC",
+				"qualityMin": 4,
+				"qualityMax": 8,
+				"qualityStepType": 0,
+				"qualityStepValue": 2
+			}
+		]
+	},
+	"exportFormat": [
+		{
+			"id": "KvWUeBvSGHwaki8sMs49",
+			"type": "FBX",
+			"data": {
+				"flipZ": true,
+				"upVector": 0,
+				"ascii": false
+			}
+		},
+		{
+			"id": "inzpgE7U7qh4wzidGI2E",
+			"type": "COLLADA",
+			"data": {
+				"flipZ": true,
+				"upVector": 0
+			}
+		},
+		{
+			"id": "6h27HiCxNeOeHqh72Wru",
+			"type": "OBJ",
+			"data": {
+				"flipZ": true,
+				"upVector": 0
+			}
+		},
+		{
+			"id": "O1iLoUjVY6FFTeGWRruv",
+			"type": "JSON",
+			"data": {
+				"schema": 1,
+				"triOrder": 0
+			}
+		},
+		{
+			"id": "ElamYdvG3fa3CzjMXMcx",
+			"type": "UNITY_SPRITE",
+			"data": {
+				"textureUID": "0000000000000000f000000000000000"
+			}
+		},
+		{
+			"id": "kO7hk3RMptRDArremaCN",
+			"type": "UNITY_SPRITE_5.6~",
+			"data": {
+				"textureUID": "0000000000000000f000000000000000",
+				"version": "5.6~"
+			}
+		}
+	],
+	"channel": [
+		{
+			"id": "OPVpD8e4Ze2r1nqmmMiG",
+			"name": "exportAtlas",
+			"path": "export",
+			"format": 0,
+			"preAlpha": true,
+			"splitAlpha": false,
+			"settings": {}
+		}
+	],
+	"exportGroup": [
+		{
+			"id": "mLvQwGP3qXP47Bgn3d7N",
+			"name": "exportGroup",
+			"settings": {
+				"ref": "O1iLoUjVY6FFTeGWRruv",
+				"path": "export"
+			},
+			"materialName": "spriteUVMaterial",
+			"pixelPerUnit": 100,
+			"asSingle": true
+		}
+	],
+	"imageFile": [],
+	"fbxFile": [],
+	"spineFile": [
+		{
+			"id": "wPFkr6y6GjvdRj97zVtu",
+			"path": "D:/Graphics/anhhungchimlac/spine/no_pre_alpha/skeleton-winning-effect.json",
+			"pathAtlas": "D:\\Graphics\\anhhungchimlac\\spine\\no_pre_alpha\\skeleton-winning-effect.atlas",
+			"channel": [
+				{
+					"ref": "OPVpD8e4Ze2r1nqmmMiG",
+					"pageList": [
+						"D:\\Graphics\\anhhungchimlac\\spine\\no_pre_alpha\\skeleton-winning-effect.png"
+					],
+					"alpha": true
+				}
+			],
+			"export": {
+				"ref": "mLvQwGP3qXP47Bgn3d7N",
+				"path": ""
+			},
+			"rectDefault": {
+				"uvScale": {
+					"type": 0,
+					"value": 1
+				},
+				"shape": {
+					"alphaThresh": 0.001,
+					"active": 0,
+					"data": {
+						"tight": {
+							"mode": 0,
+							"aCutoff": 0,
+							"offset": 3
+						},
+						"bbox": {
+							"rot": true
+						}
+					}
+				},
+				"slice": {
+					"type": 0,
+					"data": {
+						"voronoi": {
+							"type": 0,
+							"data": {
+								"auto": {
+									"count": 3
+								}
+							}
+						}
+					}
+				}
+			},
+			"rectOverride": []
+		},
+		{
+			"id": "7ylmn5iihZTIEwohsBfF",
+			"path": "D:/Graphics/anhhungchimlac/spine/no_pre_alpha/item_bird.json",
+			"pathAtlas": "D:\\Graphics\\anhhungchimlac\\spine\\no_pre_alpha\\item_bird.atlas",
+			"channel": [
+				{
+					"ref": "OPVpD8e4Ze2r1nqmmMiG",
+					"pageList": [
+						"D:\\Graphics\\anhhungchimlac\\spine\\no_pre_alpha\\item_bird.png"
+					],
+					"alpha": true
+				}
+			],
+			"export": {
+				"ref": "mLvQwGP3qXP47Bgn3d7N",
+				"path": ""
+			},
+			"rectDefault": {
+				"uvScale": {
+					"type": 0,
+					"value": 1
+				},
+				"shape": {
+					"alphaThresh": 0.001,
+					"active": 0,
+					"data": {
+						"tight": {
+							"mode": 0,
+							"aCutoff": 0,
+							"offset": 3
+						},
+						"bbox": {
+							"rot": true
+						}
+					}
+				},
+				"slice": {
+					"type": 0,
+					"data": {
+						"voronoi": {
+							"type": 0,
+							"data": {
+								"auto": {
+									"count": 3
+								}
+							}
+						}
+					}
+				}
+			},
+			"rectOverride": []
+		},
+		{
+			"id": "gBuAQba4Ur7JN3OVPH6s",
+			"path": "D:/Graphics/anhhungchimlac/spine/no_pre_alpha/item-dragon.json",
+			"pathAtlas": "D:\\Graphics\\anhhungchimlac\\spine\\no_pre_alpha\\item-dragon.atlas",
+			"channel": [
+				{
+					"ref": "OPVpD8e4Ze2r1nqmmMiG",
+					"pageList": [
+						"D:\\Graphics\\anhhungchimlac\\spine\\no_pre_alpha\\item-dragon.png"
+					],
+					"alpha": true
+				}
+			],
+			"export": {
+				"ref": "mLvQwGP3qXP47Bgn3d7N",
+				"path": ""
+			},
+			"rectDefault": {
+				"uvScale": {
+					"type": 0,
+					"value": 1
+				},
+				"shape": {
+					"alphaThresh": 0.001,
+					"active": 0,
+					"data": {
+						"tight": {
+							"mode": 0,
+							"aCutoff": 0,
+							"offset": 3
+						},
+						"bbox": {
+							"rot": true
+						}
+					}
+				},
+				"slice": {
+					"type": 0,
+					"data": {
+						"voronoi": {
+							"type": 0,
+							"data": {
+								"auto": {
+									"count": 3
+								}
+							}
+						}
+					}
+				}
+			},
+			"rectOverride": []
+		},
+		{
+			"id": "jCK2IvhdGf7W1ALatIoG",
+			"path": "D:/Graphics/anhhungchimlac/spine/no_pre_alpha/item-drum.json",
+			"pathAtlas": "D:\\Graphics\\anhhungchimlac\\spine\\no_pre_alpha\\item-drum.atlas",
+			"channel": [
+				{
+					"ref": "OPVpD8e4Ze2r1nqmmMiG",
+					"pageList": [
+						"D:\\Graphics\\anhhungchimlac\\spine\\no_pre_alpha\\item-drum.png"
+					],
+					"alpha": true
+				}
+			],
+			"export": {
+				"ref": "mLvQwGP3qXP47Bgn3d7N",
+				"path": ""
+			},
+			"rectDefault": {
+				"uvScale": {
+					"type": 0,
+					"value": 1
+				},
+				"shape": {
+					"alphaThresh": 0.001,
+					"active": 0,
+					"data": {
+						"tight": {
+							"mode": 0,
+							"aCutoff": 0,
+							"offset": 3
+						},
+						"bbox": {
+							"rot": true
+						}
+					}
+				},
+				"slice": {
+					"type": 0,
+					"data": {
+						"voronoi": {
+							"type": 0,
+							"data": {
+								"auto": {
+									"count": 3
+								}
+							}
+						}
+					}
+				}
+			},
+			"rectOverride": []
+		},
+		{
+			"id": "lFipGoyVsceUK0Bazwuj",
+			"path": "D:/Graphics/anhhungchimlac/spine/no_pre_alpha/item-llq.json",
+			"pathAtlas": "D:\\Graphics\\anhhungchimlac\\spine\\no_pre_alpha\\item-llq.atlas",
+			"channel": [
+				{
+					"ref": "OPVpD8e4Ze2r1nqmmMiG",
+					"pageList": [
+						"D:\\Graphics\\anhhungchimlac\\spine\\no_pre_alpha\\item-llq.png"
+					],
+					"alpha": true
+				}
+			],
+			"export": {
+				"ref": "mLvQwGP3qXP47Bgn3d7N",
+				"path": ""
+			},
+			"rectDefault": {
+				"uvScale": {
+					"type": 0,
+					"value": 1
+				},
+				"shape": {
+					"alphaThresh": 0.001,
+					"active": 0,
+					"data": {
+						"tight": {
+							"mode": 0,
+							"aCutoff": 0,
+							"offset": 3
+						},
+						"bbox": {
+							"rot": true
+						}
+					}
+				},
+				"slice": {
+					"type": 0,
+					"data": {
+						"voronoi": {
+							"type": 0,
+							"data": {
+								"auto": {
+									"count": 3
+								}
+							}
+						}
+					}
+				}
+			},
+			"rectOverride": []
+		},
+		{
+			"id": "IXkmNcaie4RQd8zOkRu8",
+			"path": "D:/Graphics/anhhungchimlac/spine/no_pre_alpha/item-moutain.json",
+			"pathAtlas": "D:\\Graphics\\anhhungchimlac\\spine\\no_pre_alpha\\item-moutain.atlas",
+			"channel": [
+				{
+					"ref": "OPVpD8e4Ze2r1nqmmMiG",
+					"pageList": [
+						"D:\\Graphics\\anhhungchimlac\\spine\\no_pre_alpha\\item-moutain.png"
+					],
+					"alpha": true
+				}
+			],
+			"export": {
+				"ref": "mLvQwGP3qXP47Bgn3d7N",
+				"path": ""
+			},
+			"rectDefault": {
+				"uvScale": {
+					"type": 0,
+					"value": 1
+				},
+				"shape": {
+					"alphaThresh": 0.001,
+					"active": 0,
+					"data": {
+						"tight": {
+							"mode": 0,
+							"aCutoff": 0,
+							"offset": 3
+						},
+						"bbox": {
+							"rot": true
+						}
+					}
+				},
+				"slice": {
+					"type": 0,
+					"data": {
+						"voronoi": {
+							"type": 0,
+							"data": {
+								"auto": {
+									"count": 3
+								}
+							}
+						}
+					}
+				}
+			},
+			"rectOverride": []
+		},
+		{
+			"id": "fq6cvMO03Bf1Ugu49T3b",
+			"path": "D:/Graphics/anhhungchimlac/spine/no_pre_alpha/item-sea.json",
+			"pathAtlas": "D:\\Graphics\\anhhungchimlac\\spine\\no_pre_alpha\\item-sea.atlas",
+			"channel": [
+				{
+					"ref": "OPVpD8e4Ze2r1nqmmMiG",
+					"pageList": [
+						"D:\\Graphics\\anhhungchimlac\\spine\\no_pre_alpha\\item-sea.png"
+					],
+					"alpha": true
+				}
+			],
+			"export": {
+				"ref": "mLvQwGP3qXP47Bgn3d7N",
+				"path": ""
+			},
+			"rectDefault": {
+				"uvScale": {
+					"type": 0,
+					"value": 1
+				},
+				"shape": {
+					"alphaThresh": 0.001,
+					"active": 0,
+					"data": {
+						"tight": {
+							"mode": 0,
+							"aCutoff": 0,
+							"offset": 3
+						},
+						"bbox": {
+							"rot": true
+						}
+					}
+				},
+				"slice": {
+					"type": 0,
+					"data": {
+						"voronoi": {
+							"type": 0,
+							"data": {
+								"auto": {
+									"count": 3
+								}
+							}
+						}
+					}
+				}
+			},
+			"rectOverride": []
+		},
+		{
+			"id": "O9gcDg0Tc6QTk6iOPd9F",
+			"path": "D:/Graphics/anhhungchimlac/spine/no_pre_alpha/openchest.json",
+			"pathAtlas": "D:\\Graphics\\anhhungchimlac\\spine\\no_pre_alpha\\openchest.atlas",
+			"channel": [
+				{
+					"ref": "OPVpD8e4Ze2r1nqmmMiG",
+					"pageList": [
+						"D:\\Graphics\\anhhungchimlac\\spine\\no_pre_alpha\\openchest.png"
+					],
+					"alpha": true
+				}
+			],
+			"export": {
+				"ref": "mLvQwGP3qXP47Bgn3d7N",
+				"path": ""
+			},
+			"rectDefault": {
+				"uvScale": {
+					"type": 0,
+					"value": 1
+				},
+				"shape": {
+					"alphaThresh": 0.001,
+					"active": 0,
+					"data": {
+						"tight": {
+							"mode": 0,
+							"aCutoff": 0,
+							"offset": 3
+						},
+						"bbox": {
+							"rot": true
+						}
+					}
+				},
+				"slice": {
+					"type": 0,
+					"data": {
+						"voronoi": {
+							"type": 0,
+							"data": {
+								"auto": {
+									"count": 3
+								}
+							}
+						}
+					}
+				}
+			},
+			"rectOverride": []
+		},
+		{
+			"id": "uQ2wurcrkuC8uwib3Sha",
+			"path": "D:/Graphics/anhhungchimlac/spine/no_pre_alpha/skeleton-item-axe.json",
+			"pathAtlas": "D:\\Graphics\\anhhungchimlac\\spine\\no_pre_alpha\\skeleton-item-axe.atlas",
+			"channel": [
+				{
+					"ref": "OPVpD8e4Ze2r1nqmmMiG",
+					"pageList": [
+						"D:\\Graphics\\anhhungchimlac\\spine\\no_pre_alpha\\skeleton-item-axe.png"
+					],
+					"alpha": true
+				}
+			],
+			"export": {
+				"ref": "mLvQwGP3qXP47Bgn3d7N",
+				"path": ""
+			},
+			"rectDefault": {
+				"uvScale": {
+					"type": 0,
+					"value": 1
+				},
+				"shape": {
+					"alphaThresh": 0.001,
+					"active": 0,
+					"data": {
+						"tight": {
+							"mode": 0,
+							"aCutoff": 0,
+							"offset": 3
+						},
+						"bbox": {
+							"rot": true
+						}
+					}
+				},
+				"slice": {
+					"type": 0,
+					"data": {
+						"voronoi": {
+							"type": 0,
+							"data": {
+								"auto": {
+									"count": 3
+								}
+							}
+						}
+					}
+				}
+			},
+			"rectOverride": []
+		},
+		{
+			"id": "gAU0YAcrYLx7X6ojry7j",
+			"path": "D:/Graphics/anhhungchimlac/spine/no_pre_alpha/skeleton-item-freespin.json",
+			"pathAtlas": "D:\\Graphics\\anhhungchimlac\\spine\\no_pre_alpha\\skeleton-item-freespin.atlas",
+			"channel": [
+				{
+					"ref": "OPVpD8e4Ze2r1nqmmMiG",
+					"pageList": [
+						"D:\\Graphics\\anhhungchimlac\\spine\\no_pre_alpha\\skeleton-item-freespin.png"
+					],
+					"alpha": true
+				}
+			],
+			"export": {
+				"ref": "mLvQwGP3qXP47Bgn3d7N",
+				"path": ""
+			},
+			"rectDefault": {
+				"uvScale": {
+					"type": 0,
+					"value": 1
+				},
+				"shape": {
+					"alphaThresh": 0.001,
+					"active": 0,
+					"data": {
+						"tight": {
+							"mode": 0,
+							"aCutoff": 0,
+							"offset": 3
+						},
+						"bbox": {
+							"rot": true
+						}
+					}
+				},
+				"slice": {
+					"type": 0,
+					"data": {
+						"voronoi": {
+							"type": 0,
+							"data": {
+								"auto": {
+									"count": 3
+								}
+							}
+						}
+					}
+				}
+			},
+			"rectOverride": []
+		},
+		{
+			"id": "ZpSBX8Q1QnrH16INn88r",
+			"path": "D:/Graphics/anhhungchimlac/spine/no_pre_alpha/skeleton-item-jackpot.json",
+			"pathAtlas": "D:\\Graphics\\anhhungchimlac\\spine\\no_pre_alpha\\skeleton-item-jackpot.atlas",
+			"channel": [
+				{
+					"ref": "OPVpD8e4Ze2r1nqmmMiG",
+					"pageList": [
+						"D:\\Graphics\\anhhungchimlac\\spine\\no_pre_alpha\\skeleton-item-jackpot.png"
+					],
+					"alpha": true
+				}
+			],
+			"export": {
+				"ref": "mLvQwGP3qXP47Bgn3d7N",
+				"path": ""
+			},
+			"rectDefault": {
+				"uvScale": {
+					"type": 0,
+					"value": 1
+				},
+				"shape": {
+					"alphaThresh": 0.001,
+					"active": 0,
+					"data": {
+						"tight": {
+							"mode": 0,
+							"aCutoff": 0,
+							"offset": 3
+						},
+						"bbox": {
+							"rot": true
+						}
+					}
+				},
+				"slice": {
+					"type": 0,
+					"data": {
+						"voronoi": {
+							"type": 0,
+							"data": {
+								"auto": {
+									"count": 3
+								}
+							}
+						}
+					}
+				}
+			},
+			"rectOverride": []
+		},
+		{
+			"id": "tGkXou62pcKg2LMoc6lg",
+			"path": "D:/Graphics/anhhungchimlac/spine/no_pre_alpha/skeleton-item-monster.json",
+			"pathAtlas": "D:\\Graphics\\anhhungchimlac\\spine\\no_pre_alpha\\skeleton-item-monster.atlas",
+			"channel": [
+				{
+					"ref": "OPVpD8e4Ze2r1nqmmMiG",
+					"pageList": [
+						"D:\\Graphics\\anhhungchimlac\\spine\\no_pre_alpha\\skeleton-item-monster.png"
+					],
+					"alpha": true
+				}
+			],
+			"export": {
+				"ref": "mLvQwGP3qXP47Bgn3d7N",
+				"path": ""
+			},
+			"rectDefault": {
+				"uvScale": {
+					"type": 0,
+					"value": 1
+				},
+				"shape": {
+					"alphaThresh": 0.001,
+					"active": 0,
+					"data": {
+						"tight": {
+							"mode": 0,
+							"aCutoff": 0,
+							"offset": 3
+						},
+						"bbox": {
+							"rot": true
+						}
+					}
+				},
+				"slice": {
+					"type": 0,
+					"data": {
+						"voronoi": {
+							"type": 0,
+							"data": {
+								"auto": {
+									"count": 3
+								}
+							}
+						}
+					}
+				}
+			},
+			"rectOverride": []
+		}
+	],
+	"animFile": [],
+	"imageItem": [],
+	"fbxItem": []
+}

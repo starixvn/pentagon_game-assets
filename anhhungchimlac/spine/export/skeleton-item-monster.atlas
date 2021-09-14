@@ -1,0 +1,90 @@
+
+exportAtlas.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: false
+  xy: 180, 384
+  size: 153, 155
+  orig: 153, 155
+  offset: 0, 0
+  index: -1
+body-monster
+  rotate: false
+  xy: 639, 402
+  size: 154, 136
+  orig: 154, 136
+  offset: 0, 0
+  index: -1
+eye-open
+  rotate: false
+  xy: 319, 218
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+head-monster
+  rotate: false
+  xy: 891, 165
+  size: 91, 108
+  orig: 91, 108
+  offset: 0, 0
+  index: -1
+light00
+  rotate: false
+  xy: 2, 48
+  size: 1016, 828
+  orig: 1016, 828
+  offset: 0, 0
+  index: -1
+light01
+  rotate: false
+  xy: 185, 4
+  size: 554, 767
+  orig: 554, 767
+  offset: 0, 0
+  index: -1
+light02
+  rotate: false
+  xy: 214, 2
+  size: 539, 130
+  orig: 539, 130
+  offset: 0, 0
+  index: -1
+light03
+  rotate: false
+  xy: 148, 9
+  size: 625, 420
+  orig: 625, 420
+  offset: 0, 0
+  index: -1
+light04
+  rotate: false
+  xy: 51, 2
+  size: 247, 812
+  orig: 247, 812
+  offset: 0, 0
+  index: -1
+light05
+  rotate: false
+  xy: 56, 2
+  size: 383, 754
+  orig: 383, 754
+  offset: 0, 0
+  index: -1
+light06
+  rotate: false
+  xy: 133, 2
+  size: 206, 882
+  orig: 206, 882
+  offset: 0, 0
+  index: -1
+light07
+  rotate: false
+  xy: 219, 290
+  size: 750, 704
+  orig: 750, 704
+  offset: 0, 0
+  index: -1

@@ -1,90 +1,90 @@
 
 skeleton-item-monster.png
-size: 476,525
+size: 567,444
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 background
   rotate: false
-  xy: 2, 217
+  xy: 103, 290
   size: 150, 152
   orig: 150, 152
   offset: 0, 0
   index: -1
 body-monster
   rotate: false
-  xy: 316, 385
-  size: 158, 138
-  orig: 158, 147
-  offset: 0, 8
+  xy: 2, 144
+  size: 154, 138
+  orig: 154, 139
+  offset: 0, 0
   index: -1
 eye-open
   rotate: false
-  xy: 2, 44
+  xy: 158, 158
   size: 21, 18
   orig: 21, 18
   offset: 0, 0
   index: -1
 head-monster
-  rotate: true
-  xy: 154, 151
+  rotate: false
+  xy: 158, 178
   size: 94, 110
   orig: 96, 111
   offset: 2, 0
   index: -1
 light00
-  rotate: true
-  xy: 316, 284
+  rotate: false
+  xy: 2, 284
   size: 99, 158
   orig: 158, 158
   offset: 29, 0
   index: -1
 light01
   rotate: false
-  xy: 316, 151
+  xy: 255, 311
   size: 156, 131
   orig: 158, 158
   offset: 1, 14
   index: -1
 light02
   rotate: false
-  xy: 162, 247
+  xy: 413, 315
   size: 152, 127
   orig: 158, 158
   offset: 3, 16
   index: -1
 light03
   rotate: false
-  xy: 302, 9
+  xy: 2, 2
   size: 141, 140
   orig: 158, 158
   offset: 10, 9
   index: -1
 light04
   rotate: false
-  xy: 2, 64
+  xy: 255, 158
   size: 147, 151
   orig: 158, 158
   offset: 5, 4
   index: -1
 light05
   rotate: false
-  xy: 162, 376
+  xy: 404, 162
   size: 152, 147
   orig: 158, 158
   offset: 3, 6
   index: -1
 light06
   rotate: false
-  xy: 151, 2
+  xy: 404, 13
   size: 149, 147
   orig: 158, 158
   offset: 4, 6
   index: -1
 light07
   rotate: false
-  xy: 2, 371
-  size: 158, 152
+  xy: 158, 12
+  size: 150, 144
   orig: 158, 158
-  offset: 0, 3
+  offset: 5, 8
   index: -1
