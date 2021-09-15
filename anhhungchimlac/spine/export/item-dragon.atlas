@@ -6,77 +6,77 @@ filter: Linear,Linear
 repeat: none
 Body
   rotate: false
-  xy: 743, 410
+  xy: 426, 779
   size: 106, 132
   orig: 106, 132
   offset: 0, 0
   index: -1
 Head
   rotate: false
-  xy: 828, 384
+  xy: 715, 659
   size: 105, 115
   orig: 105, 115
   offset: 0, 0
   index: -1
 bg
   rotate: false
-  xy: 186, 2
+  xy: 202, 185
   size: 155, 157
   orig: 155, 157
   offset: 0, 0
   index: -1
 blur
   rotate: false
-  xy: 2, 2
-  size: 502, 553
-  orig: 502, 553
+  xy: 2, 16
+  size: 446, 200
+  orig: 446, 200
   offset: 0, 0
   index: -1
 border
   rotate: false
-  xy: 447, 829
+  xy: 651, 794
   size: 153, 155
   orig: 153, 155
   offset: 0, 0
   index: -1
 eye-close
   rotate: false
-  xy: 302, 152
+  xy: 183, 214
   size: 20, 14
   orig: 20, 14
   offset: 0, 0
   index: -1
 eye-open
   rotate: false
-  xy: 139, 174
+  xy: 168, 4
   size: 17, 14
   orig: 17, 14
   offset: 0, 0
   index: -1
 rau1
   rotate: false
-  xy: 646, 282
+  xy: 301, 339
   size: 66, 39
   orig: 66, 39
   offset: 0, 0
   index: -1
 rau2
   rotate: false
-  xy: 315, 134
+  xy: 145, 236
   size: 11, 18
   orig: 11, 18
   offset: 0, 0
   index: -1
 sung1
   rotate: false
-  xy: 2, 314
+  xy: 5, 388
   size: 26, 44
   orig: 26, 44
   offset: 0, 0
   index: -1
 sung2
   rotate: false
-  xy: 462, 60
+  xy: 143, 461
   size: 17, 38
   orig: 17, 38
   offset: 0, 0

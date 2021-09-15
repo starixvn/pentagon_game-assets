@@ -6,28 +6,28 @@ filter: Linear,Linear
 repeat: none
 diamond
   rotate: true
-  xy: 450, 207
+  xy: 209, 327
   size: 25, 26
   orig: 25, 26
   offset: 0, 0
   index: -1
 item_jackpot
   rotate: false
-  xy: 391, 535
+  xy: 295, 687
   size: 168, 128
   orig: 168, 128
   offset: 0, 0
   index: -1
 light_00000
   rotate: false
-  xy: 579, 447
+  xy: 799, 116
   size: 162, 110
   orig: 162, 110
   offset: 0, 0
   index: -1
 star
   rotate: false
-  xy: 188, 170
+  xy: 95, 208
   size: 20, 20
   orig: 20, 20
   offset: 0, 0

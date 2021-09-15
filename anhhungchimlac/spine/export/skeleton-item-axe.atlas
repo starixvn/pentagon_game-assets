@@ -6,42 +6,42 @@ filter: Linear,Linear
 repeat: none
 item-axe
   rotate: true
-  xy: 235, 807
+  xy: 627, 628
   size: 128, 142
   orig: 128, 142
   offset: 0, 0
   index: -1
 text-wild
   rotate: true
-  xy: 2, 514
+  xy: 962, 86
   size: 109, 39
   orig: 109, 39
   offset: 0, 0
   index: -1
 thunder0
   rotate: false
-  xy: 183, 121
+  xy: 220, 129
   size: 32, 47
   orig: 32, 47
   offset: 0, 0
   index: -1
 thunder1
   rotate: true
-  xy: 382, 46
+  xy: 45, 3
   size: 16, 46
   orig: 16, 46
   offset: 0, 0
   index: -1
 thunder2
   rotate: false
-  xy: 422, 2
+  xy: 479, 372
   size: 68, 53
   orig: 68, 53
   offset: 0, 0
   index: -1
 thunder3
   rotate: false
-  xy: 142, 355
+  xy: 226, 45
   size: 21, 54
   orig: 21, 54
   offset: 0, 0

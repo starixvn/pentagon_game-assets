@@ -6,43 +6,43 @@ filter: Linear,Linear
 repeat: none
 Egg
   rotate: false
-  xy: 112, 826
+  xy: 32, 892
   size: 119, 119
   orig: 119, 119
   offset: 0, 0
   index: -1
 egg-children
   rotate: true
-  xy: 2, 866
+  xy: 896, 196
   size: 112, 82
   orig: 112, 82
   offset: 0, 0
   index: -1
 egg-fly
   rotate: false
-  xy: 294, 528
+  xy: 34, 32
   size: 21, 22
   orig: 21, 22
   offset: 0, 0
   index: -1
 lotus-back
   rotate: false
-  xy: 672, 557
+  xy: 765, 524
   size: 137, 81
   orig: 137, 81
   offset: 0, 0
   index: -1
 lotus-front
   rotate: true
-  xy: 86, 919
+  xy: 968, 193
   size: 95, 47
   orig: 95, 47
   offset: 0, 0
   index: -1
 text-freespin
   rotate: false
-  xy: 328, 2
-  size: 249, 351
-  orig: 249, 351
+  xy: 581, 156
+  size: 183, 708
+  orig: 183, 708
   offset: 0, 0
   index: -1

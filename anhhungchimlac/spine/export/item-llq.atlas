@@ -6,56 +6,56 @@ filter: Linear,Linear
 repeat: none
 bg
   rotate: true
-  xy: 195, 160
+  xy: 190, 344
   size: 154, 158
   orig: 154, 158
   offset: 0, 0
   index: -1
 llq
   rotate: false
-  xy: 549, 551
+  xy: 794, 278
   size: 122, 142
   orig: 122, 142
   offset: 0, 0
   index: -1
 soi
   rotate: true
-  xy: 297, 311
+  xy: 2, 155
   size: 13, 30
   orig: 13, 30
   offset: 0, 0
   index: -1
 soi2
   rotate: false
-  xy: 741, 98
+  xy: 307, 470
   size: 41, 49
   orig: 41, 49
   offset: 0, 0
   index: -1
 soi3
   rotate: false
-  xy: 271, 477
+  xy: 36, 193
   size: 23, 55
   orig: 23, 55
   offset: 0, 0
   index: -1
 soi4
   rotate: false
-  xy: 143, 412
+  xy: 2, 248
   size: 16, 42
   orig: 16, 42
   offset: 0, 0
   index: -1
 soi5
   rotate: true
-  xy: 24, 166
+  xy: 2, 2
   size: 3, 8
   orig: 3, 8
   offset: 0, 0
   index: -1
 soi6
   rotate: true
-  xy: 431, 54
+  xy: 34, 421
   size: 12, 24
   orig: 12, 24
   offset: 0, 0
@@ -63,13 +63,13 @@ soi6
 thunderright
   rotate: true
   xy: 2, 2
-  size: 826, 603
-  orig: 826, 603
+  size: 955, 430
+  orig: 955, 430
   offset: 0, 0
   index: -1
 vaiao
   rotate: true
-  xy: 5, 172
+  xy: 2, 2
   size: 42, 40
   orig: 42, 40
   offset: 0, 0

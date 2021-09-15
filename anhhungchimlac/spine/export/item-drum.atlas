@@ -6,42 +6,42 @@ filter: Linear,Linear
 repeat: none
 drum_00001
   rotate: true
-  xy: 439, 370
+  xy: 511, 213
   size: 153, 139
   orig: 153, 139
   offset: 0, 0
   index: -1
 drum_00003
   rotate: true
-  xy: 491, 158
+  xy: 589, 2
   size: 153, 139
   orig: 153, 139
   offset: 0, 0
   index: -1
 drum_00005
   rotate: true
-  xy: 132, 469
+  xy: 350, 385
   size: 153, 139
   orig: 153, 139
   offset: 0, 0
   index: -1
 drum_00007
   rotate: true
-  xy: 483, 2
+  xy: 8, 589
   size: 153, 139
   orig: 153, 139
   offset: 0, 0
   index: -1
 drum_00009
   rotate: true
-  xy: 299, 378
+  xy: 296, 534
   size: 153, 139
   orig: 153, 139
   offset: 0, 0
   index: -1
 item-drum
   rotate: true
-  xy: 2, 361
+  xy: 2, 435
   size: 152, 140
   orig: 152, 140
   offset: 0, 0
