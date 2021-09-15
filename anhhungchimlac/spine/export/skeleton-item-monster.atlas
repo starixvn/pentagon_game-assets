@@ -6,85 +6,85 @@ filter: Linear,Linear
 repeat: none
 background
   rotate: false
-  xy: 180, 384
+  xy: 340, 228
   size: 153, 155
   orig: 153, 155
   offset: 0, 0
   index: -1
 body-monster
   rotate: false
-  xy: 639, 402
+  xy: 768, 7
   size: 154, 136
   orig: 154, 136
   offset: 0, 0
   index: -1
 eye-open
   rotate: false
-  xy: 319, 218
+  xy: 42, 515
   size: 25, 20
   orig: 25, 20
   offset: 0, 0
   index: -1
 head-monster
   rotate: false
-  xy: 891, 165
+  xy: 365, 809
   size: 91, 108
   orig: 91, 108
   offset: 0, 0
   index: -1
 light00
   rotate: false
-  xy: 2, 48
-  size: 1016, 828
-  orig: 1016, 828
+  xy: 5, 4
+  size: 542, 898
+  orig: 542, 898
   offset: 0, 0
   index: -1
 light01
   rotate: false
-  xy: 185, 4
-  size: 554, 767
-  orig: 554, 767
+  xy: 156, 2
+  size: 820, 1002
+  orig: 820, 1002
   offset: 0, 0
   index: -1
 light02
   rotate: false
-  xy: 214, 2
-  size: 539, 130
-  orig: 539, 130
+  xy: 51, 2
+  size: 735, 277
+  orig: 735, 277
   offset: 0, 0
   index: -1
 light03
   rotate: false
-  xy: 148, 9
-  size: 625, 420
-  orig: 625, 420
+  xy: 2, 289
+  size: 213, 578
+  orig: 213, 578
   offset: 0, 0
   index: -1
 light04
   rotate: false
-  xy: 51, 2
-  size: 247, 812
-  orig: 247, 812
+  xy: 129, 2
+  size: 593, 443
+  orig: 593, 443
   offset: 0, 0
   index: -1
 light05
   rotate: false
-  xy: 56, 2
-  size: 383, 754
-  orig: 383, 754
+  xy: 57, 2
+  size: 269, 841
+  orig: 269, 841
   offset: 0, 0
   index: -1
 light06
   rotate: false
-  xy: 133, 2
-  size: 206, 882
-  orig: 206, 882
+  xy: 300, 2
+  size: 573, 406
+  orig: 573, 406
   offset: 0, 0
   index: -1
 light07
   rotate: false
-  xy: 219, 290
-  size: 750, 704
-  orig: 750, 704
+  xy: 268, 672
+  size: 461, 306
+  orig: 461, 306
   offset: 0, 0
   index: -1

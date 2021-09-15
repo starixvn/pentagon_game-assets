@@ -6,35 +6,35 @@ filter: Linear,Linear
 repeat: none
 cloud1
   rotate: true
-  xy: 270, 146
-  size: 873, 90
-  orig: 873, 90
+  xy: 221, 155
+  size: 628, 151
+  orig: 628, 151
   offset: 0, 0
   index: -1
 cloud2
   rotate: true
-  xy: 973, 2
+  xy: 967, 2
   size: 102, 37
   orig: 102, 37
   offset: 0, 0
   index: -1
 moutain
   rotate: false
-  xy: 619, 130
+  xy: 2, 569
   size: 183, 157
   orig: 183, 157
   offset: 0, 0
   index: -1
 moutain-tree
   rotate: true
-  xy: 6, 330
+  xy: 162, 155
   size: 62, 32
   orig: 62, 32
   offset: 0, 0
   index: -1
 moutain_grass
   rotate: true
-  xy: 559, 52
+  xy: 175, 624
   size: 53, 35
   orig: 53, 35
   offset: 0, 0

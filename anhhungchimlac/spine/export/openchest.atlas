@@ -4,32 +4,39 @@ size: 1024,1024
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-blink fly
-  rotate: false
-  xy: 2, 2
-  size: 366, 553
-  orig: 366, 553
-  offset: 0, 0
-  index: -1
 chest-open
   rotate: false
-  xy: 171, 77
+  xy: 213, 553
   size: 177, 146
   orig: 177, 146
   offset: 0, 0
   index: -1
-light-fly
+chest-open01
   rotate: true
-  xy: 43, 182
-  size: 819, 83
-  orig: 819, 83
+  xy: 164, 309
+  size: 166, 140
+  orig: 166, 140
+  offset: 0, 0
+  index: -1
+coin
+  rotate: true
+  xy: 486, 152
+  size: 21, 12
+  orig: 21, 12
   offset: 0, 0
   index: -1
 light_00000
-  rotate: false
-  xy: 484, 561
+  rotate: true
+  xy: 373, 644
   size: 162, 112
   orig: 162, 112
+  offset: 0, 0
+  index: -1
+particle
+  rotate: false
+  xy: 2, 30
+  size: 9, 11
+  orig: 9, 11
   offset: 0, 0
   index: -1
 star
@@ -40,15 +47,15 @@ star
   offset: 0, 0
   index: -1
 text-bonus
-  rotate: false
-  xy: 167, 4
-  size: 137, 41
-  orig: 137, 41
+  rotate: true
+  xy: 925, 2
+  size: 139, 41
+  orig: 139, 41
   offset: 0, 0
   index: -1
 text-light
   rotate: true
-  xy: 487, 2
+  xy: 342, 42
   size: 31, 37
   orig: 31, 37
   offset: 0, 0

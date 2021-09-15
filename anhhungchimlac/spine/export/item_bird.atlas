@@ -6,7 +6,7 @@ filter: Linear,Linear
 repeat: none
 bg
   rotate: false
-  xy: 23, 364
+  xy: 329, 69
   size: 154, 157
   orig: 154, 157
   offset: 0, 0
@@ -20,35 +20,35 @@ bird_leg
   index: -1
 body-bird
   rotate: false
-  xy: 321, 879
+  xy: 893, 306
   size: 124, 86
   orig: 124, 86
   offset: 0, 0
   index: -1
 cloud1
   rotate: false
-  xy: 2, 372
-  size: 287, 350
-  orig: 287, 350
+  xy: 199, 2
+  size: 697, 575
+  orig: 697, 575
   offset: 0, 0
   index: -1
 cloud2
   rotate: false
-  xy: 737, 630
+  xy: 787, 2
   size: 102, 37
   orig: 102, 37
   offset: 0, 0
   index: -1
 wing-bottom
   rotate: false
-  xy: 888, 448
+  xy: 127, 953
   size: 67, 66
   orig: 67, 66
   offset: 0, 0
   index: -1
 wing-top
   rotate: true
-  xy: 510, 2
+  xy: 44, 509
   size: 94, 79
   orig: 94, 79
   offset: 0, 0

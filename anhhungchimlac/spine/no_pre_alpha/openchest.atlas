@@ -1,54 +1,61 @@
 
 openchest.png
-size: 480,149
+size: 491,170
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-blink fly
-  rotate: false
-  xy: 341, 31
-  size: 91, 75
-  orig: 91, 76
-  offset: 0, 0
-  index: -1
 chest-open
   rotate: false
-  xy: 2, 4
+  xy: 2, 25
   size: 175, 143
   orig: 175, 144
   offset: 0, 1
   index: -1
-light-fly
+chest-open01
   rotate: true
-  xy: 434, 20
-  size: 86, 44
-  orig: 90, 51
+  xy: 179, 4
+  size: 164, 138
+  orig: 165, 140
+  offset: 0, 1
+  index: -1
+coin
+  rotate: true
+  xy: 21, 2
+  size: 21, 12
+  orig: 21, 12
   offset: 0, 0
   index: -1
 light_00000
-  rotate: false
-  xy: 179, 18
+  rotate: true
+  xy: 319, 8
   size: 160, 129
-  orig: 400, 400
-  offset: 119, 147
+  orig: 206, 198
+  offset: 20, 23
+  index: -1
+particle
+  rotate: false
+  xy: 35, 12
+  size: 9, 11
+  orig: 11, 13
+  offset: 1, 1
   index: -1
 star
   rotate: false
-  xy: 378, 12
+  xy: 2, 6
   size: 17, 17
   orig: 19, 19
   offset: 1, 1
   index: -1
 text-bonus
-  rotate: false
-  xy: 341, 108
+  rotate: true
+  xy: 450, 33
   size: 135, 39
   orig: 135, 39
   offset: 0, 0
   index: -1
 text-light
   rotate: true
-  xy: 341, 2
+  xy: 450, 4
   size: 27, 35
   orig: 29, 38
   offset: 1, 1
