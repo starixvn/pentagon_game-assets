@@ -27,16 +27,9 @@ chest-open01
   index: -1
 coin
   rotate: false
-  xy: 248, 2
+  xy: 331, 325
   size: 21, 12
   orig: 21, 12
-  offset: 0, 0
-  index: -1
-light_00000
-  rotate: false
-  xy: 588, 553
-  size: 162, 112
-  orig: 162, 112
   offset: 0, 0
   index: -1
 particle
@@ -48,21 +41,21 @@ particle
   index: -1
 star
   rotate: false
-  xy: 253, 163
+  xy: 95, 208
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
   index: -1
 star-fly
   rotate: false
-  xy: 189, 191
+  xy: 182, 197
   size: 25, 24
   orig: 25, 24
   offset: 0, 0
   index: -1
 text-bonus
   rotate: false
-  xy: 411, 2
+  xy: 424, 28
   size: 137, 41
   orig: 137, 41
   offset: 0, 0

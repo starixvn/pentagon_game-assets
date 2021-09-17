@@ -11,25 +11,39 @@ bg
   orig: 154, 158
   offset: 0, 0
   index: -1
+border
+  rotate: true
+  xy: 660, 765
+  size: 154, 155
+  orig: 154, 155
+  offset: 0, 0
+  index: -1
 llq
-  rotate: false
-  xy: 794, 278
-  size: 122, 142
-  orig: 122, 142
+  rotate: true
+  xy: 589, 545
+  size: 121, 142
+  orig: 121, 142
+  offset: 0, 0
+  index: -1
+mask_light
+  rotate: true
+  xy: 187, 947
+  size: 29, 139
+  orig: 29, 139
   offset: 0, 0
   index: -1
 soi
-  rotate: true
-  xy: 2, 155
-  size: 13, 30
-  orig: 13, 30
+  rotate: false
+  xy: 144, 222
+  size: 12, 30
+  orig: 12, 30
   offset: 0, 0
   index: -1
 soi2
   rotate: false
-  xy: 307, 470
-  size: 41, 49
-  orig: 41, 49
+  xy: 160, 455
+  size: 33, 41
+  orig: 33, 41
   offset: 0, 0
   index: -1
 soi3
@@ -41,36 +55,15 @@ soi3
   index: -1
 soi4
   rotate: false
-  xy: 2, 248
-  size: 16, 42
-  orig: 16, 42
-  offset: 0, 0
-  index: -1
-soi5
-  rotate: true
-  xy: 2, 2
-  size: 3, 8
-  orig: 3, 8
-  offset: 0, 0
-  index: -1
-soi6
-  rotate: true
-  xy: 34, 421
-  size: 12, 24
-  orig: 12, 24
+  xy: 493, 209
+  size: 14, 57
+  orig: 14, 57
   offset: 0, 0
   index: -1
 thunderright
-  rotate: true
+  rotate: false
   xy: 2, 2
-  size: 955, 430
-  orig: 955, 430
-  offset: 0, 0
-  index: -1
-vaiao
-  rotate: true
-  xy: 2, 2
-  size: 42, 40
-  orig: 42, 40
+  size: 955, 248
+  orig: 955, 248
   offset: 0, 0
   index: -1

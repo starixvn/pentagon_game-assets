@@ -13,78 +13,78 @@ background
   index: -1
 body-monster
   rotate: false
-  xy: 460, 656
+  xy: 459, 656
   size: 154, 136
   orig: 154, 136
   offset: 0, 0
   index: -1
 eye-open
   rotate: false
-  xy: 357, 222
+  xy: 210, 332
   size: 25, 20
   orig: 25, 20
   offset: 0, 0
   index: -1
 head-monster
   rotate: false
-  xy: 508, 794
+  xy: 751, 526
   size: 91, 108
   orig: 91, 108
   offset: 0, 0
   index: -1
 light00
   rotate: false
-  xy: 25, 2
-  size: 388, 1013
-  orig: 388, 1013
+  xy: 30, 2
+  size: 843, 694
+  orig: 843, 694
   offset: 0, 0
   index: -1
 light01
   rotate: false
-  xy: 140, 2
-  size: 162, 1016
-  orig: 162, 1016
+  xy: 2, 2
+  size: 458, 1005
+  orig: 458, 1005
   offset: 0, 0
   index: -1
 light02
   rotate: false
-  xy: 2, 104
-  size: 804, 291
-  orig: 804, 291
+  xy: 26, 45
+  size: 780, 350
+  orig: 780, 350
   offset: 0, 0
   index: -1
 light03
   rotate: false
-  xy: 239, 131
-  size: 555, 421
-  orig: 555, 421
+  xy: 240, 133
+  size: 554, 419
+  orig: 554, 419
   offset: 0, 0
   index: -1
 light04
   rotate: false
-  xy: 90, 26
-  size: 498, 644
-  orig: 498, 644
+  xy: 115, 2
+  size: 473, 668
+  orig: 473, 668
   offset: 0, 0
   index: -1
 light05
   rotate: false
-  xy: 2, 68
-  size: 154, 823
-  orig: 154, 823
+  xy: 3, 8
+  size: 153, 883
+  orig: 153, 883
   offset: 0, 0
   index: -1
 light06
   rotate: false
-  xy: 147, 333
-  size: 151, 611
-  orig: 151, 611
+  xy: 147, 7
+  size: 151, 937
+  orig: 151, 937
   offset: 0, 0
   index: -1
 light07
   rotate: false
-  xy: 375, 759
-  size: 331, 255
-  orig: 331, 255
+  xy: 612, 173
+  size: 388, 671
+  orig: 388, 671
   offset: 0, 0
   index: -1

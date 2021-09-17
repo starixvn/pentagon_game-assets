@@ -6,14 +6,14 @@ filter: Linear,Linear
 repeat: none
 cloud1
   rotate: true
-  xy: 78, 216
-  size: 274, 902
-  orig: 274, 902
+  xy: 38, 40
+  size: 557, 867
+  orig: 557, 867
   offset: 0, 0
   index: -1
 cloud2
   rotate: true
-  xy: 586, 860
+  xy: 460, 910
   size: 102, 37
   orig: 102, 37
   offset: 0, 0
@@ -34,7 +34,7 @@ moutain-tree
   index: -1
 moutain_grass
   rotate: true
-  xy: 538, 14
+  xy: 135, 419
   size: 53, 35
   orig: 53, 35
   offset: 0, 0

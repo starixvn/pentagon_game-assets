@@ -1,12 +1,12 @@
 
 openchest.png
-size: 685,154
+size: 523,154
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 chest-close
   rotate: false
-  xy: 507, 43
+  xy: 345, 43
   size: 151, 109
   orig: 175, 144
   offset: 1, 2
@@ -27,49 +27,42 @@ chest-open01
   index: -1
 coin
   rotate: false
-  xy: 660, 116
+  xy: 498, 97
   size: 21, 12
   orig: 21, 12
   offset: 0, 0
   index: -1
-light_00000
-  rotate: false
-  xy: 345, 23
-  size: 160, 129
-  orig: 206, 198
-  offset: 20, 23
-  index: -1
 particle
   rotate: false
-  xy: 660, 84
+  xy: 498, 84
   size: 9, 11
   orig: 11, 13
   offset: 1, 1
   index: -1
 star
   rotate: false
-  xy: 660, 97
+  xy: 498, 111
   size: 17, 17
   orig: 19, 19
   offset: 1, 1
   index: -1
 star-fly
   rotate: false
-  xy: 660, 130
+  xy: 498, 130
   size: 23, 22
   orig: 23, 22
   offset: 0, 0
   index: -1
 text-bonus
   rotate: false
-  xy: 507, 2
+  xy: 345, 2
   size: 135, 39
   orig: 135, 39
   offset: 0, 0
   index: -1
 text-light
   rotate: false
-  xy: 644, 6
+  xy: 482, 6
   size: 27, 35
   orig: 29, 38
   offset: 1, 1

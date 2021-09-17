@@ -6,7 +6,7 @@ filter: Linear,Linear
 repeat: none
 Sea
   rotate: false
-  xy: 795, 423
+  xy: 808, 296
   size: 146, 95
   orig: 146, 95
   offset: 0, 0
@@ -20,21 +20,21 @@ bg
   index: -1
 border
   rotate: false
-  xy: 806, 612
+  xy: 845, 480
   size: 153, 155
   orig: 153, 155
   offset: 0, 0
   index: -1
 cloud-sea
   rotate: true
-  xy: 838, 639
+  xy: 981, 262
   size: 102, 37
   orig: 102, 37
   offset: 0, 0
   index: -1
 wave-run
   rotate: true
-  xy: 912, 310
+  xy: 95, 925
   size: 94, 89
   orig: 94, 89
   offset: 0, 0

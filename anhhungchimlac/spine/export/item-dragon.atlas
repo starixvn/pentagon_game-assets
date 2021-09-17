@@ -6,14 +6,14 @@ filter: Linear,Linear
 repeat: none
 Body
   rotate: false
-  xy: 426, 779
+  xy: 884, 3
   size: 106, 132
   orig: 106, 132
   offset: 0, 0
   index: -1
 Head
   rotate: false
-  xy: 715, 659
+  xy: 504, 795
   size: 105, 115
   orig: 105, 115
   offset: 0, 0
@@ -27,42 +27,42 @@ bg
   index: -1
 blur
   rotate: false
-  xy: 2, 16
-  size: 446, 200
-  orig: 446, 200
+  xy: 2, 2
+  size: 420, 87
+  orig: 420, 87
   offset: 0, 0
   index: -1
 border
   rotate: false
-  xy: 651, 794
+  xy: 777, 623
   size: 153, 155
   orig: 153, 155
   offset: 0, 0
   index: -1
 eye-close
   rotate: false
-  xy: 183, 214
+  xy: 31, 419
   size: 20, 14
   orig: 20, 14
   offset: 0, 0
   index: -1
 eye-open
   rotate: false
-  xy: 168, 4
+  xy: 2, 142
   size: 17, 14
   orig: 17, 14
   offset: 0, 0
   index: -1
 rau1
   rotate: false
-  xy: 301, 339
+  xy: 301, 340
   size: 66, 39
   orig: 66, 39
   offset: 0, 0
   index: -1
 rau2
   rotate: false
-  xy: 145, 236
+  xy: 188, 248
   size: 11, 18
   orig: 11, 18
   offset: 0, 0
@@ -76,7 +76,7 @@ sung1
   index: -1
 sung2
   rotate: false
-  xy: 143, 461
+  xy: 408, 181
   size: 17, 38
   orig: 17, 38
   offset: 0, 0

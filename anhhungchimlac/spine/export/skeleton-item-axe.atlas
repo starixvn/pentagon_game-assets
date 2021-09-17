@@ -6,14 +6,14 @@ filter: Linear,Linear
 repeat: none
 item-axe
   rotate: true
-  xy: 627, 628
+  xy: 2, 878
   size: 128, 142
   orig: 128, 142
   offset: 0, 0
   index: -1
 text-wild
   rotate: true
-  xy: 962, 86
+  xy: 980, 6
   size: 109, 39
   orig: 109, 39
   offset: 0, 0
@@ -27,14 +27,14 @@ thunder0
   index: -1
 thunder1
   rotate: true
-  xy: 45, 3
+  xy: 42, 2
   size: 16, 46
   orig: 16, 46
   offset: 0, 0
   index: -1
 thunder2
   rotate: false
-  xy: 479, 372
+  xy: 477, 368
   size: 68, 53
   orig: 68, 53
   offset: 0, 0
