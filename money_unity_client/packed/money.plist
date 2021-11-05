@@ -19,230 +19,20 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>chip_0.png</key>
+            <key>bg_gradient.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{88,90}</string>
+                <string>{89,91}</string>
                 <key>spriteSourceSize</key>
-                <string>{88,90}</string>
+                <string>{89,91}</string>
                 <key>textureRect</key>
-                <string>{{3,101},{88,90}}</string>
+                <string>{{138,3},{89,91}}</string>
                 <key>textureRotated</key>
                 <true/>
-            </dict>
-            <key>chip_1.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{88,90}</string>
-                <key>spriteSourceSize</key>
-                <string>{88,90}</string>
-                <key>textureRect</key>
-                <string>{{268,3},{88,90}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
-            <key>chip_10.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{88,90}</string>
-                <key>spriteSourceSize</key>
-                <string>{88,90}</string>
-                <key>textureRect</key>
-                <string>{{360,3},{88,90}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
-            <key>chip_11.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{88,90}</string>
-                <key>spriteSourceSize</key>
-                <string>{88,90}</string>
-                <key>textureRect</key>
-                <string>{{268,93},{88,90}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
-            <key>chip_12.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{88,90}</string>
-                <key>spriteSourceSize</key>
-                <string>{88,90}</string>
-                <key>textureRect</key>
-                <string>{{360,93},{88,90}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
-            <key>chip_13.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{88,90}</string>
-                <key>spriteSourceSize</key>
-                <string>{88,90}</string>
-                <key>textureRect</key>
-                <string>{{135,132},{88,90}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
-            <key>chip_14.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{88,90}</string>
-                <key>spriteSourceSize</key>
-                <string>{88,90}</string>
-                <key>textureRect</key>
-                <string>{{3,191},{88,90}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
-            <key>chip_2.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{88,90}</string>
-                <key>spriteSourceSize</key>
-                <string>{88,90}</string>
-                <key>textureRect</key>
-                <string>{{255,183},{88,90}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
-            <key>chip_3.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{88,90}</string>
-                <key>spriteSourceSize</key>
-                <string>{88,90}</string>
-                <key>textureRect</key>
-                <string>{{123,222},{88,90}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
-            <key>chip_4.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{88,90}</string>
-                <key>spriteSourceSize</key>
-                <string>{88,90}</string>
-                <key>textureRect</key>
-                <string>{{347,183},{88,90}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
-            <key>chip_5.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{88,90}</string>
-                <key>spriteSourceSize</key>
-                <string>{88,90}</string>
-                <key>textureRect</key>
-                <string>{{3,281},{88,90}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
-            <key>chip_6.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{88,90}</string>
-                <key>spriteSourceSize</key>
-                <string>{88,90}</string>
-                <key>textureRect</key>
-                <string>{{3,371},{88,90}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>chip_7.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{88,90}</string>
-                <key>spriteSourceSize</key>
-                <string>{88,90}</string>
-                <key>textureRect</key>
-                <string>{{93,371},{88,90}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>chip_8.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{88,90}</string>
-                <key>spriteSourceSize</key>
-                <string>{88,90}</string>
-                <key>textureRect</key>
-                <string>{{183,312},{88,90}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>chip_9.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{88,90}</string>
-                <key>spriteSourceSize</key>
-                <string>{88,90}</string>
-                <key>textureRect</key>
-                <string>{{183,404},{88,90}}</string>
-                <key>textureRotated</key>
-                <false/>
             </dict>
             <key>chip_active.png</key>
             <dict>
@@ -255,7 +45,7 @@
                 <key>spriteSourceSize</key>
                 <string>{127,128}</string>
                 <key>textureRect</key>
-                <string>{{138,3},{127,128}}</string>
+                <string>{{3,101},{127,128}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -270,7 +60,7 @@
                 <key>spriteSourceSize</key>
                 <string>{58,58}</string>
                 <key>textureRect</key>
-                <string>{{439,207},{58,58}}</string>
+                <string>{{94,361},{58,58}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -285,7 +75,7 @@
                 <key>spriteSourceSize</key>
                 <string>{38,54}</string>
                 <key>textureRect</key>
-                <string>{{95,101},{38,54}}</string>
+                <string>{{58,421},{38,54}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -300,9 +90,84 @@
                 <key>spriteSourceSize</key>
                 <string>{38,54}</string>
                 <key>textureRect</key>
-                <string>{{452,3},{38,54}}</string>
+                <string>{{98,421},{38,54}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>normal_bg_4circle.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{63,63}</string>
+                <key>spriteSourceSize</key>
+                <string>{63,63}</string>
+                <key>textureRect</key>
+                <string>{{187,276},{63,63}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>normal_bg_center.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{55,53}</string>
+                <key>spriteSourceSize</key>
+                <string>{55,53}</string>
+                <key>textureRect</key>
+                <string>{{3,421},{55,53}}</string>
                 <key>textureRotated</key>
                 <true/>
+            </dict>
+            <key>normal_bg_overlay.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{89,91}</string>
+                <key>spriteSourceSize</key>
+                <string>{89,91}</string>
+                <key>textureRect</key>
+                <string>{{138,94},{89,91}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>normal_border_normal.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{89,91}</string>
+                <key>spriteSourceSize</key>
+                <string>{89,91}</string>
+                <key>textureRect</key>
+                <string>{{133,185},{89,91}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>normal_inner.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{89,83}</string>
+                <key>spriteSourceSize</key>
+                <string>{89,83}</string>
+                <key>textureRect</key>
+                <string>{{96,276},{89,83}}</string>
+                <key>textureRotated</key>
+                <false/>
             </dict>
             <key>prev.png</key>
             <dict>
@@ -315,9 +180,9 @@
                 <key>spriteSourceSize</key>
                 <string>{38,54}</string>
                 <key>textureRect</key>
-                <string>{{452,43},{38,54}}</string>
+                <string>{{138,421},{38,54}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>prev_active.png</key>
             <dict>
@@ -330,217 +195,52 @@
                 <key>spriteSourceSize</key>
                 <string>{38,54}</string>
                 <key>textureRect</key>
-                <string>{{452,83},{38,54}}</string>
+                <string>{{178,404},{38,54}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>small_chip_0.png</key>
+            <key>vip_bg_center.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{26,26}</string>
+                <string>{62,61}</string>
                 <key>spriteSourceSize</key>
-                <string>{26,26}</string>
+                <string>{62,61}</string>
                 <key>textureRect</key>
-                <string>{{452,123},{26,26}}</string>
+                <string>{{187,341},{62,61}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>small_chip_1.png</key>
+            <key>vip_border_vip.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{26,26}</string>
+                <string>{89,91}</string>
                 <key>spriteSourceSize</key>
-                <string>{26,26}</string>
+                <string>{89,91}</string>
                 <key>textureRect</key>
-                <string>{{480,123},{26,26}}</string>
+                <string>{{3,230},{89,91}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
-            <key>small_chip_10.png</key>
+            <key>vip_inner.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{26,26}</string>
+                <string>{89,78}</string>
                 <key>spriteSourceSize</key>
-                <string>{26,26}</string>
+                <string>{89,78}</string>
                 <key>textureRect</key>
-                <string>{{452,151},{26,26}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>small_chip_11.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{26,26}</string>
-                <key>spriteSourceSize</key>
-                <string>{26,26}</string>
-                <key>textureRect</key>
-                <string>{{480,151},{26,26}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>small_chip_12.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{26,26}</string>
-                <key>spriteSourceSize</key>
-                <string>{26,26}</string>
-                <key>textureRect</key>
-                <string>{{452,179},{26,26}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>small_chip_14.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{26,26}</string>
-                <key>spriteSourceSize</key>
-                <string>{26,26}</string>
-                <key>textureRect</key>
-                <string>{{480,179},{26,26}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>small_chip_2.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{26,26}</string>
-                <key>spriteSourceSize</key>
-                <string>{26,26}</string>
-                <key>textureRect</key>
-                <string>{{95,157},{26,26}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>small_chip_3.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{26,26}</string>
-                <key>spriteSourceSize</key>
-                <string>{26,26}</string>
-                <key>textureRect</key>
-                <string>{{95,185},{26,26}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>small_chip_4.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{26,26}</string>
-                <key>spriteSourceSize</key>
-                <string>{26,26}</string>
-                <key>textureRect</key>
-                <string>{{95,213},{26,26}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>small_chip_5.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{26,26}</string>
-                <key>spriteSourceSize</key>
-                <string>{26,26}</string>
-                <key>textureRect</key>
-                <string>{{227,132},{26,26}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>small_chip_6.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{26,26}</string>
-                <key>spriteSourceSize</key>
-                <string>{26,26}</string>
-                <key>textureRect</key>
-                <string>{{227,160},{26,26}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>small_chip_7.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{26,26}</string>
-                <key>spriteSourceSize</key>
-                <string>{26,26}</string>
-                <key>textureRect</key>
-                <string>{{227,188},{26,26}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>small_chip_8.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{26,26}</string>
-                <key>spriteSourceSize</key>
-                <string>{26,26}</string>
-                <key>textureRect</key>
-                <string>{{227,216},{26,26}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>small_chip_9.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{26,26}</string>
-                <key>spriteSourceSize</key>
-                <string>{26,26}</string>
-                <key>textureRect</key>
-                <string>{{95,241},{26,26}}</string>
+                <string>{{3,321},{89,78}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -556,9 +256,9 @@
             <key>realTextureFileName</key>
             <string>money.png</string>
             <key>size</key>
-            <string>{512,512}</string>
+            <string>{256,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:413981c82a240e5cb0d1cfab65164f84:7112a873869408689127dd1c1b03e274:3c02825eb380eb1e5a25f88264fb2632$</string>
+            <string>$TexturePacker:SmartUpdate:a73a9983dda469807fd7880d56aac5f7:5bf868a30b134cf6c79e2ac30741a80e:3c02825eb380eb1e5a25f88264fb2632$</string>
             <key>textureFileName</key>
             <string>money.png</string>
         </dict>
