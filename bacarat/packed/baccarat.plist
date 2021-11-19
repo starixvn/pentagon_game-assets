@@ -4,36 +4,6 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>cai_doi_o_cuoc.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,2}</string>
-                <key>spriteSize</key>
-                <string>{41,41}</string>
-                <key>spriteSourceSize</key>
-                <string>{57,51}</string>
-                <key>textureRect</key>
-                <string>{{3,1307},{41,41}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>cai_doi_o_cuoc_en.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{79,37}</string>
-                <key>spriteSourceSize</key>
-                <string>{79,51}</string>
-                <key>textureRect</key>
-                <string>{{314,1285},{79,37}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
             <key>chamdo.png</key>
             <dict>
                 <key>aliases</key>
@@ -63,36 +33,6 @@
                 <string>{{1007,675},{8,9}}</string>
                 <key>textureRotated</key>
                 <true/>
-            </dict>
-            <key>con_doi_o_cuoc.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{43,38}</string>
-                <key>spriteSourceSize</key>
-                <string>{51,48}</string>
-                <key>textureRect</key>
-                <string>{{471,1285},{43,38}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>con_doi_o_cuoc_en.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{74,38}</string>
-                <key>spriteSourceSize</key>
-                <string>{74,48}</string>
-                <key>textureRect</key>
-                <string>{{395,1285},{74,38}}</string>
-                <key>textureRotated</key>
-                <false/>
             </dict>
             <key>dealer.png</key>
             <dict>
@@ -933,7 +873,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:25f3a0099f2d799db865653b33002963:658bb52ffc1778f7370a51d0d374bfcb:c41d94721d004ffc6a01426d3f3d01ec$</string>
+            <string>$TexturePacker:SmartUpdate:3c7741d6f0fa57373c5ece416ddf47cf:dbe263dd7ed37f43fdc5f12fee00f796:c41d94721d004ffc6a01426d3f3d01ec$</string>
             <key>textureFileName</key>
             <string>baccarat.png</string>
         </dict>
