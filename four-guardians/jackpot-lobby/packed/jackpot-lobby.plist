@@ -30,7 +30,7 @@
                 <key>spriteSourceSize</key>
                 <string>{27,29}</string>
                 <key>textureRect</key>
-                <string>{{223,80},{27,29}}</string>
+                <string>{{223,3},{27,29}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -60,7 +60,7 @@
                 <key>spriteSourceSize</key>
                 <string>{28,29}</string>
                 <key>textureRect</key>
-                <string>{{192,80},{28,29}}</string>
+                <string>{{192,3},{28,29}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -79,36 +79,6 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>jackpot_winner_text.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{75,39}</string>
-                <key>spriteSourceSize</key>
-                <string>{75,39}</string>
-                <key>textureRect</key>
-                <string>{{192,3},{75,39}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
-            <key>jackpot_winner_text_en.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,1}</string>
-                <key>spriteSize</key>
-                <string>{75,27}</string>
-                <key>spriteSourceSize</key>
-                <string>{75,39}</string>
-                <key>textureRect</key>
-                <string>{{223,109},{75,27}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
         </dict>
         <key>metadata</key>
         <dict>
@@ -123,7 +93,7 @@
             <key>size</key>
             <string>{256,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:6741400ab22a427b7301a73d5fcfafdf:1548d86228c3440ff6687a1f9bc2dbb8:95dff2a1afa26de0c99cf33e38c062b4$</string>
+            <string>$TexturePacker:SmartUpdate:59195196560f9092bf01cdb040516c76:7a5495b5602a666cba5c4b230182fa7d:95dff2a1afa26de0c99cf33e38c062b4$</string>
             <key>textureFileName</key>
             <string>jackpot-lobby.png</string>
         </dict>
