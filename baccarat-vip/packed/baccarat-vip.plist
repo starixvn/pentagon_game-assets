@@ -274,7 +274,22 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>dot_history_banker_sc.png</key>
+            <key>dot_history_banker_th.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{21,21}</string>
+                <key>spriteSourceSize</key>
+                <string>{21,21}</string>
+                <key>textureRect</key>
+                <string>{{623,1444},{21,21}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>dot_history_banker_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -289,7 +304,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>dot_history_banker_tc.png</key>
+            <key>dot_history_banker_zh_tw.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -301,21 +316,6 @@
                 <string>{21,21}</string>
                 <key>textureRect</key>
                 <string>{{623,1490},{21,21}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>dot_history_banker_th.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{21,21}</string>
-                <key>spriteSourceSize</key>
-                <string>{21,21}</string>
-                <key>textureRect</key>
-                <string>{{623,1444},{21,21}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -364,7 +364,22 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>dot_history_player_sc.png</key>
+            <key>dot_history_player_th.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{21,21}</string>
+                <key>spriteSourceSize</key>
+                <string>{21,21}</string>
+                <key>textureRect</key>
+                <string>{{842,1446},{21,21}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>dot_history_player_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -379,7 +394,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>dot_history_player_tc.png</key>
+            <key>dot_history_player_zh_tw.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -391,21 +406,6 @@
                 <string>{21,21}</string>
                 <key>textureRect</key>
                 <string>{{865,1461},{21,21}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>dot_history_player_th.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{21,21}</string>
-                <key>spriteSourceSize</key>
-                <string>{21,21}</string>
-                <key>textureRect</key>
-                <string>{{842,1446},{21,21}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -454,7 +454,22 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>dot_history_tie_sc.png</key>
+            <key>dot_history_tie_th.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{21,21}</string>
+                <key>spriteSourceSize</key>
+                <string>{21,21}</string>
+                <key>textureRect</key>
+                <string>{{842,1469},{21,21}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>dot_history_tie_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -469,7 +484,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>dot_history_tie_tc.png</key>
+            <key>dot_history_tie_zh_tw.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -481,21 +496,6 @@
                 <string>{21,21}</string>
                 <key>textureRect</key>
                 <string>{{934,1461},{21,21}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>dot_history_tie_th.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{21,21}</string>
-                <key>spriteSourceSize</key>
-                <string>{21,21}</string>
-                <key>textureRect</key>
-                <string>{{842,1469},{21,21}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -843,7 +843,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:ec4512b5d320043173cc86a6c5d4b2a4:a12c03ae51eb0531a3dcb3a346bc7920:0354047a2935497a3e8222d45e898058$</string>
+            <string>$TexturePacker:SmartUpdate:6029ffa001a2f8d3458bcf12a6c597cd:e04c28f7436634cf359652b10c9c856d:0354047a2935497a3e8222d45e898058$</string>
             <key>textureFileName</key>
             <string>baccarat-vip.png</string>
         </dict>
