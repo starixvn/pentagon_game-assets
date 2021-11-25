@@ -1473,7 +1473,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:a779ff0eb3fdd1e5763ff928da14ddb8:6cd5e0bc41f8946c9162f402905b5afd:bd7ddbcbe9011f23cd9d80ac24a92399$</string>
+            <string>$TexturePacker:SmartUpdate:66c52848830d897b3ccbff9fb383a32d:6cd5e0bc41f8946c9162f402905b5afd:bd7ddbcbe9011f23cd9d80ac24a92399$</string>
             <key>textureFileName</key>
             <string>vipsedie-war.png</string>
         </dict>
