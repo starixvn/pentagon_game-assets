@@ -334,36 +334,6 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>scoreboard_odd_text_sc.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{20,19}</string>
-                <key>spriteSourceSize</key>
-                <string>{20,19}</string>
-                <key>textureRect</key>
-                <string>{{3,298},{20,19}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
-            <key>scoreboard_odd_text_tc.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{20,19}</string>
-                <key>spriteSourceSize</key>
-                <string>{20,19}</string>
-                <key>textureRect</key>
-                <string>{{24,298},{20,19}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
             <key>scoreboard_odd_text_th.png</key>
             <dict>
                 <key>aliases</key>
@@ -378,6 +348,36 @@
                 <string>{{188,244},{46,15}}</string>
                 <key>textureRotated</key>
                 <false/>
+            </dict>
+            <key>scoreboard_odd_text_zh_cn.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{20,19}</string>
+                <key>spriteSourceSize</key>
+                <string>{20,19}</string>
+                <key>textureRect</key>
+                <string>{{3,298},{20,19}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>scoreboard_odd_text_zh_tw.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{20,19}</string>
+                <key>spriteSourceSize</key>
+                <string>{20,19}</string>
+                <key>textureRect</key>
+                <string>{{24,298},{20,19}}</string>
+                <key>textureRotated</key>
+                <true/>
             </dict>
             <key>scoreboard_odd_th.png</key>
             <dict>
@@ -438,7 +438,7 @@
             <key>size</key>
             <string>{256,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:7bc0fb298ffe976e778197c06f3e8f62:a6947e3297c73455b60f45522b53b826:3170bcf96b8f37ed5a89d092c6106854$</string>
+            <string>$TexturePacker:SmartUpdate:be1a1c261ee8def80859fb4e0ba68646:42818d44f193afffa6ad6b56843ee177:3170bcf96b8f37ed5a89d092c6106854$</string>
             <key>textureFileName</key>
             <string>ChanLe.png</string>
         </dict>
