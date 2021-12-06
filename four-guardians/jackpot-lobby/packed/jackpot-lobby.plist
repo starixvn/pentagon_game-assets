@@ -79,6 +79,21 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>jackpot_winner_text.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,1}</string>
+                <key>spriteSize</key>
+                <string>{75,27}</string>
+                <key>spriteSourceSize</key>
+                <string>{75,39}</string>
+                <key>textureRect</key>
+                <string>{{223,32},{75,27}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
         </dict>
         <key>metadata</key>
         <dict>
@@ -93,7 +108,7 @@
             <key>size</key>
             <string>{256,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:59195196560f9092bf01cdb040516c76:7a5495b5602a666cba5c4b230182fa7d:95dff2a1afa26de0c99cf33e38c062b4$</string>
+            <string>$TexturePacker:SmartUpdate:017697a28baff9ac18b53149567f0411:d970850a45a973192cd5f3b16bcb0cfe:95dff2a1afa26de0c99cf33e38c062b4$</string>
             <key>textureFileName</key>
             <string>jackpot-lobby.png</string>
         </dict>
