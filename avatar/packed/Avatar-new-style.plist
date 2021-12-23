@@ -34,6 +34,66 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>THANG_id.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{240,92}</string>
+                <key>spriteSourceSize</key>
+                <string>{240,92}</string>
+                <key>textureRect</key>
+                <string>{{615,191},{240,92}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>THANG_th.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{240,92}</string>
+                <key>spriteSourceSize</key>
+                <string>{240,92}</string>
+                <key>textureRect</key>
+                <string>{{615,285},{240,92}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>THANG_zh_cn.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{240,92}</string>
+                <key>spriteSourceSize</key>
+                <string>{240,92}</string>
+                <key>textureRect</key>
+                <string>{{857,307},{240,92}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>THANG_zh_tw.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{240,92}</string>
+                <key>spriteSourceSize</key>
+                <string>{240,92}</string>
+                <key>textureRect</key>
+                <string>{{615,379},{240,92}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>chucmung.png</key>
             <dict>
                 <key>aliases</key>
@@ -75,7 +135,7 @@
                 <key>spriteSourceSize</key>
                 <string>{111,112}</string>
                 <key>textureRect</key>
-                <string>{{615,191},{111,112}}</string>
+                <string>{{857,194},{111,112}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -90,9 +150,9 @@
                 <key>spriteSourceSize</key>
                 <string>{106,33}</string>
                 <key>textureRect</key>
-                <string>{{729,191},{106,33}}</string>
+                <string>{{971,301},{106,33}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>player-username.png</key>
             <dict>
@@ -150,9 +210,9 @@
                 <key>spriteSourceSize</key>
                 <string>{105,24}</string>
                 <key>textureRect</key>
-                <string>{{837,194},{105,24}}</string>
+                <string>{{971,194},{105,24}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
         </dict>
         <key>metadata</key>
@@ -168,7 +228,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:284fc8aaacd020d3121f480ef013b240:985f670de2148e19ddf6b7f930d76827:17edbaa9bc896d34859f0fb1cc9887ce$</string>
+            <string>$TexturePacker:SmartUpdate:2054993fddfe3776d2aa76df2b982f0a:b0cc2fd6f2040ab0041cb13524efb14d:17edbaa9bc896d34859f0fb1cc9887ce$</string>
             <key>textureFileName</key>
             <string>Avatar-new-style.png</string>
         </dict>
