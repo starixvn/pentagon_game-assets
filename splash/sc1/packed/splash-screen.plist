@@ -60,7 +60,7 @@
                 <key>spriteSourceSize</key>
                 <string>{49,49}</string>
                 <key>textureRect</key>
-                <string>{{111,952},{49,49}}</string>
+                <string>{{3,878},{49,49}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -75,7 +75,7 @@
                 <key>spriteSourceSize</key>
                 <string>{392,160}</string>
                 <key>textureRect</key>
-                <string>{{3,482},{392,160}}</string>
+                <string>{{641,482},{392,160}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -90,7 +90,7 @@
                 <key>spriteSourceSize</key>
                 <string>{411,296}</string>
                 <key>textureRect</key>
-                <string>{{645,69},{411,296}}</string>
+                <string>{{641,69},{411,296}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -120,9 +120,9 @@
                 <key>spriteSourceSize</key>
                 <string>{640,4}</string>
                 <key>textureRect</key>
-                <string>{{3,69},{640,4}}</string>
+                <string>{{939,69},{640,4}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>tagline_sc1.png</key>
             <dict>
@@ -135,7 +135,7 @@
                 <key>spriteSourceSize</key>
                 <string>{647,38}</string>
                 <key>textureRect</key>
-                <string>{{162,952},{647,38}}</string>
+                <string>{{54,878},{647,38}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -150,7 +150,67 @@
                 <key>spriteSourceSize</key>
                 <string>{495,38}</string>
                 <key>textureRect</key>
-                <string>{{811,482},{495,32}}</string>
+                <string>{{54,918},{495,32}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>tagline_sc1_id.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{388,31}</string>
+                <key>spriteSourceSize</key>
+                <string>{388,31}</string>
+                <key>textureRect</key>
+                <string>{{551,918},{388,31}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>tagline_sc1_th.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{433,40}</string>
+                <key>spriteSourceSize</key>
+                <string>{433,40}</string>
+                <key>textureRect</key>
+                <string>{{599,69},{433,40}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>tagline_sc1_zh_cn.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{372,35}</string>
+                <key>spriteSourceSize</key>
+                <string>{372,35}</string>
+                <key>textureRect</key>
+                <string>{{645,952},{372,35}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>tagline_sc1_zh_tw.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{372,35}</string>
+                <key>spriteSourceSize</key>
+                <string>{372,35}</string>
+                <key>textureRect</key>
+                <string>{{599,504},{372,35}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -165,9 +225,9 @@
                 <key>spriteSourceSize</key>
                 <string>{702,30}</string>
                 <key>textureRect</key>
-                <string>{{3,876},{702,30}}</string>
+                <string>{{3,69},{702,30}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>tagline_sc2_en.png</key>
             <dict>
@@ -180,7 +240,7 @@
                 <key>spriteSourceSize</key>
                 <string>{486,38}</string>
                 <key>textureRect</key>
-                <string>{{162,992},{486,18}}</string>
+                <string>{{111,989},{486,18}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -228,7 +288,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:d97ac50d554d3c8db93c0f2575d4bf6f:70af5de14bba7ddd434406c6e916bc0d:db57b41b9eb0081dd72d1b2da3eea767$</string>
+            <string>$TexturePacker:SmartUpdate:9d25ff057b0bd55a623197cdfcd5b64e:f703bd19cbb1d776c91c44d1aa81b52b:db57b41b9eb0081dd72d1b2da3eea767$</string>
             <key>textureFileName</key>
             <string>splash-screen.png</string>
         </dict>
