@@ -139,6 +139,21 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
+            <key>header_result.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{28,57}</string>
+                <key>spriteSourceSize</key>
+                <string>{28,57}</string>
+                <key>textureRect</key>
+                <string>{{477,3},{28,57}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>icon_close.png</key>
             <dict>
                 <key>aliases</key>
@@ -165,7 +180,7 @@
                 <key>spriteSourceSize</key>
                 <string>{1306,14}</string>
                 <key>textureRect</key>
-                <string>{{477,3},{1306,14}}</string>
+                <string>{{477,62},{1306,14}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -210,7 +225,7 @@
                 <key>spriteSourceSize</key>
                 <string>{4,4}</string>
                 <key>textureRect</key>
-                <string>{{493,3},{4,4}}</string>
+                <string>{{493,62},{4,4}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -243,7 +258,7 @@
             <key>size</key>
             <string>{512,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:9d22f00f849e3e9b1726b58d420a0d75:529c8db5cdd959720a28609a5d204edc:a90c11ab0396de5086de12c3ccb699d4$</string>
+            <string>$TexturePacker:SmartUpdate:e0d2140d280dd14c47362ac59240d13f:df8664dede43b2815f5bde172f6df463:a90c11ab0396de5086de12c3ccb699d4$</string>
             <key>textureFileName</key>
             <string>popup.png</string>
         </dict>
