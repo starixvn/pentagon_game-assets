@@ -258,7 +258,7 @@
             <key>size</key>
             <string>{512,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:e0d2140d280dd14c47362ac59240d13f:df8664dede43b2815f5bde172f6df463:a90c11ab0396de5086de12c3ccb699d4$</string>
+            <string>$TexturePacker:SmartUpdate:fe672eab99c7ea0ad9539ad026d0393d:df8664dede43b2815f5bde172f6df463:a90c11ab0396de5086de12c3ccb699d4$</string>
             <key>textureFileName</key>
             <string>popup.png</string>
         </dict>
