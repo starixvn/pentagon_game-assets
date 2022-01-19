@@ -45,7 +45,7 @@
                 <key>spriteSourceSize</key>
                 <string>{32,69}</string>
                 <key>textureRect</key>
-                <string>{{217,378},{32,69}}</string>
+                <string>{{409,88},{32,69}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -60,7 +60,7 @@
                 <key>spriteSourceSize</key>
                 <string>{116,117}</string>
                 <key>textureRect</key>
-                <string>{{318,3},{116,117}}</string>
+                <string>{{290,3},{116,117}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -90,7 +90,7 @@
                 <key>spriteSourceSize</key>
                 <string>{39,52}</string>
                 <key>textureRect</key>
-                <string>{{192,446},{39,52}}</string>
+                <string>{{217,378},{39,52}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -109,7 +109,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>buton_xen.png</key>
+            <key>buton_vang.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -121,6 +121,21 @@
                 <string>{96,58}</string>
                 <key>textureRect</key>
                 <string>{{94,448},{96,58}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>buton_xen.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,58}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,58}</string>
+                <key>textureRect</key>
+                <string>{{192,446},{96,58}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -150,9 +165,9 @@
                 <key>spriteSourceSize</key>
                 <string>{83,91}</string>
                 <key>textureRect</key>
-                <string>{{233,412},{83,91}}</string>
+                <string>{{409,3},{83,91}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
         </dict>
         <key>metadata</key>
@@ -168,7 +183,7 @@
             <key>size</key>
             <string>{512,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:6db6893a49d77ad5d86ccbc104029444:1c175da3df7aca7e818ff566e8c63a97:8083a56eb742a49c7a819389d0d7c292$</string>
+            <string>$TexturePacker:SmartUpdate:7734aa34ac19fe7c07c1890504173d43:f53b67c81dbdbabcbb290ad313464ff6:8083a56eb742a49c7a819389d0d7c292$</string>
             <key>textureFileName</key>
             <string>hi-lo.png</string>
         </dict>
