@@ -56,11 +56,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{104,80}</string>
+                <string>{104,76}</string>
                 <key>spriteSourceSize</key>
-                <string>{104,80}</string>
+                <string>{104,76}</string>
                 <key>textureRect</key>
-                <string>{{3,879},{104,80}}</string>
+                <string>{{3,879},{104,76}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -183,7 +183,7 @@
             <key>size</key>
             <string>{256,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:1ff4811d9f535f686fd522abb88950b6:928f6a33aecd5085c0a38cf673c396f1:9ddca9ad2cca31ebe83b404d5c745874$</string>
+            <string>$TexturePacker:SmartUpdate:e2ace8ad8da81df56cbfad7e5ab61039:f6b364f7a23bda59b09ff5dcccfc018a:9ddca9ad2cca31ebe83b404d5c745874$</string>
             <key>textureFileName</key>
             <string>theme-tet.png</string>
         </dict>
