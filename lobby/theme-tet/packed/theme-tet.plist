@@ -183,7 +183,7 @@
             <key>size</key>
             <string>{256,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:e2ace8ad8da81df56cbfad7e5ab61039:f6b364f7a23bda59b09ff5dcccfc018a:9ddca9ad2cca31ebe83b404d5c745874$</string>
+            <string>$TexturePacker:SmartUpdate:28c6f71f295e2c644373d2a1ce5f24f1:963f71251bfb0a2681c6ed43792a94b3:9ddca9ad2cca31ebe83b404d5c745874$</string>
             <key>textureFileName</key>
             <string>theme-tet.png</string>
         </dict>
