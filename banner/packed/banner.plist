@@ -43,7 +43,7 @@
                 <key>spriteSize</key>
                 <string>{216,416}</string>
                 <key>spriteSourceSize</key>
-                <string>{218,418}</string>
+                <string>{216,416}</string>
                 <key>textureRect</key>
                 <string>{{3,3},{216,416}}</string>
                 <key>textureRotated</key>
@@ -618,7 +618,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:0e29a7c6f53a13611ccb25f9f940c330:5c6ca7e6c0388a0fe679a61056f1c878:468a889166313e164748aa683a0b056a$</string>
+            <string>$TexturePacker:SmartUpdate:74e83aeb70b9dc86b9f611829f621afd:04143147eb674cc441adb655d7165393:468a889166313e164748aa683a0b056a$</string>
             <key>textureFileName</key>
             <string>banner.png</string>
         </dict>
