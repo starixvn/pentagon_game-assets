@@ -264,13 +264,13 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,-1}</string>
+                <string>{0,4}</string>
                 <key>spriteSize</key>
-                <string>{486,18}</string>
+                <string>{282,30}</string>
                 <key>spriteSourceSize</key>
                 <string>{486,38}</string>
                 <key>textureRect</key>
-                <string>{{3,984},{486,18}}</string>
+                <string>{{43,438},{282,30}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -285,7 +285,7 @@
                 <key>spriteSourceSize</key>
                 <string>{486,38}</string>
                 <key>textureRect</key>
-                <string>{{43,468},{278,28}}</string>
+                <string>{{43,500},{278,28}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -300,7 +300,7 @@
                 <key>spriteSourceSize</key>
                 <string>{486,38}</string>
                 <key>textureRect</key>
-                <string>{{43,438},{280,28}}</string>
+                <string>{{43,470},{280,28}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -318,7 +318,7 @@
             <key>size</key>
             <string>{512,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:6767e7cd537861a8fe0f5e7971ce12ba:59e9169567f11c53b4d6de1ecfc51e3a:db57b41b9eb0081dd72d1b2da3eea767$</string>
+            <string>$TexturePacker:SmartUpdate:f10394e2597a1ff01c3e3576822557c6:b38b389ec749e9778b87aa6eb5b56938:db57b41b9eb0081dd72d1b2da3eea767$</string>
             <key>textureFileName</key>
             <string>splash-screen.png</string>
         </dict>
