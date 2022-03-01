@@ -146,11 +146,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{200,89}</string>
+                <string>{200,101}</string>
                 <key>spriteSourceSize</key>
-                <string>{200,89}</string>
+                <string>{200,101}</string>
                 <key>textureRect</key>
-                <string>{{3,520},{200,89}}</string>
+                <string>{{3,520},{200,101}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -319,21 +319,6 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>text_batdau.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{135,39}</string>
-                <key>spriteSourceSize</key>
-                <string>{135,39}</string>
-                <key>textureRect</key>
-                <string>{{456,670},{135,39}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
         </dict>
         <key>metadata</key>
         <dict>
@@ -348,7 +333,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:c5be052ce753c55a1aee1b593a36b85c:66e6dfb296afd5721610867ef175c60f:8083a56eb742a49c7a819389d0d7c292$</string>
+            <string>$TexturePacker:SmartUpdate:bc740aeedfe31d0f18c6e7c2afa02764:c8892e29374201d14db11f45a220522e:8083a56eb742a49c7a819389d0d7c292$</string>
             <key>textureFileName</key>
             <string>hi-lo.png</string>
         </dict>
