@@ -9,13 +9,13 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{-3,9}</string>
+                <string>{-9,12}</string>
                 <key>spriteSize</key>
-                <string>{182,148}</string>
+                <string>{172,142}</string>
                 <key>spriteSourceSize</key>
                 <string>{192,192}</string>
                 <key>textureRect</key>
-                <string>{{3,3},{182,148}}</string>
+                <string>{{3,3},{172,142}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -30,7 +30,7 @@
                 <key>spriteSourceSize</key>
                 <string>{66,72}</string>
                 <key>textureRect</key>
-                <string>{{187,3},{66,72}}</string>
+                <string>{{177,3},{66,72}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -45,7 +45,7 @@
                 <key>spriteSourceSize</key>
                 <string>{698,261}</string>
                 <key>textureRect</key>
-                <string>{{255,3},{698,261}}</string>
+                <string>{{245,3},{698,261}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -333,7 +333,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:bc740aeedfe31d0f18c6e7c2afa02764:c8892e29374201d14db11f45a220522e:8083a56eb742a49c7a819389d0d7c292$</string>
+            <string>$TexturePacker:SmartUpdate:7b4495c10d2969141700c251a92cbc21:d68ad9a6340d7e0a2adefdcce97fef85:8083a56eb742a49c7a819389d0d7c292$</string>
             <key>textureFileName</key>
             <string>hi-lo.png</string>
         </dict>
