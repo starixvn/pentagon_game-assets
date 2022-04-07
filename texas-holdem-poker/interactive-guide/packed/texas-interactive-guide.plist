@@ -79,6 +79,21 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>bttn_next_prev_disable.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{35,39}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,39}</string>
+                <key>textureRect</key>
+                <string>{{983,157},{35,39}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>bttn_outer_button.png</key>
             <dict>
                 <key>aliases</key>
@@ -135,7 +150,7 @@
                 <key>spriteSourceSize</key>
                 <string>{22,22}</string>
                 <key>textureRect</key>
-                <string>{{983,157},{20,20}}</string>
+                <string>{{983,198},{20,20}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -150,7 +165,7 @@
                 <key>spriteSourceSize</key>
                 <string>{22,22}</string>
                 <key>textureRect</key>
-                <string>{{983,179},{18,18}}</string>
+                <string>{{983,220},{18,18}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -228,7 +243,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:e673ee080a61bb9d9e70d26c00fbfaaa:d43c8bb1744d7e1d891fc469d75a1a99:daff8a6685d887fe0e4e8576296fd0f5$</string>
+            <string>$TexturePacker:SmartUpdate:02b1d9530e0ea373a83082d1caa6c37f:b7600504b511e7f96155adb49440fce6:daff8a6685d887fe0e4e8576296fd0f5$</string>
             <key>textureFileName</key>
             <string>texas-interactive-guide.png</string>
         </dict>
