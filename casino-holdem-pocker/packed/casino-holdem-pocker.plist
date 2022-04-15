@@ -169,7 +169,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>icon_reber_deal_icon.png</key>
+            <key>icon_rebet_deal_icon.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -303,7 +303,7 @@
             <key>size</key>
             <string>{256,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:0dec8659a47f0f3497645353fcbb4914:0ccf9e3dd8ede351dbb5d6528fb63563:5ff8078f469865c99567e63a5acb9c9d$</string>
+            <string>$TexturePacker:SmartUpdate:271ac7c317fb26d46e652bd3211834f9:0ccf9e3dd8ede351dbb5d6528fb63563:5ff8078f469865c99567e63a5acb9c9d$</string>
             <key>textureFileName</key>
             <string>casino-holdem-pocker.png</string>
         </dict>
