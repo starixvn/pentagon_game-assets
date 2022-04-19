@@ -109,6 +109,21 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>giaybay.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{87,74}</string>
+                <key>spriteSourceSize</key>
+                <string>{87,74}</string>
+                <key>textureRect</key>
+                <string>{{615,473},{87,74}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>owner-box-balance.png</key>
             <dict>
                 <key>aliases</key>
@@ -169,6 +184,21 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
+            <key>tienbay.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{78,76}</string>
+                <key>spriteSourceSize</key>
+                <string>{78,76}</string>
+                <key>textureRect</key>
+                <string>{{704,473},{78,76}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>tienvang.png</key>
             <dict>
                 <key>aliases</key>
@@ -228,7 +258,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:d4eab54ab80328305109afebb682aeed:05c6dba90b9d931c9155a978191ea92a:17edbaa9bc896d34859f0fb1cc9887ce$</string>
+            <string>$TexturePacker:SmartUpdate:b7975d995fdad35f683f7b0adc7fc743:e653dea31457f7c133941b7bd2a7727f:17edbaa9bc896d34859f0fb1cc9887ce$</string>
             <key>textureFileName</key>
             <string>Avatar-new-style.png</string>
         </dict>
