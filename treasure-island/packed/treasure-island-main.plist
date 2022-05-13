@@ -214,6 +214,21 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>dot_white.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{2,2}</string>
+                <key>spriteSourceSize</key>
+                <string>{2,2}</string>
+                <key>textureRect</key>
+                <string>{{264,1142},{2,2}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>empty-button.png</key>
             <dict>
                 <key>aliases</key>
@@ -1398,7 +1413,7 @@
             <key>size</key>
             <string>{2048,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:25547ee5f484629b75d999ae17c11fce:a06317097bccf6a8b142e499a410af7d:50cab7fc7631325ecb8be4ce5fb8f50b$</string>
+            <string>$TexturePacker:SmartUpdate:3b82e9b8694750306010ecb91bf3fbb8:0809c2510a2a5889896de11245914c83:50cab7fc7631325ecb8be4ce5fb8f50b$</string>
             <key>textureFileName</key>
             <string>treasure-island-main.png</string>
         </dict>
