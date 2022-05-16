@@ -94,7 +94,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>betamout-decrease-multiplier.png</key>
+            <key>bet-multiplier-decrease.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -106,6 +106,51 @@
                 <string>{45,46}</string>
                 <key>textureRect</key>
                 <string>{{1017,229},{45,46}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>bet-multiplier-frame.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{118,41}</string>
+                <key>spriteSourceSize</key>
+                <string>{118,41}</string>
+                <key>textureRect</key>
+                <string>{{3,1926},{118,41}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>bet-multiplier-increase.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{45,46}</string>
+                <key>spriteSourceSize</key>
+                <string>{45,46}</string>
+                <key>textureRect</key>
+                <string>{{1064,229},{45,46}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>bet-multiplier-unactive.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{39,40}</string>
+                <key>spriteSourceSize</key>
+                <string>{39,40}</string>
+                <key>textureRect</key>
+                <string>{{794,246},{39,40}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -124,21 +169,6 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>betamout-frame-multiplier.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{118,41}</string>
-                <key>spriteSourceSize</key>
-                <string>{118,41}</string>
-                <key>textureRect</key>
-                <string>{{3,1926},{118,41}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
             <key>betamout-frame.png</key>
             <dict>
                 <key>aliases</key>
@@ -154,21 +184,6 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>betamout-increase-multiplier.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{45,46}</string>
-                <key>spriteSourceSize</key>
-                <string>{45,46}</string>
-                <key>textureRect</key>
-                <string>{{1064,229},{45,46}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
             <key>betamout-increase.png</key>
             <dict>
                 <key>aliases</key>
@@ -181,21 +196,6 @@
                 <string>{57,58}</string>
                 <key>textureRect</key>
                 <string>{{682,575},{57,58}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>betamout-unactive-multiplier.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{39,40}</string>
-                <key>spriteSourceSize</key>
-                <string>{39,40}</string>
-                <key>textureRect</key>
-                <string>{{794,246},{39,40}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1413,7 +1413,7 @@
             <key>size</key>
             <string>{2048,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:3b82e9b8694750306010ecb91bf3fbb8:0809c2510a2a5889896de11245914c83:50cab7fc7631325ecb8be4ce5fb8f50b$</string>
+            <string>$TexturePacker:SmartUpdate:41bfe224a2788ceb46bb8e3942499597:7236f228df9716af942d1bcc888eaf92:50cab7fc7631325ecb8be4ce5fb8f50b$</string>
             <key>textureFileName</key>
             <string>treasure-island-main.png</string>
         </dict>
