@@ -1,0 +1,111 @@
+
+icongame_gainhay.png
+size: 1361,401
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 930, 203
+  size: 196, 429
+  orig: 196, 429
+  offset: 0, 0
+  index: -1
+bg_3d
+  rotate: false
+  xy: 2, 6
+  size: 196, 47
+  orig: 196, 56
+  offset: 0, 9
+  index: -1
+bg_border
+  rotate: true
+  xy: 2, 184
+  size: 215, 448
+  orig: 215, 448
+  offset: 0, 0
+  index: -1
+bg_gamename
+  rotate: true
+  xy: 1195, 5
+  size: 196, 150
+  orig: 196, 429
+  offset: 0, 0
+  index: -1
+canhhoa_1
+  rotate: false
+  xy: 386, 125
+  size: 56, 57
+  orig: 71, 67
+  offset: 8, 7
+  index: -1
+canhhoa_12
+  rotate: false
+  xy: 288, 34
+  size: 28, 23
+  orig: 31, 25
+  offset: 2, 1
+  index: -1
+girl_body
+  rotate: true
+  xy: 867, 8
+  size: 193, 326
+  orig: 193, 327
+  offset: 0, 0
+  index: -1
+girl_head
+  rotate: false
+  xy: 258, 83
+  size: 126, 99
+  orig: 126, 99
+  offset: 0, 0
+  index: -1
+light_blue
+  rotate: false
+  xy: 452, 215
+  size: 476, 184
+  orig: 510, 198
+  offset: 26, 12
+  index: -1
+light_neon
+  rotate: true
+  xy: 452, 9
+  size: 204, 413
+  orig: 208, 419
+  offset: 2, 4
+  index: -1
+light_white
+  rotate: false
+  xy: 2, 55
+  size: 254, 127
+  orig: 293, 143
+  offset: 33, 3
+  index: -1
+taitho
+  rotate: true
+  xy: 200, 2
+  size: 51, 86
+  orig: 51, 86
+  offset: 0, 0
+  index: -1
+toc_phai
+  rotate: true
+  xy: 386, 86
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+toc_phai1
+  rotate: true
+  xy: 320, 66
+  size: 15, 44
+  orig: 15, 44
+  offset: 0, 0
+  index: -1
+tocmai_trai
+  rotate: true
+  xy: 258, 59
+  size: 22, 60
+  orig: 22, 60
+  offset: 0, 0
+  index: -1
