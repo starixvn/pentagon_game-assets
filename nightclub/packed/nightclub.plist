@@ -1533,7 +1533,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:10890b660b544412f84c17268708c6c9:9a38ab4b222c93d5975dcb3e97050faf:24e05588e51099faa8f3460ca25b4a78$</string>
+            <string>$TexturePacker:SmartUpdate:d0d7e973a67bb031ebd5d6f50dc0e557:9ffdc6a78962f9cd5acfa086e461bc5a:24e05588e51099faa8f3460ca25b4a78$</string>
             <key>textureFileName</key>
             <string>nightclub.png</string>
         </dict>
