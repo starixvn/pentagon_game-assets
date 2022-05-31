@@ -881,11 +881,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{88,81}</string>
+                <string>{92,89}</string>
                 <key>spriteSourceSize</key>
-                <string>{88,81}</string>
+                <string>{92,89}</string>
                 <key>textureRect</key>
-                <string>{{1135,3},{88,81}}</string>
+                <string>{{1060,780},{92,89}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -896,11 +896,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{91,85}</string>
+                <string>{86,83}</string>
                 <key>spriteSourceSize</key>
-                <string>{91,85}</string>
+                <string>{86,83}</string>
                 <key>textureRect</key>
-                <string>{{1151,685},{91,85}}</string>
+                <string>{{1135,93},{86,83}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -941,6 +941,36 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
+                <string>{88,81}</string>
+                <key>spriteSourceSize</key>
+                <string>{88,81}</string>
+                <key>textureRect</key>
+                <string>{{1135,3},{88,81}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>symbol_4a.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{91,85}</string>
+                <key>spriteSourceSize</key>
+                <string>{91,85}</string>
+                <key>textureRect</key>
+                <string>{{1151,685},{91,85}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>symbol_5.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
                 <string>{91,83}</string>
                 <key>spriteSourceSize</key>
                 <string>{91,83}</string>
@@ -949,7 +979,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>symbol_4a.png</key>
+            <key>symbol_5a.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -961,36 +991,6 @@
                 <string>{85,77}</string>
                 <key>textureRect</key>
                 <string>{{1218,3},{85,77}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
-            <key>symbol_5.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{92,89}</string>
-                <key>spriteSourceSize</key>
-                <string>{92,89}</string>
-                <key>textureRect</key>
-                <string>{{1060,780},{92,89}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
-            <key>symbol_5a.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{86,83}</string>
-                <key>spriteSourceSize</key>
-                <string>{86,83}</string>
-                <key>textureRect</key>
-                <string>{{1135,93},{86,83}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -1413,7 +1413,7 @@
             <key>size</key>
             <string>{2048,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:41bfe224a2788ceb46bb8e3942499597:7236f228df9716af942d1bcc888eaf92:50cab7fc7631325ecb8be4ce5fb8f50b$</string>
+            <string>$TexturePacker:SmartUpdate:d5868c1a16d765e41492ee0d616b3629:e994b1c367c6418e53f150607ea545cb:50cab7fc7631325ecb8be4ce5fb8f50b$</string>
             <key>textureFileName</key>
             <string>treasure-island-main.png</string>
         </dict>
