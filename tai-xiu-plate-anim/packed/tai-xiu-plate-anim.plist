@@ -4,21 +4,6 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>3 dices.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{136,119}</string>
-                <key>spriteSourceSize</key>
-                <string>{136,119}</string>
-                <key>textureRect</key>
-                <string>{{332,846},{136,119}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
             <key>Down 2.png</key>
             <dict>
                 <key>aliases</key>
@@ -30,24 +15,9 @@
                 <key>spriteSourceSize</key>
                 <string>{171,165}</string>
                 <key>textureRect</key>
-                <string>{{3,846},{171,165}}</string>
+                <string>{{3,847},{171,165}}</string>
                 <key>textureRotated</key>
                 <true/>
-            </dict>
-            <key>Ellipse 1.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{224,224}</string>
-                <key>spriteSourceSize</key>
-                <string>{224,224}</string>
-                <key>textureRect</key>
-                <string>{{244,238},{224,224}}</string>
-                <key>textureRotated</key>
-                <false/>
             </dict>
             <key>Normal.png</key>
             <dict>
@@ -60,7 +30,7 @@
                 <key>spriteSourceSize</key>
                 <string>{205,199}</string>
                 <key>textureRect</key>
-                <string>{{229,464},{205,199}}</string>
+                <string>{{229,471},{205,199}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -105,7 +75,7 @@
                 <key>spriteSourceSize</key>
                 <string>{160,160}</string>
                 <key>textureRect</key>
-                <string>{{170,846},{160,160}}</string>
+                <string>{{170,847},{160,160}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -135,7 +105,7 @@
                 <key>spriteSourceSize</key>
                 <string>{185,179}</string>
                 <key>textureRect</key>
-                <string>{{229,665},{185,179}}</string>
+                <string>{{3,666},{185,179}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -154,6 +124,21 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>table_effect.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{238,231}</string>
+                <key>spriteSourceSize</key>
+                <string>{238,231}</string>
+                <key>textureRect</key>
+                <string>{{244,238},{238,231}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
         </dict>
         <key>metadata</key>
         <dict>
@@ -168,7 +153,7 @@
             <key>size</key>
             <string>{512,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:52af968df484270140b4d3ea4b6a8281:f8577b5fc25b7c5d1f48e31568188cbf:78aba20f414906038659b76e8f9f0e5c$</string>
+            <string>$TexturePacker:SmartUpdate:d39c7ab107330ce7f1b5ea70aa523a44:59b9f84456d71761b978518296d8bd9b:78aba20f414906038659b76e8f9f0e5c$</string>
             <key>textureFileName</key>
             <string>tai-xiu-plate-anim.png</string>
         </dict>

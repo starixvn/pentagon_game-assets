@@ -15,9 +15,9 @@
                 <key>spriteSourceSize</key>
                 <string>{195,420}</string>
                 <key>textureRect</key>
-                <string>{{291,222},{195,76}}</string>
+                <string>{{431,291},{195,76}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>Anh sang 3D.png</key>
             <dict>
@@ -30,9 +30,9 @@
                 <key>spriteSourceSize</key>
                 <string>{195,75}</string>
                 <key>textureRect</key>
-                <string>{{291,300},{195,75}}</string>
+                <string>{{220,408},{195,75}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>De Icon.png</key>
             <dict>
@@ -41,11 +41,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{217,217}</string>
+                <string>{215,215}</string>
                 <key>spriteSourceSize</key>
-                <string>{217,217}</string>
+                <string>{215,215}</string>
                 <key>textureRect</key>
-                <string>{{291,3},{217,217}}</string>
+                <string>{{3,220},{215,215}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -60,9 +60,9 @@
                 <key>spriteSourceSize</key>
                 <string>{97,60}</string>
                 <key>textureRect</key>
-                <string>{{220,3},{97,60}}</string>
+                <string>{{379,488},{97,60}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>de_icon_lon.png</key>
             <dict>
@@ -77,7 +77,22 @@
                 <key>textureRect</key>
                 <string>{{3,3},{215,448}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
+            </dict>
+            <key>icon_shinning.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{186,209}</string>
+                <key>spriteSourceSize</key>
+                <string>{186,209}</string>
+                <key>textureRect</key>
+                <string>{{220,220},{186,209}}</string>
+                <key>textureRotated</key>
+                <true/>
             </dict>
             <key>lobby_gameicon_label_background.png</key>
             <dict>
@@ -90,9 +105,9 @@
                 <key>spriteSourceSize</key>
                 <string>{214,49}</string>
                 <key>textureRect</key>
-                <string>{{3,453},{214,49}}</string>
+                <string>{{453,3},{214,49}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>new_1.png</key>
             <dict>
@@ -105,9 +120,9 @@
                 <key>spriteSourceSize</key>
                 <string>{70,36}</string>
                 <key>textureRect</key>
-                <string>{{219,453},{70,36}}</string>
+                <string>{{453,219},{70,36}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>new_new.png</key>
             <dict>
@@ -120,9 +135,39 @@
                 <key>spriteSourceSize</key>
                 <string>{96,60}</string>
                 <key>textureRect</key>
-                <string>{{220,102},{96,60}}</string>
+                <string>{{379,550},{96,60}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
+            </dict>
+            <key>skeleton_icon.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{189,163}</string>
+                <key>spriteSourceSize</key>
+                <string>{189,163}</string>
+                <key>textureRect</key>
+                <string>{{3,437},{189,163}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>skeleton_icon_mask.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{183,157}</string>
+                <key>spriteSourceSize</key>
+                <string>{183,157}</string>
+                <key>textureRect</key>
+                <string>{{194,485},{183,157}}</string>
+                <key>textureRotated</key>
+                <false/>
             </dict>
         </dict>
         <key>metadata</key>
@@ -136,9 +181,9 @@
             <key>realTextureFileName</key>
             <string>SharedTextures.png</string>
             <key>size</key>
-            <string>{512,512}</string>
+            <string>{512,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:06d395ed61fc8d326f0b7ae664397876:d73a49069caf399331ce98f6a906bdf1:04a3346a602a6312e0419ccfb5f02098$</string>
+            <string>$TexturePacker:SmartUpdate:bf0b1c3908da9c8ce4120b624e0541c1:607ecbd9d94d92cebab7ba9d21de8e63:04a3346a602a6312e0419ccfb5f02098$</string>
             <key>textureFileName</key>
             <string>SharedTextures.png</string>
         </dict>
