@@ -184,6 +184,36 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
+            <key>br_smallblue_circle_filled.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{10,10}</string>
+                <key>spriteSourceSize</key>
+                <string>{10,10}</string>
+                <key>textureRect</key>
+                <string>{{967,97},{10,10}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>br_smallred_circle_filled.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{10,10}</string>
+                <key>spriteSourceSize</key>
+                <string>{10,10}</string>
+                <key>textureRect</key>
+                <string>{{967,109},{10,10}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>chamdo.png</key>
             <dict>
                 <key>aliases</key>
@@ -195,7 +225,7 @@
                 <key>spriteSourceSize</key>
                 <string>{14,12}</string>
                 <key>textureRect</key>
-                <string>{{967,107},{8,8}}</string>
+                <string>{{967,131},{8,8}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -210,7 +240,7 @@
                 <key>spriteSourceSize</key>
                 <string>{16,15}</string>
                 <key>textureRect</key>
-                <string>{{967,97},{8,9}}</string>
+                <string>{{967,121},{8,9}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -555,7 +585,7 @@
                 <key>spriteSourceSize</key>
                 <string>{8,8}</string>
                 <key>textureRect</key>
-                <string>{{967,117},{8,8}}</string>
+                <string>{{967,141},{8,8}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -570,7 +600,7 @@
                 <key>spriteSourceSize</key>
                 <string>{7,7}</string>
                 <key>textureRect</key>
-                <string>{{967,127},{7,7}}</string>
+                <string>{{967,151},{7,7}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -678,6 +708,21 @@
                 <string>{{931,97},{98,34}}</string>
                 <key>textureRotated</key>
                 <true/>
+            </dict>
+            <key>md5_line.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{1,32}</string>
+                <key>spriteSourceSize</key>
+                <string>{1,32}</string>
+                <key>textureRect</key>
+                <string>{{897,476},{1,32}}</string>
+                <key>textureRotated</key>
+                <false/>
             </dict>
             <key>player_pair_bg_winning.png</key>
             <dict>
@@ -903,7 +948,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:6b06b3019dca85e1315ef565160800b7:268ade2df3d2a968fd51fb91bb3e8e1d:0354047a2935497a3e8222d45e898058$</string>
+            <string>$TexturePacker:SmartUpdate:b0105a29beae270e5a4c14718c228665:a399afd45ac4ec7994370e36f7cc28a1:0354047a2935497a3e8222d45e898058$</string>
             <key>textureFileName</key>
             <string>baccarat-vip.png</string>
         </dict>
