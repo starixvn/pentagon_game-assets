@@ -529,6 +529,21 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>win-card-outer.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{101,128}</string>
+                <key>spriteSourceSize</key>
+                <string>{101,128}</string>
+                <key>textureRect</key>
+                <string>{{910,451},{101,128}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
         </dict>
         <key>metadata</key>
         <dict>
@@ -543,7 +558,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:4df856f0db3004beb1242710704ff62e:a52ba93b2e4115498a2d06a69d17f5ab:97012bf095dcb286a29017d8eb1d7535$</string>
+            <string>$TexturePacker:SmartUpdate:646028b04121fc11b7248e61294b2cf4:dc5fcb9bc21934a7bec6941716e6991b:97012bf095dcb286a29017d8eb1d7535$</string>
             <key>textureFileName</key>
             <string>blockchain-cards.png</string>
         </dict>
