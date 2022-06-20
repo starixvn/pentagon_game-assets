@@ -23,7 +23,7 @@
       ["--maxrects-heuristics", "Best"],
       ["--scale-mode", "Smooth"],
       ["--pack-mode", "Best"],
-      ["--shape-padding", 0],
+      ["--shape-padding", 1],
       ["--format", "cocos2d"],
       ["--algorithm", "Basic"],
       ["--basic-order", "Ascending"],
@@ -35,7 +35,7 @@
       ["--alpha-handling", "KeepTransparentPixels"],
       ["--max-width", 2048],
       ["--trim-mode", "Trim"],
-      ["--border-padding", 0],
+      ["--border-padding", 1],
       ["--extrude", 1]
     ],
     "rotation": true
