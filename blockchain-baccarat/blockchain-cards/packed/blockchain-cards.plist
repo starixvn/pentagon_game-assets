@@ -206,11 +206,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{92,56}</string>
+                <string>{75,54}</string>
                 <key>spriteSourceSize</key>
-                <string>{92,56}</string>
+                <string>{75,54}</string>
                 <key>textureRect</key>
-                <string>{{925,2},{92,56}}</string>
+                <string>{{925,2},{75,54}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -558,7 +558,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:32453bfff6073b2062e2c92e319cb9b1:ef9edcb7fb40ad8ff97ee04d98fa8264:97012bf095dcb286a29017d8eb1d7535$</string>
+            <string>$TexturePacker:SmartUpdate:3065bb477d2100ab106b2e91768aba4a:084d067b5f54bfbe4f3d756c3ebd9532:97012bf095dcb286a29017d8eb1d7535$</string>
             <key>textureFileName</key>
             <string>blockchain-cards.png</string>
         </dict>
