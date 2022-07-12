@@ -34,6 +34,21 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>tooltip-copy.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{79,44}</string>
+                <key>spriteSourceSize</key>
+                <string>{79,44}</string>
+                <key>textureRect</key>
+                <string>{{3,112},{79,44}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>tooltip.png</key>
             <dict>
                 <key>aliases</key>
@@ -45,7 +60,7 @@
                 <key>spriteSourceSize</key>
                 <string>{214,46}</string>
                 <key>textureRect</key>
-                <string>{{3,112},{214,46}}</string>
+                <string>{{3,158},{214,46}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -60,7 +75,7 @@
                 <key>spriteSourceSize</key>
                 <string>{15,8}</string>
                 <key>textureRect</key>
-                <string>{{219,112},{15,8}}</string>
+                <string>{{219,158},{15,8}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -75,7 +90,7 @@
                 <key>spriteSourceSize</key>
                 <string>{36,36}</string>
                 <key>textureRect</key>
-                <string>{{3,160},{36,36}}</string>
+                <string>{{3,206},{36,36}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -93,7 +108,7 @@
             <key>size</key>
             <string>{256,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:b9923e3b8c40a84ea32425327a30d355:e3d6484ee8ff9d49f7d293b676dfb7da:6ed0c9662ca4aaa5d0eaf4b615a320f7$</string>
+            <string>$TexturePacker:SmartUpdate:0f89fc8235c42c88ad2474ebe44aed1d:3660e5ff92ecc30280dd27f27ceacac6:6ed0c9662ca4aaa5d0eaf4b615a320f7$</string>
             <key>textureFileName</key>
             <string>md5.png</string>
         </dict>
