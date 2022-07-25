@@ -15,7 +15,7 @@
                 <key>spriteSourceSize</key>
                 <string>{32,32}</string>
                 <key>textureRect</key>
-                <string>{{183,351},{32,32}}</string>
+                <string>{{183,387},{32,32}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -165,7 +165,7 @@
                 <key>spriteSourceSize</key>
                 <string>{44,44}</string>
                 <key>textureRect</key>
-                <string>{{127,305},{34,34}}</string>
+                <string>{{183,351},{34,34}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -244,6 +244,36 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>tooltip_arrow.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{15,8}</string>
+                <key>spriteSourceSize</key>
+                <string>{15,8}</string>
+                <key>textureRect</key>
+                <string>{{165,305},{15,8}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>tooltip_bg.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{36,36}</string>
+                <key>spriteSourceSize</key>
+                <string>{36,36}</string>
+                <key>textureRect</key>
+                <string>{{127,305},{36,36}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
         </dict>
         <key>metadata</key>
         <dict>
@@ -258,7 +288,7 @@
             <key>size</key>
             <string>{256,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:067a8023ebedc1af1ec1dd4b9a4f01d2:f05408f256aa588a25f528bc9f829f1c:d461c629d21ad4df4853773f248efd85$</string>
+            <string>$TexturePacker:SmartUpdate:8236d1b014995098d4d6976e1a234477:672888f1bc3ab1f1ce3ec4ffbc498c73:d461c629d21ad4df4853773f248efd85$</string>
             <key>textureFileName</key>
             <string>card-verification.png</string>
         </dict>
