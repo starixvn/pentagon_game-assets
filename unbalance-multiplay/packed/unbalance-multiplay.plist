@@ -439,7 +439,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>table1.png</key>
+            <key>table0-bg.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -454,7 +454,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>table2.png</key>
+            <key>table0-border.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -469,7 +469,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>table3.png</key>
+            <key>table50.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -484,7 +484,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>table4.png</key>
+            <key>table51.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -499,7 +499,37 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>tablename-1.png</key>
+            <key>table54.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{302,126}</string>
+                <key>spriteSourceSize</key>
+                <string>{302,126}</string>
+                <key>textureRect</key>
+                <string>{{259,1518},{302,126}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>table55.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{302,126}</string>
+                <key>spriteSourceSize</key>
+                <string>{302,126}</string>
+                <key>textureRect</key>
+                <string>{{387,1416},{302,126}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>tablename-50.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -514,7 +544,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>tablename-2.png</key>
+            <key>tablename-51.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -529,7 +559,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>tablename-3.png</key>
+            <key>tablename-54.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -544,7 +574,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>tablename-4.png</key>
+            <key>tablename-55.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -618,7 +648,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:bb2c75e77d9262326031275c5138bd08:2ec19fea3d854e413a0e4c64e2a2ddec:4924636d1f3948f4b5ff6748d3d3a487$</string>
+            <string>$TexturePacker:SmartUpdate:5d58f5b8502cfab5e6b9674c52d2a8e7:7019536b07cb8644f5f661673024d880:4924636d1f3948f4b5ff6748d3d3a487$</string>
             <key>textureFileName</key>
             <string>unbalance-multiplay.png</string>
         </dict>
