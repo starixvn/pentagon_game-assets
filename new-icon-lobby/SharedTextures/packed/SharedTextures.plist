@@ -94,6 +94,21 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
+            <key>icon_loading.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{115,115}</string>
+                <key>spriteSourceSize</key>
+                <string>{115,115}</string>
+                <key>textureRect</key>
+                <string>{{281,837},{115,115}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>icon_shinning.png</key>
             <dict>
                 <key>aliases</key>
@@ -228,7 +243,7 @@
             <key>size</key>
             <string>{512,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:71bbfec85ec8a716fb8dbbae2390d5a1:79fc628e9d1ba799799811f3393bd3e2:04a3346a602a6312e0419ccfb5f02098$</string>
+            <string>$TexturePacker:SmartUpdate:e82d257e70934bf9cb5f8af0b6192ebb:5c28b293f4124f186538c0fc71c6c9ea:04a3346a602a6312e0419ccfb5f02098$</string>
             <key>textureFileName</key>
             <string>SharedTextures.png</string>
         </dict>
