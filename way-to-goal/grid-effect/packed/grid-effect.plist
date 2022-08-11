@@ -164,13 +164,13 @@
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
-            <string>grid_effect.png</string>
+            <string>grid-effect.png</string>
             <key>size</key>
             <string>{2048,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:7ab33e1b4ab814acbfa554464827e6d5:1f9770f24a4c8e82f6610900788b6cb9:4fea5dc8716eec790deb00bd2348878d$</string>
+            <string>$TexturePacker:SmartUpdate:e4b90924420fd93f65116a168670d8e0:1f9770f24a4c8e82f6610900788b6cb9:083ea4919bde260921c7584040b6e173$</string>
             <key>textureFileName</key>
-            <string>grid_effect.png</string>
+            <string>grid-effect.png</string>
         </dict>
     </dict>
 </plist>
