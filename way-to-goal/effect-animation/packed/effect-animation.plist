@@ -79,6 +79,36 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
+            <key>big_win_luoi_phai.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{101,390}</string>
+                <key>spriteSourceSize</key>
+                <string>{101,390}</string>
+                <key>textureRect</key>
+                <string>{{3,1596},{101,390}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>big_win_luoi_trai.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{106,384}</string>
+                <key>spriteSourceSize</key>
+                <string>{106,384}</string>
+                <key>textureRect</key>
+                <string>{{106,1596},{106,384}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>big_win_mask3.png</key>
             <dict>
                 <key>aliases</key>
@@ -105,7 +135,7 @@
                 <key>spriteSourceSize</key>
                 <string>{313,326}</string>
                 <key>textureRect</key>
-                <string>{{1110,1596},{313,326}}</string>
+                <string>{{581,1596},{313,326}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -165,9 +195,9 @@
                 <key>spriteSourceSize</key>
                 <string>{486,176}</string>
                 <key>textureRect</key>
-                <string>{{565,1265},{486,176}}</string>
+                <string>{{3,1398},{486,176}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>bonus_bong.png</key>
             <dict>
@@ -255,7 +285,7 @@
                 <key>spriteSourceSize</key>
                 <string>{316,318}</string>
                 <key>textureRect</key>
-                <string>{{1425,1596},{316,318}}</string>
+                <string>{{896,1596},{316,318}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -285,7 +315,7 @@
                 <key>spriteSourceSize</key>
                 <string>{367,397}</string>
                 <key>textureRect</key>
-                <string>{{743,1596},{365,367}}</string>
+                <string>{{214,1596},{365,367}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -483,7 +513,7 @@
             <key>size</key>
             <string>{2048,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:9e39d895cf461856a608bf3aa68857e6:d3dcf6f32de4057f919462ec07b81a37:67a8a72a8f81116fdef4310caf07ce80$</string>
+            <string>$TexturePacker:SmartUpdate:0d62e7fb6e6e54c3116631b128122831:fc79d1d6684295ded4f034b0a905bf83:67a8a72a8f81116fdef4310caf07ce80$</string>
             <key>textureFileName</key>
             <string>effect-animation.png</string>
         </dict>
