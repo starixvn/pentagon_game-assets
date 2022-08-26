@@ -469,6 +469,21 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>win-card-outer.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{101,128}</string>
+                <key>spriteSourceSize</key>
+                <string>{101,128}</string>
+                <key>textureRect</key>
+                <string>{{637,502},{101,128}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>win_card_outer_chain.png</key>
             <dict>
                 <key>aliases</key>
@@ -480,7 +495,7 @@
                 <key>spriteSourceSize</key>
                 <string>{190,250}</string>
                 <key>textureRect</key>
-                <string>{{637,502},{186,246}}</string>
+                <string>{{741,502},{186,246}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -498,7 +513,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:2119eec92de37c53f06e724c67aa3d9c:8a18e6514a22f36f26cdfa8c6ca74654:e8be2467cf7a8a038e490e50b3e68398$</string>
+            <string>$TexturePacker:SmartUpdate:ec72a156366c9039dab445b11d6ba110:f5226be213ea46635ab657ea3a082c1b:e8be2467cf7a8a038e490e50b3e68398$</string>
             <key>textureFileName</key>
             <string>baccarat-cards.png</string>
         </dict>
