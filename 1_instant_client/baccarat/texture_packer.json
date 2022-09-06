@@ -31,7 +31,7 @@
       ["--alpha-handling", "KeepTransparentPixels"],
       ["--max-width", 2048],
       ["--trim-mode", "Trim"],
-      ["--border-padding", 2],
+      ["--border-padding", 0],
       ["--extrude", 1]
     ],
     "rotation": true
