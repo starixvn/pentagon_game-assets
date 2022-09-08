@@ -17,7 +17,6 @@
   ],
   "options": {
     "params": [
-      ["--scale", 0.83333],
       ["--maxrects-heuristics", "Best"],
       ["--scale-mode", "Smooth"],
       ["--pack-mode", "Best"],
