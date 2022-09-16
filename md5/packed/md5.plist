@@ -34,6 +34,21 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>new_copy_hint_bg.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{83,48}</string>
+                <key>spriteSourceSize</key>
+                <string>{83,48}</string>
+                <key>textureRect</key>
+                <string>{{3,112},{83,48}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>tooltip-copy.png</key>
             <dict>
                 <key>aliases</key>
@@ -45,7 +60,7 @@
                 <key>spriteSourceSize</key>
                 <string>{79,44}</string>
                 <key>textureRect</key>
-                <string>{{3,112},{79,44}}</string>
+                <string>{{88,112},{79,44}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -60,7 +75,7 @@
                 <key>spriteSourceSize</key>
                 <string>{214,46}</string>
                 <key>textureRect</key>
-                <string>{{3,158},{214,46}}</string>
+                <string>{{3,162},{214,46}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -75,7 +90,7 @@
                 <key>spriteSourceSize</key>
                 <string>{15,8}</string>
                 <key>textureRect</key>
-                <string>{{219,158},{15,8}}</string>
+                <string>{{219,162},{15,8}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -90,7 +105,7 @@
                 <key>spriteSourceSize</key>
                 <string>{36,36}</string>
                 <key>textureRect</key>
-                <string>{{3,206},{36,36}}</string>
+                <string>{{3,210},{36,36}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -108,7 +123,7 @@
             <key>size</key>
             <string>{256,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:0f89fc8235c42c88ad2474ebe44aed1d:3660e5ff92ecc30280dd27f27ceacac6:6ed0c9662ca4aaa5d0eaf4b615a320f7$</string>
+            <string>$TexturePacker:SmartUpdate:bfe05924c634d323a1a271eb2ffa667f:7ebfa608b54a2fef3b17fdb3c19461ac:6ed0c9662ca4aaa5d0eaf4b615a320f7$</string>
             <key>textureFileName</key>
             <string>md5.png</string>
         </dict>
