@@ -4,6 +4,36 @@
     <dict>
         <key>frames</key>
         <dict>
+            <key>countdown_background.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{40,40}</string>
+                <key>spriteSourceSize</key>
+                <string>{40,40}</string>
+                <key>textureRect</key>
+                <string>{{47,49},{40,40}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>dot-time.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{4,4}</string>
+                <key>spriteSourceSize</key>
+                <string>{4,4}</string>
+                <key>textureRect</key>
+                <string>{{3,93},{4,4}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>progress_bar_bg.png</key>
             <dict>
                 <key>aliases</key>
@@ -46,9 +76,9 @@
             <key>realTextureFileName</key>
             <string>count-down-progress-bar.png</string>
             <key>size</key>
-            <string>{64,128}</string>
+            <string>{128,128}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:866b13f16cdc7c842b749676079ceeb9:dc36ecb9fa7e4e8bbd3a960bc76c0b82:57863624e3000c98409e4b41802c65b7$</string>
+            <string>$TexturePacker:SmartUpdate:32dcbb9ba526b8e38bf382d8a510637a:b453e2fb2898c549eac2f26053edf61e:57863624e3000c98409e4b41802c65b7$</string>
             <key>textureFileName</key>
             <string>count-down-progress-bar.png</string>
         </dict>
