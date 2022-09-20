@@ -229,22 +229,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>text_EN.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{97,28}</string>
-                <key>spriteSourceSize</key>
-                <string>{97,28}</string>
-                <key>textureRect</key>
-                <string>{{142,35},{97,28}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>text_VI.png</key>
+            <key>text.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -256,6 +241,21 @@
                 <string>{106,30}</string>
                 <key>textureRect</key>
                 <string>{{142,3},{106,30}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>text_en.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{97,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{97,28}</string>
+                <key>textureRect</key>
+                <string>{{142,35},{97,28}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -273,7 +273,7 @@
             <key>size</key>
             <string>{256,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:ae1e69d5dbfb3ae40761b446ae8c082f:2da6444e9f554f5c9657ae5948a0e166:60abb1e96638812ec688299684ce915b$</string>
+            <string>$TexturePacker:SmartUpdate:20e9c66e589992af09d4d4e9921993ed:ee7534026ad5768e1bdfea51794c1a4a:60abb1e96638812ec688299684ce915b$</string>
             <key>textureFileName</key>
             <string>icon-promotion.png</string>
         </dict>
