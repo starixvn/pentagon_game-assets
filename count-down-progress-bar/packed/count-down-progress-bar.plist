@@ -11,11 +11,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{40,40}</string>
+                <string>{42,42}</string>
                 <key>spriteSourceSize</key>
-                <string>{40,40}</string>
+                <string>{42,42}</string>
                 <key>textureRect</key>
-                <string>{{47,49},{40,40}}</string>
+                <string>{{3,51},{42,42}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -30,7 +30,7 @@
                 <key>spriteSourceSize</key>
                 <string>{4,4}</string>
                 <key>textureRect</key>
-                <string>{{3,93},{4,4}}</string>
+                <string>{{3,95},{4,4}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -45,7 +45,7 @@
                 <key>spriteSourceSize</key>
                 <string>{42,42}</string>
                 <key>textureRect</key>
-                <string>{{3,49},{42,42}}</string>
+                <string>{{47,51},{42,42}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -56,11 +56,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{44,44}</string>
+                <string>{46,46}</string>
                 <key>spriteSourceSize</key>
-                <string>{44,44}</string>
+                <string>{46,46}</string>
                 <key>textureRect</key>
-                <string>{{3,3},{44,44}}</string>
+                <string>{{3,3},{46,46}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -78,7 +78,7 @@
             <key>size</key>
             <string>{128,128}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:32dcbb9ba526b8e38bf382d8a510637a:b453e2fb2898c549eac2f26053edf61e:57863624e3000c98409e4b41802c65b7$</string>
+            <string>$TexturePacker:SmartUpdate:2e2bedb7b6f85a31e81c7bc1dc07a8f2:681db1b95b7fefcb4f7fccb21340a700:57863624e3000c98409e4b41802c65b7$</string>
             <key>textureFileName</key>
             <string>count-down-progress-bar.png</string>
         </dict>
