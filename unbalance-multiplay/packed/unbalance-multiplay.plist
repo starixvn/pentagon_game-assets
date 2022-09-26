@@ -2193,7 +2193,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:c03e1844150bcf25b4112fbee91bd683:2ef4e9b19148de7f03d27d75a7e9ac4d:4924636d1f3948f4b5ff6748d3d3a487$</string>
+            <string>$TexturePacker:SmartUpdate:b186ec0ea57f2be4c4b14da6b3e55add:4b6ed8946be36f6d9d07d112b17ae6d4:4924636d1f3948f4b5ff6748d3d3a487$</string>
             <key>textureFileName</key>
             <string>unbalance-multiplay.png</string>
         </dict>
