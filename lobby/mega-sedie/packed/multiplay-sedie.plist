@@ -348,7 +348,7 @@
             <key>size</key>
             <string>{512,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:a7d63d4aeca335e0e9257185c20808f8:6dbf2fe753f2938b9d49ee43e9fa7bd8:b05c0bc566c9f1241c63e1e3bc7a24dc$</string>
+            <string>$TexturePacker:SmartUpdate:3842abc3b78b5a7577918e5a505c9d60:6dbf2fe753f2938b9d49ee43e9fa7bd8:b05c0bc566c9f1241c63e1e3bc7a24dc$</string>
             <key>textureFileName</key>
             <string>multiplay-sedie.png</string>
         </dict>
