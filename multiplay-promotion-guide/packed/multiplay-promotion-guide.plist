@@ -11,11 +11,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{72,72}</string>
+                <string>{64,64}</string>
                 <key>spriteSourceSize</key>
-                <string>{72,72}</string>
+                <string>{64,64}</string>
                 <key>textureRect</key>
-                <string>{{181,55},{72,72}}</string>
+                <string>{{73,55},{64,64}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -30,7 +30,7 @@
                 <key>spriteSourceSize</key>
                 <string>{96,68}</string>
                 <key>textureRect</key>
-                <string>{{181,129},{96,68}}</string>
+                <string>{{181,55},{96,68}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -45,9 +45,9 @@
                 <key>spriteSourceSize</key>
                 <string>{96,68}</string>
                 <key>textureRect</key>
-                <string>{{73,55},{96,68}}</string>
+                <string>{{181,153},{96,68}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>green_countdown.png</key>
             <dict>
@@ -105,9 +105,9 @@
                 <key>spriteSourceSize</key>
                 <string>{24,54}</string>
                 <key>textureRect</key>
-                <string>{{181,227},{24,54}}</string>
+                <string>{{139,55},{24,54}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>top_bg.png</key>
             <dict>
@@ -138,7 +138,7 @@
             <key>size</key>
             <string>{256,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:eeb2bff4aa3a751acabecf81871fb227:65adf8137c07cba6ddc0370bf2ac0fae:16317a4fa66faad801f1855c0ab79c8c$</string>
+            <string>$TexturePacker:SmartUpdate:61ccd5b62f2f03c6964ebc1e5e3c1087:0707f518ad9b2f6d5b722cf5c608af32:16317a4fa66faad801f1855c0ab79c8c$</string>
             <key>textureFileName</key>
             <string>multiplay-promotion-guide.png</string>
         </dict>
