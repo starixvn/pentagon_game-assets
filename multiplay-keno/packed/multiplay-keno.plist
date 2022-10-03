@@ -1638,7 +1638,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:41b8f81deb13668bb5edcb6e6c94d8da:2137ec7bdb731783eb36c6879a026463:6011cb60599f3a214d0e353e70b88b17$</string>
+            <string>$TexturePacker:SmartUpdate:f9dcb1bc38bcff1342a1556973a029b6:98f26b80c6f51100d0856a20f8b0cd01:6011cb60599f3a214d0e353e70b88b17$</string>
             <key>textureFileName</key>
             <string>multiplay-keno.png</string>
         </dict>
