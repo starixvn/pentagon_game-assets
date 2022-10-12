@@ -513,7 +513,7 @@
             <key>size</key>
             <string>{512,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:e5618feba3a2549e8f56560723d7f258:a38fbd9fb6c87b7fda6dfae69c743c6e:f338c3bf16227fa67bd4da97e564ee27$</string>
+            <string>$TexturePacker:SmartUpdate:761feda96a80ea9b18eabd883d0d6d24:d4fc800f100a4b69ec4ad4238954bfd8:f338c3bf16227fa67bd4da97e564ee27$</string>
             <key>textureFileName</key>
             <string>button-new-style.png</string>
         </dict>
