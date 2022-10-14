@@ -1916,11 +1916,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{18,92}</string>
+                <string>{18,96}</string>
                 <key>spriteSourceSize</key>
-                <string>{18,92}</string>
+                <string>{18,96}</string>
                 <key>textureRect</key>
-                <string>{{1454,1780},{18,92}}</string>
+                <string>{{1454,1780},{18,96}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1968,7 +1968,7 @@
             <key>size</key>
             <string>{2048,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:d7a2037994986b5fb86746633388ce20:a6057aeab0ed89943b700c0babee49fe:6011cb60599f3a214d0e353e70b88b17$</string>
+            <string>$TexturePacker:SmartUpdate:53f9f0b3caed4a37ecb00f9d2f1a3681:578fed25c43d319edf27a18630ea14fc:6011cb60599f3a214d0e353e70b88b17$</string>
             <key>textureFileName</key>
             <string>multiplay-keno.png</string>
         </dict>
