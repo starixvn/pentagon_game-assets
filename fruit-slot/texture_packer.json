@@ -20,9 +20,10 @@
       ["--maxrects-heuristics", "Best"],
       ["--scale-mode", "Smooth"],
       ["--pack-mode", "Best"],
-      ["--shape-padding", 0],
+      ["--shape-padding", 1],
       ["--format", "cocos2d"],
       ["--algorithm", "MaxRects"],
+	  ["--basic-order", "Ascending"],
 	  ["--basic-sort-by", "Name"],
       ["--opt", "RGBA8888"],
       ["--max-height", 2048],
@@ -31,7 +32,7 @@
       ["--alpha-handling", "KeepTransparentPixels"],
       ["--max-width", 2048],
       ["--trim-mode", "Trim"],
-      ["--border-padding", 2],
+      ["--border-padding", 1],
       ["--extrude", 1]
     ],
     "rotation": true
