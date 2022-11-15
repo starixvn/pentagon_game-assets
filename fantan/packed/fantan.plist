@@ -60,7 +60,7 @@
                 <key>spriteSourceSize</key>
                 <string>{254,100}</string>
                 <key>textureRect</key>
-                <string>{{590,915},{254,100}}</string>
+                <string>{{585,915},{254,100}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -315,7 +315,7 @@
                 <key>spriteSourceSize</key>
                 <string>{204,44}</string>
                 <key>textureRect</key>
-                <string>{{184,977},{204,44}}</string>
+                <string>{{179,977},{204,44}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -476,11 +476,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{27,27}</string>
+                <string>{22,22}</string>
                 <key>spriteSourceSize</key>
-                <string>{27,27}</string>
+                <string>{22,22}</string>
                 <key>textureRect</key>
-                <string>{{107,993},{27,27}}</string>
+                <string>{{107,993},{22,22}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -495,7 +495,7 @@
                 <key>spriteSourceSize</key>
                 <string>{39,198}</string>
                 <key>textureRect</key>
-                <string>{{390,977},{39,198}}</string>
+                <string>{{385,977},{39,198}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -570,7 +570,7 @@
                 <key>spriteSourceSize</key>
                 <string>{22,22}</string>
                 <key>textureRect</key>
-                <string>{{136,988},{22,22}}</string>
+                <string>{{131,993},{22,22}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -585,7 +585,7 @@
                 <key>spriteSourceSize</key>
                 <string>{22,22}</string>
                 <key>textureRect</key>
-                <string>{{160,988},{22,22}}</string>
+                <string>{{155,988},{22,22}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -663,7 +663,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:bd44079c24a43ff43e4977a6b0326fa6:a6c7617ebf13604243a0975cced7feda:4adf5ac13b65804607f38826b35d202d$</string>
+            <string>$TexturePacker:SmartUpdate:5108a5aafaf4a60633cbe5ea7f6a991e:13b4469bdf3df448a96291e1342ca47f:4adf5ac13b65804607f38826b35d202d$</string>
             <key>textureFileName</key>
             <string>fantan.png</string>
         </dict>
