@@ -30,7 +30,7 @@
                 <key>spriteSourceSize</key>
                 <string>{177,111}</string>
                 <key>textureRect</key>
-                <string>{{201,201},{177,111}}</string>
+                <string>{{201,193},{177,111}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -99,15 +99,15 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,0}</string>
+                <string>{4,0}</string>
                 <key>spriteSize</key>
-                <string>{196,196}</string>
+                <string>{188,196}</string>
                 <key>spriteSourceSize</key>
                 <string>{196,196}</string>
                 <key>textureRect</key>
-                <string>{{201,3},{196,196}}</string>
+                <string>{{201,3},{188,196}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>vang.png</key>
             <dict>
@@ -168,7 +168,7 @@
             <key>size</key>
             <string>{512,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:3bfa4b1d34fb59d34d6bec6537439763:101408777269f116e2e1486ce2e32fe8:4ff5be08c7061cdcaa9c80a38d4221ea$</string>
+            <string>$TexturePacker:SmartUpdate:9473d61d43a29724137ba4c6ed7e41a2:cd212b75778613e12909215fbaf9c692:4ff5be08c7061cdcaa9c80a38d4221ea$</string>
             <key>textureFileName</key>
             <string>Roulette.png</string>
         </dict>
