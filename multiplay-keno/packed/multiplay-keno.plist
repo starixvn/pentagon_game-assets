@@ -2089,21 +2089,6 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>time-bg.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,-1}</string>
-                <key>spriteSize</key>
-                <string>{275,180}</string>
-                <key>spriteSourceSize</key>
-                <string>{275,182}</string>
-                <key>textureRect</key>
-                <string>{{1474,1497},{275,180}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
             <key>time_bg.png</key>
             <dict>
                 <key>aliases</key>
@@ -2115,7 +2100,7 @@
                 <key>spriteSourceSize</key>
                 <string>{40,40}</string>
                 <key>textureRect</key>
-                <string>{{1751,1497},{40,40}}</string>
+                <string>{{1474,1497},{40,40}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -2130,7 +2115,7 @@
                 <key>spriteSourceSize</key>
                 <string>{204,44}</string>
                 <key>textureRect</key>
-                <string>{{1793,1497},{204,44}}</string>
+                <string>{{1516,1497},{204,44}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -2148,7 +2133,7 @@
             <key>size</key>
             <string>{2048,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:4077d3d2a3fa8eabd5b4458bb2d31ce1:29f020545df827c86846a5c787d1b65f:6011cb60599f3a214d0e353e70b88b17$</string>
+            <string>$TexturePacker:SmartUpdate:195f7d65d3bd3298c6d29d4384bc2b87:87ded6e20e6ebe7574614ab5f072e7ff:6011cb60599f3a214d0e353e70b88b17$</string>
             <key>textureFileName</key>
             <string>multiplay-keno.png</string>
         </dict>
