@@ -1,0 +1,27 @@
+
+item7.png
+size: 332,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+item/item-7
+  rotate: false
+  xy: 2, 2
+  size: 142, 136
+  orig: 142, 137
+  offset: 0, 0
+  index: -1
+item/item-7-highlightA
+  rotate: false
+  xy: 146, 16
+  size: 115, 122
+  orig: 116, 124
+  offset: 0, 1
+  index: -1
+item/item-7-highlightB
+  rotate: true
+  xy: 263, 54
+  size: 84, 67
+  orig: 86, 68
+  offset: 1, 1
+  index: -1

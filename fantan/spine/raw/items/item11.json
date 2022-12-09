@@ -1,0 +1,70 @@
+{
+    "skeleton": {
+        "hash": "ypJjkZuj7ZMhtMepothStX4VhPQ",
+        "spine": "3.8.99",
+        "x": -88,
+        "y": -74.03,
+        "width": 176,
+        "height": 145.03,
+        "images": "../frame-effect/",
+        "audio": "D:/L5/chineseslot/graphic/animation/spine-file"
+    },
+    "bones": [
+        { "name": "root" },
+        { "name": "item11", "parent": "root" },
+        { "name": "item-11", "parent": "item11" },
+        { "name": "item/item-11-highlightA", "parent": "item-11" },
+        { "name": "item/item-11-highlightA2", "parent": "item-11" }
+    ],
+    "slots": [
+        { "name": "item/item-11", "bone": "item-11", "attachment": "item/item-11" },
+        { "name": "item/item-11-highlightB", "bone": "item/item-11-highlightA2", "attachment": "item/item-11-highlightB" },
+        { "name": "item/item-11-highlightA", "bone": "item/item-11-highlightA", "attachment": "item/item-11-highlightA" }
+    ],
+    "skins": [
+        {
+            "name": "default",
+            "attachments": {
+                "item/item-11": { "item/item-11": { "width": 122, "height": 125 } },
+                "item/item-11-highlightA": { "item/item-11-highlightA": { "x": -8.3, "width": 49, "height": 34 } },
+                "item/item-11-highlightB": { "item/item-11-highlightB": { "x": 27.97, "y": -31.03, "width": 72, "height": 86 } }
+            }
+        }
+    ],
+    "animations": {
+        "highlight": {
+            "slots": {
+                "item/item-11-highlightB": {
+                    "color": [
+                        { "color": "ffffff00", "curve": "stepped" },
+                        { "time": 0.1333, "color": "ffffff00" },
+                        { "time": 0.4, "color": "ffffffff" }
+                    ]
+                }
+            },
+            "bones": {
+                "item-11": {
+                    "rotate": [{ "time": 0.2, "angle": -1.4 }, { "time": 0.3333 }],
+                    "scale": [
+                        {},
+                        { "time": 0.2, "x": 0.9, "y": 0.9 },
+                        { "time": 0.3333, "x": 1.1, "y": 1.1 },
+                        { "time": 0.8, "curve": "stepped" },
+                        { "time": 1 }
+                    ]
+                },
+                "item/item-11-highlightA": {
+                    "translate": [
+                        { "x": -41.95, "y": 15.3 },
+                        { "time": 0.4, "x": -19.67, "y": -41.51 }
+                    ]
+                },
+                "item/item-11-highlightA2": { "translate": [{ "x": -68.17, "y": 15.73 }] }
+            }
+        },
+        "idle": {
+            "slots": { "item/item-11-highlightA": { "attachment": [{ "name": null }] } },
+            "bones": { "item/item-11-highlightA2": { "translate": [{ "x": -66.42, "y": 17.04 }] } }
+        }
+    }
+}

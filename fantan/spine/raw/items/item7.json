@@ -1,0 +1,63 @@
+{
+    "skeleton": {
+        "hash": "hBwBvFFUdL1PYDQKa/JeSX7nRpE",
+        "spine": "3.8.99",
+        "x": -88,
+        "y": -71,
+        "width": 176,
+        "height": 142,
+        "images": "../frame-effect/",
+        "audio": "D:/L5/chineseslot/graphic/animation/spine-file"
+    },
+    "bones": [
+        { "name": "root" },
+        { "name": "item7", "parent": "root" },
+        { "name": "item-7", "parent": "item7" },
+        { "name": "item/item-7-highlightA", "parent": "item-7" },
+        { "name": "item/item-7-highlightA2", "parent": "item-7" }
+    ],
+    "slots": [
+        { "name": "item/item-7", "bone": "item-7", "attachment": "item/item-7" },
+        { "name": "item/item-7-highlightA", "bone": "item/item-7-highlightA", "attachment": "item/item-7-highlightA" },
+        { "name": "item/item-7-highlightB", "bone": "item/item-7-highlightA2", "attachment": "item/item-7-highlightB" }
+    ],
+    "skins": [
+        {
+            "name": "default",
+            "attachments": {
+                "item/item-7": { "item/item-7": { "width": 142, "height": 137 } },
+                "item/item-7-highlightA": { "item/item-7-highlightA": { "x": -8.3, "width": 116, "height": 124 } },
+                "item/item-7-highlightB": { "item/item-7-highlightB": { "x": 27.97, "y": -31.03, "width": 86, "height": 68 } }
+            }
+        }
+    ],
+    "animations": {
+        "highlight": {
+            "slots": { "item/item-7": { "attachment": [{ "name": null }] } },
+            "bones": {
+                "item-7": {
+                    "rotate": [
+                        { "time": 0.1333 },
+                        { "time": 0.2667, "angle": 6 },
+                        { "time": 0.4, "angle": -8 },
+                        { "time": 0.6, "angle": 2 },
+                        { "time": 0.8, "angle": -8 },
+                        { "time": 1 }
+                    ],
+                    "scale": [{}, { "time": 0.2, "x": 1.06, "y": 0.96 }, { "time": 0.3333 }, { "time": 0.8, "x": 1.06 }, { "time": 1 }]
+                },
+                "item/item-7-highlightA": {
+                    "translate": [{}, { "time": 0.2667, "x": -20.53, "y": 11.03 }, { "time": 0.5333, "x": -1.67, "y": -6.45 }],
+                    "scale": [{}, { "time": 0.2667, "x": 0.9, "y": 0.9 }, { "time": 0.5333 }]
+                },
+                "item/item-7-highlightA2": { "scale": [{}, { "time": 0.2667, "x": 1.2, "y": 1.2 }, { "time": 0.5333 }] }
+            }
+        },
+        "idle": {
+            "slots": {
+                "item/item-7-highlightA": { "attachment": [{ "name": null }] },
+                "item/item-7-highlightB": { "attachment": [{ "name": null }] }
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "skeleton": {
+        "hash": "UH/1+jHJCuonsqd7a93qwkXJG9k",
+        "spine": "3.8.99",
+        "x": -88,
+        "y": -71,
+        "width": 176,
+        "height": 142,
+        "images": "../frame-effect/",
+        "audio": "D:/L5/chineseslot/graphic/animation/spine-file"
+    },
+    "bones": [
+        { "name": "root" },
+        { "name": "item10", "parent": "root" },
+        { "name": "item-10", "parent": "item10" },
+        { "name": "item/item-10/item-10-drum", "parent": "item-10" },
+        { "name": "item/item-10/item-bonus-wild-text", "parent": "item-10" },
+        { "name": "item/item-10/item-10-stick1", "parent": "item-10" },
+        { "name": "item/item-10/item-10-stick2", "parent": "item-10" },
+        { "name": "item/item-10/item-10-bg", "parent": "item-10" }
+    ],
+    "slots": [
+        { "name": "item/item-10/item-10-bg", "bone": "item/item-10/item-10-bg", "attachment": "item/item-10/item-10-bg" },
+        { "name": "item/item-10/item-10-drum", "bone": "item/item-10/item-10-drum", "attachment": "item/item-10/item-10-drum" },
+        {
+            "name": "item/item-10/item-bonus-wild-text",
+            "bone": "item/item-10/item-bonus-wild-text",
+            "attachment": "item/item-10/item-10-text"
+        },
+        { "name": "item/item-10/item-10-stick2", "bone": "item/item-10/item-10-stick2", "attachment": "item/item-10/item-10-stick2" },
+        { "name": "item/item-10/item-10-stick1", "bone": "item/item-10/item-10-stick1", "attachment": "item/item-10/item-10-stick1" }
+    ],
+    "skins": [
+        {
+            "name": "default",
+            "attachments": {
+                "item/item-10/item-bonus-wild-text": {
+                    "item/item-10/item-10-text": { "x": 0.44, "y": -35.83, "width": 129, "height": 58 }
+                },
+                "item/item-10/item-10-bg": { "item/item-10/item-10-bg": { "width": 149, "height": 118 } },
+                "item/item-10/item-10-drum": { "item/item-10/item-10-drum": { "x": 2.18, "width": 123, "height": 109 } },
+                "item/item-10/item-10-stick1": { "item/item-10/item-10-stick1": { "x": -17.85, "y": 21.41, "width": 63, "height": 46 } },
+                "item/item-10/item-10-stick2": { "item/item-10/item-10-stick2": { "x": 0.5, "y": 37.58, "width": 65, "height": 32 } }
+            }
+        }
+    ],
+    "animations": {
+        "highlight": {
+            "bones": {
+                "item-10": {
+                    "rotate": [{ "time": 0.2, "angle": -1.4 }, { "time": 0.3333 }],
+                    "scale": [{}, { "time": 0.2, "x": 0.9, "y": 0.9 }, { "time": 0.3333, "x": 1.1, "y": 1.1 }, { "time": 0.8 }]
+                },
+                "item/item-10/item-10-bg": {
+                    "scale": [{}, { "time": 0.2, "x": 0.9, "y": 0.9 }, { "time": 0.3333, "x": 1.1, "y": 1.1 }, { "time": 0.8 }]
+                },
+                "item/item-10/item-bonus-wild-text": {
+                    "scale": [
+                        {},
+                        { "time": 0.2, "x": 0.9, "y": 0.9 },
+                        { "time": 0.3333, "x": 1.1, "y": 1.1 },
+                        { "time": 0.8, "curve": "stepped" },
+                        { "time": 1 }
+                    ]
+                },
+                "item/item-10/item-10-stick1": {
+                    "rotate": [{}, { "time": 0.2, "angle": -4.93 }, { "time": 0.3333, "angle": 14.46 }],
+                    "translate": [{}, { "time": 0.2, "x": 10, "y": 0.25 }, { "time": 0.3333, "x": 16.69, "y": -0.4 }]
+                },
+                "item/item-10/item-10-stick2": {
+                    "rotate": [{}, { "time": 0.2667, "angle": -16.96 }, { "time": 0.4, "angle": -5.32 }],
+                    "translate": [{}, { "time": 0.2667, "x": 20.87, "y": 0.25 }, { "time": 0.4, "x": 16.69, "y": -5.36 }]
+                }
+            }
+        },
+        "idle": {}
+    }
+}

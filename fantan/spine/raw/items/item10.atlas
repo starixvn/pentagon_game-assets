@@ -1,0 +1,41 @@
+
+item10.png
+size: 182,263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+item/item-10/item-10-bg
+  rotate: true
+  xy: 2, 112
+  size: 149, 118
+  orig: 149, 118
+  offset: 0, 0
+  index: -1
+item/item-10/item-10-drum
+  rotate: false
+  xy: 2, 2
+  size: 122, 108
+  orig: 123, 109
+  offset: 0, 1
+  index: -1
+item/item-10/item-10-stick1
+  rotate: true
+  xy: 126, 68
+  size: 62, 45
+  orig: 63, 46
+  offset: 1, 0
+  index: -1
+item/item-10/item-10-stick2
+  rotate: true
+  xy: 126, 2
+  size: 64, 30
+  orig: 65, 32
+  offset: 0, 1
+  index: -1
+item/item-10/item-10-text
+  rotate: true
+  xy: 122, 132
+  size: 129, 58
+  orig: 129, 58
+  offset: 0, 0
+  index: -1

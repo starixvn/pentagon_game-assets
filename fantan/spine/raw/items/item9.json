@@ -1,0 +1,58 @@
+{
+    "skeleton": {
+        "hash": "PkdenlQ7jXwjPFP5o5Gro6Nm/Cs",
+        "spine": "3.8.99",
+        "x": -88,
+        "y": -71,
+        "width": 176,
+        "height": 142,
+        "images": "../frame-effect/",
+        "audio": "D:/L5/chineseslot/graphic/animation/spine-file"
+    },
+    "bones": [
+        { "name": "root" },
+        { "name": "item9", "parent": "root" },
+        { "name": "item-9", "parent": "item9" },
+        { "name": "item/item-9/item-9-gold", "parent": "item-9" },
+        { "name": "item/item-9/item-9-text", "parent": "item-9" },
+        { "name": "item/item-9/item-9-bg", "parent": "item-9" }
+    ],
+    "slots": [
+        { "name": "item/item-9/item-9-bg", "bone": "item/item-9/item-9-bg", "attachment": "item/item-9/item-9-bg" },
+        { "name": "item/item-9/item-9-gold", "bone": "item/item-9/item-9-gold", "attachment": "item/item-9/item-9-gold" },
+        { "name": "item/item-9/item-9-text", "bone": "item/item-9/item-9-text", "attachment": "item/item-9/item-9-text" }
+    ],
+    "skins": [
+        {
+            "name": "default",
+            "attachments": {
+                "item/item-9/item-9-bg": { "item/item-9/item-9-bg": { "width": 149, "height": 118 } },
+                "item/item-9/item-9-gold": { "item/item-9/item-9-gold": { "x": 2.18, "width": 129, "height": 115 } },
+                "item/item-9/item-9-text": { "item/item-9/item-9-text": { "x": 0.44, "y": -35.83, "width": 138, "height": 54 } }
+            }
+        }
+    ],
+    "animations": {
+        "highlight": {
+            "bones": {
+                "item-9": {
+                    "rotate": [{ "time": 0.2, "angle": -1.4 }, { "time": 0.3333 }],
+                    "scale": [{}, { "time": 0.2, "x": 0.9, "y": 0.9 }, { "time": 0.3333, "x": 1.1, "y": 1.1 }, { "time": 0.8 }]
+                },
+                "item/item-9/item-9-bg": {
+                    "scale": [{}, { "time": 0.2, "x": 0.9, "y": 0.9 }, { "time": 0.3333, "x": 1.1, "y": 1.1 }, { "time": 0.8 }]
+                },
+                "item/item-9/item-9-text": {
+                    "scale": [
+                        {},
+                        { "time": 0.2, "x": 0.9, "y": 0.9 },
+                        { "time": 0.3333, "x": 1.1, "y": 1.1 },
+                        { "time": 0.8, "curve": "stepped" },
+                        { "time": 1 }
+                    ]
+                }
+            }
+        },
+        "idle": {}
+    }
+}

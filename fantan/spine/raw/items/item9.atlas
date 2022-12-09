@@ -1,0 +1,27 @@
+
+item9.png
+size: 295,153
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+item/item-9/item-9-bg
+  rotate: true
+  xy: 2, 2
+  size: 149, 118
+  orig: 149, 118
+  offset: 0, 0
+  index: -1
+item/item-9/item-9-gold
+  rotate: true
+  xy: 122, 23
+  size: 128, 115
+  orig: 129, 115
+  offset: 1, 0
+  index: -1
+item/item-9/item-9-text
+  rotate: true
+  xy: 239, 13
+  size: 138, 54
+  orig: 138, 54
+  offset: 0, 0
+  index: -1

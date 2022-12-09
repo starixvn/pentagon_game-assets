@@ -1,0 +1,54 @@
+{
+    "skeleton": {
+        "hash": "JAPf51WTtzNv3daK2f21QWgbnbA",
+        "spine": "3.8.99",
+        "x": -88,
+        "y": -71,
+        "width": 176,
+        "height": 142,
+        "images": "../frame-effect/",
+        "audio": "D:/L5/chineseslot/graphic/animation/spine-file"
+    },
+    "bones": [{ "name": "root" }, { "name": "item3", "parent": "root" }, { "name": "item-3", "parent": "item3" }],
+    "slots": [
+        { "name": "item/item-3", "bone": "item-3", "attachment": "item/item-3" },
+        { "name": "item/item-3-highlight", "bone": "item-3", "attachment": "item/item-3-highlight" }
+    ],
+    "skins": [
+        {
+            "name": "default",
+            "attachments": {
+                "item/item-3": { "item/item-3": { "width": 94, "height": 119 } },
+                "item/item-3-highlight": { "item/item-3-highlight": { "width": 94, "height": 119 } }
+            }
+        }
+    ],
+    "animations": {
+        "highlight": {
+            "slots": {
+                "item/item-3-highlight": {
+                    "color": [
+                        { "color": "ffffff00" },
+                        { "time": 0.4, "color": "ffffffff", "curve": "stepped" },
+                        { "time": 0.8, "color": "ffffffff" },
+                        { "time": 1, "color": "ffffff00" }
+                    ]
+                }
+            },
+            "bones": {
+                "item-3": {
+                    "rotate": [
+                        { "time": 0.1333 },
+                        { "time": 0.2667, "angle": 6 },
+                        { "time": 0.4, "angle": -8 },
+                        { "time": 0.6, "angle": 2 },
+                        { "time": 0.8, "angle": -8 },
+                        { "time": 1 }
+                    ],
+                    "scale": [{}, { "time": 0.2, "x": 1.06, "y": 0.96 }, { "time": 0.3333 }, { "time": 0.8, "x": 1.06 }, { "time": 1 }]
+                }
+            }
+        },
+        "idle": { "slots": { "item/item-3-highlight": { "attachment": [{ "name": null }] } } }
+    }
+}

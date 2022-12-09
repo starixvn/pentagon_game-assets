@@ -1,0 +1,20 @@
+
+item4.png
+size: 194,105
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+item/item-4
+  rotate: false
+  xy: 98, 2
+  size: 94, 101
+  orig: 95, 102
+  offset: 1, 1
+  index: -1
+item/item-4-highlight
+  rotate: false
+  xy: 2, 2
+  size: 94, 101
+  orig: 95, 102
+  offset: 1, 1
+  index: -1
