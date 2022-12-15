@@ -161,11 +161,26 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
+                <string>{9,9}</string>
+                <key>spriteSourceSize</key>
+                <string>{9,9}</string>
+                <key>textureRect</key>
+                <string>{{1009,759},{9,9}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>big_road_tie_1st.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
                 <string>{17,17}</string>
                 <key>spriteSourceSize</key>
                 <string>{17,21}</string>
                 <key>textureRect</key>
-                <string>{{998,1009},{17,17}}</string>
+                <string>{{998,1030},{17,17}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -286,6 +301,21 @@
                 <string>{24,24}</string>
                 <key>textureRect</key>
                 <string>{{150,1731},{24,24}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>dot_next.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{19,19}</string>
+                <key>spriteSourceSize</key>
+                <string>{19,19}</string>
+                <key>textureRect</key>
+                <string>{{998,1009},{19,19}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -723,7 +753,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:741b3b17d73d332a0d9721b72f19ed51:b73dc2fd32c06aa18e9bfbb6e5c5c3be:d3f62be3ac7957b50715e8c13ef3b102$</string>
+            <string>$TexturePacker:SmartUpdate:3bc9adea2fda1a360697282ac245e57a:8bde1a281055b568967909f4ab1a8955:d3f62be3ac7957b50715e8c13ef3b102$</string>
             <key>textureFileName</key>
             <string>win-three-cards.png</string>
         </dict>
