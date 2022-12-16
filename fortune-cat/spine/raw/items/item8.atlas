@@ -1,26 +1,26 @@
 
 item8.png
-size: 323,153
+size: 323,152
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 item/item-8/item-8-bg
   rotate: true
   xy: 2, 2
-  size: 149, 118
+  size: 148, 118
   orig: 149, 118
   offset: 0, 0
   index: -1
 item/item-8/item-8-gold
   rotate: true
-  xy: 122, 11
+  xy: 122, 10
   size: 140, 110
   orig: 140, 110
   offset: 0, 0
   index: -1
 item/item-8/item-8-text
   rotate: true
-  xy: 234, 26
+  xy: 234, 25
   size: 125, 87
   orig: 125, 88
   offset: 0, 0
