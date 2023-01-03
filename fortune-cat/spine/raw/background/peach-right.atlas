@@ -1,0 +1,27 @@
+
+peach-right.png
+size: 234,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+peach1
+  rotate: false
+  xy: 126, 66
+  size: 106, 70
+  orig: 106, 70
+  offset: 0, 0
+  index: -1
+peach2
+  rotate: false
+  xy: 126, 2
+  size: 81, 62
+  orig: 81, 63
+  offset: 0, 1
+  index: -1
+peach4
+  rotate: true
+  xy: 2, 7
+  size: 129, 122
+  orig: 130, 122
+  offset: 1, 0
+  index: -1

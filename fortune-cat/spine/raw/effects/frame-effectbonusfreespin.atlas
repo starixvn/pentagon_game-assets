@@ -1,0 +1,97 @@
+
+frame-effectbonusfreespin.png
+size: 1261,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+framesequense/1
+  rotate: true
+  xy: 1192, 22
+  size: 72, 67
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+framesequense/10
+  rotate: true
+  xy: 850, 4
+  size: 90, 84
+  orig: 150, 99
+  offset: 32, 15
+  index: -1
+framesequense/11
+  rotate: true
+  xy: 936, 4
+  size: 90, 84
+  orig: 150, 99
+  offset: 32, 15
+  index: -1
+framesequense/12
+  rotate: true
+  xy: 1022, 4
+  size: 90, 83
+  orig: 150, 99
+  offset: 32, 16
+  index: -1
+framesequense/13
+  rotate: true
+  xy: 1107, 5
+  size: 89, 83
+  orig: 150, 99
+  offset: 33, 16
+  index: -1
+framesequense/2
+  rotate: false
+  xy: 2, 4
+  size: 129, 90
+  orig: 143, 98
+  offset: 7, 4
+  index: -1
+framesequense/3
+  rotate: false
+  xy: 262, 4
+  size: 125, 90
+  orig: 143, 97
+  offset: 9, 4
+  index: -1
+framesequense/4
+  rotate: false
+  xy: 133, 3
+  size: 127, 91
+  orig: 141, 97
+  offset: 6, 4
+  index: -1
+framesequense/5
+  rotate: false
+  xy: 389, 4
+  size: 115, 90
+  orig: 141, 95
+  offset: 12, 3
+  index: -1
+framesequense/6
+  rotate: true
+  xy: 678, 4
+  size: 90, 84
+  orig: 150, 99
+  offset: 32, 15
+  index: -1
+framesequense/7
+  rotate: true
+  xy: 764, 4
+  size: 90, 84
+  orig: 150, 99
+  offset: 32, 15
+  index: -1
+framesequense/8
+  rotate: true
+  xy: 592, 3
+  size: 91, 84
+  orig: 150, 99
+  offset: 32, 15
+  index: -1
+framesequense/9
+  rotate: true
+  xy: 506, 2
+  size: 92, 84
+  orig: 150, 99
+  offset: 31, 15
+  index: -1
