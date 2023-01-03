@@ -465,7 +465,7 @@
                 <key>spriteSourceSize</key>
                 <string>{22,22}</string>
                 <key>textureRect</key>
-                <string>{{55,1993},{22,22}}</string>
+                <string>{{55,2021},{22,22}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -513,6 +513,21 @@
                 <string>{{962,1098},{6,6}}</string>
                 <key>textureRotated</key>
                 <false/>
+            </dict>
+            <key>ic_user.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{26,22}</string>
+                <key>spriteSourceSize</key>
+                <string>{28,24}</string>
+                <key>textureRect</key>
+                <string>{{55,1993},{26,22}}</string>
+                <key>textureRotated</key>
+                <true/>
             </dict>
             <key>icon_close.png</key>
             <dict>
@@ -888,7 +903,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:7462a7617771f83aa6ffefdccb07ebc8:87315ed4d73a306dbd9cd62bb8a2a28e:d3f62be3ac7957b50715e8c13ef3b102$</string>
+            <string>$TexturePacker:SmartUpdate:bea169f807b58c044a35b1a3c8e1aa11:e3ca511c9c2afd4c1bef6c85587a4adb:d3f62be3ac7957b50715e8c13ef3b102$</string>
             <key>textureFileName</key>
             <string>win-three-cards.png</string>
         </dict>
