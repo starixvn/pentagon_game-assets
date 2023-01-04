@@ -903,7 +903,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:bea169f807b58c044a35b1a3c8e1aa11:e3ca511c9c2afd4c1bef6c85587a4adb:d3f62be3ac7957b50715e8c13ef3b102$</string>
+            <string>$TexturePacker:SmartUpdate:2cbc5033a3948b11277e3ba7d8fe0e04:c4c22906fd9c657ee7d536b8908b613e:d3f62be3ac7957b50715e8c13ef3b102$</string>
             <key>textureFileName</key>
             <string>win-three-cards.png</string>
         </dict>
