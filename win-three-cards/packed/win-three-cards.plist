@@ -379,7 +379,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>dot_dragon_en.png</key>
+            <key>dot_dragon_co.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -391,6 +391,51 @@
                 <string>{24,24}</string>
                 <key>textureRect</key>
                 <string>{{300,1745},{24,24}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>dot_dragon_cs.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{24,24}</string>
+                <key>spriteSourceSize</key>
+                <string>{24,24}</string>
+                <key>textureRect</key>
+                <string>{{326,1745},{24,24}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>dot_dragon_en.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{24,24}</string>
+                <key>spriteSourceSize</key>
+                <string>{24,24}</string>
+                <key>textureRect</key>
+                <string>{{352,1745},{24,24}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>dot_dragon_id.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{24,24}</string>
+                <key>spriteSourceSize</key>
+                <string>{24,24}</string>
+                <key>textureRect</key>
+                <string>{{55,1993},{24,24}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -420,7 +465,37 @@
                 <key>spriteSourceSize</key>
                 <string>{24,24}</string>
                 <key>textureRect</key>
-                <string>{{326,1745},{24,24}}</string>
+                <string>{{55,2019},{24,24}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>dot_phoenix_co.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{24,24}</string>
+                <key>spriteSourceSize</key>
+                <string>{24,24}</string>
+                <key>textureRect</key>
+                <string>{{81,1993},{24,24}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>dot_phoenix_cs.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{24,24}</string>
+                <key>spriteSourceSize</key>
+                <string>{24,24}</string>
+                <key>textureRect</key>
+                <string>{{81,2019},{24,24}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -435,7 +510,7 @@
                 <key>spriteSourceSize</key>
                 <string>{24,24}</string>
                 <key>textureRect</key>
-                <string>{{326,1745},{24,24}}</string>
+                <string>{{55,2019},{24,24}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -450,7 +525,22 @@
                 <key>spriteSourceSize</key>
                 <string>{24,24}</string>
                 <key>textureRect</key>
-                <string>{{352,1745},{24,24}}</string>
+                <string>{{107,1993},{24,24}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>dot_tie_cs.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{24,24}</string>
+                <key>spriteSourceSize</key>
+                <string>{24,24}</string>
+                <key>textureRect</key>
+                <string>{{107,2019},{24,24}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -465,7 +555,22 @@
                 <key>spriteSourceSize</key>
                 <string>{22,22}</string>
                 <key>textureRect</key>
-                <string>{{55,2021},{22,22}}</string>
+                <string>{{157,2019},{22,22}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>dot_tie_id.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{24,24}</string>
+                <key>spriteSourceSize</key>
+                <string>{24,24}</string>
+                <key>textureRect</key>
+                <string>{{133,1993},{24,24}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -525,7 +630,7 @@
                 <key>spriteSourceSize</key>
                 <string>{28,24}</string>
                 <key>textureRect</key>
-                <string>{{55,1993},{26,22}}</string>
+                <string>{{133,2019},{26,22}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -903,7 +1008,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:2cbc5033a3948b11277e3ba7d8fe0e04:c4c22906fd9c657ee7d536b8908b613e:d3f62be3ac7957b50715e8c13ef3b102$</string>
+            <string>$TexturePacker:SmartUpdate:eed17fd71dc7852970c836d695a5e85e:e79de3fd3c61f22d4e862846f9f9ae54:d3f62be3ac7957b50715e8c13ef3b102$</string>
             <key>textureFileName</key>
             <string>win-three-cards.png</string>
         </dict>
