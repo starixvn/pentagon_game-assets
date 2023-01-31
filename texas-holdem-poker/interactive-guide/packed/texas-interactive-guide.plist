@@ -243,7 +243,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:02b1d9530e0ea373a83082d1caa6c37f:b7600504b511e7f96155adb49440fce6:daff8a6685d887fe0e4e8576296fd0f5$</string>
+            <string>$TexturePacker:SmartUpdate:37ed26c23da804bffc3b90c49f225d5e:8913d25b1504e939cea6a4d362d2ab6f:daff8a6685d887fe0e4e8576296fd0f5$</string>
             <key>textureFileName</key>
             <string>texas-interactive-guide.png</string>
         </dict>
