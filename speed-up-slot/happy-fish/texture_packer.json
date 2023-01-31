@@ -9,7 +9,7 @@
           "options": {
             "params": ["--texture-format", "png"],
             "sheet_extension": "png",
-            "output_path": ["happy-fish"]
+            "output_path": ["standard-slot-game"]
           }
         }
       ]
