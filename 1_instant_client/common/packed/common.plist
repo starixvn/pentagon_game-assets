@@ -963,7 +963,7 @@
             <key>size</key>
             <string>{512,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:4347b6c3bf8dcb5c4cf0cc05c1e39019:1cad1ed073695db144c59c5746c8316e:1f55903e2927f6cb72c625c6a594708e$</string>
+            <string>$TexturePacker:SmartUpdate:515a4f2f85451640a6aa2f9be39bbe76:1cad1ed073695db144c59c5746c8316e:1f55903e2927f6cb72c625c6a594708e$</string>
             <key>textureFileName</key>
             <string>common.png</string>
         </dict>
