@@ -1,0 +1,55 @@
+
+winning-effect.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_1
+  rotate: false
+  xy: 222, 2
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+eff_2
+  rotate: false
+  xy: 490, 2
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+eff_3
+  rotate: false
+  xy: 758, 2
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+eff_4
+  rotate: false
+  xy: 1026, 2
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+eff_5
+  rotate: false
+  xy: 1294, 2
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+eff_dust
+  rotate: false
+  xy: 91, 171
+  size: 129, 97
+  orig: 129, 97
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 2, 193
+  size: 87, 75
+  orig: 87, 75
+  offset: 0, 0
+  index: -1
