@@ -34,21 +34,6 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>bg-message.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{-9,0}</string>
-                <key>spriteSize</key>
-                <string>{1028,52}</string>
-                <key>spriteSourceSize</key>
-                <string>{1080,52}</string>
-                <key>textureRect</key>
-                <string>{{3,469},{1028,52}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
             <key>btn-menu.png</key>
             <dict>
                 <key>aliases</key>
@@ -93,6 +78,36 @@
                 <string>{{937,945},{69,464}}</string>
                 <key>textureRotated</key>
                 <false/>
+            </dict>
+            <key>frame-notification.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-9,0}</string>
+                <key>spriteSize</key>
+                <string>{1028,52}</string>
+                <key>spriteSourceSize</key>
+                <string>{1080,52}</string>
+                <key>textureRect</key>
+                <string>{{3,469},{1028,52}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>frame-preview-symbol-odds.png.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{331,161}</string>
+                <key>spriteSourceSize</key>
+                <string>{331,161}</string>
+                <key>textureRect</key>
+                <string>{{781,53},{331,161}}</string>
+                <key>textureRotated</key>
+                <true/>
             </dict>
             <key>frame-right-numbers.png</key>
             <dict>
@@ -334,21 +349,6 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>symbol-details-popup-bg.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{331,161}</string>
-                <key>spriteSourceSize</key>
-                <string>{331,161}</string>
-                <key>textureRect</key>
-                <string>{{781,53},{331,161}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
             <key>warning-bg.png</key>
             <dict>
                 <key>aliases</key>
@@ -378,7 +378,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:ca6c7cbe75859f3f5da70ad8f611330e:09e822c339acc3f1597a3ed82b33f456:d2119907fc422292afb660fc3c3e380f$</string>
+            <string>$TexturePacker:SmartUpdate:a1a75a4dadc374a4bfbccb24a7278036:6768c20283f5c74938b03360fc6c0fba:d2119907fc422292afb660fc3c3e380f$</string>
             <key>textureFileName</key>
             <string>standard-slot-game.png</string>
         </dict>
