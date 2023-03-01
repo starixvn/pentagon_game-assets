@@ -1,0 +1,97 @@
+
+symbol-7.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow
+  rotate: false
+  xy: 289, 13
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+book
+  rotate: false
+  xy: 1214, 111
+  size: 120, 135
+  orig: 120, 135
+  offset: 0, 0
+  index: -1
+la
+  rotate: false
+  xy: 222, 6
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: 1
+la
+  rotate: false
+  xy: 258, 8
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: 2
+mushroom
+  rotate: false
+  xy: 1214, 33
+  size: 60, 76
+  orig: 60, 76
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 2, 46
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 8
+star
+  rotate: false
+  xy: 204, 46
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 3
+star
+  rotate: false
+  xy: 406, 46
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 4
+star
+  rotate: false
+  xy: 608, 46
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 5
+star
+  rotate: false
+  xy: 810, 46
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 6
+star
+  rotate: false
+  xy: 1012, 46
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 7
+text-free
+  rotate: false
+  xy: 110, 4
+  size: 110, 40
+  orig: 110, 40
+  offset: 0, 0
+  index: -1
+text-spin
+  rotate: false
+  xy: 2, 2
+  size: 106, 42
+  orig: 106, 42
+  offset: 0, 0
+  index: -1

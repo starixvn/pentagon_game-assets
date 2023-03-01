@@ -4,7 +4,7 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>balance-bg.png.png</key>
+            <key>balance-bg.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -94,7 +94,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>left-numbers-bg.png.png</key>
+            <key>left-numbers-bg.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -124,7 +124,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>right-numbers-bg.png.png</key>
+            <key>right-numbers-bg.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -139,7 +139,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>round-id-bg.png.png</key>
+            <key>round-id-bg.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -334,7 +334,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>winning-payline-glow.png.png</key>
+            <key>winning-payline-glow.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -378,7 +378,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:dbe886c20eff7e52df2d6edf9247e10e:226b12351be1054941957ebb95dc6a8e:d2119907fc422292afb660fc3c3e380f$</string>
+            <string>$TexturePacker:SmartUpdate:d9113c724a9b2f829d64b3b111f03f62:226b12351be1054941957ebb95dc6a8e:d2119907fc422292afb660fc3c3e380f$</string>
             <key>textureFileName</key>
             <string>standard-slot-game.png</string>
         </dict>

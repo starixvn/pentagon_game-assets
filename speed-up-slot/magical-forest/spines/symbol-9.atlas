@@ -1,0 +1,132 @@
+
+symbol-9.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+big_flower
+  rotate: false
+  xy: 1761, 117
+  size: 131, 112
+  orig: 131, 112
+  offset: 0, 0
+  index: -1
+butterfly
+  rotate: false
+  xy: 1894, 138
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+flower_1
+  rotate: true
+  xy: 1856, 32
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+flower_2
+  rotate: true
+  xy: 1858, 82
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 1618, 91
+  size: 141, 138
+  orig: 141, 138
+  offset: 0, 0
+  index: -1
+fx_star
+  rotate: false
+  xy: 1856, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+leave_inside_1
+  rotate: false
+  xy: 1816, 14
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+leave_inside_2
+  rotate: true
+  xy: 1816, 73
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+leave_ouside
+  rotate: true
+  xy: 1761, 36
+  size: 79, 53
+  orig: 79, 53
+  offset: 0, 0
+  index: -1
+star_1
+  rotate: false
+  xy: 2, 29
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_2
+  rotate: false
+  xy: 204, 29
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_3
+  rotate: false
+  xy: 406, 29
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_4
+  rotate: false
+  xy: 608, 29
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_5
+  rotate: false
+  xy: 810, 29
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_6
+  rotate: false
+  xy: 1012, 29
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_7
+  rotate: false
+  xy: 1214, 29
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_8
+  rotate: false
+  xy: 1416, 29
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+wild_text
+  rotate: true
+  xy: 1894, 8
+  size: 128, 53
+  orig: 128, 53
+  offset: 0, 0
+  index: -1
