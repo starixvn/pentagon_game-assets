@@ -1339,6 +1339,66 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
+            <key>game-name-vi-50.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{124,27}</string>
+                <key>spriteSourceSize</key>
+                <string>{124,27}</string>
+                <key>textureRect</key>
+                <string>{{190,636},{124,27}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>game-name-vi-51.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{144,26}</string>
+                <key>spriteSourceSize</key>
+                <string>{144,26}</string>
+                <key>textureRect</key>
+                <string>{{449,541},{144,26}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>game-name-vi-54.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{81,27}</string>
+                <key>spriteSourceSize</key>
+                <string>{81,27}</string>
+                <key>textureRect</key>
+                <string>{{152,553},{81,27}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>game-name-vi-55.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{162,27}</string>
+                <key>spriteSourceSize</key>
+                <string>{162,27}</string>
+                <key>textureRect</key>
+                <string>{{186,61},{162,27}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
             <key>game-name-zh_cn-50.png</key>
             <dict>
                 <key>aliases</key>
@@ -2373,7 +2433,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:7c510b1c4142b767defd9defef539b42:c69ced50b81adbd24177e3df94d37b38:4924636d1f3948f4b5ff6748d3d3a487$</string>
+            <string>$TexturePacker:SmartUpdate:a6dcb29dde24bd050522ef69c12530b4:ed6b974aa59789f2fb8208f5354e0960:4924636d1f3948f4b5ff6748d3d3a487$</string>
             <key>textureFileName</key>
             <string>unbalance-multiplay.png</string>
         </dict>
