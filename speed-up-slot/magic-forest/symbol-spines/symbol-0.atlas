@@ -1,0 +1,83 @@
+
+symbol-0.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leave
+  rotate: false
+  xy: 1865, 138
+  size: 37, 64
+  orig: 37, 64
+  offset: 0, 0
+  index: -1
+reu
+  rotate: false
+  xy: 1762, 105
+  size: 101, 97
+  orig: 101, 97
+  offset: 0, 0
+  index: -1
+star_1
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_2
+  rotate: false
+  xy: 204, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_3
+  rotate: false
+  xy: 406, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_4
+  rotate: false
+  xy: 608, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_5
+  rotate: false
+  xy: 810, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_6
+  rotate: false
+  xy: 1012, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_7
+  rotate: false
+  xy: 1214, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_8
+  rotate: false
+  xy: 1416, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+symbol-0
+  rotate: false
+  xy: 1618, 94
+  size: 142, 108
+  orig: 142, 108
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+symbol-10.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+canh-l
+  rotate: true
+  xy: 144, 44
+  size: 70, 68
+  orig: 70, 68
+  offset: 0, 0
+  index: -1
+canh-r
+  rotate: true
+  xy: 214, 47
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+lady-bird
+  rotate: true
+  xy: 144, 2
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+leaf
+  rotate: true
+  xy: 2, 2
+  size: 112, 140
+  orig: 112, 140
+  offset: 0, 0
+  index: -1
+water-1
+  rotate: false
+  xy: 176, 28
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1

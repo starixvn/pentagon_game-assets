@@ -1,0 +1,132 @@
+
+symbol-6.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bubble
+  rotate: false
+  xy: 176, 3
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+light-green
+  rotate: false
+  xy: 272, 39
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+magic-tool
+  rotate: true
+  xy: 272, 10
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+pot-potion
+  rotate: true
+  xy: 2, 109
+  size: 142, 130
+  orig: 142, 130
+  offset: 0, 0
+  index: -1
+pot-potion-front
+  rotate: false
+  xy: 137, 25
+  size: 133, 89
+  orig: 133, 89
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: true
+  xy: 46, 13
+  size: 94, 89
+  orig: 94, 89
+  offset: 0, 0
+  index: -1
+water-1
+  rotate: false
+  xy: 134, 116
+  size: 44, 135
+  orig: 44, 135
+  offset: 0, 0
+  index: -1
+water-10
+  rotate: true
+  xy: 347, 24
+  size: 44, 135
+  orig: 44, 135
+  offset: 0, 0
+  index: -1
+water-2
+  rotate: false
+  xy: 180, 116
+  size: 44, 135
+  orig: 44, 135
+  offset: 0, 0
+  index: -1
+water-3
+  rotate: false
+  xy: 226, 116
+  size: 44, 135
+  orig: 44, 135
+  offset: 0, 0
+  index: -1
+water-4
+  rotate: false
+  xy: 272, 116
+  size: 44, 135
+  orig: 44, 135
+  offset: 0, 0
+  index: -1
+water-5
+  rotate: false
+  xy: 318, 116
+  size: 44, 135
+  orig: 44, 135
+  offset: 0, 0
+  index: -1
+water-6
+  rotate: true
+  xy: 347, 70
+  size: 44, 135
+  orig: 44, 135
+  offset: 0, 0
+  index: -1
+water-7
+  rotate: false
+  xy: 364, 116
+  size: 44, 135
+  orig: 44, 135
+  offset: 0, 0
+  index: -1
+water-8
+  rotate: false
+  xy: 410, 116
+  size: 44, 135
+  orig: 44, 135
+  offset: 0, 0
+  index: -1
+water-9
+  rotate: false
+  xy: 456, 116
+  size: 44, 135
+  orig: 44, 135
+  offset: 0, 0
+  index: -1
+water-potion
+  rotate: true
+  xy: 2, 2
+  size: 105, 42
+  orig: 105, 42
+  offset: 0, 0
+  index: -1
+water-potion-outside
+  rotate: false
+  xy: 137, 3
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1

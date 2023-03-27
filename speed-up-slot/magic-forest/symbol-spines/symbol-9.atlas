@@ -1,0 +1,118 @@
+
+symbol-9.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+butterfly-body
+  rotate: false
+  xy: 1714, 10
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+flower_1
+  rotate: false
+  xy: 1618, 5
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 1618, 61
+  size: 144, 141
+  orig: 144, 141
+  offset: 0, 0
+  index: -1
+fx_star
+  rotate: false
+  xy: 1684, 31
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+leaf
+  rotate: true
+  xy: 1618, 31
+  size: 28, 64
+  orig: 28, 64
+  offset: 0, 0
+  index: -1
+star_1
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_2
+  rotate: false
+  xy: 204, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_3
+  rotate: false
+  xy: 406, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_4
+  rotate: false
+  xy: 608, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_5
+  rotate: false
+  xy: 810, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_6
+  rotate: false
+  xy: 1012, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_7
+  rotate: false
+  xy: 1214, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_8
+  rotate: false
+  xy: 1416, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+wild_text
+  rotate: false
+  xy: 1764, 155
+  size: 118, 47
+  orig: 118, 47
+  offset: 0, 0
+  index: -1
+wing
+  rotate: false
+  xy: 1884, 104
+  size: 61, 98
+  orig: 61, 98
+  offset: 0, 0
+  index: -1
+wing-shadow
+  rotate: false
+  xy: 1764, 55
+  size: 61, 98
+  orig: 61, 98
+  offset: 0, 0
+  index: -1

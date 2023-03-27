@@ -1,0 +1,83 @@
+
+symbol-3.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flower
+  rotate: true
+  xy: 1820, 176
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+leaf
+  rotate: true
+  xy: 1729, 183
+  size: 19, 89
+  orig: 19, 89
+  offset: 0, 0
+  index: -1
+star_1
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_2
+  rotate: false
+  xy: 204, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_3
+  rotate: false
+  xy: 406, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_4
+  rotate: false
+  xy: 608, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_5
+  rotate: false
+  xy: 810, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_6
+  rotate: false
+  xy: 1012, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_7
+  rotate: false
+  xy: 1214, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_8
+  rotate: false
+  xy: 1416, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+symbol-3
+  rotate: true
+  xy: 1618, 106
+  size: 96, 109
+  orig: 96, 109
+  offset: 0, 0
+  index: -1

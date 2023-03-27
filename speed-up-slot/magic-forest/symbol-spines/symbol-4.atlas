@@ -1,0 +1,83 @@
+
+symbol-4.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flower
+  rotate: true
+  xy: 1830, 166
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+leaf
+  rotate: true
+  xy: 1731, 169
+  size: 33, 97
+  orig: 33, 97
+  offset: 0, 0
+  index: -1
+star_1
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_2
+  rotate: false
+  xy: 204, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_3
+  rotate: false
+  xy: 406, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_4
+  rotate: false
+  xy: 608, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_5
+  rotate: false
+  xy: 810, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_6
+  rotate: false
+  xy: 1012, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_7
+  rotate: false
+  xy: 1214, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_8
+  rotate: false
+  xy: 1416, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+symbol-4
+  rotate: false
+  xy: 1618, 91
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1

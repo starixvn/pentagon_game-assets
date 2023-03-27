@@ -1,0 +1,111 @@
+
+symbol-5.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bottle
+  rotate: true
+  xy: 29, 38
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+fireloop1
+  rotate: false
+  xy: 224, 63
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+fireloop2
+  rotate: true
+  xy: 224, 11
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+fireloop3
+  rotate: false
+  xy: 276, 63
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+fireloop4
+  rotate: true
+  xy: 289, 11
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+fireloop5
+  rotate: false
+  xy: 328, 63
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+fireloop6
+  rotate: true
+  xy: 354, 11
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+fireloop7
+  rotate: false
+  xy: 380, 63
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+fireloop8
+  rotate: true
+  xy: 419, 11
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+fireloop9
+  rotate: false
+  xy: 432, 63
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+fx_star
+  rotate: false
+  xy: 52, 20
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+light_zoom
+  rotate: true
+  xy: 2, 14
+  size: 112, 25
+  orig: 112, 25
+  offset: 0, 0
+  index: -1
+nutchai
+  rotate: true
+  xy: 29, 2
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+pop
+  rotate: false
+  xy: 52, 7
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+water
+  rotate: true
+  xy: 156, 41
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
