@@ -6,92 +6,92 @@ filter: Linear,Linear
 repeat: none
 arrow
   rotate: false
-  xy: 289, 13
-  size: 25, 31
-  orig: 25, 31
+  xy: 293, 12
+  size: 27, 33
+  orig: 27, 33
   offset: 0, 0
   index: -1
 book
   rotate: false
-  xy: 1214, 111
+  xy: 1214, 112
   size: 120, 135
   orig: 120, 135
   offset: 0, 0
   index: -1
 la
   rotate: false
-  xy: 222, 6
-  size: 34, 38
-  orig: 34, 38
+  xy: 222, 5
+  size: 36, 40
+  orig: 36, 40
   offset: 0, 0
   index: 1
 la
   rotate: false
-  xy: 258, 8
-  size: 29, 36
-  orig: 29, 36
+  xy: 260, 7
+  size: 31, 38
+  orig: 31, 38
   offset: 0, 0
   index: 2
 mushroom
   rotate: false
-  xy: 1214, 33
-  size: 60, 76
-  orig: 60, 76
+  xy: 1214, 34
+  size: 61, 76
+  orig: 61, 76
   offset: 0, 0
   index: -1
 star
   rotate: false
-  xy: 2, 46
+  xy: 2, 47
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: 8
 star
   rotate: false
-  xy: 204, 46
+  xy: 204, 47
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: 3
 star
   rotate: false
-  xy: 406, 46
+  xy: 406, 47
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: 4
 star
   rotate: false
-  xy: 608, 46
+  xy: 608, 47
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: 5
 star
   rotate: false
-  xy: 810, 46
+  xy: 810, 47
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: 6
 star
   rotate: false
-  xy: 1012, 46
+  xy: 1012, 47
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: 7
 text-free
   rotate: false
-  xy: 110, 4
-  size: 110, 40
-  orig: 110, 40
+  xy: 2, 3
+  size: 111, 42
+  orig: 111, 42
   offset: 0, 0
   index: -1
 text-spin
   rotate: false
-  xy: 2, 2
-  size: 106, 42
-  orig: 106, 42
+  xy: 115, 2
+  size: 105, 43
+  orig: 105, 43
   offset: 0, 0
   index: -1
