@@ -1,0 +1,132 @@
+
+symbol-8.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bubble_large
+  rotate: false
+  xy: 2, 103
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+diamond
+  rotate: true
+  xy: 285, 8
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+eff_dust
+  rotate: false
+  xy: 2, 4
+  size: 129, 97
+  orig: 129, 97
+  offset: 0, 0
+  index: -1
+la_1
+  rotate: true
+  xy: 133, 3
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+la_2
+  rotate: false
+  xy: 209, 43
+  size: 16, 62
+  orig: 16, 62
+  offset: 0, 0
+  index: -1
+la_3
+  rotate: false
+  xy: 176, 40
+  size: 31, 65
+  orig: 31, 65
+  offset: 0, 0
+  index: -1
+la_duoi
+  rotate: false
+  xy: 265, 7
+  size: 18, 48
+  orig: 18, 48
+  offset: 0, 0
+  index: -1
+la_sau
+  rotate: true
+  xy: 133, 16
+  size: 85, 41
+  orig: 85, 41
+  offset: 0, 0
+  index: -1
+ngoc_1
+  rotate: false
+  xy: 332, 12
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+ngoc_2
+  rotate: false
+  xy: 332, 12
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+ngoc_3
+  rotate: false
+  xy: 353, 13
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+ngoc_5
+  rotate: false
+  xy: 373, 239
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+oc
+  rotate: true
+  xy: 154, 107
+  size: 146, 110
+  orig: 146, 110
+  offset: 0, 0
+  index: -1
+sanho_hong
+  rotate: true
+  xy: 176, 2
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+sanho_tim
+  rotate: true
+  xy: 220, 12
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 332, 33
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+text_en
+  rotate: true
+  xy: 266, 108
+  size: 145, 44
+  orig: 145, 44
+  offset: 0, 0
+  index: -1
+water_drop
+  rotate: true
+  xy: 227, 57
+  size: 48, 106
+  orig: 48, 106
+  offset: 0, 0
+  index: -1

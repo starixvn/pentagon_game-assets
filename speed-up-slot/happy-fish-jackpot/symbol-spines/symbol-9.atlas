@@ -1,0 +1,97 @@
+
+symbol-9.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bow
+  rotate: false
+  xy: 38, 2
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+bubble_large
+  rotate: false
+  xy: 2, 84
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+cayken
+  rotate: false
+  xy: 2, 4
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+congra_1
+  rotate: false
+  xy: 113, 46
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+congra_2
+  rotate: false
+  xy: 113, 68
+  size: 39, 14
+  orig: 39, 14
+  offset: 0, 0
+  index: -1
+congra_3
+  rotate: false
+  xy: 79, 14
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+cup
+  rotate: true
+  xy: 154, 17
+  size: 113, 76
+  orig: 113, 76
+  offset: 0, 0
+  index: -1
+otopus_body
+  rotate: false
+  xy: 154, 132
+  size: 134, 102
+  orig: 134, 102
+  offset: 0, 0
+  index: -1
+text_en
+  rotate: true
+  xy: 290, 102
+  size: 132, 51
+  orig: 132, 51
+  offset: 0, 0
+  index: -1
+tua_1
+  rotate: true
+  xy: 79, 46
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+tua_2
+  rotate: true
+  xy: 2, 40
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+tua_3
+  rotate: true
+  xy: 53, 39
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+tua_4
+  rotate: false
+  xy: 232, 74
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1

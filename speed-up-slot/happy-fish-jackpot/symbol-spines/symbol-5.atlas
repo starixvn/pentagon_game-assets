@@ -1,0 +1,132 @@
+
+symbol-5.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bubble
+  rotate: false
+  xy: 171, 30
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+bubble_large
+  rotate: false
+  xy: 2, 100
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+eye_l
+  rotate: false
+  xy: 171, 86
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+eye_l_close
+  rotate: false
+  xy: 171, 67
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+eye_r
+  rotate: false
+  xy: 170, 2
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+heart_1
+  rotate: false
+  xy: 145, 74
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+heart_2
+  rotate: false
+  xy: 145, 48
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+heart_3
+  rotate: false
+  xy: 145, 22
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+heart_4
+  rotate: false
+  xy: 154, 226
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+heart_5
+  rotate: false
+  xy: 154, 200
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+heart_6
+  rotate: false
+  xy: 154, 174
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+heart_7
+  rotate: false
+  xy: 154, 148
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+heart_8
+  rotate: false
+  xy: 154, 122
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+mounth_close
+  rotate: true
+  xy: 171, 43
+  size: 22, 7
+  orig: 22, 7
+  offset: 0, 0
+  index: -1
+mounth_open
+  rotate: false
+  xy: 154, 105
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+ray_body
+  rotate: false
+  xy: 2, 2
+  size: 141, 96
+  orig: 141, 96
+  offset: 0, 0
+  index: -1
+vay_l
+  rotate: false
+  xy: 177, 106
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+vay_r
+  rotate: false
+  xy: 145, 4
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1

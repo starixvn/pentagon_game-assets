@@ -1,0 +1,62 @@
+
+symbol-7.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bubble_large
+  rotate: false
+  xy: 2, 93
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+circle_inside
+  rotate: false
+  xy: 334, 198
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+circle_outside
+  rotate: false
+  xy: 162, 101
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+eff_dust
+  rotate: false
+  xy: 284, 2
+  size: 129, 97
+  orig: 129, 97
+  offset: 0, 0
+  index: -1
+halo
+  rotate: true
+  xy: 2, 4
+  size: 87, 75
+  orig: 87, 75
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 314, 131
+  size: 18, 120
+  orig: 18, 120
+  offset: 0, 0
+  index: -1
+text_en
+  rotate: false
+  xy: 161, 13
+  size: 121, 78
+  orig: 121, 78
+  offset: 0, 0
+  index: -1
+wheel_inside
+  rotate: false
+  xy: 79, 11
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

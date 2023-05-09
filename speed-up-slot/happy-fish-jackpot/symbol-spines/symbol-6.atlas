@@ -1,0 +1,104 @@
+
+symbol-6.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 7
+  rotate: true
+  xy: 105, 4
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 109, 23
+  size: 103, 102
+  orig: 103, 102
+  offset: 0, 0
+  index: -1
+bubble
+  rotate: false
+  xy: 117, 13
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+bubble_large
+  rotate: false
+  xy: 2, 21
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+crab_arm_l
+  rotate: true
+  xy: 51, 2
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+crab_arm_r
+  rotate: true
+  xy: 83, 4
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+crab_dkhand_r
+  rotate: false
+  xy: 66, 3
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+crab_leftfinger_l
+  rotate: false
+  xy: 246, 78
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+crab_leftfinger_r
+  rotate: false
+  xy: 239, 15
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+crab_rightfinger_l
+  rotate: false
+  xy: 213, 71
+  size: 31, 55
+  orig: 31, 55
+  offset: 0, 0
+  index: -1
+crab_rightfinger_r
+  rotate: true
+  xy: 2, 2
+  size: 17, 47
+  orig: 17, 47
+  offset: 0, 0
+  index: -1
+eye_open_l
+  rotate: false
+  xy: 275, 60
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+eye_open_r
+  rotate: false
+  xy: 269, 90
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+mounth
+  rotate: true
+  xy: 213, 14
+  size: 55, 24
+  orig: 55, 24
+  offset: 0, 0
+  index: -1
