@@ -1,0 +1,160 @@
+
+symbol-9.png
+size: 155,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg-reel-highlight
+  rotate: false
+  xy: 2, 796
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+bg-symbol
+  rotate: false
+  xy: 2, 908
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+blink-star
+  rotate: true
+  xy: 112, 7
+  size: 21, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+rainbow-1
+  rotate: false
+  xy: 2, 684
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+rainbow-2
+  rotate: false
+  xy: 2, 572
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+rainbow-3
+  rotate: false
+  xy: 2, 460
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+rainbow-4
+  rotate: false
+  xy: 2, 348
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+scatter-bg
+  rotate: false
+  xy: 2, 348
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+s9
+  rotate: false
+  xy: 2, 43
+  size: 95, 95
+  orig: 97, 97
+  offset: 1, 1
+  index: -1
+s9-outer
+  rotate: true
+  xy: 2, 237
+  size: 109, 110
+  orig: 112, 112
+  offset: 2, 1
+  index: -1
+scatter-text
+  rotate: true
+  xy: 114, 910
+  size: 108, 39
+  orig: 112, 42
+  offset: 2, 1
+  index: -1
+scatter-text-02
+  rotate: true
+  xy: 114, 800
+  size: 108, 39
+  orig: 120, 50
+  offset: 6, 5
+  index: -1
+scatter-text-03
+  rotate: true
+  xy: 114, 690
+  size: 108, 39
+  orig: 120, 50
+  offset: 6, 5
+  index: -1
+scatter-text-04
+  rotate: true
+  xy: 114, 580
+  size: 108, 39
+  orig: 120, 50
+  offset: 6, 5
+  index: -1
+scatter-text-05
+  rotate: true
+  xy: 114, 470
+  size: 108, 39
+  orig: 120, 50
+  offset: 6, 5
+  index: -1
+scatter-text-06
+  rotate: true
+  xy: 114, 360
+  size: 108, 39
+  orig: 120, 50
+  offset: 6, 5
+  index: -1
+scatter-text-07
+  rotate: true
+  xy: 114, 250
+  size: 108, 39
+  orig: 120, 50
+  offset: 6, 5
+  index: -1
+scatter-text-08
+  rotate: true
+  xy: 114, 140
+  size: 108, 39
+  orig: 120, 50
+  offset: 6, 5
+  index: -1
+scatter-text-09
+  rotate: false
+  xy: 2, 2
+  size: 108, 39
+  orig: 120, 50
+  offset: 6, 5
+  index: -1
+scatter-text-10
+  rotate: true
+  xy: 112, 30
+  size: 108, 39
+  orig: 120, 50
+  offset: 6, 5
+  index: -1
+scatter-text-11
+  rotate: false
+  xy: 2, 196
+  size: 108, 39
+  orig: 120, 50
+  offset: 6, 5
+  index: -1
+scatter-text-outer
+  rotate: false
+  xy: 2, 156
+  size: 108, 38
+  orig: 108, 39
+  offset: 0, 1
+  index: -1

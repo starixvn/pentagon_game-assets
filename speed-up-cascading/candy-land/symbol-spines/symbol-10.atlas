@@ -1,0 +1,132 @@
+
+symbol-10.png
+size: 416,1034
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg-s10
+  rotate: false
+  xy: 287, 206
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+blink-star
+  rotate: false
+  xy: 138, 566
+  size: 21, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+gray-1
+  rotate: false
+  xy: 2, 935
+  size: 300, 97
+  orig: 300, 106
+  offset: 0, 9
+  index: -1
+gray-3
+  rotate: false
+  xy: 219, 786
+  size: 147, 147
+  orig: 160, 160
+  offset: 6, 7
+  index: -1
+gray-hit-00
+  rotate: false
+  xy: 2, 2
+  size: 71, 40
+  orig: 200, 116
+  offset: 62, 39
+  index: -1
+gray-hit-01
+  rotate: true
+  xy: 287, 318
+  size: 164, 95
+  orig: 200, 116
+  offset: 17, 11
+  index: -1
+gray-hit-02
+  rotate: true
+  xy: 173, 199
+  size: 191, 112
+  orig: 200, 116
+  offset: 5, 3
+  index: -1
+gray-hit-03
+  rotate: true
+  xy: 168, 392
+  size: 194, 111
+  orig: 200, 116
+  offset: 5, 4
+  index: -1
+gray-hit-04
+  rotate: true
+  xy: 138, 588
+  size: 195, 112
+  orig: 200, 116
+  offset: 2, 2
+  index: -1
+multiplier_fire10
+  rotate: false
+  xy: 2, 785
+  size: 215, 148
+  orig: 306, 228
+  offset: 27, 57
+  index: -1
+multiplier_fire11
+  rotate: true
+  xy: 2, 212
+  size: 170, 169
+  orig: 306, 228
+  offset: 69, 36
+  index: -1
+multiplier_fire12
+  rotate: true
+  xy: 2, 563
+  size: 220, 134
+  orig: 306, 228
+  offset: 43, 45
+  index: -1
+multiplier_fire13
+  rotate: false
+  xy: 281, 484
+  size: 131, 133
+  orig: 306, 228
+  offset: 87, 47
+  index: -1
+multiplier_fire6
+  rotate: false
+  xy: 2, 44
+  size: 168, 166
+  orig: 306, 228
+  offset: 63, 39
+  index: -1
+multiplier_fire7
+  rotate: false
+  xy: 2, 384
+  size: 164, 177
+  orig: 306, 228
+  offset: 67, 31
+  index: -1
+multiplier_fire8
+  rotate: false
+  xy: 172, 37
+  size: 169, 160
+  orig: 306, 228
+  offset: 61, 41
+  index: -1
+multiplier_fire9
+  rotate: false
+  xy: 252, 619
+  size: 162, 165
+  orig: 306, 228
+  offset: 67, 48
+  index: -1
+s10
+  rotate: false
+  xy: 304, 940
+  size: 88, 92
+  orig: 90, 98
+  offset: 0, 3
+  index: -1
