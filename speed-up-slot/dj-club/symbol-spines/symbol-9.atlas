@@ -1,0 +1,55 @@
+
+symbol-9.png
+size: 351,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circle-A
+  rotate: false
+  xy: 154, 118
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+circle-B
+  rotate: true
+  xy: 154, 3
+  size: 113, 130
+  orig: 131, 131
+  offset: 9, 1
+  index: -1
+frameeffect/frameeffect-1
+  rotate: false
+  xy: 2, 109
+  size: 150, 140
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+symbol
+  rotate: false
+  xy: 2, 2
+  size: 131, 105
+  orig: 180, 180
+  offset: 18, 45
+  index: -1
+symbol-glitch
+  rotate: false
+  xy: 2, 2
+  size: 131, 105
+  orig: 180, 180
+  offset: 18, 45
+  index: -1
+text
+  rotate: true
+  xy: 287, 127
+  size: 122, 62
+  orig: 180, 180
+  offset: 27, 23
+  index: -1
+text-glitch
+  rotate: true
+  xy: 287, 3
+  size: 122, 62
+  orig: 180, 180
+  offset: 27, 23
+  index: -1

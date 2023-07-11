@@ -1,0 +1,27 @@
+
+symbol-6.png
+size: 384,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frameeffect/frameeffect-1
+  rotate: false
+  xy: 156, 6
+  size: 147, 135
+  orig: 180, 180
+  offset: 15, 20
+  index: -1
+symbol
+  rotate: true
+  xy: 305, 2
+  size: 139, 77
+  orig: 180, 180
+  offset: 23, 57
+  index: -1
+symbol-glitch
+  rotate: false
+  xy: 2, 2
+  size: 152, 139
+  orig: 180, 180
+  offset: 13, 18
+  index: -1

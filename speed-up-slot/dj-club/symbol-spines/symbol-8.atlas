@@ -1,0 +1,97 @@
+
+symbol-8.png
+size: 623,301
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circle-A
+  rotate: false
+  xy: 2, 26
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+circle-B
+  rotate: false
+  xy: 154, 169
+  size: 113, 130
+  orig: 131, 131
+  offset: 9, 1
+  index: -1
+frameeffect/frameeffect-1
+  rotate: false
+  xy: 2, 159
+  size: 150, 140
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+symbol
+  rotate: false
+  xy: 269, 178
+  size: 116, 121
+  orig: 180, 180
+  offset: 30, 34
+  index: -1
+symbol-sequense/symbol-1
+  rotate: false
+  xy: 269, 178
+  size: 116, 121
+  orig: 180, 180
+  offset: 30, 27
+  index: -1
+symbol-glitch
+  rotate: false
+  xy: 387, 178
+  size: 116, 121
+  orig: 180, 180
+  offset: 30, 34
+  index: -1
+symbol-sequense/symbol-11
+  rotate: true
+  xy: 499, 2
+  size: 116, 121
+  orig: 180, 180
+  offset: 30, 27
+  index: -1
+symbol-sequense/symbol-3
+  rotate: false
+  xy: 505, 178
+  size: 116, 121
+  orig: 180, 180
+  offset: 30, 27
+  index: -1
+symbol-sequense/symbol-5
+  rotate: false
+  xy: 135, 36
+  size: 116, 121
+  orig: 180, 180
+  offset: 30, 27
+  index: -1
+symbol-sequense/symbol-7
+  rotate: true
+  xy: 253, 2
+  size: 116, 121
+  orig: 180, 180
+  offset: 30, 27
+  index: -1
+symbol-sequense/symbol-9
+  rotate: true
+  xy: 376, 2
+  size: 116, 121
+  orig: 180, 180
+  offset: 30, 27
+  index: -1
+text
+  rotate: false
+  xy: 269, 120
+  size: 146, 56
+  orig: 180, 180
+  offset: 17, 23
+  index: -1
+text-glitch
+  rotate: false
+  xy: 417, 120
+  size: 146, 56
+  orig: 180, 180
+  offset: 17, 23
+  index: -1

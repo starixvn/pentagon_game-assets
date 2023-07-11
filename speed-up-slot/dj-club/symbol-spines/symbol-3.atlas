@@ -1,0 +1,55 @@
+
+symbol-3.png
+size: 413,231
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frameeffect/frameeffect-1
+  rotate: true
+  xy: 184, 5
+  size: 71, 76
+  orig: 90, 90
+  offset: 10, 7
+  index: -1
+frameeffect/frameeffect-11
+  rotate: false
+  xy: 340, 2
+  size: 71, 76
+  orig: 90, 90
+  offset: 10, 7
+  index: -1
+frameeffect/frameeffect-3
+  rotate: true
+  xy: 262, 5
+  size: 71, 76
+  orig: 90, 90
+  offset: 10, 7
+  index: -1
+frameeffect/frameeffect-5
+  rotate: false
+  xy: 327, 153
+  size: 71, 76
+  orig: 90, 90
+  offset: 10, 7
+  index: -1
+frameeffect/frameeffect-7
+  rotate: true
+  xy: 327, 80
+  size: 71, 76
+  orig: 90, 90
+  offset: 10, 7
+  index: -1
+symbol
+  rotate: false
+  xy: 184, 78
+  size: 141, 151
+  orig: 180, 180
+  offset: 21, 14
+  index: -1
+symbol-glitch
+  rotate: false
+  xy: 2, 49
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
