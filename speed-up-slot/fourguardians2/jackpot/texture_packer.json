@@ -9,7 +9,7 @@
           "options": {
             "params": ["--texture-format", "png"],
             "sheet_extension": "png",
-            "output_path": ["slot-jackpot"]
+            "output_path": ["jackpot-slot"]
           }
         }
       ]
