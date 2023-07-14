@@ -1,0 +1,34 @@
+
+symbol-7.png
+size: 200,257
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+symbol
+  rotate: false
+  xy: 2, 5
+  size: 128, 105
+  orig: 150, 150
+  offset: 20, 24
+  index: -1
+symbol-glitch
+  rotate: true
+  xy: 2, 112
+  size: 143, 118
+  orig: 150, 150
+  offset: 2, 13
+  index: -1
+text
+  rotate: true
+  xy: 132, 2
+  size: 120, 66
+  orig: 150, 150
+  offset: 15, 5
+  index: -1
+text-glitch
+  rotate: true
+  xy: 122, 124
+  size: 131, 65
+  orig: 150, 150
+  offset: 9, 5
+  index: -1
