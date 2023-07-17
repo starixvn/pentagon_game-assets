@@ -15,9 +15,9 @@
                 <key>spriteSourceSize</key>
                 <string>{189,20}</string>
                 <key>textureRect</key>
-                <string>{{3,198},{189,20}}</string>
+                <string>{{198,3},{189,20}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>icon-thong-bao.png</key>
             <dict>
@@ -45,9 +45,9 @@
                 <key>spriteSourceSize</key>
                 <string>{72,40}</string>
                 <key>textureRect</key>
-                <string>{{198,3},{72,40}}</string>
+                <string>{{3,198},{72,40}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>txt-jackpot_en.png</key>
             <dict>
@@ -60,54 +60,54 @@
                 <key>spriteSourceSize</key>
                 <string>{95,40}</string>
                 <key>textureRect</key>
-                <string>{{3,346},{95,30}}</string>
+                <string>{{77,198},{95,30}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>txt-jackpot_th.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,-2}</string>
+                <string>{0,-4}</string>
                 <key>spriteSize</key>
-                <string>{125,36}</string>
+                <string>{95,30}</string>
                 <key>spriteSourceSize</key>
-                <string>{127,40}</string>
+                <string>{95,40}</string>
                 <key>textureRect</key>
-                <string>{{194,219},{125,36}}</string>
+                <string>{{77,198},{95,30}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>txt-jackpot_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{-1,0}</string>
+                <string>{0,-4}</string>
                 <key>spriteSize</key>
-                <string>{69,38}</string>
+                <string>{95,30}</string>
                 <key>spriteSourceSize</key>
-                <string>{71,40}</string>
+                <string>{95,40}</string>
                 <key>textureRect</key>
-                <string>{{198,77},{69,38}}</string>
+                <string>{{77,198},{95,30}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>txt-jackpot_zh_tw.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,0}</string>
+                <string>{0,-4}</string>
                 <key>spriteSize</key>
-                <string>{69,38}</string>
+                <string>{95,30}</string>
                 <key>spriteSourceSize</key>
-                <string>{71,40}</string>
+                <string>{95,40}</string>
                 <key>textureRect</key>
-                <string>{{198,148},{69,38}}</string>
+                <string>{{77,198},{95,30}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
         </dict>
         <key>metadata</key>
@@ -121,9 +121,9 @@
             <key>realTextureFileName</key>
             <string>jackpot-winner-announcement.png</string>
             <key>size</key>
-            <string>{256,512}</string>
+            <string>{256,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:120c5b79a702de87ee610d310dc1985c:f7b5f943fab9fae621a6c8f09048d797:deca37fc1417ae9155e127874ec28d17$</string>
+            <string>$TexturePacker:SmartUpdate:89ce9351897963cba58e99bc462de07a:31ab23042b32a3ad43e67e7154d22191:deca37fc1417ae9155e127874ec28d17$</string>
             <key>textureFileName</key>
             <string>jackpot-winner-announcement.png</string>
         </dict>
