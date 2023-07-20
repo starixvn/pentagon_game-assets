@@ -1,0 +1,41 @@
+
+symbol-8.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flare
+  rotate: false
+  xy: 2, 3
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 2, 104
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 154, 128
+  size: 274, 126
+  orig: 274, 126
+  offset: 0, 0
+  index: -1
+logo-pink
+  rotate: true
+  xy: 154, 2
+  size: 124, 147
+  orig: 124, 147
+  offset: 0, 0
+  index: -1
+text-bonus
+  rotate: false
+  xy: 2, 57
+  size: 149, 45
+  orig: 149, 45
+  offset: 0, 0
+  index: -1

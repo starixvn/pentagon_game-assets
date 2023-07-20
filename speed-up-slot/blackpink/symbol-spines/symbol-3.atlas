@@ -1,0 +1,20 @@
+
+symbol-3.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flare
+  rotate: false
+  xy: 139, 69
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+symbol-3
+  rotate: false
+  xy: 2, 2
+  size: 135, 119
+  orig: 135, 119
+  offset: 0, 0
+  index: -1

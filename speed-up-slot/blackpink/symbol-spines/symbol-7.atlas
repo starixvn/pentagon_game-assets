@@ -1,0 +1,97 @@
+
+symbol-7.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flare
+  rotate: false
+  xy: 744, 83
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 2, 104
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ice_explode_particle_loop_00
+  rotate: false
+  xy: 240, 2
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+ice_explode_particle_loop_02
+  rotate: false
+  xy: 366, 2
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+ice_explode_particle_loop_04
+  rotate: false
+  xy: 430, 130
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+ice_explode_particle_loop_06
+  rotate: false
+  xy: 492, 4
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+ice_explode_particle_loop_08
+  rotate: false
+  xy: 556, 130
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+ice_explode_particle_loop_10
+  rotate: false
+  xy: 618, 4
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 154, 128
+  size: 274, 126
+  orig: 274, 126
+  offset: 0, 0
+  index: -1
+light-frame
+  rotate: false
+  xy: 116, 15
+  size: 122, 87
+  orig: 122, 87
+  offset: 0, 0
+  index: -1
+lightstick
+  rotate: true
+  xy: 2, 6
+  size: 96, 112
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+text-free
+  rotate: true
+  xy: 682, 137
+  size: 117, 50
+  orig: 117, 50
+  offset: 0, 0
+  index: -1
+text-spin
+  rotate: true
+  xy: 734, 137
+  size: 117, 50
+  orig: 117, 50
+  offset: 0, 0
+  index: -1

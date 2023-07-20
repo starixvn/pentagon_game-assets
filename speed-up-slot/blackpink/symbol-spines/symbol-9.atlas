@@ -1,0 +1,48 @@
+
+symbol-9.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flare
+  rotate: false
+  xy: 408, 2
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 113
+  size: 274, 126
+  orig: 274, 126
+  offset: 0, 0
+  index: -1
+singer
+  rotate: false
+  xy: 2, 4
+  size: 134, 107
+  orig: 134, 107
+  offset: 0, 0
+  index: -1
+stage
+  rotate: false
+  xy: 278, 56
+  size: 195, 183
+  orig: 195, 183
+  offset: 0, 0
+  index: -1
+stage-front
+  rotate: false
+  xy: 138, 25
+  size: 135, 86
+  orig: 135, 86
+  offset: 0, 0
+  index: -1
+text-wild
+  rotate: false
+  xy: 275, 9
+  size: 131, 45
+  orig: 131, 45
+  offset: 0, 0
+  index: -1
