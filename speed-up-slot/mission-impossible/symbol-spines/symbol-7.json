@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "rapDKyEupLc9cXuYqTxH+e8QrkI",
+	"hash": "YK4zSZHmEVfgvv+VPjvzL/2eFEs",
 	"spine": "3.8.99",
 	"x": -77.59,
 	"y": -75,
@@ -231,6 +231,19 @@
 			}
 		}
 	},
-	"idle": {}
+	"idle": {
+		"slots": {
+			"frameeffect": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"symbol-glitch2": {
+				"attachment": [
+					{ "name": "symbol-glitch" }
+				]
+			}
+		}
+	}
 }
 }

@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "5fOVib6EIa/a20C2LxHxk36OAtA",
+	"hash": "O4a+H3HjVFmnEPiIpBXPD0Q0dzQ",
 	"spine": "3.8.99",
 	"x": -74,
 	"y": -75,
@@ -79,12 +79,6 @@
 				]
 			},
 			"symbol": {
-				"translate": [
-					{ "curve": 0.25, "c3": 0.75 },
-					{ "time": 0.3333, "y": 15.58, "curve": 0.25, "c3": 0.75 },
-					{ "time": 0.4333, "y": -5.19, "curve": 0.25, "c3": 0.75 },
-					{ "time": 0.5 }
-				],
 				"scale": [
 					{ "curve": 0.25, "c3": 0.75 },
 					{ "time": 0.1667, "x": 0.8, "y": 0.8, "curve": 0.25, "c3": 0.75 },
@@ -94,12 +88,6 @@
 				]
 			},
 			"symbol-glitch": {
-				"translate": [
-					{ "curve": 0.25, "c3": 0.75 },
-					{ "time": 0.3333, "y": 15.58, "curve": 0.25, "c3": 0.75 },
-					{ "time": 0.4333, "y": -5.19, "curve": 0.25, "c3": 0.75 },
-					{ "time": 0.5 }
-				],
 				"scale": [
 					{ "curve": 0.25, "c3": 0.75 },
 					{ "time": 0.1667, "x": 0.8, "y": 0.8, "curve": 0.25, "c3": 0.75 },

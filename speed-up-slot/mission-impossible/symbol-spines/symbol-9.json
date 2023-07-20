@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "QajLGl3J3W4+YGlGdIZNib4eXWs",
+	"hash": "+TFit46Pt4ntmsmsZzxOtFd7gfM",
 	"spine": "3.8.99",
 	"x": -77.59,
 	"y": -75,
@@ -197,6 +197,14 @@
 			}
 		}
 	},
-	"idle": {}
+	"idle": {
+		"slots": {
+			"frameeffect": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	}
 }
 }
