@@ -7,15 +7,15 @@ repeat: none
 character
   rotate: false
   xy: 2, 280
-  size: 132, 158
-  orig: 132, 158
+  size: 173, 139
+  orig: 173, 139
   offset: 0, 0
   index: -1
 frame
-  rotate: true
-  xy: 136, 297
-  size: 141, 123
-  orig: 141, 123
+  rotate: false
+  xy: 177, 269
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1
 frame-border
@@ -27,42 +27,42 @@ frame-border
   index: -1
 ice_explode_particle_loop_00
   rotate: false
-  xy: 2, 2
+  xy: 154, 143
   size: 124, 124
   orig: 124, 124
   offset: 0, 0
   index: -1
 ice_explode_particle_loop_02
   rotate: false
-  xy: 128, 2
+  xy: 154, 17
   size: 124, 124
   orig: 124, 124
   offset: 0, 0
   index: -1
 ice_explode_particle_loop_04
   rotate: false
-  xy: 154, 171
+  xy: 2, 2
   size: 124, 124
   orig: 124, 124
   offset: 0, 0
   index: -1
 ice_explode_particle_loop_06
   rotate: false
-  xy: 261, 314
+  xy: 280, 143
   size: 124, 124
   orig: 124, 124
   offset: 0, 0
   index: -1
 ice_explode_particle_loop_08
   rotate: false
-  xy: 280, 188
+  xy: 329, 295
   size: 124, 124
   orig: 124, 124
   offset: 0, 0
   index: -1
 ice_explode_particle_loop_10
   rotate: false
-  xy: 280, 62
+  xy: 280, 17
   size: 124, 124
   orig: 124, 124
   offset: 0, 0

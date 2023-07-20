@@ -6,21 +6,21 @@ filter: Linear,Linear
 repeat: none
 character
   rotate: false
-  xy: 154, 270
-  size: 127, 133
-  orig: 127, 133
+  xy: 154, 291
+  size: 111, 139
+  orig: 111, 139
   offset: 0, 0
   index: -1
 frame
   rotate: false
-  xy: 2, 128
-  size: 141, 123
-  orig: 141, 123
+  xy: 2, 280
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1
 frame-border
   rotate: false
-  xy: 2, 253
+  xy: 2, 128
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
@@ -34,35 +34,35 @@ ice_explode_particle_loop_00
   index: -1
 ice_explode_particle_loop_02
   rotate: false
-  xy: 283, 279
+  xy: 267, 306
   size: 124, 124
   orig: 124, 124
   offset: 0, 0
   index: -1
 ice_explode_particle_loop_04
   rotate: false
-  xy: 154, 144
+  xy: 154, 165
   size: 124, 124
   orig: 124, 124
   offset: 0, 0
   index: -1
 ice_explode_particle_loop_06
   rotate: false
-  xy: 128, 2
+  xy: 280, 180
   size: 124, 124
   orig: 124, 124
   offset: 0, 0
   index: -1
 ice_explode_particle_loop_08
   rotate: false
-  xy: 254, 18
+  xy: 154, 39
   size: 124, 124
   orig: 124, 124
   offset: 0, 0
   index: -1
 ice_explode_particle_loop_10
   rotate: false
-  xy: 280, 144
+  xy: 280, 54
   size: 124, 124
   orig: 124, 124
   offset: 0, 0
