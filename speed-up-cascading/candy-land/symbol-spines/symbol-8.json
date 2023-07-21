@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "eO6EUt23ciARplNVoq4XU6p8jEg", "spine": "3.8.99" },
+"skeleton": { "hash": "E9W6oenA/v4jTZNKNjoQ7RxHaWA", "spine": "3.8.99" },
 "bones": [
 	{ "name": "root" },
 	{ "name": "symbol-8", "parent": "root" },
@@ -12,11 +12,9 @@
 	{ "name": "light", "parent": "symbol-8" },
 	{ "name": "s8-outer", "parent": "s8", "x": -0.04, "y": -27.26 },
 	{ "name": "blink-star", "parent": "s8", "x": -5.69, "y": -0.24 },
-	{ "name": "blink-star2", "parent": "s8", "x": -5.69, "y": -0.24 },
-	{ "name": "bg-symbol", "parent": "symbol-8" }
+	{ "name": "blink-star2", "parent": "s8", "x": -5.69, "y": -0.24 }
 ],
 "slots": [
-	{ "name": "bg-symbol", "bone": "bg-symbol" },
 	{ "name": "bg-reel-highlight", "bone": "bg-reel-highlight" },
 	{ "name": "explosion-star-01", "bone": "explosion-star" },
 	{ "name": "light", "bone": "light" },
@@ -33,9 +31,6 @@
 		"attachments": {
 			"bg-reel-highlight": {
 				"bg-reel-highlight": { "width": 110, "height": 110 }
-			},
-			"bg-symbol": {
-				"bg-symbol": { "width": 110, "height": 110 }
 			},
 			"blink-star": {
 				"blink-star": { "x": 0.83, "y": -0.76, "width": 22, "height": 20 }
@@ -306,11 +301,6 @@
 	},
 	"idle": {
 		"slots": {
-			"bg-symbol": {
-				"attachment": [
-					{ "name": "bg-symbol" }
-				]
-			},
 			"s8": {
 				"attachment": [
 					{ "name": "s8" }

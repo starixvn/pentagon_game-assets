@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "1YgeiIOIpAPRypRPcgLEdb2tmdc", "spine": "3.8.99" },
+"skeleton": { "hash": "XukSaY2NHGcmZjlPW0JWt5xP/Bo", "spine": "3.8.99" },
 "bones": [
 	{ "name": "root" },
 	{ "name": "symbol-1", "parent": "root" },
@@ -11,8 +11,7 @@
 	{ "name": "bg-reel-highlight", "parent": "symbol-1" },
 	{ "name": "light", "parent": "symbol-1" },
 	{ "name": "s1-outer", "parent": "s1", "x": -0.04, "y": -27.26 },
-	{ "name": "blink-star", "parent": "s1", "x": 20.37, "y": 8.74 },
-	{ "name": "bg-symbol", "parent": "symbol-1" }
+	{ "name": "blink-star", "parent": "s1", "x": 20.37, "y": 8.74 }
 ],
 "slots": [
 	{ "name": "bg-reel-highlight", "bone": "bg-reel-highlight" },
@@ -22,8 +21,7 @@
 	{ "name": "vfx-s0", "bone": "explosion-candy-s0" },
 	{ "name": "border-changecolor", "bone": "border-changecolor" },
 	{ "name": "s1-outer", "bone": "s1-outer", "blend": "additive" },
-	{ "name": "blink-star", "bone": "blink-star" },
-	{ "name": "bg-symbol", "bone": "bg-symbol" }
+	{ "name": "blink-star", "bone": "blink-star" }
 ],
 "skins": [
 	{
@@ -31,9 +29,6 @@
 		"attachments": {
 			"bg-reel-highlight": {
 				"bg-reel-highlight": { "width": 110, "height": 110 }
-			},
-			"bg-symbol": {
-				"bg-symbol": { "width": 110, "height": 110 }
 			},
 			"blink-star": {
 				"blink-star": { "x": 0.83, "y": -0.76, "width": 22, "height": 20 }
@@ -272,24 +267,12 @@
 	},
 	"idle": {
 		"slots": {
-			"bg-symbol": {
-				"attachment": [
-					{ "name": "bg-symbol" }
-				]
-			},
 			"s1": {
 				"attachment": [
 					{ "name": "s1" }
 				]
 			}
-		},
-		"drawOrder": [
-			{
-				"offsets": [
-					{ "slot": "bg-symbol", "offset": -8 }
-				]
-			}
-		]
+		}
 	}
 }
 }

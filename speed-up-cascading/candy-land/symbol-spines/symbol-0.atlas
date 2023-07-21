@@ -1,17 +1,10 @@
 
 symbol-0.png
-size: 662,526
+size: 634,526
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 bg-reel-highlight
-  rotate: false
-  xy: 304, 202
-  size: 110, 110
-  orig: 110, 110
-  offset: 0, 0
-  index: -1
-bg-symbol
   rotate: false
   xy: 233, 87
   size: 110, 110
@@ -26,8 +19,8 @@ blink-star
   offset: 0, 0
   index: -1
 explosion-star-01
-  rotate: false
-  xy: 575, 337
+  rotate: true
+  xy: 486, 338
   size: 74, 75
   orig: 142, 144
   offset: 35, 31
@@ -55,7 +48,7 @@ explosion-star-04
   index: -1
 explosion-star-05
   rotate: true
-  xy: 528, 215
+  xy: 457, 94
   size: 106, 104
   orig: 142, 144
   offset: 19, 20
@@ -83,42 +76,42 @@ light
   index: -1
 rainbow-1
   rotate: false
-  xy: 410, 414
+  xy: 304, 202
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 rainbow-2
   rotate: false
-  xy: 345, 90
+  xy: 410, 414
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 rainbow-3
   rotate: false
-  xy: 416, 202
+  xy: 522, 414
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 rainbow-4
   rotate: false
-  xy: 457, 90
+  xy: 345, 90
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 s0
   rotate: false
-  xy: 508, 12
+  xy: 487, 260
   size: 74, 76
   orig: 74, 77
   offset: 0, 1
   index: -1
 s0-outer
   rotate: false
-  xy: 486, 323
+  xy: 508, 3
   size: 87, 89
   orig: 88, 91
   offset: 0, 1
@@ -188,28 +181,28 @@ vfx-s0-08
   index: -1
 vfx-s0-09
   rotate: false
-  xy: 522, 414
+  xy: 416, 202
   size: 69, 110
   orig: 175, 197
   offset: 50, 50
   index: -1
 vfx-s0-10
   rotate: false
-  xy: 593, 419
+  xy: 563, 307
   size: 67, 105
   orig: 175, 197
   offset: 52, 51
   index: -1
 vfx-s0-11
   rotate: false
-  xy: 569, 108
+  xy: 563, 200
   size: 67, 105
   orig: 175, 197
   offset: 52, 52
   index: -1
 vfx-s0-12
   rotate: false
-  xy: 584, 7
+  xy: 563, 99
   size: 65, 99
   orig: 175, 197
   offset: 53, 55

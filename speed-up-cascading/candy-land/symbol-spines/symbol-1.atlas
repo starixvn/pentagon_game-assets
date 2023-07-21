@@ -1,229 +1,222 @@
 
 symbol-1.png
-size: 346,1027
+size: 653,524
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 bg-reel-highlight
   rotate: false
-  xy: 2, 136
-  size: 110, 110
-  orig: 110, 110
-  offset: 0, 0
-  index: -1
-bg-symbol
-  rotate: false
-  xy: 2, 248
+  xy: 229, 297
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 blink-star
   rotate: false
-  xy: 2, 2
+  xy: 578, 37
   size: 21, 20
   orig: 22, 20
   offset: 0, 0
   index: -1
 explosion-star-01
   rotate: false
-  xy: 268, 194
+  xy: 373, 38
   size: 74, 75
   orig: 142, 144
   offset: 35, 31
   index: -1
 explosion-star-02
-  rotate: true
-  xy: 267, 271
+  rotate: false
+  xy: 293, 36
   size: 78, 77
   orig: 142, 144
   offset: 32, 31
   index: -1
 explosion-star-03
-  rotate: true
-  xy: 184, 157
+  rotate: false
+  xy: 208, 34
   size: 83, 82
   orig: 142, 144
   offset: 30, 31
   index: -1
 explosion-star-04
-  rotate: false
-  xy: 229, 712
+  rotate: true
+  xy: 565, 297
   size: 110, 86
   orig: 142, 144
   offset: 27, 22
   index: -1
 explosion-star-05
   rotate: false
-  xy: 117, 415
+  xy: 229, 118
   size: 106, 104
   orig: 142, 144
   offset: 19, 20
   index: -1
 explosion-star-06
   rotate: false
-  xy: 2, 722
+  xy: 2, 219
   size: 114, 121
   orig: 142, 144
   offset: 10, 9
   index: -1
 explosion-star-07
-  rotate: true
-  xy: 2, 479
+  rotate: false
+  xy: 341, 409
   size: 119, 113
   orig: 142, 144
   offset: 6, 22
   index: -1
 light
   rotate: false
-  xy: 2, 845
+  xy: 2, 342
   size: 213, 180
   orig: 232, 196
   offset: 10, 8
   index: -1
 rainbow-1
   rotate: false
-  xy: 2, 24
+  xy: 341, 297
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 rainbow-2
   rotate: false
-  xy: 229, 800
+  xy: 453, 297
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 rainbow-3
   rotate: false
-  xy: 117, 521
+  xy: 343, 185
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 rainbow-4
   rotate: false
-  xy: 229, 600
+  xy: 455, 185
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 s1
-  rotate: true
-  xy: 268, 126
+  rotate: false
+  xy: 449, 38
   size: 66, 76
   orig: 68, 79
   offset: 1, 0
   index: -1
 s1-outer
   rotate: true
-  xy: 229, 351
+  xy: 117, 48
   size: 80, 89
   orig: 82, 91
   offset: 1, 1
   index: -1
 vfx-s0-00
   rotate: true
-  xy: 248, 76
+  xy: 517, 2
   size: 48, 59
   orig: 175, 197
   offset: 61, 70
   index: -1
 vfx-s0-01
   rotate: false
-  xy: 114, 251
+  xy: 567, 204
   size: 83, 91
   orig: 175, 197
   offset: 52, 54
   index: -1
 vfx-s0-02
   rotate: true
-  xy: 229, 506
+  xy: 2, 3
   size: 92, 105
   orig: 175, 197
   offset: 48, 50
   index: -1
 vfx-s0-03
   rotate: true
-  xy: 118, 633
+  xy: 118, 130
   size: 97, 109
   orig: 175, 197
   offset: 43, 49
   index: -1
 vfx-s0-04
   rotate: false
-  xy: 118, 732
+  xy: 118, 229
   size: 109, 111
   orig: 175, 197
   offset: 38, 49
   index: -1
 vfx-s0-05
-  rotate: true
-  xy: 2, 360
+  rotate: false
+  xy: 462, 409
   size: 117, 113
   orig: 175, 197
   offset: 36, 49
   index: -1
 vfx-s0-06
   rotate: false
-  xy: 217, 912
+  xy: 217, 409
   size: 122, 113
   orig: 175, 197
   offset: 35, 49
   index: -1
 vfx-s0-07
   rotate: true
-  xy: 2, 600
+  xy: 2, 97
   size: 120, 113
   orig: 175, 197
   offset: 36, 49
   index: -1
 vfx-s0-08
   rotate: true
-  xy: 225, 433
+  xy: 229, 224
   size: 71, 112
   orig: 175, 197
   offset: 49, 49
   index: -1
 vfx-s0-09
-  rotate: true
-  xy: 117, 344
+  rotate: false
+  xy: 581, 412
   size: 69, 110
   orig: 175, 197
   offset: 50, 50
   index: -1
 vfx-s0-10
-  rotate: false
-  xy: 114, 144
+  rotate: true
+  xy: 337, 115
   size: 68, 105
   orig: 175, 197
   offset: 51, 51
   index: -1
 vfx-s0-11
-  rotate: false
-  xy: 114, 37
+  rotate: true
+  xy: 444, 116
   size: 67, 105
   orig: 175, 197
   offset: 52, 52
   index: -1
 vfx-s0-12
-  rotate: false
-  xy: 199, 242
+  rotate: true
+  xy: 551, 117
   size: 66, 100
   orig: 175, 197
   offset: 52, 54
   index: -1
 vfx-s0-13
-  rotate: false
-  xy: 184, 97
+  rotate: true
+  xy: 517, 52
   size: 62, 58
   orig: 175, 197
   offset: 54, 57
   index: -1
 vfx-s0-14
   rotate: false
-  xy: 183, 39
+  xy: 577, 59
   size: 59, 56
   orig: 175, 197
   offset: 54, 59

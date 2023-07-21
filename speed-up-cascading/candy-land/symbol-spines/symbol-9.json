@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "mLHJxS3stRpTBMXUojQV2Ye3Wv4", "spine": "3.8.99", "x": -60.16, "y": -58.4, "width": 120, "height": 104.9 },
+"skeleton": { "hash": "uY3LyepB2mDHpKulXp9tIIGboXs", "spine": "3.8.99", "x": -60.16, "y": -58.4, "width": 120, "height": 104.9 },
 "bones": [
 	{ "name": "root" },
 	{ "name": "symbol-9", "parent": "root" },
@@ -20,11 +20,9 @@
 	{ "name": "blink-star9", "parent": "s9", "x": 28.79, "y": -0.15, "scaleX": 0.8, "scaleY": 0.8 },
 	{ "name": "blink-star10", "parent": "s9", "x": 28.79, "y": -0.15, "scaleX": 0.6, "scaleY": 0.6 },
 	{ "name": "blink-star11", "parent": "s9", "x": -44.88, "y": -0.15 },
-	{ "name": "blink-star12", "parent": "s9", "x": -44.88, "y": -0.15 },
-	{ "name": "bg-symbol", "parent": "symbol-9" }
+	{ "name": "blink-star12", "parent": "s9", "x": -44.88, "y": -0.15 }
 ],
 "slots": [
-	{ "name": "bg-symbol", "bone": "bg-symbol" },
 	{ "name": "bg-reel-highlight", "bone": "bg-reel-highlight" },
 	{ "name": "scatter-bg", "bone": "bg-reel-highlight" },
 	{ "name": "s9", "bone": "s9", "attachment": "s9" },
@@ -50,9 +48,6 @@
 		"attachments": {
 			"bg-reel-highlight": {
 				"bg-reel-highlight": { "width": 110, "height": 110 }
-			},
-			"bg-symbol": {
-				"bg-symbol": { "width": 110, "height": 110 }
 			},
 			"blink-star": {
 				"blink-star": { "x": 0.83, "y": -0.76, "width": 22, "height": 20 }
@@ -374,11 +369,6 @@
 	},
 	"idle": {
 		"slots": {
-			"bg-symbol": {
-				"attachment": [
-					{ "name": "bg-symbol" }
-				]
-			},
 			"blink-star4": {
 				"color": [
 					{ "time": 0.3333, "color": "ffffff00", "curve": 0.635, "c2": 0.23, "c3": 0.709, "c4": 0.47 },

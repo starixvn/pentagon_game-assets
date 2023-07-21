@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "6+JCXCzMDpq07Tgvh47fLytfSao", "spine": "3.8.99" },
+"skeleton": { "hash": "iHdm/XwZH6waVkX8bgxtXuLpEX0", "spine": "3.8.99" },
 "bones": [
 	{ "name": "root" },
 	{ "name": "symbol-0", "parent": "root" },
@@ -11,11 +11,9 @@
 	{ "name": "bg-reel-highlight", "parent": "symbol-0" },
 	{ "name": "light", "parent": "symbol-0" },
 	{ "name": "s0-outer", "parent": "s0", "y": 0.41 },
-	{ "name": "blink-star", "parent": "s0", "x": 6.14, "y": 18.36 },
-	{ "name": "bg-symbol", "parent": "symbol-0" }
+	{ "name": "blink-star", "parent": "s0", "x": 6.14, "y": 18.36 }
 ],
 "slots": [
-	{ "name": "bg-symbol", "bone": "bg-symbol" },
 	{ "name": "bg-reel-highlight", "bone": "bg-reel-highlight" },
 	{ "name": "explosion-star-01", "bone": "explosion-star" },
 	{ "name": "light", "bone": "light" },
@@ -31,9 +29,6 @@
 		"attachments": {
 			"bg-reel-highlight": {
 				"bg-reel-highlight": { "width": 110, "height": 110 }
-			},
-			"bg-symbol": {
-				"bg-symbol": { "width": 110, "height": 110 }
 			},
 			"blink-star": {
 				"blink-star": { "x": 0.83, "y": -0.76, "width": 22, "height": 20 }
@@ -273,11 +268,6 @@
 	},
 	"idle": {
 		"slots": {
-			"bg-symbol": {
-				"attachment": [
-					{ "name": "bg-symbol" }
-				]
-			},
 			"s0": {
 				"attachment": [
 					{ "name": "s0" }

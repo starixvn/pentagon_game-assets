@@ -1,6 +1,6 @@
 
 symbol-8.png
-size: 700,524
+size: 653,524
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -11,51 +11,44 @@ bg-reel-highlight
   orig: 110, 110
   offset: 0, 0
   index: -1
-bg-symbol
-  rotate: false
-  xy: 581, 412
-  size: 110, 110
-  orig: 110, 110
-  offset: 0, 0
-  index: -1
 blink-star
   rotate: false
-  xy: 677, 390
+  xy: 171, 32
   size: 21, 20
   orig: 22, 20
   offset: 0, 0
   index: -1
 explosion-star-01
   rotate: false
-  xy: 568, 114
+  xy: 485, 39
   size: 74, 75
   orig: 142, 144
   offset: 35, 31
   index: -1
 explosion-star-02
   rotate: true
-  xy: 489, 36
+  xy: 406, 35
   size: 78, 77
   orig: 142, 144
   offset: 32, 31
   index: -1
 explosion-star-03
-  rotate: true
-  xy: 320, 39
+  rotate: false
+  xy: 568, 120
   size: 83, 82
   orig: 142, 144
   offset: 30, 31
   index: -1
 explosion-star-04
-  rotate: false
-  xy: 344, 209
+  rotate: true
+  xy: 565, 297
   size: 110, 86
   orig: 142, 144
   offset: 27, 22
   index: -1
 explosion-star-05
   rotate: false
-  xy: 568, 191
+  xy: 118, 123
   size: 106, 104
   orig: 142, 144
   offset: 19, 20
@@ -97,42 +90,42 @@ rainbow-2
   index: -1
 rainbow-3
   rotate: false
-  xy: 456, 185
+  xy: 344, 185
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 rainbow-4
   rotate: false
-  xy: 565, 297
+  xy: 456, 185
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 s8
-  rotate: true
-  xy: 404, 32
+  rotate: false
+  xy: 322, 30
   size: 82, 83
   orig: 85, 85
   offset: 2, 1
   index: -1
 s8-outer
   rotate: false
-  xy: 224, 28
+  xy: 226, 28
   size: 94, 94
   orig: 97, 97
   offset: 2, 2
   index: -1
 vfx-s0-00
-  rotate: false
-  xy: 644, 130
+  rotate: true
+  xy: 110, 4
   size: 48, 59
   orig: 175, 197
   offset: 61, 70
   index: -1
 vfx-s0-01
-  rotate: true
-  xy: 110, 5
+  rotate: false
+  xy: 568, 204
   size: 83, 91
   orig: 175, 197
   offset: 52, 54
@@ -146,7 +139,7 @@ vfx-s0-02
   index: -1
 vfx-s0-03
   rotate: true
-  xy: 225, 124
+  xy: 226, 124
   size: 98, 110
   orig: 175, 197
   offset: 43, 49
@@ -187,43 +180,43 @@ vfx-s0-08
   offset: 49, 49
   index: -1
 vfx-s0-09
-  rotate: true
-  xy: 337, 138
+  rotate: false
+  xy: 581, 412
   size: 69, 110
   orig: 175, 197
   offset: 50, 50
   index: -1
 vfx-s0-10
   rotate: true
-  xy: 118, 159
+  xy: 338, 115
   size: 68, 105
   orig: 175, 197
   offset: 51, 51
   index: -1
 vfx-s0-11
   rotate: true
-  xy: 117, 90
+  xy: 445, 116
   size: 67, 105
   orig: 175, 197
   offset: 52, 52
   index: -1
 vfx-s0-12
   rotate: true
-  xy: 449, 116
+  xy: 117, 54
   size: 67, 100
   orig: 175, 197
   offset: 52, 54
   index: -1
 vfx-s0-13
   rotate: false
-  xy: 568, 54
+  xy: 561, 60
   size: 62, 58
   orig: 175, 197
   offset: 54, 57
   index: -1
 vfx-s0-14
-  rotate: true
-  xy: 632, 52
+  rotate: false
+  xy: 561, 2
   size: 60, 56
   orig: 175, 197
   offset: 54, 59
