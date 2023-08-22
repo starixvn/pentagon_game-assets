@@ -64,6 +64,21 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>txt-jackpot_id.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-4}</string>
+                <key>spriteSize</key>
+                <string>{95,30}</string>
+                <key>spriteSourceSize</key>
+                <string>{95,40}</string>
+                <key>textureRect</key>
+                <string>{{77,198},{95,30}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>txt-jackpot_th.png</key>
             <dict>
                 <key>aliases</key>
@@ -123,7 +138,7 @@
             <key>size</key>
             <string>{256,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:89ce9351897963cba58e99bc462de07a:31ab23042b32a3ad43e67e7154d22191:deca37fc1417ae9155e127874ec28d17$</string>
+            <string>$TexturePacker:SmartUpdate:b20e6ec321002d6daa2ea69e4f3ca02a:efb3f72fac5f043d7703d6d11d45686a:deca37fc1417ae9155e127874ec28d17$</string>
             <key>textureFileName</key>
             <string>jackpot-winner-announcement.png</string>
         </dict>
