@@ -1,0 +1,20 @@
+
+symbol-5.png
+size: 238,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+symbol-5
+  rotate: true
+  xy: 2, 7
+  size: 145, 140
+  orig: 150, 150
+  offset: 3, 2
+  index: -1
+symbol-5-glow
+  rotate: true
+  xy: 144, 2
+  size: 150, 92
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

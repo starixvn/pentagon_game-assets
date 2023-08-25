@@ -1,0 +1,41 @@
+
+symbol-7.png
+size: 146,496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+symbol-10-glow
+  rotate: false
+  xy: 2, 284
+  size: 142, 110
+  orig: 150, 150
+  offset: 4, 4
+  index: -1
+symbol-7
+  rotate: false
+  xy: 2, 143
+  size: 139, 139
+  orig: 150, 150
+  offset: 2, 8
+  index: -1
+symbol-7-white
+  rotate: false
+  xy: 2, 2
+  size: 139, 139
+  orig: 150, 150
+  offset: 2, 8
+  index: -1
+text-freespin1
+  rotate: false
+  xy: 2, 396
+  size: 102, 49
+  orig: 150, 150
+  offset: 7, 32
+  index: -1
+text-freespin2
+  rotate: false
+  xy: 2, 447
+  size: 95, 47
+  orig: 150, 150
+  offset: 50, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+symbol-10-jackpot.png
+size: 299,226
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+symbol-10-jackpot
+  rotate: false
+  xy: 2, 74
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+symbol-10-jackpot-white
+  rotate: true
+  xy: 154, 83
+  size: 141, 137
+  orig: 150, 150
+  offset: 7, 0
+  index: -1
+symbol-6-glow
+  rotate: false
+  xy: 154, 5
+  size: 143, 76
+  orig: 150, 150
+  offset: 3, 0
+  index: -1
+text-jackpot
+  rotate: false
+  xy: 2, 38
+  size: 150, 34
+  orig: 150, 150
+  offset: 0, 9
+  index: -1
+text-jackpot-white
+  rotate: false
+  xy: 2, 2
+  size: 150, 34
+  orig: 150, 150
+  offset: 0, 9
+  index: -1

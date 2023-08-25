@@ -1,0 +1,41 @@
+
+symbol-10.jackpot.vi-VN.png
+size: 487,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+symbol-10-jackpot
+  rotate: false
+  xy: 2, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+symbol-10-jackpot-white
+  rotate: true
+  xy: 154, 11
+  size: 141, 137
+  orig: 150, 150
+  offset: 7, 0
+  index: -1
+symbol-6-glow
+  rotate: true
+  xy: 293, 9
+  size: 143, 76
+  orig: 150, 150
+  offset: 3, 0
+  index: -1
+text-jackpot-VN
+  rotate: true
+  xy: 371, 30
+  size: 122, 56
+  orig: 150, 150
+  offset: 14, 1
+  index: -1
+text-jackpot-VN-white
+  rotate: true
+  xy: 429, 30
+  size: 122, 56
+  orig: 150, 150
+  offset: 14, 1
+  index: -1

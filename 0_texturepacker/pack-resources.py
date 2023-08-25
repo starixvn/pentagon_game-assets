@@ -8,7 +8,7 @@ if __name__ == '__main__':
     current_dir = os.path.dirname(os.path.realpath(__file__))
     project_dir = os.path.join(current_dir, '..')
 
-    images_dir = "speed-up-cascading\shared"
+    images_dir = "speed-up-slot/transformers/jackpot-pool"
 
     # Pack.
     packer_path = os.path.join(

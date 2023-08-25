@@ -1,0 +1,20 @@
+
+symbol-10.png
+size: 220,150
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+symbol-6
+  rotate: false
+  xy: 2, 2
+  size: 138, 146
+  orig: 150, 150
+  offset: 4, 2
+  index: -1
+symbol-6-glow
+  rotate: true
+  xy: 142, 5
+  size: 143, 76
+  orig: 150, 150
+  offset: 3, 0
+  index: -1
