@@ -1,34 +1,34 @@
 
 symbol-8.png
-size: 473,141
+size: 418,146
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-symbol-8
-  rotate: false
-  xy: 153, 14
-  size: 126, 125
-  orig: 150, 150
-  offset: 11, 21
-  index: -1
-symbol-8-glow
+symbol-9
   rotate: true
   xy: 2, 2
-  size: 137, 149
+  size: 142, 131
   orig: 150, 150
-  offset: 7, 1
+  offset: 5, 9
   index: -1
-symbol-8-white
+symbol-9-glow
   rotate: false
-  xy: 281, 14
-  size: 126, 125
+  xy: 268, 58
+  size: 146, 86
   orig: 150, 150
-  offset: 11, 21
+  offset: 4, 6
   index: -1
-text-wild
+symbol-9-white
   rotate: true
-  xy: 409, 8
-  size: 131, 62
+  xy: 135, 2
+  size: 142, 131
   orig: 150, 150
-  offset: 8, 0
+  offset: 5, 9
+  index: -1
+text-bonus
+  rotate: false
+  xy: 268, 3
+  size: 148, 53
+  orig: 150, 150
+  offset: 2, 0
   index: -1

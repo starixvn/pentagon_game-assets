@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "z2xAH7UmItopOE4rkqJXO6/44rU", "spine": "3.8.99", "x": -75.93, "y": -75.15, "width": 151.86, "height": 150.3 },
+"skeleton": { "hash": "vWCxiKi0OS+yxheL+wOJayYkLrU", "spine": "3.8.99", "x": -75.93, "y": -75.15, "width": 151.86, "height": 150.3 },
 "bones": [
 	{ "name": "root" },
 	{ "name": "character", "parent": "root" },
@@ -15,42 +15,42 @@
 ],
 "slots": [
 	{ "name": "frameeffect", "bone": "frameeffect", "blend": "additive" },
-	{ "name": "glow", "bone": "glow", "attachment": "symbol-9-glow", "blend": "additive" },
-	{ "name": "glow2", "bone": "glow2", "attachment": "symbol-9-glow", "blend": "additive" },
-	{ "name": "glow3", "bone": "glow3", "attachment": "symbol-9-glow", "blend": "additive" },
-	{ "name": "symbol", "bone": "symbol", "attachment": "symbol-9" },
-	{ "name": "symbol-white", "bone": "symbol-white", "attachment": "symbol-9-white" },
-	{ "name": "symbol-glitch", "bone": "symbol-glitch", "attachment": "symbol-9", "blend": "additive" },
-	{ "name": "text", "bone": "text", "attachment": "text-bonus" },
-	{ "name": "text2", "bone": "text2", "attachment": "text-bonus", "blend": "additive" }
+	{ "name": "glow", "bone": "glow", "attachment": "symbol-8-glow", "blend": "additive" },
+	{ "name": "glow2", "bone": "glow2", "attachment": "symbol-8-glow", "blend": "additive" },
+	{ "name": "glow3", "bone": "glow3", "attachment": "symbol-8-glow", "blend": "additive" },
+	{ "name": "symbol", "bone": "symbol", "attachment": "symbol-8" },
+	{ "name": "symbol-white", "bone": "symbol-white", "attachment": "symbol-8-white" },
+	{ "name": "symbol-glitch", "bone": "symbol-glitch", "attachment": "symbol-8", "blend": "additive" },
+	{ "name": "text", "bone": "text", "attachment": "text-wild" },
+	{ "name": "text2", "bone": "text2", "attachment": "text-wild", "blend": "additive" }
 ],
 "skins": [
 	{
 		"name": "default",
 		"attachments": {
 			"glow": {
-				"symbol-9-glow": { "width": 150, "height": 150 }
+				"symbol-8-glow": { "width": 150, "height": 150 }
 			},
 			"glow2": {
-				"symbol-9-glow": { "width": 150, "height": 150 }
+				"symbol-8-glow": { "width": 150, "height": 150 }
 			},
 			"glow3": {
-				"symbol-9-glow": { "width": 150, "height": 150 }
+				"symbol-8-glow": { "width": 150, "height": 150 }
 			},
 			"symbol": {
-				"symbol-9": { "width": 150, "height": 150 }
+				"symbol-8": { "width": 150, "height": 150 }
 			},
 			"symbol-glitch": {
-				"symbol-9": { "x": -0.93, "y": 0.15, "width": 150, "height": 150 }
+				"symbol-8": { "x": -0.93, "y": 0.15, "width": 150, "height": 150 }
 			},
 			"symbol-white": {
-				"symbol-9-white": { "width": 150, "height": 150 }
+				"symbol-8-white": { "width": 150, "height": 150 }
 			},
 			"text": {
-				"text-bonus": { "width": 150, "height": 150 }
+				"text-wild": { "width": 150, "height": 150 }
 			},
 			"text2": {
-				"text-bonus": { "width": 150, "height": 150 }
+				"text-wild": { "width": 150, "height": 150 }
 			}
 		}
 	}
@@ -113,7 +113,6 @@
 			},
 			"symbol": {
 				"color": [
-					{ "color": "ffffff00", "curve": "stepped" },
 					{ "time": 0.3333, "color": "ffffff00" },
 					{ "time": 0.4, "color": "ffffffff" }
 				]
@@ -139,7 +138,7 @@
 			"text": {
 				"attachment": [
 					{ "name": null },
-					{ "time": 0.2667, "name": "text-bonus" }
+					{ "time": 0.2667, "name": "text-wild" }
 				]
 			},
 			"text2": {
@@ -150,7 +149,7 @@
 				],
 				"attachment": [
 					{ "name": null },
-					{ "time": 0.2667, "name": "text-bonus" }
+					{ "time": 0.2667, "name": "text-wild" }
 				]
 			}
 		},
@@ -162,7 +161,7 @@
 			},
 			"symbol": {
 				"scale": [
-					{ "curve": 0.25, "c3": 0.75 },
+					{ "x": 0.2, "y": 0.2, "curve": 0.25, "c3": 0.75 },
 					{ "time": 0.1667, "x": 0.8, "y": 0.8, "curve": 0.25, "c3": 0.75 },
 					{ "time": 0.3333, "x": 1.1, "y": 1.179, "curve": 0.25, "c3": 0.75 },
 					{ "time": 0.4333, "x": 1.064, "y": 1.03, "curve": 0.25, "c3": 0.75 },
@@ -171,7 +170,7 @@
 			},
 			"symbol-glitch": {
 				"scale": [
-					{ "curve": 0.25, "c3": 0.75 },
+					{ "x": 0.2, "y": 0.2, "curve": 0.25, "c3": 0.75 },
 					{ "time": 0.2333, "x": 0.8, "y": 0.8, "curve": 0.25, "c3": 0.75 },
 					{ "time": 0.4, "x": 1.3, "y": 1.3, "curve": 0.25, "c3": 0.75 },
 					{ "time": 0.5, "x": 1.064, "y": 1.03, "curve": 0.25, "c3": 0.75 },
@@ -179,16 +178,10 @@
 				]
 			},
 			"glow": {
-				"translate": [
-					{ "curve": 0.25, "c3": 0.75 },
-					{ "time": 0.1333, "y": 69.14, "curve": "stepped" },
-					{ "time": 0.2, "y": 69.14 },
-					{ "time": 0.5333 }
-				],
 				"scale": [
-					{ "curve": 0.25, "c3": 0.75 },
-					{ "time": 0.2, "x": 1.2 },
-					{ "time": 0.5333 }
+					{ "x": 0.2, "y": 0.2 },
+					{ "time": 0.2667, "x": 1.2, "y": 1.2 },
+					{ "time": 0.4667, "x": 0.4, "y": 0.4 }
 				]
 			},
 			"text": {
@@ -216,34 +209,24 @@
 				]
 			},
 			"glow2": {
-				"translate": [
-					{ "time": 0.0667, "curve": 0.25, "c3": 0.75 },
-					{ "time": 0.2, "y": 69.14, "curve": "stepped" },
-					{ "time": 0.2667, "y": 69.14 },
-					{ "time": 0.6 }
-				],
 				"scale": [
-					{ "curve": 0.25, "c3": 0.75 },
-					{ "time": 0.2667, "x": 1.2 },
-					{ "time": 0.6 }
+					{ "x": 0.2, "y": 0.2 },
+					{ "time": 0.2 },
+					{ "time": 0.4, "x": 1.2, "y": 1.2 },
+					{ "time": 0.6, "x": 0.4, "y": 0.4 }
 				]
 			},
 			"glow3": {
-				"translate": [
-					{ "time": 0.1333, "curve": 0.25, "c3": 0.75 },
-					{ "time": 0.2667, "y": 69.14, "curve": "stepped" },
-					{ "time": 0.3333, "y": 69.14 },
-					{ "time": 0.6667 }
-				],
 				"scale": [
-					{ "curve": 0.25, "c3": 0.75 },
-					{ "time": 0.3333, "x": 1.2 },
-					{ "time": 0.6667 }
+					{ "x": 0.2, "y": 0.2 },
+					{ "time": 0.2667, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4667, "x": 1.2, "y": 1.2 },
+					{ "time": 0.6667, "x": 0.4, "y": 0.4 }
 				]
 			},
 			"symbol-white": {
 				"scale": [
-					{ "curve": 0.25, "c3": 0.75 },
+					{ "x": 0.2, "y": 0.2, "curve": 0.25, "c3": 0.75 },
 					{ "time": 0.1667, "x": 0.8, "y": 0.8, "curve": 0.25, "c3": 0.75 },
 					{ "time": 0.3333, "x": 1.1, "y": 1.179, "curve": 0.25, "c3": 0.75 },
 					{ "time": 0.4333, "x": 1.064, "y": 1.03, "curve": 0.25, "c3": 0.75 },
