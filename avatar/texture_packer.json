@@ -9,7 +9,7 @@
           "options": {
             "params": ["--texture-format", "png"],
             "sheet_extension": "png",
-            "output_path": ["Avatar-new-style"]
+            "output_path": ["avatar-new-style"]
           }
         }
       ]

@@ -64,7 +64,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>THANG_zh_cn.png</key>
+            <key>THANG_zh-Hans.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -79,7 +79,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>THANG_zh_tw.png</key>
+            <key>THANG_zh-Hant.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -254,13 +254,13 @@
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
-            <string>Avatar-new-style.png</string>
+            <string>avatar-new-style.png</string>
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:b7975d995fdad35f683f7b0adc7fc743:e653dea31457f7c133941b7bd2a7727f:17edbaa9bc896d34859f0fb1cc9887ce$</string>
+            <string>$TexturePacker:SmartUpdate:65e35273c6b4ca6cac64818b2ce06a34:e653dea31457f7c133941b7bd2a7727f:05dd6eac5b84fe091faa8393dd20132e$</string>
             <key>textureFileName</key>
-            <string>Avatar-new-style.png</string>
+            <string>avatar-new-style.png</string>
         </dict>
     </dict>
 </plist>
