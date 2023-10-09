@@ -4,6 +4,36 @@
     <dict>
         <key>frames</key>
         <dict>
+            <key>logo-SC1.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{250,100}</string>
+                <key>spriteSourceSize</key>
+                <string>{250,100}</string>
+                <key>textureRect</key>
+                <string>{{3,3},{250,100}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>logo-SC2.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{163,103}</string>
+                <key>spriteSourceSize</key>
+                <string>{163,103}</string>
+                <key>textureRect</key>
+                <string>{{255,3},{163,103}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>table_text.png</key>
             <dict>
                 <key>aliases</key>
@@ -15,7 +45,7 @@
                 <key>spriteSourceSize</key>
                 <string>{516,150}</string>
                 <key>textureRect</key>
-                <string>{{3,3},{508,148}}</string>
+                <string>{{3,105},{508,148}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -30,7 +60,7 @@
                 <key>spriteSourceSize</key>
                 <string>{516,150}</string>
                 <key>textureRect</key>
-                <string>{{3,513},{508,148}}</string>
+                <string>{{153,108},{508,148}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -46,9 +76,9 @@
             <key>realTextureFileName</key>
             <string>blackjack.png</string>
             <key>size</key>
-            <string>{256,1024}</string>
+            <string>{512,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:0dae191f90a0d24f6cc0a0080ff78c39:9e3c84b7a34292433eb9d05fd2934f88:ee10f2da41024eda2ad4fd85d056b81a$</string>
+            <string>$TexturePacker:SmartUpdate:3087642663c497c3067e1ec8f84218b8:b61077946f38890e8df7f8c019973271:ee10f2da41024eda2ad4fd85d056b81a$</string>
             <key>textureFileName</key>
             <string>blackjack.png</string>
         </dict>
