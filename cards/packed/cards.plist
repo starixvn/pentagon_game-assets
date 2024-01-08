@@ -483,7 +483,7 @@
             <key>size</key>
             <string>{512,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:38a821a3ac8bab5d2d90a7c081c9ffe4:f031df505e6940c472b95646ab477496:fc86278e5045194fe7638df41a1aa4f3$</string>
+            <string>$TexturePacker:SmartUpdate:5d86109a3501be8da61beaace65a8a9b:e6e71a20c09905761de087bc97bfce7f:fc86278e5045194fe7638df41a1aa4f3$</string>
             <key>textureFileName</key>
             <string>cards.png</string>
         </dict>
