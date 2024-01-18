@@ -1,0 +1,97 @@
+
+symbol-10.jackpot.vi-VN.png
+size: 1238,135
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/1
+  rotate: true
+  xy: 1134, 4
+  size: 65, 62
+  orig: 82, 73
+  offset: 9, 4
+  index: -1
+effect/10
+  rotate: true
+  xy: 412, 16
+  size: 117, 105
+  orig: 150, 132
+  offset: 17, 7
+  index: -1
+effect/11
+  rotate: true
+  xy: 627, 20
+  size: 113, 101
+  orig: 145, 128
+  offset: 16, 9
+  index: -1
+effect/13
+  rotate: false
+  xy: 817, 29
+  size: 100, 104
+  orig: 133, 135
+  offset: 16, 12
+  index: -1
+effect/14
+  rotate: true
+  xy: 1134, 71
+  size: 62, 102
+  orig: 95, 136
+  offset: 17, 15
+  index: -1
+effect/2
+  rotate: false
+  xy: 730, 5
+  size: 85, 128
+  orig: 94, 136
+  offset: 5, 0
+  index: -1
+effect/3
+  rotate: false
+  xy: 919, 4
+  size: 71, 129
+  orig: 80, 136
+  offset: 5, 7
+  index: -1
+effect/5
+  rotate: false
+  xy: 293, 5
+  size: 117, 128
+  orig: 131, 131
+  offset: 7, 0
+  index: -1
+effect/7
+  rotate: false
+  xy: 1061, 36
+  size: 71, 97
+  orig: 103, 132
+  offset: 16, 15
+  index: -1
+effect/8
+  rotate: false
+  xy: 519, 24
+  size: 106, 109
+  orig: 129, 138
+  offset: 11, 12
+  index: -1
+symbol
+  rotate: false
+  xy: 2, 5
+  size: 150, 128
+  orig: 150, 150
+  offset: 0, 9
+  index: -1
+symbol-blur
+  rotate: false
+  xy: 154, 3
+  size: 137, 130
+  orig: 150, 150
+  offset: 7, 12
+  index: -1
+text
+  rotate: true
+  xy: 992, 2
+  size: 131, 67
+  orig: 150, 150
+  offset: 8, 0
+  index: -1
