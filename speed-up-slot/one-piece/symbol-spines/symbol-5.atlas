@@ -1,0 +1,139 @@
+
+symbol-5.png
+size: 1418,306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+border
+  rotate: false
+  xy: 2, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+border-blur
+  rotate: false
+  xy: 154, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/1
+  rotate: true
+  xy: 1335, 70
+  size: 86, 81
+  orig: 150, 150
+  offset: 33, 21
+  index: -1
+effect/10
+  rotate: false
+  xy: 610, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/11
+  rotate: false
+  xy: 762, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/12
+  rotate: false
+  xy: 762, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/13
+  rotate: false
+  xy: 914, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/14
+  rotate: false
+  xy: 2, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/2
+  rotate: true
+  xy: 1211, 15
+  size: 139, 122
+  orig: 150, 150
+  offset: 11, 0
+  index: -1
+effect/3
+  rotate: true
+  xy: 1066, 4
+  size: 150, 143
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/4
+  rotate: false
+  xy: 154, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/5
+  rotate: false
+  xy: 306, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/6
+  rotate: false
+  xy: 306, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/7
+  rotate: false
+  xy: 458, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/8
+  rotate: false
+  xy: 458, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/9
+  rotate: false
+  xy: 610, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+symbol
+  rotate: false
+  xy: 1066, 156
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+symbol-blank
+  rotate: false
+  xy: 914, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+symbol-blur
+  rotate: false
+  xy: 1216, 158
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1

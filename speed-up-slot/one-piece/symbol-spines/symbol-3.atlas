@@ -1,0 +1,139 @@
+
+symbol-3.png
+size: 1357,306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+border
+  rotate: false
+  xy: 2, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+border-blur
+  rotate: false
+  xy: 2, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/1
+  rotate: true
+  xy: 914, 154
+  size: 150, 119
+  orig: 150, 150
+  offset: 0, 20
+  index: -1
+effect/10
+  rotate: false
+  xy: 610, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/11
+  rotate: false
+  xy: 610, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/12
+  rotate: true
+  xy: 910, 2
+  size: 150, 131
+  orig: 150, 150
+  offset: 0, 19
+  index: -1
+effect/13
+  rotate: true
+  xy: 1191, 13
+  size: 143, 130
+  orig: 150, 150
+  offset: 7, 20
+  index: -1
+effect/14
+  rotate: true
+  xy: 1307, 162
+  size: 142, 48
+  orig: 150, 150
+  offset: 8, 78
+  index: -1
+effect/2
+  rotate: true
+  xy: 1035, 155
+  size: 149, 122
+  orig: 150, 150
+  offset: 1, 22
+  index: -1
+effect/3
+  rotate: true
+  xy: 762, 2
+  size: 150, 146
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/4
+  rotate: false
+  xy: 154, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/5
+  rotate: false
+  xy: 154, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/6
+  rotate: false
+  xy: 306, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/7
+  rotate: false
+  xy: 306, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/8
+  rotate: false
+  xy: 458, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/9
+  rotate: false
+  xy: 458, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+symbol
+  rotate: false
+  xy: 1043, 7
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+symbol-blank
+  rotate: false
+  xy: 762, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+symbol-blur
+  rotate: false
+  xy: 1159, 158
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
