@@ -1,55 +1,62 @@
 
 symbol-0.png
-size: 1075,154
+size: 596,306
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 border
   rotate: false
-  xy: 2, 2
+  xy: 2, 154
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 border-blur
   rotate: false
-  xy: 154, 2
+  xy: 2, 2
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 effect/effect0
   rotate: false
-  xy: 306, 2
+  xy: 154, 154
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 effect/effect1
   rotate: false
-  xy: 458, 2
+  xy: 154, 2
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 effect/effect4
   rotate: false
-  xy: 610, 2
+  xy: 306, 154
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 symbol
-  rotate: true
-  xy: 914, 16
+  rotate: false
+  xy: 458, 145
   size: 136, 159
   orig: 136, 159
   offset: 0, 0
   index: -1
 symbol-blank
   rotate: false
-  xy: 762, 2
+  xy: 306, 2
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
+  index: -1
+symbol-blur
+  rotate: false
+  xy: 458, 16
+  size: 128, 127
+  orig: 136, 159
+  offset: 4, 16
   index: -1

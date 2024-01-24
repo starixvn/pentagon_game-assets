@@ -1,6 +1,6 @@
 
 symbol-8.png
-size: 1537,154
+size: 1627,154
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -17,6 +17,13 @@ border-blur
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
+  index: -1
+effect/7
+  rotate: true
+  xy: 1208, 5
+  size: 147, 133
+  orig: 150, 150
+  offset: 3, 8
   index: -1
 effect/effect0
   rotate: true
@@ -53,16 +60,9 @@ effect/effect4
   orig: 150, 150
   offset: 0, 1
   index: -1
-effect/effect5
-  rotate: true
-  xy: 1208, 2
-  size: 150, 148
-  orig: 150, 150
-  offset: 0, 1
-  index: -1
 symbol
   rotate: false
-  xy: 1358, 23
+  xy: 1343, 23
   size: 128, 129
   orig: 128, 129
   offset: 0, 0
@@ -74,9 +74,16 @@ symbol-blank
   orig: 150, 150
   offset: 0, 0
   index: -1
+symbol-blur
+  rotate: true
+  xy: 1473, 30
+  size: 122, 103
+  orig: 128, 129
+  offset: 3, 13
+  index: -1
 text
   rotate: true
-  xy: 1488, 3
+  xy: 1578, 3
   size: 149, 47
   orig: 150, 150
   offset: 0, 0

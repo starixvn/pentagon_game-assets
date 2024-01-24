@@ -1,6 +1,6 @@
 
 symbol-2.png
-size: 1044,154
+size: 1154,154
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -52,4 +52,11 @@ symbol-blank
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
+  index: -1
+symbol-blur
+  rotate: true
+  xy: 1044, 31
+  size: 121, 108
+  orig: 128, 136
+  offset: 4, 14
   index: -1

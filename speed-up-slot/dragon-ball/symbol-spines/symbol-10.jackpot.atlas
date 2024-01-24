@@ -1,97 +1,104 @@
 
 symbol-10.jackpot.png
-size: 555,303
+size: 306,878
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-effect/1
+blue light
   rotate: false
-  xy: 366, 5
-  size: 65, 62
-  orig: 82, 73
-  offset: 9, 4
+  xy: 2, 784
+  size: 167, 92
+  orig: 173, 104
+  offset: 2, 4
   index: -1
-effect/10
+border
   rotate: false
-  xy: 141, 66
-  size: 117, 105
-  orig: 150, 132
-  offset: 17, 7
+  xy: 2, 458
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
   index: -1
-effect/11
+border-blur
   rotate: false
-  xy: 381, 200
-  size: 113, 101
-  orig: 145, 128
-  offset: 16, 9
+  xy: 154, 420
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
   index: -1
-effect/13
-  rotate: true
-  xy: 260, 3
-  size: 100, 104
-  orig: 133, 135
-  offset: 16, 12
-  index: -1
-effect/14
-  rotate: true
-  xy: 141, 2
-  size: 62, 102
-  orig: 95, 136
-  offset: 17, 15
-  index: -1
-effect/2
-  rotate: true
-  xy: 273, 105
-  size: 85, 128
-  orig: 94, 136
-  offset: 5, 0
-  index: -1
-effect/3
+effect/effect0
   rotate: false
-  xy: 403, 69
-  size: 71, 129
-  orig: 80, 136
-  offset: 5, 7
+  xy: 2, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
   index: -1
-effect/5
+effect/effect1
   rotate: false
-  xy: 154, 173
-  size: 117, 128
-  orig: 131, 131
-  offset: 7, 0
+  xy: 154, 268
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
   index: -1
-effect/7
+effect/effect4
   rotate: false
-  xy: 476, 52
-  size: 71, 97
-  orig: 103, 132
-  offset: 16, 15
-  index: -1
-effect/8
-  rotate: false
-  xy: 273, 192
-  size: 106, 109
-  orig: 129, 138
-  offset: 11, 12
+  xy: 2, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
   index: -1
 symbol
-  rotate: false
-  xy: 2, 173
-  size: 150, 128
+  rotate: true
+  xy: 171, 726
+  size: 150, 129
   orig: 150, 150
-  offset: 0, 9
+  offset: 0, 0
+  index: -1
+symbol-blank
+  rotate: false
+  xy: 154, 116
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
   index: -1
 symbol-blur
   rotate: false
-  xy: 2, 41
-  size: 137, 130
-  orig: 150, 150
-  offset: 7, 12
-  index: -1
-text - Copy
-  rotate: true
-  xy: 496, 151
-  size: 150, 57
+  xy: 2, 2
+  size: 150, 150
   orig: 150, 150
   offset: 0, 0
+  index: -1
+text
+  rotate: true
+  xy: 258, 575
+  size: 149, 44
+  orig: 149, 44
+  offset: 0, 0
+  index: -1
+tornado lightning/tornado lightning 1
+  rotate: false
+  xy: 2, 697
+  size: 166, 85
+  orig: 168, 87
+  offset: 1, 1
+  index: -1
+tornado lightning/tornado lightning 2
+  rotate: false
+  xy: 2, 610
+  size: 153, 85
+  orig: 154, 87
+  offset: 0, 1
+  index: -1
+tornado lightning/tornado lightning 3
+  rotate: false
+  xy: 154, 29
+  size: 146, 85
+  orig: 147, 87
+  offset: 0, 1
+  index: -1
+tornado lightning/tornado lightning 4
+  rotate: true
+  xy: 170, 572
+  size: 152, 86
+  orig: 153, 87
+  offset: 1, 0
   index: -1
