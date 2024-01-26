@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "7PdV/dhbmgxGT2ah8sv/RqVi8UI", "spine": "3.8.99", "x": -75, "y": -75, "width": 150.08, "height": 150 },
+"skeleton": { "hash": "O5KknHuYW4VW4605NvMjfgOmt/o", "spine": "3.8.99", "x": -75, "y": -75, "width": 150.08, "height": 150 },
 "bones": [
 	{ "name": "root" },
 	{ "name": "character", "parent": "root" },
@@ -46,7 +46,7 @@
 				"symbol": { "width": 107, "height": 138 }
 			},
 			"symbol-blur": {
-				"symbol-blur": { "width": 107, "height": 138 }
+				"symbol-blur": { "width": 105, "height": 110 }
 			},
 			"symbol-w": {
 				"symbol-blank": { "width": 150, "height": 150 }

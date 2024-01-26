@@ -57,6 +57,6 @@ symbol-blur
   rotate: false
   xy: 1023, 42
   size: 105, 110
-  orig: 107, 138
-  offset: 1, 14
+  orig: 105, 110
+  offset: 0, 0
   index: -1

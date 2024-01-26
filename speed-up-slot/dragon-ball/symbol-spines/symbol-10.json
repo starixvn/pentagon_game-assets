@@ -1,9 +1,9 @@
 {
-"skeleton": { "hash": "DcZlM6Vqtnrjm9e9TACjGMPaGDU", "spine": "3.8.99", "x": -75, "y": -75, "width": 150.08, "height": 150 },
+"skeleton": { "hash": "abcMtcOaJUfNS5sibCclKIxtGWU", "spine": "3.8.99", "x": -71.95, "y": -72.36, "width": 144.45, "height": 144.45 },
 "bones": [
 	{ "name": "root" },
 	{ "name": "character", "parent": "root" },
-	{ "name": "symbol", "parent": "character" },
+	{ "name": "symbol", "parent": "character", "y": 7.07 },
 	{ "name": "frameeffect", "parent": "root", "x": 0.93, "y": -0.15, "scaleX": 2, "scaleY": 2 },
 	{ "name": "symbol-blur", "parent": "character" },
 	{ "name": "border", "parent": "root" },
@@ -188,13 +188,13 @@
 				"translate": [
 					{ "y": 119.18, "curve": 0.25, "c3": 0.75 },
 					{ "time": 0.2 },
-					{ "time": 0.2667, "y": 7.28 }
+					{ "time": 0.2667, "x": -2.6, "y": -1.87 }
 				],
 				"scale": [
 					{ "x": 0.8, "y": 0.8, "curve": 0.25, "c3": 0.75 },
-					{ "time": 0.3333, "x": 0.9, "y": 0.9, "curve": 0.25, "c3": 0.75 },
-					{ "time": 0.4, "curve": 0.25, "c3": 0.75 },
-					{ "time": 1.1667, "x": 1.04, "y": 1.04 }
+					{ "time": 0.3333, "x": 0.9, "y": 0.9, "curve": "stepped" },
+					{ "time": 0.4, "x": 0.9, "y": 0.9, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.1667 }
 				]
 			},
 			"character": {

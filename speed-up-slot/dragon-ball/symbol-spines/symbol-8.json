@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "qEcLZrF/ZoTQ+b7+EIrDV3ukrRU", "spine": "3.8.99", "x": -75, "y": -75, "width": 150.08, "height": 150 },
+"skeleton": { "hash": "Wp33SilelcpyMRMxKkN8KLxrHEY", "spine": "3.8.99", "x": -71.95, "y": -72.36, "width": 144.45, "height": 144.45 },
 "bones": [
 	{ "name": "root" },
 	{ "name": "character", "parent": "root" },
@@ -9,7 +9,7 @@
 	{ "name": "border", "parent": "root" },
 	{ "name": "sequense-effect2", "parent": "root" },
 	{ "name": "effect", "parent": "character" },
-	{ "name": "text", "parent": "character" }
+	{ "name": "text", "parent": "character", "y": 1.01 }
 ],
 "slots": [
 	{ "name": "mask", "bone": "root", "attachment": "mask" },
@@ -20,7 +20,7 @@
 	{ "name": "blue-light", "bone": "effect" },
 	{ "name": "lightning2", "bone": "effect", "blend": "screen" },
 	{ "name": "symbol", "bone": "symbol", "attachment": "symbol" },
-	{ "name": "symbol-blur", "bone": "symbol", "attachment": "symbol-blur" },
+	{ "name": "symbol-blur", "bone": "symbol" },
 	{ "name": "border", "bone": "border", "attachment": "border" },
 	{ "name": "border-blur", "bone": "border", "attachment": "border-blur" },
 	{ "name": "text", "bone": "text", "attachment": "text" },
@@ -187,6 +187,9 @@
 					{ "time": 0.2, "color": "ffffffff", "curve": "stepped" },
 					{ "time": 0.4, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
 					{ "time": 0.6, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "symbol-blur" }
 				]
 			},
 			"symbol-w": {
@@ -238,11 +241,12 @@
 					{ "time": 0.6667 },
 					{ "time": 0.7, "x": -4.55, "y": 7.57 },
 					{ "time": 0.8 },
-					{ "time": 0.8333, "x": 6.57, "y": 7.57 },
+					{ "time": 0.8333, "x": -1.01, "y": 7.57 },
 					{ "time": 0.9333 },
-					{ "time": 0.9667, "x": 6.57, "y": 7.57 },
+					{ "time": 0.9667, "x": -3.03, "y": 6.06 },
 					{ "time": 1.0667 },
-					{ "time": 1.1, "x": 6.57, "y": 7.57 }
+					{ "time": 1.1, "x": 6.57, "y": 1.01 },
+					{ "time": 1.1667 }
 				],
 				"scale": [
 					{},
@@ -273,11 +277,6 @@
 	"idle": {
 		"slots": {
 			"border-blur": {
-				"attachment": [
-					{ "name": null }
-				]
-			},
-			"symbol-blur": {
 				"attachment": [
 					{ "name": null }
 				]

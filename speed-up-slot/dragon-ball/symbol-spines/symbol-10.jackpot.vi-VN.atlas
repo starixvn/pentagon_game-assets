@@ -1,103 +1,103 @@
 
 symbol-10.jackpot.vi-VN.png
-size: 309,901
+size: 255,1052
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 blue light
-  rotate: false
-  xy: 2, 807
+  rotate: true
+  xy: 154, 883
   size: 167, 92
   orig: 173, 104
   offset: 2, 4
   index: -1
 border
   rotate: false
-  xy: 157, 536
+  xy: 2, 900
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 border-blur
   rotate: false
-  xy: 2, 393
+  xy: 2, 748
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 effect/effect0
   rotate: false
-  xy: 154, 384
+  xy: 2, 596
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 effect/effect1
   rotate: false
-  xy: 2, 241
+  xy: 2, 444
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 effect/effect4
   rotate: false
-  xy: 154, 232
+  xy: 2, 292
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 symbol
   rotate: true
-  xy: 171, 688
-  size: 150, 129
+  xy: 2, 2
+  size: 136, 141
   orig: 150, 150
-  offset: 0, 0
+  offset: 8, 3
   index: -1
 symbol-blank
   rotate: false
-  xy: 2, 89
+  xy: 2, 140
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 symbol-blur
   rotate: false
-  xy: 154, 80
-  size: 150, 150
+  xy: 145, 3
+  size: 108, 119
   orig: 150, 150
-  offset: 0, 0
+  offset: 22, 15
   index: -1
 text-VN
-  rotate: false
-  xy: 171, 840
+  rotate: true
+  xy: 154, 124
   size: 132, 59
   orig: 132, 59
   offset: 0, 0
   index: -1
 tornado lightning/tornado lightning 1
-  rotate: false
-  xy: 2, 720
+  rotate: true
+  xy: 154, 715
   size: 166, 85
   orig: 168, 87
   offset: 1, 1
   index: -1
 tornado lightning/tornado lightning 2
-  rotate: false
-  xy: 2, 633
+  rotate: true
+  xy: 154, 560
   size: 153, 85
   orig: 154, 87
   offset: 0, 1
   index: -1
 tornado lightning/tornado lightning 3
-  rotate: false
-  xy: 2, 2
+  rotate: true
+  xy: 154, 258
   size: 146, 85
   orig: 147, 87
   offset: 0, 1
   index: -1
 tornado lightning/tornado lightning 4
-  rotate: false
-  xy: 2, 545
+  rotate: true
+  xy: 154, 406
   size: 152, 86
   orig: 153, 87
   offset: 1, 0
