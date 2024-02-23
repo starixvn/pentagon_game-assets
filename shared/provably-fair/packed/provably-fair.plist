@@ -109,7 +109,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>pf-bttn-numberkey-save.png</key>
+            <key>pf-bttn-numberkey-save-disable.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -124,7 +124,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>pf-bttn-numberkey.png</key>
+            <key>pf-bttn-numberkey-save.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -139,6 +139,21 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>pf-bttn-numberkey.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{100,60}</string>
+                <key>spriteSourceSize</key>
+                <string>{100,60}</string>
+                <key>textureRect</key>
+                <string>{{105,268},{100,60}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>pf-bttn-seed-increase.png</key>
             <dict>
                 <key>aliases</key>
@@ -150,7 +165,7 @@
                 <key>spriteSourceSize</key>
                 <string>{16,27}</string>
                 <key>textureRect</key>
-                <string>{{105,268},{16,27}}</string>
+                <string>{{207,268},{16,27}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -165,7 +180,7 @@
                 <key>spriteSourceSize</key>
                 <string>{183,56}</string>
                 <key>textureRect</key>
-                <string>{{123,268},{183,56}}</string>
+                <string>{{225,268},{183,56}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -180,7 +195,7 @@
                 <key>spriteSourceSize</key>
                 <string>{28,28}</string>
                 <key>textureRect</key>
-                <string>{{308,268},{28,28}}</string>
+                <string>{{410,268},{28,28}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -195,7 +210,37 @@
                 <key>spriteSourceSize</key>
                 <string>{36,25}</string>
                 <key>textureRect</key>
-                <string>{{338,268},{36,25}}</string>
+                <string>{{440,268},{36,25}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>pf-input-blur-white.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{143,56}</string>
+                <key>spriteSourceSize</key>
+                <string>{143,56}</string>
+                <key>textureRect</key>
+                <string>{{478,268},{143,56}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>pf-input-blur-yellow.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{143,56}</string>
+                <key>spriteSourceSize</key>
+                <string>{143,56}</string>
+                <key>textureRect</key>
+                <string>{{623,268},{143,56}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -210,7 +255,7 @@
                 <key>spriteSourceSize</key>
                 <string>{624,60}</string>
                 <key>textureRect</key>
-                <string>{{376,268},{624,60}}</string>
+                <string>{{3,330},{624,60}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -225,7 +270,7 @@
                 <key>spriteSourceSize</key>
                 <string>{239,60}</string>
                 <key>textureRect</key>
-                <string>{{3,330},{239,60}}</string>
+                <string>{{629,330},{239,60}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -240,7 +285,7 @@
                 <key>spriteSourceSize</key>
                 <string>{239,60}</string>
                 <key>textureRect</key>
-                <string>{{244,330},{239,60}}</string>
+                <string>{{3,392},{239,60}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -251,11 +296,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{4,1}</string>
+                <string>{46,4}</string>
                 <key>spriteSourceSize</key>
-                <string>{4,1}</string>
+                <string>{46,4}</string>
                 <key>textureRect</key>
-                <string>{{485,330},{4,1}}</string>
+                <string>{{244,392},{46,4}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -270,7 +315,37 @@
                 <key>spriteSourceSize</key>
                 <string>{52,52}</string>
                 <key>textureRect</key>
-                <string>{{491,330},{52,52}}</string>
+                <string>{{292,392},{52,52}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>pf_bg_tooltip.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{82,48}</string>
+                <key>spriteSourceSize</key>
+                <string>{82,48}</string>
+                <key>textureRect</key>
+                <string>{{346,392},{82,48}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>single_white.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{4,4}</string>
+                <key>spriteSourceSize</key>
+                <string>{4,4}</string>
+                <key>textureRect</key>
+                <string>{{430,392},{4,4}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -288,7 +363,7 @@
             <key>size</key>
             <string>{1024,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:0c0cfcfe2dd98092eba9fc09b6c119c0:2c6333cbb800ed385be3c8b99a010655:2daeb272dc93dd3a5fe53c0a5aa02442$</string>
+            <string>$TexturePacker:SmartUpdate:d238f6c2d57ad94d963a14874e14b214:9ee08192146f4a5ef8c08dfae1fa9247:2daeb272dc93dd3a5fe53c0a5aa02442$</string>
             <key>textureFileName</key>
             <string>provably-fair.png</string>
         </dict>

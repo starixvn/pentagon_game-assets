@@ -56,13 +56,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{26,24}</string>
+                <string>{38,35}</string>
                 <key>spriteSourceSize</key>
-                <string>{26,24}</string>
+                <string>{38,35}</string>
                 <key>textureRect</key>
-                <string>{{62,477},{26,24}}</string>
+                <string>{{203,87},{38,35}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>left.png</key>
             <dict>
@@ -75,7 +75,7 @@
                 <key>spriteSourceSize</key>
                 <string>{11,15}</string>
                 <key>textureRect</key>
-                <string>{{88,498},{11,15}}</string>
+                <string>{{62,498},{11,15}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -135,7 +135,7 @@
                 <key>spriteSourceSize</key>
                 <string>{12,19}</string>
                 <key>textureRect</key>
-                <string>{{88,477},{12,19}}</string>
+                <string>{{62,477},{12,19}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -150,7 +150,7 @@
                 <key>spriteSourceSize</key>
                 <string>{4,4}</string>
                 <key>textureRect</key>
-                <string>{{62,505},{4,4}}</string>
+                <string>{{76,477},{4,4}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -168,7 +168,7 @@
             <key>size</key>
             <string>{256,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:4a481a1601de6b2f667347458e7afa78:8f36372ff96dd655aa845edba739c133:5022789688d3eea04c22432da368bba4$</string>
+            <string>$TexturePacker:SmartUpdate:c6c8311ad0d96ba73469af00c6c36c7e:b9da83fbce65f6dc6d551f74bab446d0:5022789688d3eea04c22432da368bba4$</string>
             <key>textureFileName</key>
             <string>new_popup.png</string>
         </dict>
