@@ -4,21 +4,6 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>Logo_Saba.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{393,140}</string>
-                <key>spriteSourceSize</key>
-                <string>{393,140}</string>
-                <key>textureRect</key>
-                <string>{{3,491},{393,140}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
             <key>anh_sang.png</key>
             <dict>
                 <key>aliases</key>
@@ -76,6 +61,21 @@
                 <string>{49,49}</string>
                 <key>textureRect</key>
                 <string>{{83,950},{49,49}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>logo_saba.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{393,140}</string>
+                <key>spriteSourceSize</key>
+                <string>{393,140}</string>
+                <key>textureRect</key>
+                <string>{{3,491},{393,140}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -333,7 +333,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:c4955e00cdc64444038919feb2e39102:c5bc32b3f667efceae68377332669eef:db57b41b9eb0081dd72d1b2da3eea767$</string>
+            <string>$TexturePacker:SmartUpdate:feb18fd582b2ecc2cbfa9ed353625f5c:2ee3232032b3bc66fc74d113b699468d:db57b41b9eb0081dd72d1b2da3eea767$</string>
             <key>textureFileName</key>
             <string>splash-screen.png</string>
         </dict>
