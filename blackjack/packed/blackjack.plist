@@ -30,7 +30,7 @@
                 <key>spriteSourceSize</key>
                 <string>{163,103}</string>
                 <key>textureRect</key>
-                <string>{{255,76},{163,103}}</string>
+                <string>{{255,103},{163,103}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -39,13 +39,13 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,1}</string>
+                <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{228,71}</string>
+                <string>{196,98}</string>
                 <key>spriteSourceSize</key>
-                <string>{250,77}</string>
+                <string>{196,98}</string>
                 <key>textureRect</key>
-                <string>{{255,3},{228,71}}</string>
+                <string>{{255,3},{196,98}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -75,7 +75,7 @@
                 <key>spriteSourceSize</key>
                 <string>{516,150}</string>
                 <key>textureRect</key>
-                <string>{{153,181},{508,148}}</string>
+                <string>{{153,208},{508,148}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -93,7 +93,7 @@
             <key>size</key>
             <string>{512,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:8a91fc57e675cab087493ae2758581cb:10b200ca509cf8a253f54972cd16a245:ee10f2da41024eda2ad4fd85d056b81a$</string>
+            <string>$TexturePacker:SmartUpdate:0a9df708c41607effd7b64f225c051fc:53c3fcfa8885f2832c2ca0541e9d55ac:ee10f2da41024eda2ad4fd85d056b81a$</string>
             <key>textureFileName</key>
             <string>blackjack.png</string>
         </dict>
