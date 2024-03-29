@@ -4,7 +4,7 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>logo-SC1.png</key>
+            <key>logo-SG.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -16,21 +16,6 @@
                 <string>{250,100}</string>
                 <key>textureRect</key>
                 <string>{{3,3},{250,100}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>logo-SC2.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{163,103}</string>
-                <key>spriteSourceSize</key>
-                <string>{163,103}</string>
-                <key>textureRect</key>
-                <string>{{255,103},{163,103}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -46,6 +31,21 @@
                 <string>{196,98}</string>
                 <key>textureRect</key>
                 <string>{{255,3},{196,98}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>logo-VG.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{163,103}</string>
+                <key>spriteSourceSize</key>
+                <string>{163,103}</string>
+                <key>textureRect</key>
+                <string>{{255,103},{163,103}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -93,7 +93,7 @@
             <key>size</key>
             <string>{512,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:0a9df708c41607effd7b64f225c051fc:53c3fcfa8885f2832c2ca0541e9d55ac:ee10f2da41024eda2ad4fd85d056b81a$</string>
+            <string>$TexturePacker:SmartUpdate:a7d878a450d9a69f68992007e58ddcbb:db2a656bba674c46cfcaa2c57a0ec938:ee10f2da41024eda2ad4fd85d056b81a$</string>
             <key>textureFileName</key>
             <string>blackjack.png</string>
         </dict>

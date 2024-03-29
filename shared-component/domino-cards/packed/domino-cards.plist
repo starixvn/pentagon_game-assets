@@ -60,7 +60,7 @@
                 <key>spriteSourceSize</key>
                 <string>{47,47}</string>
                 <key>textureRect</key>
-                <string>{{59,107},{39,39}}</string>
+                <string>{{85,211},{39,39}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -90,7 +90,7 @@
                 <key>spriteSourceSize</key>
                 <string>{47,47}</string>
                 <key>textureRect</key>
-                <string>{{59,148},{39,39}}</string>
+                <string>{{100,59},{39,39}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -139,7 +139,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>bg.png</key>
+            <key>back.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -151,6 +151,21 @@
                 <string>{54,102}</string>
                 <key>textureRect</key>
                 <string>{{189,3},{54,102}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>bg.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{54,102}</string>
+                <key>spriteSourceSize</key>
+                <string>{54,102}</string>
+                <key>textureRect</key>
+                <string>{{59,107},{54,102}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -168,7 +183,7 @@
             <key>size</key>
             <string>{256,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:f3d34a715b759db1bfa9ed5e9623ba29:24905678b913214e4ee018d8a2a06112:45c700d11c15ed3d276807217ad721a1$</string>
+            <string>$TexturePacker:SmartUpdate:c87851c68a1e5c8ad9167071d5b92a49:a25fd4fc973cad3394ecb841d877af5d:45c700d11c15ed3d276807217ad721a1$</string>
             <key>textureFileName</key>
             <string>domino-cards.png</string>
         </dict>
