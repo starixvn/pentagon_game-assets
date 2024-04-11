@@ -94,7 +94,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>back-SG.png</key>
+            <key>back-OTHER.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -109,7 +109,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>back-SP.png</key>
+            <key>back-SG.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -124,7 +124,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>back-VG.png</key>
+            <key>back-SP.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -139,7 +139,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>back.png</key>
+            <key>back-VG.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -183,7 +183,7 @@
             <key>size</key>
             <string>{256,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:c87851c68a1e5c8ad9167071d5b92a49:a25fd4fc973cad3394ecb841d877af5d:45c700d11c15ed3d276807217ad721a1$</string>
+            <string>$TexturePacker:SmartUpdate:bcdaf3bf857a90d73121ac81fd262aae:a78ef0d04d142bb8f8f71b7649282e7d:45c700d11c15ed3d276807217ad721a1$</string>
             <key>textureFileName</key>
             <string>domino-cards.png</string>
         </dict>
