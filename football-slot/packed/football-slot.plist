@@ -634,7 +634,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>logo_SG.png</key>
+            <key>logo-SG.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -649,7 +649,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>logo_VG.png</key>
+            <key>logo-VG.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -723,7 +723,7 @@
             <key>size</key>
             <string>{2048,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:c9700fc40634ba1d564b451f99ef3748:700f486061b6b090ffb70a9e7bf07d45:25c43bb0d7754b86e9788b1327af61c6$</string>
+            <string>$TexturePacker:SmartUpdate:09964593e140674f4577298bbf9a3ef1:700f486061b6b090ffb70a9e7bf07d45:25c43bb0d7754b86e9788b1327af61c6$</string>
             <key>textureFileName</key>
             <string>football-slot.png</string>
         </dict>
