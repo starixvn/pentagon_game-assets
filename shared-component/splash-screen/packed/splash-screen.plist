@@ -45,7 +45,7 @@
                 <key>spriteSourceSize</key>
                 <string>{49,49}</string>
                 <key>textureRect</key>
-                <string>{{404,516},{49,49}}</string>
+                <string>{{451,645},{49,49}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -60,7 +60,7 @@
                 <key>spriteSourceSize</key>
                 <string>{393,140}</string>
                 <key>textureRect</key>
-                <string>{{9,516},{393,140}}</string>
+                <string>{{9,860},{393,140}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -79,6 +79,21 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>logo_soibet.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{434,320}</string>
+                <key>spriteSourceSize</key>
+                <string>{434,320}</string>
+                <key>textureRect</key>
+                <string>{{9,218},{434,320}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>logo_vgaming.png</key>
             <dict>
                 <key>aliases</key>
@@ -90,7 +105,7 @@
                 <key>spriteSourceSize</key>
                 <string>{411,296}</string>
                 <key>textureRect</key>
-                <string>{{9,218},{411,296}}</string>
+                <string>{{9,540},{411,296}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -120,7 +135,7 @@
                 <key>spriteSourceSize</key>
                 <string>{640,4}</string>
                 <key>textureRect</key>
-                <string>{{468,3},{640,4}}</string>
+                <string>{{445,218},{640,4}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -138,7 +153,7 @@
             <key>size</key>
             <string>{512,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:be44925ecd6e9f44c9422ac8994f8e98:54436796fd7d920c92e0c5bc92b834bd:db57b41b9eb0081dd72d1b2da3eea767$</string>
+            <string>$TexturePacker:SmartUpdate:9ac0e2f6fcc6352f186e1b557a7a050c:51bdbd3f5383ac6fa51d05b18885eb13:db57b41b9eb0081dd72d1b2da3eea767$</string>
             <key>textureFileName</key>
             <string>splash-screen.png</string>
         </dict>
