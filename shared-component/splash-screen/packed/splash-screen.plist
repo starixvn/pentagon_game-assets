@@ -45,7 +45,7 @@
                 <key>spriteSourceSize</key>
                 <string>{49,49}</string>
                 <key>textureRect</key>
-                <string>{{451,645},{49,49}}</string>
+                <string>{{455,645},{49,49}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -60,9 +60,9 @@
                 <key>spriteSourceSize</key>
                 <string>{393,140}</string>
                 <key>textureRect</key>
-                <string>{{9,860},{393,140}}</string>
+                <string>{{307,218},{393,140}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>logo_sabaplay.png</key>
             <dict>
@@ -86,13 +86,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{434,320}</string>
+                <string>{361,320}</string>
                 <key>spriteSourceSize</key>
-                <string>{434,320}</string>
+                <string>{361,320}</string>
                 <key>textureRect</key>
-                <string>{{9,218},{434,320}}</string>
+                <string>{{9,645},{361,320}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>logo_vgaming.png</key>
             <dict>
@@ -105,9 +105,9 @@
                 <key>spriteSourceSize</key>
                 <string>{411,296}</string>
                 <key>textureRect</key>
-                <string>{{9,540},{411,296}}</string>
+                <string>{{9,218},{411,296}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>progress-bar.png</key>
             <dict>
@@ -135,7 +135,7 @@
                 <key>spriteSourceSize</key>
                 <string>{640,4}</string>
                 <key>textureRect</key>
-                <string>{{445,218},{640,4}}</string>
+                <string>{{449,218},{640,4}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -153,7 +153,7 @@
             <key>size</key>
             <string>{512,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:9ac0e2f6fcc6352f186e1b557a7a050c:51bdbd3f5383ac6fa51d05b18885eb13:db57b41b9eb0081dd72d1b2da3eea767$</string>
+            <string>$TexturePacker:SmartUpdate:4fd9d7bc499d871621a32402ae5e74a9:668d868ae5d8d14388f4b128efda86a6:db57b41b9eb0081dd72d1b2da3eea767$</string>
             <key>textureFileName</key>
             <string>splash-screen.png</string>
         </dict>
