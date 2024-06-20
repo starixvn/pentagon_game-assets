@@ -3,12 +3,16 @@
 import os
 import shutil
 import subprocess
+import sys
 
 if __name__ == '__main__':
     current_dir = os.path.dirname(os.path.realpath(__file__))
     project_dir = os.path.join(current_dir, '..')
 
     images_dir = "mini-coin-toss"
+    if len(sys.argv) > 1:
+        images_dir = sys.argv[1]
+    
 
     # Pack.
     packer_path = os.path.join(
