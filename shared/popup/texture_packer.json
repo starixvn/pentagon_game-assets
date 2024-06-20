@@ -25,7 +25,7 @@
       ["--algorithm", "MaxRects"],
       ["--opt", "RGBA8888"],
       ["--max-height", 2048],
-      ["--size-constraints", "POT"],
+      ["--size-constraints", "AnySize"],
       ["--png-opt-level", 0],
       ["--alpha-handling", "KeepTransparentPixels"],
       ["--max-width", 2048],
