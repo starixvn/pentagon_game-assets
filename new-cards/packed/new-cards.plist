@@ -199,6 +199,21 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>bg_blur_number.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{51,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{51,28}</string>
+                <key>textureRect</key>
+                <string>{{875,2},{51,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>card_back_overlay.png</key>
             <dict>
                 <key>aliases</key>
@@ -513,7 +528,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:cdc3bdb58b473a422355f30d01a89a2d:532ec850e6bcd400aaa8c59355d49cb9:173595c54da4847246e955b08da1fe15$</string>
+            <string>$TexturePacker:SmartUpdate:87aa0244a8c0b4aa30e8d7ad6694f938:793a2c4bf77bd810373d665a6316a3c5:173595c54da4847246e955b08da1fe15$</string>
             <key>textureFileName</key>
             <string>new-cards.png</string>
         </dict>
