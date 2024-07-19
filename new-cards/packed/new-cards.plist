@@ -199,6 +199,21 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>bg-burn-card.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{45,59}</string>
+                <key>spriteSourceSize</key>
+                <string>{45,59}</string>
+                <key>textureRect</key>
+                <string>{{875,2},{45,59}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>bg_blur_number.png</key>
             <dict>
                 <key>aliases</key>
@@ -210,7 +225,7 @@
                 <key>spriteSourceSize</key>
                 <string>{51,28}</string>
                 <key>textureRect</key>
-                <string>{{875,2},{51,28}}</string>
+                <string>{{923,2},{51,28}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -543,7 +558,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:8a0b69acfd0af32966019c5972f1bde0:ea45eb153197d44825cff2749022f19b:173595c54da4847246e955b08da1fe15$</string>
+            <string>$TexturePacker:SmartUpdate:98e2cb9b41d57f2b5ed6dd6aa0affb96:1d2bca2a3bbf44dc819cea26e9c3de22:173595c54da4847246e955b08da1fe15$</string>
             <key>textureFileName</key>
             <string>new-cards.png</string>
         </dict>
