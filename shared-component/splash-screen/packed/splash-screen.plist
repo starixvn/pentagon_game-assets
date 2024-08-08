@@ -15,7 +15,7 @@
                 <key>spriteSourceSize</key>
                 <string>{1,788}</string>
                 <key>textureRect</key>
-                <string>{{3,218},{1,788}}</string>
+                <string>{{15,54},{1,788}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -30,7 +30,37 @@
                 <key>spriteSourceSize</key>
                 <string>{788,1}</string>
                 <key>textureRect</key>
-                <string>{{6,218},{788,1}}</string>
+                <string>{{18,54},{788,1}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>loading-bg.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{667,10}</string>
+                <key>spriteSourceSize</key>
+                <string>{667,10}</string>
+                <key>textureRect</key>
+                <string>{{3,54},{667,10}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>loading-line.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{662,6}</string>
+                <key>spriteSourceSize</key>
+                <string>{662,6}</string>
+                <key>textureRect</key>
+                <string>{{54,3},{662,6}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -45,99 +75,9 @@
                 <key>spriteSourceSize</key>
                 <string>{49,49}</string>
                 <key>textureRect</key>
-                <string>{{455,645},{49,49}}</string>
+                <string>{{3,3},{49,49}}</string>
                 <key>textureRotated</key>
                 <false/>
-            </dict>
-            <key>logo_saba.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{393,140}</string>
-                <key>spriteSourceSize</key>
-                <string>{393,140}</string>
-                <key>textureRect</key>
-                <string>{{307,218},{393,140}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
-            <key>logo_sabaplay.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{457,213}</string>
-                <key>spriteSourceSize</key>
-                <string>{457,213}</string>
-                <key>textureRect</key>
-                <string>{{3,3},{457,213}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>logo_soibet.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{361,320}</string>
-                <key>spriteSourceSize</key>
-                <string>{361,320}</string>
-                <key>textureRect</key>
-                <string>{{9,645},{361,320}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
-            <key>logo_vgaming.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{411,296}</string>
-                <key>spriteSourceSize</key>
-                <string>{411,296}</string>
-                <key>textureRect</key>
-                <string>{{9,218},{411,296}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
-            <key>progress-bar.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{640,4}</string>
-                <key>spriteSourceSize</key>
-                <string>{640,4}</string>
-                <key>textureRect</key>
-                <string>{{462,3},{640,4}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
-            <key>progress-bg.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{640,4}</string>
-                <key>spriteSourceSize</key>
-                <string>{640,4}</string>
-                <key>textureRect</key>
-                <string>{{449,218},{640,4}}</string>
-                <key>textureRotated</key>
-                <true/>
             </dict>
         </dict>
         <key>metadata</key>
@@ -151,9 +91,9 @@
             <key>realTextureFileName</key>
             <string>splash-screen.png</string>
             <key>size</key>
-            <string>{512,1024}</string>
+            <string>{64,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:4fd9d7bc499d871621a32402ae5e74a9:668d868ae5d8d14388f4b128efda86a6:db57b41b9eb0081dd72d1b2da3eea767$</string>
+            <string>$TexturePacker:SmartUpdate:27a188d408cce5df9bee306e0e483f5a:5934c4e4401d7b170729eff888a3898d:db57b41b9eb0081dd72d1b2da3eea767$</string>
             <key>textureFileName</key>
             <string>splash-screen.png</string>
         </dict>
