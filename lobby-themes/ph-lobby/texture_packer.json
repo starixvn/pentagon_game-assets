@@ -61,7 +61,7 @@
             ],
             [
                 "--size-constraints",
-                "POT"
+                "AnySize"
             ],
             [
                 "--png-opt-level",
