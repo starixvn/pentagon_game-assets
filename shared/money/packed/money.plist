@@ -363,7 +363,7 @@
             <key>size</key>
             <string>{512,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:20438f682084bd0f9408f0532d7211db:d38956ba26f8c0992252ab8639180394:3c02825eb380eb1e5a25f88264fb2632$</string>
+            <string>$TexturePacker:SmartUpdate:8fd22ce1d21369528556e18d2bd285fe:24a6f929d64011cb2fd7acd609ed10e8:3c02825eb380eb1e5a25f88264fb2632$</string>
             <key>textureFileName</key>
             <string>money.png</string>
         </dict>

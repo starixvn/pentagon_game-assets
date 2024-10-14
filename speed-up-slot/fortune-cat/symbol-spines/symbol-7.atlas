@@ -1,0 +1,27 @@
+
+symbol-7.png
+size: 383,122
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+item/item-freespin/item-freespin-bg
+  rotate: false
+  xy: 2, 2
+  size: 148, 118
+  orig: 149, 118
+  offset: 0, 0
+  index: -1
+item/item-freespin/item-freespin-gold
+  rotate: false
+  xy: 152, 10
+  size: 140, 110
+  orig: 140, 110
+  offset: 0, 0
+  index: -1
+item/item-freespin/item-freespin-text
+  rotate: true
+  xy: 294, 13
+  size: 107, 87
+  orig: 125, 88
+  offset: 7, 1
+  index: -1

@@ -1,0 +1,27 @@
+
+symbol-10.png
+size: 158,129
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+item/item-8
+  rotate: false
+  xy: 2, 2
+  size: 87, 125
+  orig: 87, 125
+  offset: 0, 0
+  index: -1
+item/item-8-highlightA
+  rotate: false
+  xy: 91, 14
+  size: 48, 32
+  orig: 49, 34
+  offset: 0, 1
+  index: -1
+item/item-8-highlightB
+  rotate: false
+  xy: 91, 48
+  size: 65, 79
+  orig: 72, 86
+  offset: 3, 6
+  index: -1
