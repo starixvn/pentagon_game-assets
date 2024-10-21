@@ -2,14 +2,14 @@
   "children": [
     {
       "options": {
-        "input_files": [["", "*.png"]]
+        "input_files": [["", "*.webp"]]
       },
       "children": [
         {
           "options": {
             "params": ["--texture-format", "webp"],
             "sheet_extension": "webp",
-            "output_path": ["ph-setting-menu"]
+            "output_path": ["ph-setting-menu-webp"]
           }
         }
       ]
