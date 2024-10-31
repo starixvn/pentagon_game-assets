@@ -14,9 +14,9 @@
                     "options": {
                         "params": [
                             "--texture-format",
-                            "png"
+                            "webp"
                         ],
-                        "sheet_extension": "png",
+                        "sheet_extension": "webp",
                         "output_path": [
                             "SharedTextures"
                         ]

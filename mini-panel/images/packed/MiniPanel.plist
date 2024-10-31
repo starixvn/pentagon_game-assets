@@ -464,13 +464,13 @@
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
-            <string>MiniPanel.png</string>
+            <string>MiniPanel.webp</string>
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:46793d3d5200ba0d1c84987691d29dd2:4233ae3890f77c82892bc6f182488590:e00f4ea146dec4aa0626ded56d8aa570$</string>
+            <string>$TexturePacker:SmartUpdate:01fd6f3274268e815a651c4c11f0f045:4233ae3890f77c82892bc6f182488590:c4db1b6bee67f10c956f6873d99e629b$</string>
             <key>textureFileName</key>
-            <string>MiniPanel.png</string>
+            <string>MiniPanel.webp</string>
         </dict>
     </dict>
 </plist>

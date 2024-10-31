@@ -9,7 +9,7 @@
           "options": {
             "params": ["--texture-format", "webp"],
             "sheet_extension": "webp",
-            "output_path": ["avatar-new-style"]
+            "output_path": ["Avatar-new-style"]
           }
         }
       ]
