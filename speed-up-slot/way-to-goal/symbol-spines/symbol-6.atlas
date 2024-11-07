@@ -1,0 +1,34 @@
+
+symbol-6.png
+size: 453,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+item-6
+  rotate: false
+  xy: 161, 20
+  size: 149, 104
+  orig: 150, 150
+  offset: 0, 22
+  index: -1
+item-6-draft
+  rotate: true
+  xy: 2, 4
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+item-6-light
+  rotate: true
+  xy: 312, 2
+  size: 122, 139
+  orig: 150, 150
+  offset: 11, 0
+  index: -1
+item-6-outer
+  rotate: false
+  xy: 2, 14
+  size: 157, 110
+  orig: 161, 112
+  offset: 2, 1
+  index: -1

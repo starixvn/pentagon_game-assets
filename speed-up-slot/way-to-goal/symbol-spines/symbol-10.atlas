@@ -1,0 +1,13 @@
+
+symbol-10.png
+size: 74,135
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+item-10/waytogoal_00
+  rotate: false
+  xy: 2, 2
+  size: 70, 131
+  orig: 73, 135
+  offset: 2, 1
+  index: -1

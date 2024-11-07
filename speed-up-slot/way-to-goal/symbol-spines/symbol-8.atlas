@@ -1,0 +1,146 @@
+
+symbol-8.png
+size: 724,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 134
+  size: 140, 140
+  orig: 150, 150
+  offset: 5, 5
+  index: -1
+bonus text
+  rotate: true
+  xy: 286, 163
+  size: 111, 34
+  orig: 113, 37
+  offset: 1, 1
+  index: -1
+còi
+  rotate: true
+  xy: 558, 68
+  size: 100, 75
+  orig: 102, 77
+  offset: 1, 1
+  index: -1
+khung
+  rotate: false
+  xy: 144, 134
+  size: 140, 140
+  orig: 150, 150
+  offset: 5, 5
+  index: -1
+vfx/10
+  rotate: true
+  xy: 444, 18
+  size: 33, 32
+  orig: 160, 154
+  offset: 62, 57
+  index: -1
+vfx/11
+  rotate: true
+  xy: 407, 12
+  size: 39, 35
+  orig: 160, 154
+  offset: 59, 54
+  index: -1
+vfx/12
+  rotate: true
+  xy: 360, 2
+  size: 49, 45
+  orig: 160, 154
+  offset: 53, 49
+  index: -1
+vfx/13
+  rotate: false
+  xy: 478, 2
+  size: 61, 56
+  orig: 160, 154
+  offset: 47, 42
+  index: -1
+vfx/14
+  rotate: false
+  xy: 635, 10
+  size: 81, 69
+  orig: 160, 154
+  offset: 37, 34
+  index: -1
+vfx/15
+  rotate: true
+  xy: 322, 164
+  size: 110, 90
+  orig: 160, 154
+  offset: 24, 23
+  index: -1
+vfx/16
+  rotate: true
+  xy: 360, 53
+  size: 109, 90
+  orig: 160, 154
+  offset: 27, 25
+  index: -1
+vfx/17
+  rotate: true
+  xy: 452, 60
+  size: 105, 104
+  orig: 160, 154
+  offset: 33, 31
+  index: -1
+vfx/18
+  rotate: true
+  xy: 2, 9
+  size: 123, 120
+  orig: 160, 154
+  offset: 17, 16
+  index: -1
+vfx/19
+  rotate: true
+  xy: 124, 10
+  size: 122, 120
+  orig: 160, 154
+  offset: 17, 16
+  index: -1
+vfx/20
+  rotate: false
+  xy: 246, 13
+  size: 112, 119
+  orig: 160, 154
+  offset: 17, 16
+  index: -1
+vfx/21
+  rotate: true
+  xy: 414, 167
+  size: 107, 106
+  orig: 160, 154
+  offset: 18, 22
+  index: -1
+vfx/22
+  rotate: true
+  xy: 522, 170
+  size: 104, 103
+  orig: 160, 154
+  offset: 19, 22
+  index: -1
+vfx/23
+  rotate: true
+  xy: 627, 176
+  size: 98, 95
+  orig: 160, 154
+  offset: 21, 24
+  index: -1
+vfx/24
+  rotate: true
+  xy: 635, 81
+  size: 93, 74
+  orig: 160, 154
+  offset: 24, 28
+  index: -1
+vfx/9
+  rotate: false
+  xy: 322, 134
+  size: 29, 28
+  orig: 160, 154
+  offset: 64, 60
+  index: -1

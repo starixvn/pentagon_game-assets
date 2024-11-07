@@ -1,0 +1,125 @@
+
+symbol-7.png
+size: 832,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 520, 133
+  size: 140, 140
+  orig: 150, 150
+  offset: 5, 5
+  index: -1
+freespin
+  rotate: false
+  xy: 646, 7
+  size: 132, 34
+  orig: 132, 35
+  offset: 0, 0
+  index: -1
+giay
+  rotate: false
+  xy: 443, 6
+  size: 136, 123
+  orig: 150, 150
+  offset: 5, 20
+  index: -1
+khung
+  rotate: false
+  xy: 662, 133
+  size: 140, 140
+  orig: 150, 150
+  offset: 5, 5
+  index: -1
+light
+  rotate: true
+  xy: 782, 80
+  size: 51, 48
+  orig: 56, 52
+  offset: 3, 2
+  index: -1
+vfx1/1
+  rotate: true
+  xy: 782, 51
+  size: 27, 24
+  orig: 160, 154
+  offset: 67, 64
+  index: -1
+vfx1/10
+  rotate: false
+  xy: 2, 2
+  size: 142, 115
+  orig: 160, 154
+  offset: 9, 19
+  index: -1
+vfx1/11
+  rotate: false
+  xy: 146, 7
+  size: 145, 113
+  orig: 160, 154
+  offset: 8, 20
+  index: -1
+vfx1/12
+  rotate: true
+  xy: 303, 130
+  size: 143, 103
+  orig: 160, 154
+  offset: 9, 25
+  index: -1
+vfx1/13
+  rotate: false
+  xy: 646, 43
+  size: 134, 88
+  orig: 160, 154
+  offset: 13, 32
+  index: -1
+vfx1/15
+  rotate: true
+  xy: 581, 11
+  size: 120, 63
+  orig: 160, 154
+  offset: 20, 45
+  index: -1
+vfx1/2
+  rotate: false
+  xy: 780, 8
+  size: 32, 33
+  orig: 160, 154
+  offset: 64, 60
+  index: -1
+vfx1/4
+  rotate: true
+  xy: 213, 122
+  size: 151, 88
+  orig: 160, 154
+  offset: 5, 32
+  index: -1
+vfx1/5
+  rotate: true
+  xy: 2, 119
+  size: 154, 101
+  orig: 160, 154
+  offset: 3, 26
+  index: -1
+vfx1/6
+  rotate: true
+  xy: 105, 122
+  size: 151, 106
+  orig: 160, 154
+  offset: 5, 23
+  index: -1
+vfx1/8
+  rotate: false
+  xy: 293, 10
+  size: 148, 110
+  orig: 160, 154
+  offset: 6, 21
+  index: -1
+vfx1/9
+  rotate: true
+  xy: 408, 131
+  size: 142, 110
+  orig: 160, 154
+  offset: 9, 21
+  index: -1
