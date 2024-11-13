@@ -776,11 +776,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{26,26}</string>
+                <string>{27,27}</string>
                 <key>spriteSourceSize</key>
-                <string>{26,26}</string>
+                <string>{27,27}</string>
                 <key>textureRect</key>
-                <string>{{609,735},{26,26}}</string>
+                <string>{{609,735},{27,27}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -795,7 +795,7 @@
                 <key>spriteSourceSize</key>
                 <string>{26,26}</string>
                 <key>textureRect</key>
-                <string>{{637,735},{26,26}}</string>
+                <string>{{638,735},{26,26}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -810,7 +810,7 @@
                 <key>spriteSourceSize</key>
                 <string>{26,26}</string>
                 <key>textureRect</key>
-                <string>{{665,735},{26,26}}</string>
+                <string>{{666,735},{26,26}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -825,7 +825,7 @@
                 <key>spriteSourceSize</key>
                 <string>{80,47}</string>
                 <key>textureRect</key>
-                <string>{{693,735},{80,47}}</string>
+                <string>{{694,735},{80,47}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -840,7 +840,7 @@
                 <key>spriteSourceSize</key>
                 <string>{244,257}</string>
                 <key>textureRect</key>
-                <string>{{775,735},{244,257}}</string>
+                <string>{{776,735},{244,257}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -858,7 +858,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:fb7c24615dd1a9c335c2701451b00f45:1ddc631048e5839ffebd09087b06dadb:02d6b1aeea92acaa7a982df683ec03f4$</string>
+            <string>$TexturePacker:SmartUpdate:b73f753fb158ee75e18b0f41ddaa2b83:84a7bb1edbf7396fbfce6e46b29f809b:02d6b1aeea92acaa7a982df683ec03f4$</string>
             <key>textureFileName</key>
             <string>mini-seven-updown.webp</string>
         </dict>
