@@ -1,0 +1,20 @@
+
+symbol-0.png
+size: 230,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+halo
+  rotate: true
+  xy: 144, 55
+  size: 85, 84
+  orig: 93, 93
+  offset: 4, 4
+  index: -1
+item-0
+  rotate: false
+  xy: 2, 2
+  size: 140, 138
+  orig: 150, 150
+  offset: 5, 6
+  index: -1

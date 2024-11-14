@@ -1,0 +1,125 @@
+
+symbol-7.png
+size: 323,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+item-10/blink
+  rotate: true
+  xy: 2, 2
+  size: 22, 41
+  orig: 23, 47
+  offset: 0, 4
+  index: -1
+item-7
+  rotate: false
+  xy: 2, 130
+  size: 136, 136
+  orig: 150, 150
+  offset: 7, 7
+  index: -1
+item-7-effect
+  rotate: false
+  xy: 2, 58
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+item-7-text
+  rotate: false
+  xy: 2, 26
+  size: 133, 30
+  orig: 150, 150
+  offset: 8, 56
+  index: -1
+item-7/ball_00000
+  rotate: false
+  xy: 136, 69
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+item-7/ball_00003
+  rotate: false
+  xy: 137, 8
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+item-7/ball_00006
+  rotate: false
+  xy: 140, 207
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+item-7/ball_00009
+  rotate: false
+  xy: 140, 146
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+item-7/ball_00012
+  rotate: false
+  xy: 197, 85
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+item-7/ball_00015
+  rotate: false
+  xy: 198, 24
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+item-7/ball_00018
+  rotate: false
+  xy: 201, 207
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+item-7/ball_00021
+  rotate: false
+  xy: 201, 146
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+item-7/ball_00024
+  rotate: false
+  xy: 258, 85
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+item-7/ball_00027
+  rotate: false
+  xy: 259, 24
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+item-7/ball_00030
+  rotate: false
+  xy: 262, 207
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+item-7/ball_00033
+  rotate: false
+  xy: 262, 146
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+item-7/ball_00035
+  rotate: false
+  xy: 74, 68
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1

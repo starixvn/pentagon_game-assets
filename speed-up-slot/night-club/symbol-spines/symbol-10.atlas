@@ -1,0 +1,55 @@
+
+symbol-10.png
+size: 125,343
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+halo-10
+  rotate: false
+  xy: 2, 193
+  size: 121, 148
+  orig: 150, 150
+  offset: 21, 0
+  index: -1
+item-10/blink
+  rotate: false
+  xy: 57, 14
+  size: 22, 41
+  orig: 23, 47
+  offset: 0, 4
+  index: -1
+item-10/cup-transparent
+  rotate: false
+  xy: 2, 57
+  size: 86, 46
+  orig: 150, 150
+  offset: 32, 83
+  index: -1
+item-10/fruit
+  rotate: true
+  xy: 2, 15
+  size: 40, 53
+  orig: 150, 150
+  offset: 83, 86
+  index: -1
+item-10/glass
+  rotate: true
+  xy: 2, 105
+  size: 86, 121
+  orig: 150, 150
+  offset: 32, 11
+  index: -1
+item-10/lemon
+  rotate: false
+  xy: 81, 2
+  size: 35, 35
+  orig: 150, 150
+  offset: 98, 101
+  index: -1
+item-10/liquid
+  rotate: true
+  xy: 90, 39
+  size: 64, 30
+  orig: 150, 150
+  offset: 43, 85
+  index: -1

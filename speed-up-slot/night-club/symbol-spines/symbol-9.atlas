@@ -1,0 +1,20 @@
+
+symbol-9.png
+size: 154,145
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+halo-9
+  rotate: false
+  xy: 2, 67
+  size: 150, 76
+  orig: 150, 150
+  offset: 0, 39
+  index: -1
+item9
+  rotate: false
+  xy: 2, 2
+  size: 141, 63
+  orig: 150, 150
+  offset: 6, 45
+  index: -1

@@ -1,0 +1,132 @@
+
+winning-animation.png
+size: 1766,394
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame-use/0
+  rotate: false
+  xy: 2, 198
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+frame-use/1
+  rotate: false
+  xy: 2, 2
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+frame-use/10
+  rotate: false
+  xy: 982, 198
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+frame-use/11
+  rotate: false
+  xy: 982, 2
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+frame-use/12
+  rotate: false
+  xy: 1178, 198
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+frame-use/13
+  rotate: false
+  xy: 1178, 2
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+frame-use/14
+  rotate: false
+  xy: 1374, 198
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+frame-use/15
+  rotate: false
+  xy: 1374, 2
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+frame-use/16
+  rotate: false
+  xy: 1570, 198
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+frame-use/17
+  rotate: false
+  xy: 1570, 2
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+frame-use/2
+  rotate: false
+  xy: 198, 198
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+frame-use/3
+  rotate: false
+  xy: 198, 2
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+frame-use/4
+  rotate: false
+  xy: 394, 198
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+frame-use/5
+  rotate: false
+  xy: 394, 2
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+frame-use/6
+  rotate: false
+  xy: 590, 198
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+frame-use/7
+  rotate: false
+  xy: 590, 2
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+frame-use/8
+  rotate: false
+  xy: 786, 198
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+frame-use/9
+  rotate: false
+  xy: 786, 2
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
