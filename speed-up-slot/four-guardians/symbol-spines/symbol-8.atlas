@@ -1,0 +1,55 @@
+
+symbol-8.png
+size: 311,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BONUS
+  rotate: false
+  xy: 154, 3
+  size: 122, 24
+  orig: 124, 26
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 2, 2
+  size: 150, 150
+  orig: 152, 152
+  offset: 1, 1
+  index: -1
+light1
+  rotate: false
+  xy: 269, 112
+  size: 40, 40
+  orig: 48, 48
+  offset: 3, 4
+  index: -1
+light1 copy
+  rotate: false
+  xy: 269, 76
+  size: 33, 34
+  orig: 40, 40
+  offset: 3, 3
+  index: -1
+light1 copy 2
+  rotate: false
+  xy: 269, 76
+  size: 33, 34
+  orig: 40, 40
+  offset: 3, 3
+  index: -1
+light1 copy 3
+  rotate: false
+  xy: 269, 76
+  size: 33, 34
+  orig: 40, 40
+  offset: 3, 3
+  index: -1
+ruong
+  rotate: true
+  xy: 154, 29
+  size: 123, 113
+  orig: 126, 116
+  offset: 1, 1
+  index: -1

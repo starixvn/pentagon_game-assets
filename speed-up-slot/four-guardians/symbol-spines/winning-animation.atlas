@@ -1,0 +1,34 @@
+
+winning animation.png
+size: 320,336
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 165
+  size: 175, 169
+  orig: 185, 192
+  offset: 4, 5
+  index: -1
+bui
+  rotate: false
+  xy: 2, 6
+  size: 159, 157
+  orig: 163, 162
+  offset: 2, 2
+  index: -1
+sang
+  rotate: true
+  xy: 179, 189
+  size: 145, 139
+  orig: 157, 151
+  offset: 3, 10
+  index: -1
+tiasang
+  rotate: false
+  xy: 163, 2
+  size: 155, 161
+  orig: 185, 182
+  offset: 14, 15
+  index: -1

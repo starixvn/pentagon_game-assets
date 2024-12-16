@@ -1,0 +1,48 @@
+
+symbol-2.png
+size: 669,125
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+drum_00001
+  rotate: true
+  xy: 225, 2
+  size: 121, 109
+  orig: 121, 109
+  offset: 0, 0
+  index: -1
+drum_00003
+  rotate: true
+  xy: 336, 2
+  size: 121, 109
+  orig: 121, 109
+  offset: 0, 0
+  index: -1
+drum_00005
+  rotate: true
+  xy: 447, 2
+  size: 121, 109
+  orig: 121, 109
+  offset: 0, 0
+  index: -1
+drum_00007
+  rotate: true
+  xy: 558, 2
+  size: 121, 109
+  orig: 121, 109
+  offset: 0, 0
+  index: -1
+drum_00009
+  rotate: true
+  xy: 114, 2
+  size: 121, 109
+  orig: 121, 109
+  offset: 0, 0
+  index: -1
+item-drum
+  rotate: true
+  xy: 2, 2
+  size: 121, 110
+  orig: 121, 110
+  offset: 0, 0
+  index: -1

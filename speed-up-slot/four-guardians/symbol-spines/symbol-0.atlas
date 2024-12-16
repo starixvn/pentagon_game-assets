@@ -1,0 +1,41 @@
+
+symbol-0.png
+size: 194,131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: true
+  xy: 139, 98
+  size: 31, 51
+  orig: 33, 53
+  offset: 1, 1
+  index: -1
+Layer 1 copy
+  rotate: false
+  xy: 2, 2
+  size: 135, 127
+  orig: 137, 129
+  offset: 1, 1
+  index: -1
+Layer 2
+  rotate: true
+  xy: 139, 64
+  size: 32, 44
+  orig: 34, 46
+  offset: 1, 1
+  index: -1
+dui
+  rotate: true
+  xy: 139, 9
+  size: 25, 49
+  orig: 27, 52
+  offset: 1, 2
+  index: -1
+dui 2
+  rotate: true
+  xy: 139, 36
+  size: 26, 53
+  orig: 28, 55
+  offset: 1, 1
+  index: -1

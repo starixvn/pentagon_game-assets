@@ -1,0 +1,41 @@
+
+symbol-0.png
+size: 212,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud1
+  rotate: true
+  xy: 180, 59
+  size: 72, 30
+  orig: 72, 30
+  offset: 0, 0
+  index: -1
+cloud2
+  rotate: true
+  xy: 150, 52
+  size: 79, 28
+  orig: 79, 28
+  offset: 0, 0
+  index: -1
+moutain
+  rotate: false
+  xy: 2, 6
+  size: 146, 125
+  orig: 150, 150
+  offset: 3, 15
+  index: -1
+moutain-tree
+  rotate: true
+  xy: 182, 2
+  size: 55, 28
+  orig: 55, 28
+  offset: 0, 0
+  index: -1
+moutain_grass
+  rotate: true
+  xy: 150, 7
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
