@@ -573,7 +573,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:458ed2ecae5cc6218d064852247960c4:bbda9cf4dd1704e7fa639a54b5c44a92:b2207dac39b18f5526a9de3d4cc4e4c3$</string>
+            <string>$TexturePacker:SmartUpdate:045e65210687a349b9f3519809380291:bbda9cf4dd1704e7fa639a54b5c44a92:b2207dac39b18f5526a9de3d4cc4e4c3$</string>
             <key>textureFileName</key>
             <string>mini-coin-toss.png</string>
         </dict>
