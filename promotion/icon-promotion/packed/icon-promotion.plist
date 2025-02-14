@@ -359,13 +359,13 @@
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
-            <string>icon-promotion.png</string>
+            <string>icon-promotion.webp</string>
             <key>size</key>
             <string>{256,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:24f7b5a0d7f8a8b2a7c20bc3e00608e2:b783961ca0556d70aa48a0ad9eb98abe:60abb1e96638812ec688299684ce915b$</string>
+            <string>$TexturePacker:SmartUpdate:d5ae450f12ef5b8fc38fee2bffc543d1:b783961ca0556d70aa48a0ad9eb98abe:f2e376d53958023d96f62fcf09528194$</string>
             <key>textureFileName</key>
-            <string>icon-promotion.png</string>
+            <string>icon-promotion.webp</string>
         </dict>
     </dict>
 </plist>
