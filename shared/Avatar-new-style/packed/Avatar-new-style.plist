@@ -64,7 +64,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>THANG_zh-Hans.png</key>
+            <key>THANG_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -79,7 +79,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>THANG_zh-Hant.png</key>
+            <key>THANG_zh_tw.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -258,7 +258,7 @@
             <key>size</key>
             <string>{647,1350}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:cda9c82dc3d5e1bf2164067a48de554f:e653dea31457f7c133941b7bd2a7727f:447d528b913c64e3e9aa4696322a5d7f$</string>
+            <string>$TexturePacker:SmartUpdate:20415cc1ddd919f7e7f2ee20464656b7:e653dea31457f7c133941b7bd2a7727f:447d528b913c64e3e9aa4696322a5d7f$</string>
             <key>textureFileName</key>
             <string>Avatar-new-style.webp</string>
         </dict>
