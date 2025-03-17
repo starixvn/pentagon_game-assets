@@ -569,13 +569,13 @@
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
-            <string>new-cards.png</string>
+            <string>new-cards.webp</string>
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:db03b788e867adfb6f80b6789ab3f7b9:41021a18c3b2b93b7124614153720f2f:173595c54da4847246e955b08da1fe15$</string>
+            <string>$TexturePacker:SmartUpdate:590b100d085aa3e264e14d8968e96b19:41021a18c3b2b93b7124614153720f2f:19ee055f24389e3406114f2f217958cf$</string>
             <key>textureFileName</key>
-            <string>new-cards.png</string>
+            <string>new-cards.webp</string>
         </dict>
     </dict>
 </plist>
