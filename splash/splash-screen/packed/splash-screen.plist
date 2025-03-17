@@ -41,11 +41,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{640,4}</string>
+                <string>{316,8}</string>
                 <key>spriteSourceSize</key>
-                <string>{640,4}</string>
+                <string>{316,8}</string>
                 <key>textureRect</key>
-                <string>{{111,3},{640,4}}</string>
+                <string>{{54,65},{316,8}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -56,11 +56,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{640,4}</string>
+                <string>{322,14}</string>
                 <key>spriteSourceSize</key>
-                <string>{640,4}</string>
+                <string>{322,14}</string>
                 <key>textureRect</key>
-                <string>{{117,3},{640,4}}</string>
+                <string>{{111,3},{322,14}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -74,13 +74,13 @@
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
-            <string>splash-screen.png</string>
+            <string>splash-screen.webp</string>
             <key>size</key>
-            <string>{128,1024}</string>
+            <string>{128,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:e91d43fe191c800f432f614e049554c7:cb42f55f654fe19ed70614718be22c0c:db57b41b9eb0081dd72d1b2da3eea767$</string>
+            <string>$TexturePacker:SmartUpdate:4afbd4cba2bfc87810839cac78f93953:20fd77cb2be4512ccfcaececdbf2e67b:42092bd6b0667230ec43dd136836323d$</string>
             <key>textureFileName</key>
-            <string>splash-screen.png</string>
+            <string>splash-screen.webp</string>
         </dict>
     </dict>
 </plist>
