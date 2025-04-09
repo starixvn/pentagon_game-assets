@@ -1,43 +1,29 @@
 
 symbol-3.png
-size: 231,147
+size: 227,147
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-coin 1
-  rotate: false
-  xy: 202, 44
-  size: 21, 21
-  orig: 21, 21
-  offset: 0, 0
-  index: -1
-coin2
-  rotate: false
-  xy: 174, 24
-  size: 26, 19
-  orig: 27, 20
-  offset: 0, 1
-  index: -1
-coin3
-  rotate: false
-  xy: 174, 45
-  size: 26, 20
-  orig: 26, 20
-  offset: 0, 0
-  index: -1
-firecracker
-  rotate: false
-  xy: 174, 67
-  size: 55, 78
-  orig: 58, 78
-  offset: 3, 0
-  index: -1
 light
   rotate: false
   xy: 2, 2
   size: 170, 143
   orig: 186, 157
   offset: 8, 7
+  index: -1
+shadow
+  rotate: true
+  xy: 174, 13
+  size: 65, 44
+  orig: 71, 49
+  offset: 3, 3
+  index: -1
+silver
+  rotate: true
+  xy: 174, 80
+  size: 65, 51
+  orig: 78, 82
+  offset: 7, 13
   index: -1
 
 symbol-02.png
@@ -60,41 +46,7 @@ background/bg2
   offset: 0, 0
   index: -1
 
-symbol-33.png
-size: 257,96
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-Firesimulator/explosion-star-01
-  rotate: true
-  xy: 186, 5
-  size: 89, 69
-  orig: 114, 115
-  offset: 21, 17
-  index: -1
-Firesimulator/explosion-star-02
-  rotate: true
-  xy: 101, 8
-  size: 86, 83
-  orig: 114, 115
-  offset: 15, 16
-  index: -1
-Firesimulator/explosion-star-04
-  rotate: true
-  xy: 101, 8
-  size: 86, 83
-  orig: 114, 115
-  offset: 15, 16
-  index: -1
-Firesimulator/explosion-star-03
-  rotate: true
-  xy: 2, 2
-  size: 92, 97
-  orig: 114, 115
-  offset: 8, 7
-  index: -1
-
-symbol-03.png
+symbol-53.png
 size: 176,529
 format: RGBA8888
 filter: Linear,Linear

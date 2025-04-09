@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "AT2DBHQzUB/WS8Q8jaBSfTrVWHg", "spine": "3.8.99", "x": -131.14, "y": -107.46, "width": 262.29, "height": 195.43 },
+"skeleton": { "hash": "WChe3/mlI2O+gJGjjmdg9cnyXz0", "spine": "3.8.99", "x": -131.14, "y": -107.46, "width": 262.29, "height": 195.43 },
 "bones": [
 	{ "name": "root" },
 	{ "name": "images/bgP1", "parent": "root" },
@@ -18,8 +18,8 @@
 	{ "name": "images/bgP1", "bone": "images/bgP1", "attachment": "bgP1" },
 	{ "name": "images/shadowP", "bone": "images/shadowP", "attachment": "shadowP" },
 	{ "name": "images/pearl", "bone": "images/pearl", "attachment": "pearl" },
-	{ "name": "grayhit", "bone": "Explose1", "color": "e553e0ff", "attachment": "explose-hit/gray-hit-00", "blend": "additive" },
-	{ "name": "fire", "bone": "Explose2", "color": "e553e0ff", "attachment": "multiplier-fire/multiplier_fire6", "blend": "additive" },
+	{ "name": "grayhit", "bone": "Explose1", "color": "ff1e1eff", "attachment": "explose-hit/gray-hit-00", "blend": "additive" },
+	{ "name": "fire", "bone": "Explose2", "color": "ff1f1fff", "attachment": "multiplier-fire/multiplier_fire6", "blend": "additive" },
 	{ "name": "star", "bone": "star", "attachment": "blink-star", "blend": "additive" },
 	{ "name": "star2", "bone": "star2", "attachment": "blink-star", "blend": "additive" }
 ],
@@ -73,8 +73,8 @@
 		"slots": {
 			"fire": {
 				"color": [
-					{ "color": "e553e0ff" },
-					{ "time": 0.6, "color": "e553e000" }
+					{ "color": "ff1e1eff" },
+					{ "time": 0.6, "color": "ff1e1e00" }
 				],
 				"attachment": [
 					{ "time": 0.1, "name": "multiplier-fire/multiplier_fire7" },
@@ -88,8 +88,8 @@
 			},
 			"grayhit": {
 				"color": [
-					{ "color": "e553e0ff" },
-					{ "time": 0.5, "color": "e553e000" }
+					{ "color": "ff1e1eff" },
+					{ "time": 0.5, "color": "ff1e1e00" }
 				],
 				"attachment": [
 					{ "time": 0.1, "name": "explose-hit/gray-hit-01" },

@@ -20,9 +20,9 @@ blink-star
   index: -1
 pearl
   rotate: true
-  xy: 2, 16
-  size: 283, 272
-  orig: 283, 272
+  xy: 2, 15
+  size: 284, 272
+  orig: 284, 272
   offset: 0, 0
   index: -1
 shadowP

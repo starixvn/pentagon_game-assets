@@ -1,6 +1,6 @@
 
 symbol-6.png
-size: 174,213
+size: 245,147
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -11,26 +11,12 @@ light
   orig: 186, 157
   offset: 8, 7
   index: -1
-shadow
+pearl
   rotate: false
-  xy: 93, 147
-  size: 64, 64
-  orig: 67, 65
-  offset: 2, 1
-  index: -1
-silver
-  rotate: false
-  xy: 33, 154
-  size: 58, 57
-  orig: 61, 59
-  offset: 1, 2
-  index: -1
-tie
-  rotate: false
-  xy: 2, 184
-  size: 29, 27
-  orig: 29, 27
-  offset: 0, 0
+  xy: 174, 53
+  size: 69, 92
+  orig: 69, 94
+  offset: 0, 2
   index: -1
 
 symbol-02.png
@@ -53,7 +39,7 @@ background/bg2
   offset: 0, 0
   index: -1
 
-symbol-53.png
+symbol-03.png
 size: 176,529
 format: RGBA8888
 filter: Linear,Linear
