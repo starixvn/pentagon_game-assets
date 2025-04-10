@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "msfmESnXvWKal+YHZg7rzhm5/dU", "spine": "3.8.99", "x": -42.31, "y": -48.11, "width": 79.95, "height": 97.11 },
+"skeleton": { "hash": "Ad3NbpF8TfamEkoy/dcPZvr9EuU", "spine": "3.8.99", "x": -42.31, "y": -48.11, "width": 79.95, "height": 97.11 },
 "bones": [
 	{ "name": "root" },
 	{ "name": "bag", "parent": "root" },
@@ -21,7 +21,7 @@
 	{ "name": "bg2", "bone": "bg2" },
 	{ "name": "shadow", "bone": "shadow", "attachment": "shadow" },
 	{ "name": "bag", "bone": "bag", "attachment": "bag" },
-	{ "name": "VFX-explose", "bone": "VFX-explose", "blend": "screen" },
+	{ "name": "VFX-explose", "bone": "VFX-explose", "blend": "additive" },
 	{ "name": "VFX-star", "bone": "VFX-star" },
 	{ "name": "light", "bone": "Light", "blend": "additive" },
 	{ "name": "light2", "bone": "light2", "color": "fffc9aff", "blend": "additive" },
