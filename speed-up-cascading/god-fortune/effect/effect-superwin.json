@@ -1,13 +1,13 @@
 {
-"skeleton": { "hash": "qz6ySj0GWMSbrtbajCu3ci3KPTA", "spine": "3.8.99", "x": -285.5, "y": -149.31, "width": 572, "height": 407.2 },
+"skeleton": { "hash": "xc2mTeycc+VMr+RLmoXe5SaYr8w", "spine": "3.8.99", "x": -392.43, "y": -243.37, "width": 790, "height": 501.26 },
 "bones": [
 	{ "name": "root" },
-	{ "name": "bag", "parent": "root", "y": 53.5 },
+	{ "name": "bag", "parent": "root", "x": 2.18, "y": 53.5 },
 	{ "name": "board", "parent": "root", "y": -100.89 },
 	{ "name": "mask", "parent": "root" },
 	{ "name": "circle light", "parent": "root" },
 	{ "name": "cloud", "parent": "board", "y": 62.09 },
-	{ "name": "highlight", "parent": "root", "y": -8.96 },
+	{ "name": "highlight", "parent": "root", "y": -33.23, "scaleX": 2, "scaleY": 3 },
 	{ "name": "coin-spin2", "parent": "root", "length": 252.77, "rotation": 131.35, "x": -55.04, "y": 67.39 },
 	{ "name": "coin-spin", "parent": "coin-spin2", "x": -14.61, "y": -3.73, "scaleX": 0.4, "scaleY": 0.4 },
 	{
@@ -118,7 +118,8 @@
 	{ "name": "pearlchain5", "parent": "pearlchain", "length": 18.64, "rotation": -142.47, "x": 54.43, "y": 33.59 },
 	{ "name": "pearlchain6", "parent": "pearlchain5", "length": 31.33, "rotation": 8.82, "x": 30.34 },
 	{ "name": "pearlchain7", "parent": "pearlchain6", "length": 30.33, "rotation": -26.88, "x": 31.09, "y": 0.25 },
-	{ "name": "bone", "parent": "pearlchain", "x": -16.4, "y": -13.48 }
+	{ "name": "bone", "parent": "pearlchain", "x": -16.4, "y": -13.48 },
+	{ "name": "board2", "parent": "board", "y": -15, "scaleX": 1.1 }
 ],
 "slots": [
 	{ "name": "coin-spin", "bone": "coin-spin", "attachment": "coin-spin/coin-10" },
@@ -138,9 +139,9 @@
 	{ "name": "coin-spin9", "bone": "coin-spin12", "attachment": "coin-spin/coin-10" },
 	{ "name": "mask", "bone": "mask", "attachment": "mask" },
 	{ "name": "circle light", "bone": "circle light", "attachment": "light-cloud/circle light" },
-	{ "name": "bag", "bone": "bag", "attachment": "bag" },
 	{ "name": "highlight", "bone": "highlight", "attachment": "light-cloud/highlight" },
-	{ "name": "board", "bone": "board", "attachment": "board" },
+	{ "name": "bag", "bone": "bag", "attachment": "bag" },
+	{ "name": "board", "bone": "board2", "attachment": "board" },
 	{ "name": "cloud", "bone": "cloud", "attachment": "light-cloud/cloud" },
 	{ "name": "pearlchain", "bone": "pearlchain", "attachment": "pearlchain" }
 ],
@@ -348,7 +349,7 @@
 				"coin-spin/coin-10": { "width": 120, "height": 120 }
 			},
 			"highlight": {
-				"light-cloud/highlight": { "x": 0.5, "y": 10.45, "width": 395, "height": 161 }
+				"light-cloud/highlight": { "x": 1.28, "y": 10.45, "width": 395, "height": 161 }
 			},
 			"mask": {
 				"mask": {
