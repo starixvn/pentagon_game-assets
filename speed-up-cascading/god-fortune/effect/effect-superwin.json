@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "xc2mTeycc+VMr+RLmoXe5SaYr8w", "spine": "3.8.99", "x": -392.43, "y": -243.37, "width": 790, "height": 501.26 },
+"skeleton": { "hash": "U4kD+AWBsWnrlOO8fBX5COs+wIg", "spine": "3.8.99", "x": -392.43, "y": -243.37, "width": 790, "height": 501.26 },
 "bones": [
 	{ "name": "root" },
 	{ "name": "bag", "parent": "root", "x": 2.18, "y": 53.5 },
@@ -119,7 +119,7 @@
 	{ "name": "pearlchain6", "parent": "pearlchain5", "length": 31.33, "rotation": 8.82, "x": 30.34 },
 	{ "name": "pearlchain7", "parent": "pearlchain6", "length": 30.33, "rotation": -26.88, "x": 31.09, "y": 0.25 },
 	{ "name": "bone", "parent": "pearlchain", "x": -16.4, "y": -13.48 },
-	{ "name": "board2", "parent": "board", "y": -15, "scaleX": 1.1 }
+	{ "name": "board2", "parent": "board", "y": -15, "scaleX": 1.2 }
 ],
 "slots": [
 	{ "name": "coin-spin", "bone": "coin-spin", "attachment": "coin-spin/coin-10" },
