@@ -1,0 +1,27 @@
+
+symbol-0.png
+size: 1376,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Item - background
+  rotate: false
+  xy: 1224, 212
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 2
+  size: 1220, 360
+  orig: 1220, 360
+  offset: 0, 0
+  index: -1
+symbol-0
+  rotate: false
+  xy: 1224, 112
+  size: 126, 98
+  orig: 138, 108
+  offset: 6, 5
+  index: -1

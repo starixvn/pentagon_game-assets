@@ -1,0 +1,27 @@
+
+symbol-3.png
+size: 973,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Item - background
+  rotate: false
+  xy: 735, 4
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 2
+  size: 731, 152
+  orig: 900, 200
+  offset: 85, 24
+  index: -1
+symbol-3
+  rotate: false
+  xy: 887, 52
+  size: 84, 102
+  orig: 86, 104
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,118 @@
+
+symbol-8.png
+size: 914,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bonus
+  rotate: false
+  xy: 735, 458
+  size: 154, 60
+  orig: 157, 62
+  offset: 1, 2
+  index: -1
+background
+  rotate: false
+  xy: 735, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+dragon
+  rotate: true
+  xy: 610, 266
+  size: 98, 110
+  orig: 151, 160
+  offset: 26, 25
+  index: -1
+dragon-glow
+  rotate: true
+  xy: 610, 166
+  size: 98, 110
+  orig: 151, 160
+  offset: 26, 25
+  index: -1
+light
+  rotate: false
+  xy: 2, 366
+  size: 731, 152
+  orig: 900, 200
+  offset: 85, 24
+  index: -1
+particles/Layer 1
+  rotate: false
+  xy: 2, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+particles/Layer 10
+  rotate: false
+  xy: 610, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+particles/Layer 11
+  rotate: false
+  xy: 762, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+particles/Layer 2
+  rotate: false
+  xy: 2, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+particles/Layer 3
+  rotate: false
+  xy: 154, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+particles/Layer 4
+  rotate: false
+  xy: 154, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+particles/Layer 5
+  rotate: false
+  xy: 306, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+particles/Layer 6
+  rotate: false
+  xy: 306, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+particles/Layer 7
+  rotate: false
+  xy: 458, 214
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+particles/Layer 8
+  rotate: false
+  xy: 722, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+particles/Layer 9
+  rotate: false
+  xy: 458, 62
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
