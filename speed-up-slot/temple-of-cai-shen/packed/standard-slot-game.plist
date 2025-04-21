@@ -49,21 +49,6 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>bonus.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{105,23}</string>
-                <key>spriteSourceSize</key>
-                <string>{105,23}</string>
-                <key>textureRect</key>
-                <string>{{914,3},{105,23}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
             <key>btn-menu.png</key>
             <dict>
                 <key>aliases</key>
@@ -693,7 +678,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:8857ecfa58e0e9daea1f1d65b3b6ee41:7272280effa91babfbff6c2614e508f7:d2119907fc422292afb660fc3c3e380f$</string>
+            <string>$TexturePacker:SmartUpdate:be3b83a197c5be67df7d2640c8448f77:a9abe73423a387fd3babbc198639fa64:d2119907fc422292afb660fc3c3e380f$</string>
             <key>textureFileName</key>
             <string>standard-slot-game.png</string>
         </dict>
