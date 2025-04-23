@@ -1,15 +1,15 @@
 
 symbol-10.jackpot.png
-size: 1462,308
+size: 1490,308
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Jackpot
   rotate: true
-  xy: 1343, 161
-  size: 145, 61
+  xy: 1365, 9
+  size: 150, 55
   orig: 157, 62
-  offset: 6, 0
+  offset: 3, 4
   index: -1
 background
   rotate: false
@@ -20,17 +20,17 @@ background
   index: -1
 caishen
   rotate: false
-  xy: 1218, 21
-  size: 120, 133
-  orig: 151, 160
-  offset: 16, 14
+  xy: 1218, 9
+  size: 145, 145
+  orig: 147, 147
+  offset: 2, 0
   index: -1
 caishen-glow
   rotate: false
-  xy: 1340, 21
-  size: 120, 133
+  xy: 1343, 161
+  size: 145, 145
   orig: 151, 160
-  offset: 16, 14
+  offset: 3, 8
   index: -1
 light
   rotate: false

@@ -1,6 +1,6 @@
 
 symbol-3.png
-size: 973,156
+size: 985,156
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -20,8 +20,8 @@ light
   index: -1
 symbol-3
   rotate: false
-  xy: 887, 52
-  size: 84, 102
-  orig: 86, 104
-  offset: 1, 1
+  xy: 887, 40
+  size: 96, 114
+  orig: 104, 118
+  offset: 1, 3
   index: -1

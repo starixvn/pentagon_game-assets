@@ -1,40 +1,40 @@
 
-symbol-10.jackpot.vn-VN.png
-size: 1465,308
+symbol-10.jackpot.vi-VN.png
+size: 1039,460
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Jackpot
   rotate: true
-  xy: 1340, 6
-  size: 148, 38
-  orig: 148, 38
-  offset: 0, 0
+  xy: 610, 155
+  size: 149, 58
+  orig: 157, 62
+  offset: 5, 2
   index: -1
 background
   rotate: false
-  xy: 2, 2
+  xy: 735, 308
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 caishen
   rotate: false
-  xy: 1343, 173
-  size: 120, 133
-  orig: 151, 160
-  offset: 16, 14
+  xy: 306, 7
+  size: 145, 145
+  orig: 147, 147
+  offset: 2, 0
   index: -1
 caishen-glow
   rotate: false
-  xy: 1218, 21
-  size: 120, 133
+  xy: 453, 7
+  size: 145, 145
   orig: 151, 160
-  offset: 16, 14
+  offset: 3, 8
   index: -1
 light
   rotate: false
-  xy: 2, 154
+  xy: 2, 306
   size: 731, 152
   orig: 900, 200
   offset: 85, 24
@@ -48,21 +48,21 @@ particles/Layer 1
   index: -1
 particles/Layer 10
   rotate: false
-  xy: 914, 4
+  xy: 2, 2
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 11
   rotate: false
-  xy: 1066, 4
+  xy: 154, 2
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 2
   rotate: false
-  xy: 154, 2
+  xy: 887, 308
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
@@ -76,42 +76,42 @@ particles/Layer 3
   index: -1
 particles/Layer 4
   rotate: false
-  xy: 306, 2
+  xy: 2, 154
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 5
   rotate: false
-  xy: 1039, 156
+  xy: 154, 154
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 6
   rotate: false
-  xy: 458, 2
+  xy: 306, 154
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 7
   rotate: false
-  xy: 1191, 156
+  xy: 458, 154
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 8
   rotate: false
-  xy: 610, 2
+  xy: 670, 4
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 9
   rotate: false
-  xy: 762, 4
+  xy: 822, 4
   size: 150, 150
   orig: 150, 150
   offset: 0, 0

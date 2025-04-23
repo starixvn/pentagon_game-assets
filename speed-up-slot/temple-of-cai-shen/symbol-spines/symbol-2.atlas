@@ -1,6 +1,6 @@
 
 symbol-2.png
-size: 969,156
+size: 976,156
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -20,8 +20,8 @@ light
   index: -1
 symbol-2
   rotate: false
-  xy: 887, 42
-  size: 80, 112
-  orig: 89, 121
-  offset: 5, 5
+  xy: 887, 36
+  size: 87, 118
+  orig: 91, 124
+  offset: 2, 1
   index: -1
