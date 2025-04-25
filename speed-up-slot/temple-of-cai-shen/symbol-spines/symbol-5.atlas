@@ -1,15 +1,15 @@
 
 symbol-5.png
-size: 1150,156
+size: 1153,156
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 3coins
   rotate: false
-  xy: 1028, 32
-  size: 120, 122
+  xy: 1028, 31
+  size: 123, 123
   orig: 146, 146
-  offset: 9, 12
+  offset: 8, 10
   index: -1
 3coins-glow
   rotate: false

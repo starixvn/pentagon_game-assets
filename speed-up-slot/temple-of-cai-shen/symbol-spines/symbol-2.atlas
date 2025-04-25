@@ -20,8 +20,8 @@ light
   index: -1
 symbol-2
   rotate: false
-  xy: 887, 36
-  size: 87, 118
+  xy: 887, 38
+  size: 87, 116
   orig: 91, 124
-  offset: 2, 1
+  offset: 3, 1
   index: -1

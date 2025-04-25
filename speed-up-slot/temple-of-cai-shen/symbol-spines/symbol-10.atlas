@@ -1,6 +1,6 @@
 
 symbol-10.png
-size: 353,154
+size: 356,154
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -13,15 +13,22 @@ images/Item - background
   index: -1
 images/symbol10
   rotate: false
-  xy: 154, 27
-  size: 121, 125
-  orig: 122, 125
-  offset: 1, 0
+  xy: 154, 26
+  size: 124, 126
+  orig: 124, 127
+  offset: 0, 1
   index: -1
 images/symbol10a
   rotate: false
-  xy: 277, 76
+  xy: 280, 76
   size: 74, 76
   orig: 122, 125
   offset: 28, 21
+  index: -1
+images/symbol10a-top
+  rotate: false
+  xy: 280, 47
+  size: 66, 27
+  orig: 122, 125
+  offset: 29, 69
   index: -1

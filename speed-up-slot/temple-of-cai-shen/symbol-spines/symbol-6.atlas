@@ -1,6 +1,6 @@
 
 symbol-6.png
-size: 1134,156
+size: 1011,156
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -12,13 +12,6 @@ Item - background
   offset: 0, 0
   index: -1
 jade-pendant
-  rotate: false
-  xy: 1011, 24
-  size: 121, 130
-  orig: 122, 131
-  offset: 0, 1
-  index: -1
-jade-pendant-glow
   rotate: false
   xy: 887, 23
   size: 122, 131
