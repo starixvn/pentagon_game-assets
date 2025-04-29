@@ -1,0 +1,265 @@
+
+symbol-10.jackpot.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bongsen
+  rotate: false
+  xy: 223, 50
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 2, 118
+  size: 134, 135
+  orig: 134, 135
+  offset: 0, 0
+  index: -1
+onggia
+  rotate: true
+  xy: 2, 4
+  size: 112, 121
+  orig: 112, 121
+  offset: 0, 0
+  index: -1
+rau
+  rotate: false
+  xy: 168, 2
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+tay
+  rotate: true
+  xy: 125, 6
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+text-symbol-jackpot
+  rotate: false
+  xy: 125, 86
+  size: 142, 30
+  orig: 144, 34
+  offset: 1, 2
+  index: -1
+tocphai
+  rotate: true
+  xy: 165, 50
+  size: 34, 56
+  orig: 34, 57
+  offset: 0, 1
+  index: -1
+toctrai
+  rotate: false
+  xy: 125, 31
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+vfx/smoke00
+  rotate: false
+  xy: 211, 8
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke01
+  rotate: false
+  xy: 253, 8
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke02
+  rotate: false
+  xy: 138, 213
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke03
+  rotate: false
+  xy: 138, 171
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke04
+  rotate: false
+  xy: 138, 129
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke05
+  rotate: false
+  xy: 180, 213
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke06
+  rotate: false
+  xy: 180, 171
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke07
+  rotate: false
+  xy: 180, 129
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke08
+  rotate: false
+  xy: 222, 213
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke09
+  rotate: false
+  xy: 222, 171
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke10
+  rotate: false
+  xy: 222, 129
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke11
+  rotate: false
+  xy: 264, 213
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke12
+  rotate: false
+  xy: 264, 171
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke13
+  rotate: false
+  xy: 264, 129
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke14
+  rotate: false
+  xy: 269, 87
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke15
+  rotate: false
+  xy: 295, 45
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke16
+  rotate: false
+  xy: 295, 3
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke17
+  rotate: false
+  xy: 306, 213
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke18
+  rotate: false
+  xy: 306, 171
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke19
+  rotate: false
+  xy: 306, 129
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke20
+  rotate: false
+  xy: 311, 87
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke21
+  rotate: false
+  xy: 337, 45
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke22
+  rotate: false
+  xy: 337, 3
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke23
+  rotate: false
+  xy: 348, 213
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke24
+  rotate: false
+  xy: 348, 171
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke25
+  rotate: false
+  xy: 348, 129
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke26
+  rotate: false
+  xy: 353, 87
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke27
+  rotate: false
+  xy: 379, 45
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+vfx/smoke28
+  rotate: false
+  xy: 379, 3
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1

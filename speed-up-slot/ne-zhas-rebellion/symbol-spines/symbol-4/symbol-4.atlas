@@ -1,0 +1,174 @@
+
+symbol-4.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+smoke (2)/smoke/smoke13
+  rotate: false
+  xy: 111, 23
+  size: 94, 94
+  orig: 100, 100
+  offset: 0, 6
+  index: -1
+smoke (2)/smoke/smoke14
+  rotate: false
+  xy: 136, 157
+  size: 93, 95
+  orig: 100, 100
+  offset: 0, 5
+  index: -1
+smoke (2)/smoke/smoke15
+  rotate: false
+  xy: 207, 59
+  size: 81, 96
+  orig: 100, 100
+  offset: 12, 4
+  index: -1
+smoke (2)/smoke/smoke16
+  rotate: false
+  xy: 364, 91
+  size: 79, 87
+  orig: 100, 100
+  offset: 14, 4
+  index: -1
+smoke (2)/smoke/smoke17
+  rotate: false
+  xy: 389, 2
+  size: 77, 87
+  orig: 100, 100
+  offset: 15, 4
+  index: -1
+smoke (2)/smoke/smoke18
+  rotate: false
+  xy: 727, 164
+  size: 70, 88
+  orig: 100, 100
+  offset: 20, 3
+  index: -1
+smoke (2)/smoke/smoke19
+  rotate: false
+  xy: 766, 74
+  size: 70, 88
+  orig: 100, 100
+  offset: 19, 3
+  index: -1
+smoke (2)/smoke/smoke20
+  rotate: false
+  xy: 694, 20
+  size: 70, 89
+  orig: 100, 100
+  offset: 19, 2
+  index: -1
+smoke (2)/smoke/smoke21
+  rotate: false
+  xy: 621, 17
+  size: 71, 90
+  orig: 100, 100
+  offset: 18, 2
+  index: -1
+smoke (2)/smoke/smoke22
+  rotate: true
+  xy: 542, 109
+  size: 72, 90
+  orig: 100, 100
+  offset: 17, 2
+  index: -1
+smoke (2)/smoke/smoke23
+  rotate: false
+  xy: 468, 18
+  size: 73, 89
+  orig: 100, 100
+  offset: 17, 1
+  index: -1
+smoke (2)/smoke/smoke24
+  rotate: true
+  xy: 634, 111
+  size: 70, 91
+  orig: 100, 100
+  offset: 16, 1
+  index: -1
+smoke (2)/smoke/smoke25
+  rotate: true
+  xy: 626, 183
+  size: 69, 92
+  orig: 100, 100
+  offset: 15, 1
+  index: -1
+smoke (2)/smoke/smoke26
+  rotate: true
+  xy: 530, 183
+  size: 69, 94
+  orig: 100, 100
+  offset: 15, 0
+  index: -1
+smoke (2)/smoke/smoke27
+  rotate: true
+  xy: 445, 109
+  size: 70, 95
+  orig: 100, 100
+  offset: 15, 0
+  index: -1
+smoke (2)/smoke/smoke28
+  rotate: true
+  xy: 432, 181
+  size: 71, 96
+  orig: 100, 100
+  offset: 14, 0
+  index: -1
+smoke (2)/smoke/smoke29
+  rotate: true
+  xy: 290, 4
+  size: 72, 97
+  orig: 100, 100
+  offset: 14, 0
+  index: -1
+smoke (2)/smoke/smoke30
+  rotate: true
+  xy: 332, 180
+  size: 72, 98
+  orig: 100, 100
+  offset: 14, 0
+  index: -1
+smoke (2)/smoke/smoke31
+  rotate: false
+  xy: 290, 78
+  size: 72, 99
+  orig: 100, 100
+  offset: 14, 0
+  index: -1
+smoke (2)/smoke/smoke32
+  rotate: true
+  xy: 231, 179
+  size: 73, 99
+  orig: 100, 100
+  offset: 14, 0
+  index: -1
+suphu/bg
+  rotate: true
+  xy: 2, 119
+  size: 133, 132
+  orig: 133, 132
+  offset: 0, 0
+  index: -1
+suphu/channhan
+  rotate: true
+  xy: 543, 22
+  size: 85, 76
+  orig: 88, 76
+  offset: 3, 0
+  index: -1
+suphu/heo
+  rotate: false
+  xy: 2, 9
+  size: 107, 108
+  orig: 107, 108
+  offset: 0, 0
+  index: -1
+suphu/tai
+  rotate: true
+  xy: 136, 127
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1

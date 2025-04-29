@@ -1,0 +1,137 @@
+{
+"skeleton": {
+	"hash": "PCt9fXHaJ5QwIiZ+xBMPYGGGhGA",
+	"spine": "3.8.99",
+	"x": -64.54,
+	"y": -60.64,
+	"width": 125.18,
+	"height": 132.73,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root", "x": -0.36, "y": 0.36 },
+	{ "name": "character", "parent": "root" },
+	{ "name": "background", "parent": "root" },
+	{ "name": "bg", "parent": "background" },
+	{ "name": "lytinh", "parent": "character", "x": -1.2, "y": -48.68 },
+	{ "name": "khung", "parent": "background" },
+	{ "name": "khung2", "parent": "background", "x": 9.57, "y": -47.84 },
+	{ "name": "vfx", "parent": "background", "x": -2.91, "y": -15.29 }
+],
+"slots": [
+	{ "name": "bg", "bone": "bg", "attachment": "bg" },
+	{ "name": "khung", "bone": "khung", "attachment": "khung" },
+	{ "name": "lytinh", "bone": "lytinh", "attachment": "lytinh" },
+	{ "name": "khung2", "bone": "khung2", "attachment": "khung2" },
+	{ "name": "vfx/fx_payselectsmoke_btm00", "bone": "vfx", "blend": "additive" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bg": {
+				"bg": { "x": 0.5, "width": 119, "height": 118 }
+			},
+			"khung": {
+				"khung": { "width": 122, "height": 122 }
+			},
+			"khung2": {
+				"khung2": { "x": 0.5, "width": 77, "height": 24 }
+			},
+			"lytinh": {
+				"lytinh": { "x": -5.98, "y": 57.91, "width": 114, "height": 125 }
+			},
+			"vfx/fx_payselectsmoke_btm00": {
+				"vfx/fx_payselectsmoke_btm00": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm01": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm02": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm03": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm04": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm05": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm06": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm07": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm08": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm09": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm10": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm11": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm12": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm13": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm14": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm15": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm16": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm17": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm18": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm19": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm20": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm21": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm22": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm23": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm24": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm25": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm26": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm27": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm28": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm29": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm30": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm31": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_btm32": { "width": 136, "height": 118 }
+			}
+		}
+	}
+],
+"animations": {
+	"highlight": {
+		"slots": {
+			"vfx/fx_payselectsmoke_btm00": {
+				"attachment": [
+					{ "name": "vfx/fx_payselectsmoke_btm00" },
+					{ "time": 0.0333, "name": "vfx/fx_payselectsmoke_btm01" },
+					{ "time": 0.0667, "name": "vfx/fx_payselectsmoke_btm02" },
+					{ "time": 0.1, "name": "vfx/fx_payselectsmoke_btm03" },
+					{ "time": 0.1333, "name": "vfx/fx_payselectsmoke_btm04" },
+					{ "time": 0.1667, "name": "vfx/fx_payselectsmoke_btm05" },
+					{ "time": 0.2, "name": "vfx/fx_payselectsmoke_btm06" },
+					{ "time": 0.2333, "name": "vfx/fx_payselectsmoke_btm07" },
+					{ "time": 0.2667, "name": "vfx/fx_payselectsmoke_btm08" },
+					{ "time": 0.3, "name": "vfx/fx_payselectsmoke_btm09" },
+					{ "time": 0.3333, "name": "vfx/fx_payselectsmoke_btm10" },
+					{ "time": 0.3667, "name": "vfx/fx_payselectsmoke_btm11" },
+					{ "time": 0.4, "name": "vfx/fx_payselectsmoke_btm12" },
+					{ "time": 0.4333, "name": "vfx/fx_payselectsmoke_btm13" },
+					{ "time": 0.4667, "name": "vfx/fx_payselectsmoke_btm14" },
+					{ "time": 0.5, "name": "vfx/fx_payselectsmoke_btm15" },
+					{ "time": 0.5333, "name": "vfx/fx_payselectsmoke_btm16" },
+					{ "time": 0.5667, "name": "vfx/fx_payselectsmoke_btm17" },
+					{ "time": 0.6, "name": "vfx/fx_payselectsmoke_btm18" },
+					{ "time": 0.6333, "name": "vfx/fx_payselectsmoke_btm19" },
+					{ "time": 0.6667, "name": "vfx/fx_payselectsmoke_btm20" },
+					{ "time": 0.7, "name": "vfx/fx_payselectsmoke_btm21" },
+					{ "time": 0.7333, "name": "vfx/fx_payselectsmoke_btm22" },
+					{ "time": 0.7667, "name": "vfx/fx_payselectsmoke_btm23" },
+					{ "time": 0.8, "name": "vfx/fx_payselectsmoke_btm24" },
+					{ "time": 0.8333, "name": "vfx/fx_payselectsmoke_btm25" },
+					{ "time": 0.8667, "name": "vfx/fx_payselectsmoke_btm26" },
+					{ "time": 0.9, "name": "vfx/fx_payselectsmoke_btm27" },
+					{ "time": 0.9333, "name": "vfx/fx_payselectsmoke_btm28" },
+					{ "time": 0.9667, "name": "vfx/fx_payselectsmoke_btm29" },
+					{ "time": 1, "name": "vfx/fx_payselectsmoke_btm30" },
+					{ "time": 1.0333, "name": "vfx/fx_payselectsmoke_btm31" },
+					{ "time": 1.0667, "name": "vfx/fx_payselectsmoke_btm32" }
+				]
+			}
+		},
+		"bones": {
+			"lytinh": {
+				"scale": [
+					{},
+					{ "time": 0.2333, "x": 1.109, "y": 1.109 },
+					{ "time": 0.5, "curve": "stepped" },
+					{ "time": 1.1667 }
+				]
+			}
+		}
+	},
+	"idle": {}
+}
+}

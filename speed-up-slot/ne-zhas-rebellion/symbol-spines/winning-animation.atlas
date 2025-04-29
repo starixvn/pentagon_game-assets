@@ -1,0 +1,13 @@
+
+winning-animation.png
+size: 119,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+symbol-effect
+  rotate: false
+  xy: 2, 2
+  size: 115, 116
+  orig: 120, 120
+  offset: 5, 1
+  index: -1

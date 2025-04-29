@@ -1,0 +1,265 @@
+
+symbol-3.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 961, 114
+  size: 132, 134
+  orig: 134, 136
+  offset: 1, 1
+  index: -1
+dragon
+  rotate: false
+  xy: 1131, 262
+  size: 122, 131
+  orig: 122, 131
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 459, 9
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 961, 2
+  size: 110, 109
+  orig: 110, 109
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 514, 20
+  size: 71, 25
+  orig: 71, 25
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 1095, 121
+  size: 128, 126
+  orig: 128, 126
+  offset: 0, 0
+  index: -1
+tai
+  rotate: true
+  xy: 2, 7
+  size: 9, 23
+  orig: 9, 23
+  offset: 0, 0
+  index: -1
+tayao
+  rotate: false
+  xy: 368, 3
+  size: 89, 70
+  orig: 91, 70
+  offset: 1, 0
+  index: -1
+than
+  rotate: true
+  xy: 2, 18
+  size: 48, 127
+  orig: 48, 127
+  offset: 0, 0
+  index: -1
+vfx/ice01
+  rotate: false
+  xy: 699, 3
+  size: 97, 97
+  orig: 150, 150
+  offset: 41, 37
+  index: -1
+vfx/ice02
+  rotate: false
+  xy: 1015, 395
+  size: 143, 114
+  orig: 150, 150
+  offset: 2, 18
+  index: -1
+vfx/ice03
+  rotate: true
+  xy: 429, 238
+  size: 138, 136
+  orig: 150, 150
+  offset: 2, 9
+  index: -1
+vfx/ice04
+  rotate: true
+  xy: 874, 381
+  size: 128, 139
+  orig: 150, 150
+  offset: 6, 5
+  index: -1
+vfx/ice05
+  rotate: false
+  xy: 1001, 251
+  size: 128, 128
+  orig: 150, 150
+  offset: 11, 6
+  index: -1
+vfx/ice06
+  rotate: true
+  xy: 2, 363
+  size: 146, 144
+  orig: 150, 150
+  offset: 3, 4
+  index: -1
+vfx/ice07
+  rotate: true
+  xy: 2, 214
+  size: 147, 143
+  orig: 150, 150
+  offset: 2, 5
+  index: -1
+vfx/ice08
+  rotate: true
+  xy: 2, 68
+  size: 144, 143
+  orig: 150, 150
+  offset: 3, 4
+  index: -1
+vfx/ice09
+  rotate: true
+  xy: 147, 217
+  size: 144, 142
+  orig: 150, 150
+  offset: 3, 5
+  index: -1
+vfx/ice10
+  rotate: true
+  xy: 148, 366
+  size: 143, 142
+  orig: 150, 150
+  offset: 3, 5
+  index: -1
+vfx/ice11
+  rotate: false
+  xy: 147, 75
+  size: 140, 140
+  orig: 150, 150
+  offset: 3, 5
+  index: -1
+vfx/ice12
+  rotate: true
+  xy: 289, 75
+  size: 140, 138
+  orig: 150, 150
+  offset: 3, 6
+  index: -1
+vfx/ice13
+  rotate: true
+  xy: 291, 223
+  size: 141, 136
+  orig: 150, 150
+  offset: 4, 6
+  index: -1
+vfx/ice14
+  rotate: true
+  xy: 565, 95
+  size: 141, 132
+  orig: 150, 150
+  offset: 4, 6
+  index: -1
+vfx/ice15
+  rotate: false
+  xy: 567, 247
+  size: 143, 130
+  orig: 150, 150
+  offset: 3, 7
+  index: -1
+vfx/ice16
+  rotate: true
+  xy: 699, 102
+  size: 143, 129
+  orig: 150, 150
+  offset: 3, 7
+  index: -1
+vfx/ice17
+  rotate: false
+  xy: 712, 248
+  size: 143, 129
+  orig: 150, 150
+  offset: 3, 8
+  index: -1
+vfx/ice18
+  rotate: false
+  xy: 584, 379
+  size: 143, 130
+  orig: 150, 150
+  offset: 3, 7
+  index: -1
+vfx/ice19
+  rotate: false
+  xy: 292, 378
+  size: 144, 131
+  orig: 150, 150
+  offset: 3, 6
+  index: -1
+vfx/ice20
+  rotate: false
+  xy: 438, 379
+  size: 144, 130
+  orig: 150, 150
+  offset: 3, 7
+  index: -1
+vfx/ice21
+  rotate: false
+  xy: 729, 380
+  size: 143, 129
+  orig: 150, 150
+  offset: 4, 7
+  index: -1
+vfx/ice22
+  rotate: true
+  xy: 830, 105
+  size: 141, 129
+  orig: 150, 150
+  offset: 5, 7
+  index: -1
+vfx/ice23
+  rotate: false
+  xy: 857, 250
+  size: 142, 128
+  orig: 150, 150
+  offset: 5, 7
+  index: -1
+vfx/ice24
+  rotate: true
+  xy: 429, 96
+  size: 140, 134
+  orig: 150, 150
+  offset: 5, 7
+  index: -1
+vfx/ice25
+  rotate: false
+  xy: 1095, 6
+  size: 136, 113
+  orig: 150, 150
+  offset: 8, 15
+  index: -1
+vfx/ice26
+  rotate: false
+  xy: 241, 2
+  size: 125, 71
+  orig: 150, 150
+  offset: 4, 38
+  index: -1
+vfx/ice27
+  rotate: false
+  xy: 131, 17
+  size: 108, 49
+  orig: 150, 150
+  offset: 27, 43
+  index: -1
+vfx/ice28
+  rotate: false
+  xy: 459, 47
+  size: 94, 47
+  orig: 150, 150
+  offset: 28, 43
+  index: -1

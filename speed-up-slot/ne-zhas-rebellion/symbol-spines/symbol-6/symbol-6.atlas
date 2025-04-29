@@ -1,0 +1,265 @@
+
+symbol-6.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1106, 148
+  size: 119, 118
+  orig: 119, 118
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 1244, 386
+  size: 120, 120
+  orig: 122, 122
+  offset: 1, 1
+  index: -1
+khung2
+  rotate: false
+  xy: 2, 2
+  size: 77, 24
+  orig: 77, 24
+  offset: 0, 0
+  index: -1
+lytinh
+  rotate: true
+  xy: 968, 32
+  size: 114, 125
+  orig: 114, 125
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm00
+  rotate: false
+  xy: 2, 388
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm01
+  rotate: false
+  xy: 2, 268
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm02
+  rotate: false
+  xy: 140, 388
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm03
+  rotate: false
+  xy: 2, 148
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm04
+  rotate: false
+  xy: 140, 268
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm05
+  rotate: false
+  xy: 278, 388
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm06
+  rotate: false
+  xy: 2, 28
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm07
+  rotate: false
+  xy: 140, 148
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm08
+  rotate: false
+  xy: 278, 268
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm09
+  rotate: false
+  xy: 416, 388
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm10
+  rotate: false
+  xy: 140, 28
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm11
+  rotate: false
+  xy: 278, 148
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm12
+  rotate: false
+  xy: 416, 268
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm13
+  rotate: false
+  xy: 554, 388
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm14
+  rotate: false
+  xy: 278, 28
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm15
+  rotate: false
+  xy: 416, 148
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm16
+  rotate: false
+  xy: 554, 268
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm17
+  rotate: false
+  xy: 692, 388
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm18
+  rotate: false
+  xy: 416, 28
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm19
+  rotate: false
+  xy: 554, 148
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm20
+  rotate: false
+  xy: 692, 268
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm21
+  rotate: false
+  xy: 830, 388
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm22
+  rotate: false
+  xy: 554, 28
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm23
+  rotate: false
+  xy: 692, 148
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm24
+  rotate: false
+  xy: 830, 268
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm25
+  rotate: false
+  xy: 968, 388
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm26
+  rotate: false
+  xy: 692, 28
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm27
+  rotate: false
+  xy: 830, 148
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm28
+  rotate: false
+  xy: 968, 268
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm29
+  rotate: false
+  xy: 1106, 388
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm30
+  rotate: false
+  xy: 830, 28
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm31
+  rotate: false
+  xy: 968, 148
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+vfx/fx_payselectsmoke_btm32
+  rotate: false
+  xy: 1106, 268
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
