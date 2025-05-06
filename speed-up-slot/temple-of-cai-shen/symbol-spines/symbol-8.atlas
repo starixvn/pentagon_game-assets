@@ -20,14 +20,14 @@ background
   index: -1
 dragon
   rotate: true
-  xy: 610, 266
-  size: 98, 110
+  xy: 610, 258
+  size: 106, 114
   orig: 151, 160
-  offset: 26, 25
+  offset: 22, 21
   index: -1
 dragon-glow
   rotate: true
-  xy: 610, 166
+  xy: 610, 158
   size: 98, 110
   orig: 151, 160
   offset: 26, 25
@@ -104,7 +104,7 @@ particles/Layer 7
   index: -1
 particles/Layer 8
   rotate: false
-  xy: 722, 154
+  xy: 726, 154
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
