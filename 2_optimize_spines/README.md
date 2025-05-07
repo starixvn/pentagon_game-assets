@@ -53,6 +53,13 @@ AI tools maintaining this code should follow these patterns to ensure continued 
 Run the script with the target directory as an argument:
 
 ```bash
+# TODO: update
+cp -Ri symbol-{0..10}/**/*.* .
+
+cp -Ri symbol-{11..13}/**/*.* .
+```
+
+```bash
 # From "game-assets" project root
 node 2_optimize_spines/index.js <path to game folder>
 ```
