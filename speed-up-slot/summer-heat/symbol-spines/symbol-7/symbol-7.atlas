@@ -1,0 +1,258 @@
+
+symbol-7.png
+size: 1328,166
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cocktail
+  rotate: false
+  xy: 2, 26
+  size: 111, 138
+  orig: 111, 139
+  offset: 0, 1
+  index: -1
+flare1
+  rotate: false
+  xy: 2, 10
+  size: 14, 14
+  orig: 20, 22
+  offset: 3, 4
+  index: -1
+flare2
+  rotate: false
+  xy: 1294, 85
+  size: 32, 32
+  orig: 40, 40
+  offset: 3, 4
+  index: -1
+free
+  rotate: false
+  xy: 1181, 119
+  size: 127, 45
+  orig: 129, 47
+  offset: 1, 1
+  index: -1
+heart-effect/heart00
+  rotate: false
+  xy: 115, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart01
+  rotate: false
+  xy: 115, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart02
+  rotate: false
+  xy: 197, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart03
+  rotate: false
+  xy: 197, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart04
+  rotate: false
+  xy: 279, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart05
+  rotate: false
+  xy: 279, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart06
+  rotate: false
+  xy: 279, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart07
+  rotate: false
+  xy: 361, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart08
+  rotate: false
+  xy: 361, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart09
+  rotate: false
+  xy: 443, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart10
+  rotate: false
+  xy: 443, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart11
+  rotate: false
+  xy: 443, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart12
+  rotate: false
+  xy: 525, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart13
+  rotate: false
+  xy: 525, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart14
+  rotate: false
+  xy: 607, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart15
+  rotate: false
+  xy: 607, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart16
+  rotate: false
+  xy: 689, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart17
+  rotate: false
+  xy: 689, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart18
+  rotate: false
+  xy: 771, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart19
+  rotate: false
+  xy: 771, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart20
+  rotate: false
+  xy: 853, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart21
+  rotate: false
+  xy: 853, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart22
+  rotate: false
+  xy: 935, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart23
+  rotate: false
+  xy: 935, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart24
+  rotate: false
+  xy: 1017, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart25
+  rotate: false
+  xy: 1017, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart26
+  rotate: false
+  xy: 1017, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart27
+  rotate: false
+  xy: 1099, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+heart-effect/heart28
+  rotate: false
+  xy: 1099, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+leaf
+  rotate: true
+  xy: 1227, 60
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+leaf2
+  rotate: false
+  xy: 1227, 2
+  size: 65, 56
+  orig: 65, 56
+  offset: 0, 0
+  index: -1
+spin
+  rotate: true
+  xy: 1181, 2
+  size: 115, 44
+  orig: 117, 47
+  offset: 1, 2
+  index: -1

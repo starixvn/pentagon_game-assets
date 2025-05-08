@@ -1,0 +1,111 @@
+
+symbol-10.jackpot.png
+size: 298,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: true
+  xy: 261, 22
+  size: 23, 31
+  orig: 25, 33
+  offset: 1, 1
+  index: -1
+J
+  rotate: true
+  xy: 196, 69
+  size: 22, 31
+  orig: 24, 33
+  offset: 1, 1
+  index: -1
+K
+  rotate: false
+  xy: 272, 104
+  size: 24, 32
+  orig: 26, 34
+  offset: 1, 1
+  index: -1
+O
+  rotate: true
+  xy: 262, 47
+  size: 24, 32
+  orig: 26, 34
+  offset: 1, 1
+  index: -1
+P
+  rotate: true
+  xy: 229, 69
+  size: 22, 31
+  orig: 24, 33
+  offset: 1, 1
+  index: -1
+T
+  rotate: false
+  xy: 236, 2
+  size: 21, 31
+  orig: 23, 33
+  offset: 1, 1
+  index: -1
+c
+  rotate: false
+  xy: 236, 35
+  size: 23, 32
+  orig: 25, 34
+  offset: 1, 1
+  index: -1
+flare2
+  rotate: false
+  xy: 238, 104
+  size: 32, 32
+  orig: 40, 40
+  offset: 3, 4
+  index: -1
+gold1
+  rotate: true
+  xy: 262, 73
+  size: 29, 31
+  orig: 32, 33
+  offset: 2, 1
+  index: -1
+gold2
+  rotate: true
+  xy: 262, 73
+  size: 29, 31
+  orig: 32, 33
+  offset: 2, 1
+  index: -1
+leaf
+  rotate: false
+  xy: 132, 69
+  size: 62, 67
+  orig: 62, 67
+  offset: 0, 0
+  index: -1
+leaf2
+  rotate: true
+  xy: 188, 6
+  size: 61, 46
+  orig: 61, 46
+  offset: 0, 0
+  index: -1
+leaf3
+  rotate: true
+  xy: 196, 93
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+leaf4
+  rotate: false
+  xy: 132, 8
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+object
+  rotate: true
+  xy: 2, 4
+  size: 132, 128
+  orig: 132, 133
+  offset: 0, 5
+  index: -1
