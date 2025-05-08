@@ -1,40 +1,40 @@
 
 symbol-9.png
-size: 512,128
+size: 219,229
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 blue
-  rotate: false
-  xy: 122, 23
+  rotate: true
+  xy: 2, 17
   size: 90, 101
   orig: 92, 103
   offset: 1, 1
   index: -1
 khung
-  rotate: true
-  xy: 2, 4
+  rotate: false
+  xy: 2, 109
   size: 120, 118
   orig: 122, 120
   offset: 1, 1
   index: -1
 light
   rotate: false
-  xy: 305, 39
+  xy: 105, 2
   size: 85, 85
   orig: 85, 85
   offset: 0, 0
   index: -1
 red
   rotate: false
-  xy: 214, 25
-  size: 89, 99
+  xy: 124, 89
+  size: 91, 101
   orig: 91, 101
-  offset: 1, 1
+  offset: 0, 0
   index: -1
 text-symbol-wild
   rotate: false
-  xy: 305, 2
+  xy: 124, 192
   size: 93, 35
   orig: 95, 37
   offset: 1, 1

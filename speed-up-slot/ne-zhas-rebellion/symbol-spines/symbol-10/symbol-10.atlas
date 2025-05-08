@@ -1,285 +1,285 @@
 
 symbol-10.png
-size: 512,256
+size: 261,434
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 bg
-  rotate: false
-  xy: 57, 128
+  rotate: true
+  xy: 134, 2
   size: 123, 125
   orig: 123, 125
   offset: 0, 0
   index: -1
 natra
   rotate: true
-  xy: 2, 2
+  xy: 2, 10
   size: 115, 130
   orig: 115, 130
   offset: 0, 0
   index: -1
 silk
-  rotate: true
-  xy: 2, 119
+  rotate: false
+  xy: 70, 127
   size: 134, 53
   orig: 134, 53
   offset: 0, 0
   index: -1
 silk2
-  rotate: false
-  xy: 134, 60
+  rotate: true
+  xy: 2, 133
   size: 47, 66
   orig: 47, 66
   offset: 0, 0
   index: -1
 vfx/firee052
   rotate: false
-  xy: 134, 18
+  xy: 2, 392
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee053
   rotate: false
-  xy: 176, 18
+  xy: 44, 392
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee054
   rotate: false
-  xy: 182, 213
+  xy: 86, 392
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee055
   rotate: false
-  xy: 182, 171
+  xy: 128, 392
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee056
   rotate: false
-  xy: 182, 129
+  xy: 170, 392
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee057
   rotate: false
-  xy: 183, 87
+  xy: 212, 392
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee058
   rotate: false
-  xy: 218, 45
+  xy: 2, 350
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee059
   rotate: false
-  xy: 218, 3
+  xy: 44, 350
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee060
   rotate: false
-  xy: 224, 213
+  xy: 86, 350
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee061
   rotate: false
-  xy: 224, 171
+  xy: 128, 350
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee062
   rotate: false
-  xy: 224, 129
+  xy: 170, 350
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee063
   rotate: false
-  xy: 225, 87
+  xy: 212, 350
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee064
   rotate: false
-  xy: 260, 45
+  xy: 2, 308
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee065
   rotate: false
-  xy: 260, 3
+  xy: 44, 308
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee066
   rotate: false
-  xy: 266, 213
+  xy: 86, 308
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee067
   rotate: false
-  xy: 266, 171
+  xy: 128, 308
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee068
   rotate: false
-  xy: 266, 129
+  xy: 170, 308
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee069
   rotate: false
-  xy: 267, 87
+  xy: 212, 308
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee070
   rotate: false
-  xy: 302, 45
+  xy: 2, 266
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee071
   rotate: false
-  xy: 302, 3
+  xy: 44, 266
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee072
   rotate: false
-  xy: 308, 213
+  xy: 86, 266
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee073
   rotate: false
-  xy: 308, 171
+  xy: 128, 266
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee074
   rotate: false
-  xy: 308, 129
+  xy: 170, 266
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee075
   rotate: false
-  xy: 309, 87
+  xy: 212, 266
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee076
   rotate: false
-  xy: 344, 45
+  xy: 2, 224
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee077
   rotate: false
-  xy: 344, 3
+  xy: 44, 224
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee078
   rotate: false
-  xy: 350, 213
+  xy: 86, 224
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee079
   rotate: false
-  xy: 350, 171
+  xy: 128, 224
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee080
   rotate: false
-  xy: 350, 129
+  xy: 170, 224
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee081
   rotate: false
-  xy: 351, 87
+  xy: 212, 224
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee082
   rotate: false
-  xy: 386, 45
+  xy: 2, 182
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee083
   rotate: false
-  xy: 386, 3
+  xy: 44, 182
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee084
   rotate: false
-  xy: 392, 213
+  xy: 86, 182
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee085
   rotate: false
-  xy: 392, 171
+  xy: 128, 182
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee086
   rotate: false
-  xy: 392, 129
+  xy: 170, 182
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/firee087
   rotate: false
-  xy: 393, 87
+  xy: 212, 182
   size: 40, 40
   orig: 40, 40
   offset: 0, 0

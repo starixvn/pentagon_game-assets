@@ -1,180 +1,180 @@
 
 symbol-7.png
-size: 1024,256
+size: 504,270
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 khung
-  rotate: false
-  xy: 141, 113
+  rotate: true
+  xy: 191, 131
   size: 137, 139
   orig: 137, 139
   offset: 0, 0
   index: -1
 tai
-  rotate: false
-  xy: 92, 4
+  rotate: true
+  xy: 481, 58
   size: 42, 17
   orig: 42, 17
   offset: 0, 0
   index: -1
 text-freespin
   rotate: false
-  xy: 2, 7
+  xy: 332, 212
   size: 88, 56
-  orig: 88, 56
-  offset: 0, 0
+  orig: 90, 58
+  offset: 1, 1
   index: -1
 than
-  rotate: true
-  xy: 2, 65
+  rotate: false
+  xy: 2, 131
   size: 187, 137
   orig: 187, 137
   offset: 0, 0
   index: -1
 toc
-  rotate: true
-  xy: 174, 2
+  rotate: false
+  xy: 2, 48
   size: 67, 81
   orig: 67, 81
   offset: 0, 0
   index: -1
 vfx/frieee10
   rotate: false
-  xy: 92, 23
+  xy: 71, 89
   size: 80, 40
   orig: 80, 40
   offset: 0, 0
   index: -1
 vfx/frieee11
   rotate: false
-  xy: 141, 71
+  xy: 332, 170
   size: 80, 40
   orig: 80, 40
   offset: 0, 0
   index: -1
 vfx/frieee12
   rotate: false
-  xy: 223, 71
+  xy: 422, 228
   size: 80, 40
   orig: 80, 40
   offset: 0, 0
   index: -1
 vfx/frieee13
   rotate: false
-  xy: 257, 29
+  xy: 153, 89
   size: 80, 40
   orig: 80, 40
   offset: 0, 0
   index: -1
 vfx/frieee14
-  rotate: true
-  xy: 280, 172
+  rotate: false
+  xy: 235, 89
   size: 80, 40
   orig: 80, 40
   offset: 0, 0
   index: -1
 vfx/frieee15
   rotate: false
-  xy: 280, 130
+  xy: 71, 47
   size: 80, 40
   orig: 80, 40
   offset: 0, 0
   index: -1
 vfx/frieee16
   rotate: false
-  xy: 305, 88
+  xy: 153, 47
   size: 80, 40
   orig: 80, 40
   offset: 0, 0
   index: -1
 vfx/frieee17
-  rotate: true
-  xy: 322, 172
+  rotate: false
+  xy: 235, 47
   size: 80, 40
   orig: 80, 40
   offset: 0, 0
   index: -1
 vfx/frieee18
   rotate: false
-  xy: 362, 130
+  xy: 332, 128
   size: 80, 40
   orig: 80, 40
   offset: 0, 0
   index: -1
 vfx/frieee19
-  rotate: true
-  xy: 364, 172
+  rotate: false
+  xy: 317, 86
   size: 80, 40
   orig: 80, 40
   offset: 0, 0
   index: -1
 vfx/frieee20
-  rotate: true
-  xy: 406, 172
+  rotate: false
+  xy: 317, 44
   size: 80, 40
   orig: 80, 40
   offset: 0, 0
   index: -1
 vfx/frieee21
-  rotate: true
-  xy: 339, 6
+  rotate: false
+  xy: 2, 2
   size: 80, 40
   orig: 80, 40
   offset: 0, 0
   index: -1
 vfx/frieee22
-  rotate: true
-  xy: 381, 6
+  rotate: false
+  xy: 84, 2
   size: 80, 40
   orig: 80, 40
   offset: 0, 0
   index: -1
 vfx/frieee23
   rotate: false
-  xy: 387, 88
+  xy: 166, 2
   size: 80, 40
   orig: 80, 40
   offset: 0, 0
   index: -1
 vfx/frieee24
   rotate: false
-  xy: 444, 130
+  xy: 248, 2
   size: 80, 40
   orig: 80, 40
   offset: 0, 0
   index: -1
 vfx/frieee25
-  rotate: true
-  xy: 448, 172
+  rotate: false
+  xy: 330, 2
   size: 80, 40
   orig: 80, 40
   offset: 0, 0
   index: -1
 vfx/frieee26
-  rotate: true
-  xy: 490, 172
+  rotate: false
+  xy: 422, 186
   size: 80, 40
   orig: 80, 40
   offset: 0, 0
   index: -1
 vfx/frieee27
-  rotate: true
-  xy: 423, 6
+  rotate: false
+  xy: 414, 144
   size: 80, 40
   orig: 80, 40
   offset: 0, 0
   index: -1
 vfx/frieee28
-  rotate: true
-  xy: 465, 6
+  rotate: false
+  xy: 414, 102
   size: 80, 40
   orig: 80, 40
   offset: 0, 0
   index: -1
 vfx/frieee29
   rotate: false
-  xy: 469, 88
+  xy: 399, 60
   size: 80, 40
   orig: 80, 40
   offset: 0, 0

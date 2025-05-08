@@ -1,17 +1,17 @@
 {
 "skeleton": {
-	"hash": "VSyGOp9cX81SiyBe7CBJI6WSRJg",
+	"hash": "yb3OMzWxKK6i2QWf5hvsQbMD0/k",
 	"spine": "3.8.99",
-	"x": -81.58,
-	"y": -74.35,
-	"width": 160.34,
-	"height": 161.56,
+	"x": -70.16,
+	"y": -69.01,
+	"width": 137.89,
+	"height": 138.95,
 	"images": "./image/",
 	"audio": ""
 },
 "bones": [
 	{ "name": "root" },
-	{ "name": "character", "parent": "root" },
+	{ "name": "character", "parent": "root", "y": -5.07, "scaleX": 0.86, "scaleY": 0.86 },
 	{ "name": "nhanvat", "parent": "character", "x": -12.6, "y": -5.6 },
 	{ "name": "than", "parent": "nhanvat" },
 	{ "name": "face", "parent": "nhanvat", "x": 0.96, "y": 38.28 },
@@ -72,7 +72,7 @@
 	{ "name": "tayao15", "parent": "tayao14", "length": 9.39, "rotation": 5.88, "x": 9.29 },
 	{ "name": "tayao16", "parent": "tayao15", "length": 5.83, "rotation": -13.09, "x": 9.39 },
 	{ "name": "tayao17", "parent": "tayao16", "length": 6.53, "rotation": -8.42, "x": 5.83 },
-	{ "name": "vfx", "parent": "root", "y": 2.82, "scaleX": 0.77, "scaleY": 0.75 },
+	{ "name": "vfx", "parent": "root", "y": -0.23, "scaleX": 0.86, "scaleY": 0.86 },
 	{ "name": "bone", "parent": "dragon", "length": 34.35, "rotation": 142.75, "x": 43.76, "y": -3.93 },
 	{ "name": "bone2", "parent": "dragon", "length": 23.69, "rotation": 138.09, "x": 16.42, "y": 16.86 },
 	{ "name": "bone3", "parent": "dragon", "length": 24.67, "rotation": 166.22, "x": -1.21, "y": 32.68 },

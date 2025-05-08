@@ -1,11 +1,11 @@
 {
 "skeleton": {
-	"hash": "PCt9fXHaJ5QwIiZ+xBMPYGGGhGA",
+	"hash": "s80aPonsmwchQ+EhrqD7X3396so",
 	"spine": "3.8.99",
 	"x": -64.54,
-	"y": -60.64,
+	"y": -62.79,
 	"width": 125.18,
-	"height": 132.73,
+	"height": 131.81,
 	"images": "",
 	"audio": ""
 },
@@ -13,11 +13,11 @@
 	{ "name": "root", "x": -0.36, "y": 0.36 },
 	{ "name": "character", "parent": "root" },
 	{ "name": "background", "parent": "root" },
-	{ "name": "bg", "parent": "background" },
-	{ "name": "lytinh", "parent": "character", "x": -1.2, "y": -48.68 },
-	{ "name": "khung", "parent": "background" },
-	{ "name": "khung2", "parent": "background", "x": 9.57, "y": -47.84 },
-	{ "name": "vfx", "parent": "background", "x": -2.91, "y": -15.29 }
+	{ "name": "bg", "parent": "background", "y": -2.16 },
+	{ "name": "lytinh", "parent": "character", "x": -1.2, "y": -51.76 },
+	{ "name": "khung", "parent": "background", "y": -2.16 },
+	{ "name": "khung2", "parent": "background", "x": 9.57, "y": -50 },
+	{ "name": "vfx", "parent": "background", "x": -2.91, "y": -17.44 }
 ],
 "slots": [
 	{ "name": "bg", "bone": "bg", "attachment": "bg" },
@@ -75,7 +75,9 @@
 				"vfx/fx_payselectsmoke_btm29": { "width": 136, "height": 118 },
 				"vfx/fx_payselectsmoke_btm30": { "width": 136, "height": 118 },
 				"vfx/fx_payselectsmoke_btm31": { "width": 136, "height": 118 },
-				"vfx/fx_payselectsmoke_btm32": { "width": 136, "height": 118 }
+				"vfx/fx_payselectsmoke_btm32": { "width": 136, "height": 118 },
+				"vfx/fx_payselectsmoke_side_01": { "y": 0.5, "width": 136, "height": 135 },
+				"vfx/fx_payselectsmoke_side_02": { "y": 0.5, "width": 136, "height": 135 }
 			}
 		}
 	}

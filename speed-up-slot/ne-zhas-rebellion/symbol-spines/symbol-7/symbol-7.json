@@ -1,22 +1,22 @@
 {
 "skeleton": {
-	"hash": "q2ENaAW0hlYniToI8tQ15Gw9T98",
+	"hash": "JXtkKz/GI7j211SaDI7kwvL/iAA",
 	"spine": "3.8.99",
-	"x": -93,
-	"y": -131,
-	"width": 187,
-	"height": 228.36,
+	"x": -85.56,
+	"y": -72.54,
+	"width": 172.04,
+	"height": 149.83,
 	"images": "",
 	"audio": ""
 },
 "bones": [
 	{ "name": "root" },
-	{ "name": "background", "parent": "root" },
-	{ "name": "khung", "parent": "background" },
-	{ "name": "character", "parent": "root" },
-	{ "name": "tai", "parent": "character", "x": 12, "y": 18.36 },
-	{ "name": "text-freespin", "parent": "background" },
-	{ "name": "than", "parent": "character", "x": 1.56, "y": -35.32 },
+	{ "name": "background", "parent": "root", "scaleX": 0.93, "scaleY": 0.93 },
+	{ "name": "khung", "parent": "background", "y": -3.95 },
+	{ "name": "character", "parent": "root", "scaleX": 0.92, "scaleY": 0.92 },
+	{ "name": "tai", "parent": "character", "x": 12, "y": 5.01 },
+	{ "name": "text-freespin", "parent": "background", "y": -8.19 },
+	{ "name": "than", "parent": "character", "x": 1.56, "y": -48.67 },
 	{ "name": "toc", "parent": "than", "x": 11.21, "y": 75.22 },
 	{ "name": "toc2", "parent": "toc", "length": 18.98, "rotation": 62.04, "x": 4.29, "y": 5.86 },
 	{ "name": "toc3", "parent": "toc2", "length": 14.63, "rotation": 2.85, "x": 18.62, "y": -0.19 },
@@ -38,8 +38,8 @@
 	{ "name": "toc19", "parent": "toc18", "length": 9.96, "rotation": -3.9, "x": 10.98 },
 	{ "name": "toc20", "parent": "toc19", "length": 7.72, "rotation": 36.87, "x": 9.96 },
 	{ "name": "toc21", "parent": "toc20", "length": 10.78, "rotation": -49.69, "x": 7.72 },
-	{ "name": "vfx", "parent": "root", "rotation": 84.51, "y": -33.73, "scaleX": 2, "scaleY": 3 },
-	{ "name": "vfx2", "parent": "root", "rotation": 84.51, "y": -24.77, "scaleX": 2.5, "scaleY": 3.5 }
+	{ "name": "vfx", "parent": "root", "rotation": 84.51, "y": -33.73, "scaleX": 0.93, "scaleY": 0.93 },
+	{ "name": "vfx2", "parent": "root", "rotation": 84.51, "y": -24.77, "scaleX": 0.93, "scaleY": 0.93 }
 ],
 "slots": [
 	{ "name": "khung", "bone": "khung", "attachment": "khung" },
@@ -61,7 +61,7 @@
 				"tai": { "x": 0.48, "y": 8.24, "width": 42, "height": 17 }
 			},
 			"text-freespin": {
-				"text-freespin": { "y": -35.33, "width": 88, "height": 56 }
+				"text-freespin": { "y": -35.33, "width": 90, "height": 58 }
 			},
 			"than": {
 				"than": { "x": -1.06, "y": 44.18, "width": 187, "height": 137 }

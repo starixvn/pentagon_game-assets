@@ -1,8 +1,8 @@
 {
 "skeleton": {
-	"hash": "PykGrLToN/F7W1n1hVHYt/H/mjM",
+	"hash": "q/RmxhEcju/eT9HQRPkxXsjFWGE",
 	"spine": "3.8.99",
-	"x": -89,
+	"x": -78.63,
 	"y": -61.73,
 	"width": 152.27,
 	"height": 126.12,
@@ -12,12 +12,12 @@
 "bones": [
 	{ "name": "root" },
 	{ "name": "character", "parent": "root" },
-	{ "name": "mother", "parent": "character", "x": -11.72, "y": -48.81 },
+	{ "name": "mother", "parent": "character", "x": -1.35, "y": -48.81 },
 	{ "name": "aochoangsau", "parent": "mother", "x": 1.67, "y": 43.89 },
-	{ "name": "bg", "parent": "root", "x": -13.43 },
+	{ "name": "bg", "parent": "character", "x": -3.46, "y": -1.3 },
 	{ "name": "aochoangtruoc", "parent": "mother", "x": -3.85, "y": 47.52 },
-	{ "name": "kiem", "parent": "character", "x": -37.87, "y": -17.72 },
-	{ "name": "co", "parent": "character", "x": 30.12, "y": -10.11 },
+	{ "name": "kiem", "parent": "character", "x": -27.5, "y": -17.72 },
+	{ "name": "co", "parent": "character", "x": 40.49, "y": -10.11 },
 	{ "name": "aochoangtruoc2", "parent": "aochoangtruoc", "length": 14.73, "rotation": 157.13, "x": -3.95, "y": 2.24 },
 	{ "name": "aochoangtruoc3", "parent": "aochoangtruoc2", "length": 15.13, "rotation": 11.56, "x": 14.73 },
 	{ "name": "aochoangtruoc4", "parent": "aochoangtruoc3", "length": 12.39, "rotation": 18.19, "x": 15.13 },
@@ -36,7 +36,7 @@
 	{ "name": "bone", "parent": "kiem", "x": -30.24, "y": 25.28 },
 	{ "name": "bone2", "parent": "kiem", "x": -31.14, "y": -1.99 },
 	{ "name": "bone3", "parent": "kiem", "x": -41.58, "y": 19.61 },
-	{ "name": "circle", "parent": "character" }
+	{ "name": "circle", "parent": "character", "x": 10.37 }
 ],
 "slots": [
 	{ "name": "aochoangsau", "bone": "aochoangsau", "attachment": "aochoangsau" },

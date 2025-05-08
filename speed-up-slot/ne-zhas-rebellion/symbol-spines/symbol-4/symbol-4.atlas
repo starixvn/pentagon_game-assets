@@ -1,173 +1,173 @@
 
 symbol-4.png
-size: 1024,256
+size: 200,1006
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 smoke (2)/smoke/smoke13
   rotate: false
-  xy: 111, 23
+  xy: 2, 370
   size: 94, 94
   orig: 100, 100
   offset: 0, 6
   index: -1
 smoke (2)/smoke/smoke14
-  rotate: false
-  xy: 136, 157
+  rotate: true
+  xy: 103, 601
   size: 93, 95
   orig: 100, 100
   offset: 0, 5
   index: -1
 smoke (2)/smoke/smoke15
   rotate: false
-  xy: 207, 59
+  xy: 112, 696
   size: 81, 96
   orig: 100, 100
   offset: 12, 4
   index: -1
 smoke (2)/smoke/smoke16
-  rotate: false
-  xy: 364, 91
+  rotate: true
+  xy: 92, 12
   size: 79, 87
   orig: 100, 100
   offset: 14, 4
   index: -1
 smoke (2)/smoke/smoke17
-  rotate: false
-  xy: 389, 2
+  rotate: true
+  xy: 2, 2
   size: 77, 87
   orig: 100, 100
   offset: 15, 4
   index: -1
 smoke (2)/smoke/smoke18
-  rotate: false
-  xy: 727, 164
+  rotate: true
+  xy: 93, 93
   size: 70, 88
   orig: 100, 100
   offset: 20, 3
   index: -1
 smoke (2)/smoke/smoke19
-  rotate: false
-  xy: 766, 74
+  rotate: true
+  xy: 2, 81
   size: 70, 88
   orig: 100, 100
   offset: 19, 3
   index: -1
 smoke (2)/smoke/smoke20
-  rotate: false
-  xy: 694, 20
+  rotate: true
+  xy: 2, 153
   size: 70, 89
   orig: 100, 100
   offset: 19, 2
   index: -1
 smoke (2)/smoke/smoke21
-  rotate: false
-  xy: 621, 17
+  rotate: true
+  xy: 2, 225
   size: 71, 90
   orig: 100, 100
   offset: 18, 2
   index: -1
 smoke (2)/smoke/smoke22
   rotate: true
-  xy: 542, 109
+  xy: 95, 240
   size: 72, 90
   orig: 100, 100
   offset: 17, 2
   index: -1
 smoke (2)/smoke/smoke23
-  rotate: false
-  xy: 468, 18
+  rotate: true
+  xy: 94, 165
   size: 73, 89
   orig: 100, 100
   offset: 17, 1
   index: -1
 smoke (2)/smoke/smoke24
   rotate: true
-  xy: 634, 111
+  xy: 2, 298
   size: 70, 91
   orig: 100, 100
   offset: 16, 1
   index: -1
 smoke (2)/smoke/smoke25
   rotate: true
-  xy: 626, 183
+  xy: 98, 314
   size: 69, 92
   orig: 100, 100
   offset: 15, 1
   index: -1
 smoke (2)/smoke/smoke26
   rotate: true
-  xy: 530, 183
+  xy: 98, 385
   size: 69, 94
   orig: 100, 100
   offset: 15, 0
   index: -1
 smoke (2)/smoke/smoke27
   rotate: true
-  xy: 445, 109
+  xy: 101, 456
   size: 70, 95
   orig: 100, 100
   offset: 15, 0
   index: -1
 smoke (2)/smoke/smoke28
   rotate: true
-  xy: 432, 181
+  xy: 102, 528
   size: 71, 96
   orig: 100, 100
   offset: 14, 0
   index: -1
 smoke (2)/smoke/smoke29
   rotate: true
-  xy: 290, 4
+  xy: 2, 466
   size: 72, 97
   orig: 100, 100
   offset: 14, 0
   index: -1
 smoke (2)/smoke/smoke30
   rotate: true
-  xy: 332, 180
+  xy: 2, 540
   size: 72, 98
   orig: 100, 100
   offset: 14, 0
   index: -1
 smoke (2)/smoke/smoke31
-  rotate: false
-  xy: 290, 78
+  rotate: true
+  xy: 2, 614
   size: 72, 99
   orig: 100, 100
   offset: 14, 0
   index: -1
 smoke (2)/smoke/smoke32
   rotate: true
-  xy: 231, 179
+  xy: 2, 688
   size: 73, 99
   orig: 100, 100
   offset: 14, 0
   index: -1
 suphu/bg
-  rotate: true
-  xy: 2, 119
+  rotate: false
+  xy: 2, 872
   size: 133, 132
   orig: 133, 132
   offset: 0, 0
   index: -1
 suphu/channhan
-  rotate: true
-  xy: 543, 22
+  rotate: false
+  xy: 112, 794
   size: 85, 76
   orig: 88, 76
   offset: 3, 0
   index: -1
 suphu/heo
-  rotate: false
-  xy: 2, 9
+  rotate: true
+  xy: 2, 763
   size: 107, 108
   orig: 107, 108
   offset: 0, 0
   index: -1
 suphu/tai
   rotate: true
-  xy: 136, 127
+  xy: 137, 976
   size: 28, 40
   orig: 28, 40
   offset: 0, 0

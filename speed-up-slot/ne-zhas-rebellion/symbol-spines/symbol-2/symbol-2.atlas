@@ -1,173 +1,180 @@
 
 symbol-2.png
-size: 2048,512
+size: 1853,306
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 image/caivong
   rotate: false
-  xy: 1066, 122
+  xy: 1778, 98
   size: 73, 76
   orig: 75, 78
   offset: 1, 1
   index: -1
 image/caygiao
   rotate: false
-  xy: 1066, 200
+  xy: 1522, 25
   size: 126, 127
   orig: 128, 129
   offset: 1, 1
   index: -1
 image/combo
   rotate: false
-  xy: 1066, 329
+  xy: 1650, 25
   size: 126, 127
   orig: 126, 127
   offset: 0, 0
   index: -1
-vfx/fire000
-  rotate: false
-  xy: 2, 306
-  size: 150, 150
-  orig: 150, 150
+image/fire
+  rotate: true
+  xy: 1674, 176
+  size: 128, 156
+  orig: 128, 156
   offset: 0, 0
   index: -1
-vfx/fire001
+vfx/fire000
   rotate: false
   xy: 2, 154
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
-vfx/fire002
+vfx/fire001
   rotate: false
   xy: 2, 2
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
-vfx/fire003
-  rotate: false
-  xy: 154, 306
-  size: 150, 150
-  orig: 150, 150
-  offset: 0, 0
-  index: -1
-vfx/fire004
+vfx/fire002
   rotate: false
   xy: 154, 154
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
-vfx/fire005
+vfx/fire003
   rotate: false
   xy: 154, 2
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
-vfx/fire006
-  rotate: false
-  xy: 306, 306
-  size: 150, 150
-  orig: 150, 150
-  offset: 0, 0
-  index: -1
-vfx/fire007
+vfx/fire004
   rotate: false
   xy: 306, 154
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
-vfx/fire008
+vfx/fire005
   rotate: false
   xy: 306, 2
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
-vfx/fire009
-  rotate: false
-  xy: 458, 306
-  size: 150, 150
-  orig: 150, 150
-  offset: 0, 0
-  index: -1
-vfx/fire010
+vfx/fire006
   rotate: false
   xy: 458, 154
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
-vfx/fire011
+vfx/fire007
   rotate: false
   xy: 458, 2
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
-vfx/fire012
-  rotate: false
-  xy: 610, 306
-  size: 150, 150
-  orig: 150, 150
-  offset: 0, 0
-  index: -1
-vfx/fire013
+vfx/fire008
   rotate: false
   xy: 610, 154
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
-vfx/fire014
+vfx/fire009
   rotate: false
   xy: 610, 2
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
-vfx/fire015
-  rotate: false
-  xy: 762, 306
-  size: 150, 150
-  orig: 150, 150
-  offset: 0, 0
-  index: -1
-vfx/fire016
+vfx/fire010
   rotate: false
   xy: 762, 154
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
-vfx/fire017
+vfx/fire011
   rotate: false
   xy: 762, 2
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
-vfx/fire018
-  rotate: false
-  xy: 914, 306
-  size: 150, 150
-  orig: 150, 150
-  offset: 0, 0
-  index: -1
-vfx/fire019
+vfx/fire012
   rotate: false
   xy: 914, 154
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
-vfx/fire020
+vfx/fire013
   rotate: false
   xy: 914, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+vfx/fire014
+  rotate: false
+  xy: 1066, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+vfx/fire015
+  rotate: false
+  xy: 1066, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+vfx/fire016
+  rotate: false
+  xy: 1218, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+vfx/fire017
+  rotate: false
+  xy: 1218, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+vfx/fire018
+  rotate: false
+  xy: 1370, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+vfx/fire019
+  rotate: false
+  xy: 1370, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+vfx/fire020
+  rotate: false
+  xy: 1522, 154
   size: 150, 150
   orig: 150, 150
   offset: 0, 0

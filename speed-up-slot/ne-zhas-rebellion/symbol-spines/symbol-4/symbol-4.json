@@ -1,17 +1,17 @@
 {
 "skeleton": {
-	"hash": "rpwAvt9QEcWpxzLT9ABcUhF4s5Q",
+	"hash": "u6gA8WaYaJbD5uxxy1xYj+VbWVw",
 	"spine": "3.8.99",
-	"x": -92.07,
-	"y": -109.62,
-	"width": 199.37,
-	"height": 186.96,
+	"x": -63.36,
+	"y": -83.08,
+	"width": 135.42,
+	"height": 147.54,
 	"images": "",
 	"audio": "D:/MYWORKFOLDER/design/slot-nezha/sp/symbol-0"
 },
 "bones": [
 	{ "name": "all" },
-	{ "name": "character", "parent": "all", "x": -7.73, "y": -11.38 },
+	{ "name": "character", "parent": "all", "x": -7.73, "y": -11.38, "scaleX": 0.96, "scaleY": 0.96 },
 	{ "name": "conheo", "parent": "character", "x": -2.67, "y": 3.78 },
 	{ "name": "channhan", "parent": "character", "x": 5.09, "y": 13.8 },
 	{ "name": "thantruoc", "parent": "conheo", "length": 46.1, "rotation": 149.21, "x": -0.77, "y": 1.16 },
@@ -39,10 +39,10 @@
 		"rotation": -57.68,
 		"x": 2.68,
 		"y": -17.16,
-		"scaleX": 1.2,
-		"scaleY": 1.6
+		"scaleX": 0.96,
+		"scaleY": 0.96
 	},
-	{ "name": "bg", "parent": "all" }
+	{ "name": "bg", "parent": "all", "scaleX": 0.96, "scaleY": 0.96 }
 ],
 "slots": [
 	{ "name": "bg", "bone": "bg", "attachment": "suphu/bg" },
