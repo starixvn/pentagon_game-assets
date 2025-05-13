@@ -1,0 +1,160 @@
+
+symbol-8.png
+size: 166,1005
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BONUS
+  rotate: false
+  xy: 2, 676
+  size: 146, 65
+  orig: 148, 68
+  offset: 1, 1
+  index: -1
+coconut
+  rotate: false
+  xy: 2, 743
+  size: 139, 127
+  orig: 141, 129
+  offset: 1, 1
+  index: -1
+leaf
+  rotate: false
+  xy: 2, 2
+  size: 94, 37
+  orig: 94, 42
+  offset: 0, 0
+  index: -1
+leaf 3
+  rotate: false
+  xy: 72, 64
+  size: 62, 29
+  orig: 62, 29
+  offset: 0, 0
+  index: -1
+lemon
+  rotate: false
+  xy: 136, 65
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+symbol-8-static
+  rotate: false
+  xy: 2, 872
+  size: 154, 131
+  orig: 156, 133
+  offset: 1, 1
+  index: -1
+umbrella
+  rotate: true
+  xy: 98, 27
+  size: 35, 36
+  orig: 38, 38
+  offset: 2, 1
+  index: -1
+vfx/water00
+  rotate: false
+  xy: 2, 594
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+vfx/water01
+  rotate: false
+  xy: 84, 594
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+vfx/water02
+  rotate: false
+  xy: 2, 512
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+vfx/water03
+  rotate: false
+  xy: 84, 512
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+vfx/water04
+  rotate: false
+  xy: 2, 430
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+vfx/water05
+  rotate: false
+  xy: 84, 430
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+vfx/water06
+  rotate: false
+  xy: 2, 348
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+vfx/water07
+  rotate: false
+  xy: 84, 348
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+vfx/water08
+  rotate: false
+  xy: 2, 266
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+vfx/water09
+  rotate: false
+  xy: 84, 266
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+vfx/water10
+  rotate: false
+  xy: 2, 184
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+vfx/water11
+  rotate: false
+  xy: 84, 184
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+vfx/water12
+  rotate: false
+  xy: 2, 102
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 2, 41
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+water2
+  rotate: false
+  xy: 84, 95
+  size: 73, 87
+  orig: 76, 96
+  offset: 3, 9
+  index: -1

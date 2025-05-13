@@ -1,0 +1,97 @@
+
+symbol-10.jackpot.vi-VN.png
+size: 455,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H
+  rotate: false
+  xy: 409, 97
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+N
+  rotate: false
+  xy: 382, 6
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+O6
+  rotate: false
+  xy: 342, 85
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+U
+  rotate: false
+  xy: 377, 90
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+flare2
+  rotate: false
+  xy: 415, 11
+  size: 32, 32
+  orig: 40, 40
+  offset: 3, 4
+  index: -1
+gold1
+  rotate: false
+  xy: 424, 64
+  size: 29, 31
+  orig: 32, 33
+  offset: 2, 1
+  index: -1
+gold2
+  rotate: false
+  xy: 424, 64
+  size: 29, 31
+  orig: 32, 33
+  offset: 2, 1
+  index: -1
+leaf
+  rotate: false
+  xy: 278, 67
+  size: 62, 67
+  orig: 62, 67
+  offset: 0, 0
+  index: -1
+leaf2
+  rotate: true
+  xy: 278, 4
+  size: 61, 46
+  orig: 61, 46
+  offset: 0, 0
+  index: -1
+leaf3
+  rotate: true
+  xy: 382, 45
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+leaf4
+  rotate: false
+  xy: 326, 6
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+object
+  rotate: true
+  xy: 148, 2
+  size: 132, 128
+  orig: 132, 133
+  offset: 0, 5
+  index: -1
+symbol-8-idle_00
+  rotate: false
+  xy: 2, 2
+  size: 144, 132
+  orig: 148, 134
+  offset: 2, 2
+  index: -1

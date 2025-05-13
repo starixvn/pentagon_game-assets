@@ -1,0 +1,104 @@
+
+symbol-9.png
+size: 128,459
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D
+  rotate: false
+  xy: 44, 30
+  size: 43, 42
+  orig: 45, 44
+  offset: 1, 1
+  index: -1
+I
+  rotate: false
+  xy: 100, 267
+  size: 19, 41
+  orig: 21, 43
+  offset: 1, 1
+  index: -1
+L
+  rotate: false
+  xy: 89, 29
+  size: 34, 39
+  orig: 36, 41
+  offset: 1, 1
+  index: -1
+Leaf1
+  rotate: true
+  xy: 90, 176
+  size: 56, 36
+  orig: 58, 45
+  offset: 1, 1
+  index: -1
+Leaf2
+  rotate: true
+  xy: 89, 119
+  size: 55, 36
+  orig: 57, 45
+  offset: 1, 1
+  index: -1
+flower
+  rotate: true
+  xy: 100, 234
+  size: 31, 23
+  orig: 33, 25
+  offset: 1, 1
+  index: -1
+girl 2
+  rotate: false
+  xy: 2, 37
+  size: 40, 97
+  orig: 40, 97
+  offset: 0, 0
+  index: -1
+girl 3
+  rotate: true
+  xy: 2, 240
+  size: 68, 96
+  orig: 68, 96
+  offset: 0, 0
+  index: -1
+girl 4
+  rotate: true
+  xy: 2, 187
+  size: 51, 86
+  orig: 51, 86
+  offset: 0, 0
+  index: -1
+girl-1
+  rotate: true
+  xy: 2, 136
+  size: 49, 85
+  orig: 49, 85
+  offset: 0, 0
+  index: -1
+leaf3
+  rotate: false
+  xy: 2, 2
+  size: 39, 33
+  orig: 41, 35
+  offset: 1, 1
+  index: -1
+leaf4
+  rotate: true
+  xy: 89, 70
+  size: 47, 37
+  orig: 50, 40
+  offset: 2, 1
+  index: -1
+symbol-9-static
+  rotate: true
+  xy: 2, 310
+  size: 147, 116
+  orig: 149, 118
+  offset: 1, 1
+  index: -1
+w
+  rotate: true
+  xy: 44, 74
+  size: 60, 43
+  orig: 62, 45
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,377 @@
+
+symbol-10.png
+size: 1938,410
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 106
+  size: 302, 417
+  orig: 310, 441
+  offset: 6, 2
+  index: -1
+Layer 1
+  rotate: true
+  xy: 795, 136
+  size: 56, 92
+  orig: 56, 92
+  offset: 0, 0
+  index: -1
+base
+  rotate: true
+  xy: 421, 194
+  size: 214, 397
+  orig: 265, 398
+  offset: 47, 0
+  index: -1
+effect light/light00
+  rotate: false
+  xy: 153, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light01
+  rotate: false
+  xy: 255, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light02
+  rotate: false
+  xy: 357, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light03
+  rotate: false
+  xy: 459, 11
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light04
+  rotate: false
+  xy: 561, 11
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light05
+  rotate: false
+  xy: 1040, 38
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light06
+  rotate: false
+  xy: 1122, 172
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light07
+  rotate: false
+  xy: 1218, 308
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light08
+  rotate: false
+  xy: 1142, 70
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light09
+  rotate: false
+  xy: 1224, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light10
+  rotate: false
+  xy: 1320, 308
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light11
+  rotate: false
+  xy: 1244, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light12
+  rotate: false
+  xy: 1326, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light13
+  rotate: false
+  xy: 1422, 308
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light14
+  rotate: false
+  xy: 1244, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light15
+  rotate: false
+  xy: 1346, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light16
+  rotate: false
+  xy: 1428, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light17
+  rotate: false
+  xy: 1524, 308
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light18
+  rotate: false
+  xy: 1346, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light19
+  rotate: false
+  xy: 1448, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light20
+  rotate: false
+  xy: 1530, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light21
+  rotate: false
+  xy: 1626, 308
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light22
+  rotate: false
+  xy: 1448, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light23
+  rotate: false
+  xy: 1550, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light24
+  rotate: false
+  xy: 1632, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light25
+  rotate: false
+  xy: 1728, 308
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light26
+  rotate: false
+  xy: 1550, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light27
+  rotate: false
+  xy: 1830, 308
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light28
+  rotate: false
+  xy: 1652, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light29
+  rotate: false
+  xy: 1734, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light30
+  rotate: false
+  xy: 1652, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light31
+  rotate: false
+  xy: 1836, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light32
+  rotate: false
+  xy: 1754, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect light/light33
+  rotate: false
+  xy: 1754, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+eyesclose1
+  rotate: false
+  xy: 522, 118
+  size: 36, 20
+  orig: 38, 22
+  offset: 1, 1
+  index: -1
+eyesclose2
+  rotate: true
+  xy: 560, 113
+  size: 25, 18
+  orig: 27, 20
+  offset: 1, 1
+  index: -1
+hair1
+  rotate: true
+  xy: 421, 113
+  size: 79, 99
+  orig: 85, 102
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 889, 185
+  size: 44, 108
+  orig: 44, 108
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: true
+  xy: 889, 140
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: true
+  xy: 661, 151
+  size: 41, 132
+  orig: 41, 132
+  offset: 0, 0
+  index: -1
+hair5
+  rotate: true
+  xy: 2, 11
+  size: 93, 149
+  orig: 93, 149
+  offset: 0, 0
+  index: -1
+hair6
+  rotate: false
+  xy: 820, 231
+  size: 124, 177
+  orig: 129, 177
+  offset: 5, 0
+  index: -1
+hair7
+  rotate: true
+  xy: 663, 3
+  size: 113, 165
+  orig: 113, 165
+  offset: 0, 0
+  index: -1
+hair8
+  rotate: true
+  xy: 830, 6
+  size: 128, 208
+  orig: 131, 213
+  offset: 3, 5
+  index: -1
+hair9
+  rotate: true
+  xy: 522, 140
+  size: 52, 137
+  orig: 52, 137
+  offset: 0, 0
+  index: -1
+symbol-8-idle_0
+  rotate: false
+  xy: 946, 267
+  size: 134, 141
+  orig: 134, 142
+  offset: 0, 0
+  index: -1
+symbol-background/blur
+  rotate: true
+  xy: 999, 140
+  size: 125, 121
+  orig: 125, 123
+  offset: 0, 0
+  index: -1
+symbol-background/flower
+  rotate: true
+  xy: 661, 118
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+symbol-background/leaf
+  rotate: true
+  xy: 1142, 6
+  size: 62, 75
+  orig: 63, 75
+  offset: 0, 0
+  index: -1
+symbol-background/symbol-10
+  rotate: false
+  xy: 1082, 274
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
