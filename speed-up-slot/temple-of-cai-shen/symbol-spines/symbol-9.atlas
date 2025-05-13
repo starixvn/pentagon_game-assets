@@ -1,124 +1,124 @@
 
 symbol-9.png
-size: 1540,308
+size: 610,664
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Wild
   rotate: true
-  xy: 1471, 149
+  xy: 521, 505
   size: 157, 67
   orig: 159, 68
   offset: 2, 1
   index: -1
 background
   rotate: false
-  xy: 2, 2
+  xy: 369, 512
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 light
   rotate: false
-  xy: 2, 154
-  size: 731, 152
-  orig: 900, 200
-  offset: 85, 24
+  xy: 2, 586
+  size: 365, 76
+  orig: 450, 100
+  offset: 43, 12
   index: -1
 particles/Layer 1
   rotate: false
-  xy: 154, 2
+  xy: 2, 434
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 10
   rotate: false
-  xy: 1066, 4
+  xy: 154, 130
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 11
   rotate: false
-  xy: 1191, 156
+  xy: 306, 56
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 12
   rotate: false
-  xy: 1218, 4
+  xy: 458, 49
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 2
   rotate: false
-  xy: 306, 2
+  xy: 154, 434
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 3
   rotate: false
-  xy: 458, 2
+  xy: 306, 360
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 4
   rotate: false
-  xy: 610, 2
+  xy: 458, 353
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 5
   rotate: false
-  xy: 735, 156
+  xy: 2, 282
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 6
   rotate: false
-  xy: 762, 4
+  xy: 154, 282
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 7
   rotate: false
-  xy: 887, 156
+  xy: 306, 208
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 8
   rotate: false
-  xy: 914, 4
+  xy: 458, 201
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 9
   rotate: false
-  xy: 1039, 156
+  xy: 2, 130
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 ruyi-jade
-  rotate: true
-  xy: 1343, 173
+  rotate: false
+  xy: 2, 2
   size: 133, 126
   orig: 136, 128
   offset: 2, 1
   index: -1
 ruyi-jade-glow
-  rotate: true
-  xy: 1370, 14
+  rotate: false
+  xy: 137, 2
   size: 133, 126
   orig: 136, 128
   offset: 2, 1

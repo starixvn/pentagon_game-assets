@@ -1,27 +1,34 @@
 
 symbol-0.png
-size: 1376,364
+size: 228,411
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Item - background
   rotate: false
-  xy: 1224, 212
+  xy: 2, 259
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 light
-  rotate: false
-  xy: 2, 2
-  size: 1220, 360
-  orig: 1220, 360
+  rotate: true
+  xy: 154, 165
+  size: 244, 72
+  orig: 244, 72
   offset: 0, 0
   index: -1
 symbol-0
   rotate: false
-  xy: 1224, 107
+  xy: 2, 2
   size: 132, 103
   orig: 138, 113
-  offset: 3, 5
+  offset: 2, 0
+  index: -1
+symbol-test
+  rotate: false
+  xy: 2, 107
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
   index: -1

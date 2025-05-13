@@ -1,27 +1,27 @@
 
 symbol-6.png
-size: 1011,156
+size: 369,232
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Item - background
   rotate: false
-  xy: 735, 4
+  xy: 2, 2
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 jade-pendant
   rotate: false
-  xy: 887, 23
+  xy: 154, 21
   size: 122, 131
   orig: 122, 131
   offset: 0, 0
   index: -1
 light
   rotate: false
-  xy: 2, 2
-  size: 731, 152
-  orig: 900, 200
-  offset: 85, 24
+  xy: 2, 154
+  size: 365, 76
+  orig: 450, 100
+  offset: 43, 12
   index: -1
