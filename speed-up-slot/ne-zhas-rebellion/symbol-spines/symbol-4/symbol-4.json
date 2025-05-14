@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "u6gA8WaYaJbD5uxxy1xYj+VbWVw",
+	"hash": "HCIIrGLGGFkEW4L7/Q9RnBzCCT4",
 	"spine": "3.8.99",
 	"x": -63.36,
 	"y": -83.08,
@@ -42,7 +42,8 @@
 		"scaleX": 0.96,
 		"scaleY": 0.96
 	},
-	{ "name": "bg", "parent": "all", "scaleX": 0.96, "scaleY": 0.96 }
+	{ "name": "bg", "parent": "all", "scaleX": 0.96, "scaleY": 0.96 },
+	{ "name": "idle", "parent": "all", "x": -2.61, "y": -5.73 }
 ],
 "slots": [
 	{ "name": "bg", "bone": "bg", "attachment": "suphu/bg" },
@@ -50,7 +51,9 @@
 	{ "name": "suphu/character", "bone": "character" },
 	{ "name": "suphu/heo", "bone": "conheo", "attachment": "suphu/heo" },
 	{ "name": "suphu/channhan", "bone": "channhan", "attachment": "suphu/channhan" },
-	{ "name": "suphu/tai", "bone": "taiheoroi", "attachment": "suphu/tai" }
+	{ "name": "suphu/tai", "bone": "taiheoroi", "attachment": "suphu/tai" },
+	{ "name": "suphu/idle", "bone": "idle", "attachment": "suphu/idle" },
+	{ "name": "suphu/Rectangle 4", "bone": "all" }
 ],
 "skins": [
 	{
@@ -105,6 +108,9 @@
 					"height": 108
 				}
 			},
+			"suphu/idle": {
+				"suphu/idle": { "x": 0.5, "width": 147, "height": 139 }
+			},
 			"suphu/tai": {
 				"suphu/tai": {
 					"type": "mesh",
@@ -151,6 +157,11 @@
 					{ "time": 1.0333, "name": "smoke (2)/smoke/smoke30" },
 					{ "time": 1.1, "name": "smoke (2)/smoke/smoke31" },
 					{ "time": 1.1667, "name": "smoke (2)/smoke/smoke32" }
+				]
+			},
+			"suphu/idle": {
+				"attachment": [
+					{ "name": null }
 				]
 			}
 		},
@@ -279,13 +290,30 @@
 		}
 	},
 	"idle": {
-		"bones": {
-			"vfx": {
-				"translate": [
-					{ "x": -7.66 }
-				],
-				"scale": [
-					{ "y": 0.677 }
+		"slots": {
+			"bg": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"smoke (2)/smoke/smoke13": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"suphu/channhan": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"suphu/heo": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"suphu/tai": {
+				"attachment": [
+					{ "name": null }
 				]
 			}
 		}

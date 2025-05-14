@@ -1,264 +1,271 @@
 
 symbol-3.png
-size: 586,1033
+size: 1220,528
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 bg
   rotate: true
-  xy: 423, 214
+  xy: 998, 264
   size: 132, 134
   orig: 134, 136
   offset: 1, 1
   index: -1
 dragon
   rotate: true
-  xy: 132, 95
+  xy: 998, 140
   size: 122, 131
   orig: 122, 131
   offset: 0, 0
   index: -1
 face
-  rotate: false
-  xy: 485, 30
+  rotate: true
+  xy: 220, 4
   size: 36, 53
   orig: 36, 53
   offset: 0, 0
   index: -1
 hair
   rotate: false
-  xy: 404, 103
+  xy: 459, 2
   size: 110, 109
   orig: 110, 109
   offset: 0, 0
   index: -1
 hand
-  rotate: true
-  xy: 559, 275
+  rotate: false
+  xy: 275, 15
   size: 71, 25
   orig: 71, 25
   offset: 0, 0
   index: -1
+idle
+  rotate: true
+  xy: 716, 2
+  size: 128, 145
+  orig: 133, 147
+  offset: 0, 0
+  index: -1
 light
-  rotate: false
-  xy: 274, 103
+  rotate: true
+  xy: 1003, 398
   size: 128, 126
   orig: 128, 126
   offset: 0, 0
   index: -1
 tai
-  rotate: false
-  xy: 134, 584
+  rotate: true
+  xy: 129, 2
   size: 9, 23
   orig: 9, 23
   offset: 0, 0
   index: -1
 tayao
-  rotate: true
-  xy: 364, 12
+  rotate: false
+  xy: 129, 13
   size: 89, 70
   orig: 91, 70
   offset: 1, 0
   index: -1
 than
-  rotate: false
-  xy: 516, 85
+  rotate: true
+  xy: 220, 42
   size: 48, 127
   orig: 48, 127
   offset: 0, 0
   index: -1
 vfx/ice01
   rotate: false
-  xy: 265, 4
+  xy: 1121, 41
   size: 97, 97
   orig: 150, 150
   offset: 41, 37
   index: -1
 vfx/ice02
   rotate: false
-  xy: 274, 231
+  xy: 571, 5
   size: 143, 114
   orig: 150, 150
   offset: 2, 18
   index: -1
 vfx/ice03
-  rotate: false
-  xy: 296, 608
+  rotate: true
+  xy: 429, 255
   size: 138, 136
   orig: 150, 150
   offset: 2, 9
   index: -1
 vfx/ice04
   rotate: true
-  xy: 133, 219
+  xy: 857, 268
   size: 128, 139
   orig: 150, 150
   offset: 6, 5
   index: -1
 vfx/ice05
   rotate: false
-  xy: 2, 191
+  xy: 873, 398
   size: 128, 128
   orig: 150, 150
   offset: 11, 6
   index: -1
 vfx/ice06
-  rotate: false
-  xy: 2, 887
+  rotate: true
+  xy: 2, 380
   size: 146, 144
   orig: 150, 150
   offset: 3, 4
   index: -1
 vfx/ice07
-  rotate: false
-  xy: 150, 888
+  rotate: true
+  xy: 2, 231
   size: 147, 143
   orig: 150, 150
   offset: 2, 5
   index: -1
 vfx/ice08
-  rotate: false
-  xy: 299, 888
+  rotate: true
+  xy: 2, 85
   size: 144, 143
   orig: 150, 150
   offset: 3, 4
   index: -1
 vfx/ice09
-  rotate: false
-  xy: 150, 744
+  rotate: true
+  xy: 147, 234
   size: 144, 142
   orig: 150, 150
   offset: 3, 5
   index: -1
 vfx/ice10
-  rotate: false
-  xy: 2, 743
+  rotate: true
+  xy: 148, 383
   size: 143, 142
   orig: 150, 150
   offset: 3, 5
   index: -1
 vfx/ice11
   rotate: false
-  xy: 296, 746
+  xy: 147, 92
   size: 140, 140
   orig: 150, 150
   offset: 3, 5
   index: -1
 vfx/ice12
   rotate: true
-  xy: 445, 891
+  xy: 289, 92
   size: 140, 138
   orig: 150, 150
   offset: 3, 6
   index: -1
 vfx/ice13
   rotate: true
-  xy: 445, 748
+  xy: 291, 240
   size: 141, 136
   orig: 150, 150
   offset: 4, 6
   index: -1
 vfx/ice14
   rotate: false
-  xy: 2, 609
+  xy: 565, 121
   size: 141, 132
   orig: 150, 150
   offset: 4, 6
   index: -1
 vfx/ice15
   rotate: false
-  xy: 145, 480
+  xy: 567, 264
   size: 143, 130
   orig: 150, 150
   offset: 3, 7
   index: -1
 vfx/ice16
   rotate: false
-  xy: 290, 477
+  xy: 584, 397
   size: 143, 129
   orig: 150, 150
   offset: 3, 7
   index: -1
 vfx/ice17
   rotate: false
-  xy: 435, 348
+  xy: 712, 266
   size: 143, 129
   orig: 150, 150
   offset: 3, 8
   index: -1
 vfx/ice18
-  rotate: true
-  xy: 2, 464
+  rotate: false
+  xy: 708, 132
   size: 143, 130
   orig: 150, 150
   offset: 3, 7
   index: -1
 vfx/ice19
   rotate: false
-  xy: 438, 615
+  xy: 292, 395
   size: 144, 131
   orig: 150, 150
   offset: 3, 6
   index: -1
 vfx/ice20
   rotate: false
-  xy: 147, 612
+  xy: 438, 396
   size: 144, 130
   orig: 150, 150
   offset: 3, 7
   index: -1
 vfx/ice21
   rotate: false
-  xy: 134, 349
+  xy: 853, 135
   size: 143, 129
   orig: 150, 150
   offset: 4, 7
   index: -1
 vfx/ice22
-  rotate: true
-  xy: 2, 321
+  rotate: false
+  xy: 863, 4
   size: 141, 129
   orig: 150, 150
   offset: 5, 7
   index: -1
 vfx/ice23
   rotate: false
-  xy: 279, 347
+  xy: 729, 398
   size: 142, 128
   orig: 150, 150
   offset: 5, 7
   index: -1
 vfx/ice24
-  rotate: false
-  xy: 436, 479
+  rotate: true
+  xy: 429, 113
   size: 140, 134
   orig: 150, 150
   offset: 5, 7
   index: -1
 vfx/ice25
   rotate: true
-  xy: 2, 53
+  xy: 1006, 2
   size: 136, 113
   orig: 150, 150
   offset: 8, 15
   index: -1
 vfx/ice26
   rotate: false
-  xy: 117, 22
+  xy: 2, 12
   size: 125, 71
   orig: 150, 150
   offset: 4, 38
   index: -1
 vfx/ice27
   rotate: false
-  xy: 2, 2
+  xy: 349, 41
   size: 108, 49
   orig: 150, 150
   offset: 27, 43
   index: -1
 vfx/ice28
   rotate: true
-  xy: 436, 7
+  xy: 1131, 432
   size: 94, 47
   orig: 150, 150
   offset: 28, 43

@@ -1,138 +1,138 @@
 
 symbol-8.png
-size: 173,263
+size: 125,500
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 icon/wild/1
   rotate: true
-  xy: 44, 5
+  xy: 92, 320
   size: 39, 31
   orig: 39, 31
   offset: 0, 0
   index: -1
 icon/wild/10
   rotate: true
-  xy: 115, 89
+  xy: 2, 118
   size: 19, 44
   orig: 24, 46
   offset: 2, 2
   index: -1
 icon/wild/11
   rotate: true
-  xy: 91, 46
+  xy: 2, 10
   size: 21, 40
   orig: 21, 40
   offset: 0, 0
   index: -1
 icon/wild/12
   rotate: true
-  xy: 46, 136
+  xy: 79, 88
   size: 41, 42
   orig: 41, 42
   offset: 0, 0
   index: -1
 icon/wild/13
   rotate: false
-  xy: 91, 110
+  xy: 75, 62
   size: 42, 24
   orig: 42, 24
   offset: 0, 0
   index: -1
 icon/wild/14
   rotate: false
-  xy: 91, 69
+  xy: 46, 2
   size: 22, 39
   orig: 22, 39
   offset: 0, 0
   index: -1
 icon/wild/15
   rotate: false
-  xy: 133, 7
+  xy: 92, 277
   size: 30, 28
   orig: 30, 28
   offset: 0, 0
   index: -1
 icon/wild/2
-  rotate: false
-  xy: 2, 2
+  rotate: true
+  xy: 2, 33
   size: 40, 42
   orig: 42, 44
   offset: 1, 2
   index: -1
-icon/wild/3
-  rotate: true
-  xy: 135, 113
-  size: 21, 35
-  orig: 21, 35
-  offset: 0, 0
-  index: -1
 icon/wild/4
   rotate: false
-  xy: 115, 70
+  xy: 92, 258
   size: 30, 17
   orig: 30, 17
   offset: 0, 0
   index: -1
 icon/wild/5
-  rotate: true
-  xy: 106, 15
+  rotate: false
+  xy: 48, 112
   size: 29, 25
   orig: 29, 25
   offset: 0, 0
   index: -1
 icon/wild/6
   rotate: true
-  xy: 77, 3
+  xy: 46, 69
   size: 41, 27
   orig: 41, 27
   offset: 0, 0
   index: -1
 icon/wild/7
-  rotate: false
-  xy: 133, 37
+  rotate: true
+  xy: 92, 307
   size: 11, 31
   orig: 13, 31
   offset: 1, 0
   index: -1
 icon/wild/8
   rotate: false
-  xy: 90, 136
+  xy: 72, 19
   size: 41, 41
   orig: 41, 42
   offset: 0, 0
   index: -1
 icon/wild/9
   rotate: true
-  xy: 2, 136
+  xy: 2, 75
   size: 41, 42
   orig: 41, 42
   offset: 0, 0
   index: -1
 icon/wild/lasen
-  rotate: false
-  xy: 2, 179
+  rotate: true
+  xy: 2, 139
   size: 131, 82
   orig: 131, 82
   offset: 0, 0
   index: -1
+idle
+  rotate: true
+  xy: 2, 361
+  size: 137, 118
+  orig: 141, 118
+  offset: 2, 0
+  index: -1
 light-chamtim
   rotate: false
-  xy: 147, 63
+  xy: 46, 43
   size: 24, 24
   orig: 24, 24
   offset: 0, 0
   index: -1
 light-chamvang
-  rotate: true
-  xy: 2, 46
+  rotate: false
+  xy: 2, 272
   size: 88, 87
   orig: 88, 87
   offset: 0, 0
   index: -1
 text-symbol-bonus
   rotate: true
-  xy: 135, 136
+  xy: 86, 131
   size: 125, 34
   orig: 129, 36
   offset: 2, 1

@@ -1,264 +1,264 @@
 
 symbol-1.png
-size: 1846,435
+size: 2048,512
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 bg
-  rotate: true
-  xy: 1706, 3
+  rotate: false
+  xy: 1641, 4
   size: 146, 138
   orig: 148, 140
   offset: 1, 1
   index: -1
 fire00
   rotate: false
-  xy: 2, 293
+  xy: 2, 286
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire01
   rotate: false
-  xy: 2, 151
+  xy: 2, 144
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire02
-  rotate: true
-  xy: 2, 2
+  rotate: false
+  xy: 151, 286
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire03
-  rotate: true
-  xy: 144, 2
+  rotate: false
+  xy: 2, 2
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire04
   rotate: false
-  xy: 151, 293
+  xy: 151, 144
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire05
   rotate: false
-  xy: 151, 151
+  xy: 300, 286
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire06
-  rotate: true
-  xy: 286, 2
+  rotate: false
+  xy: 151, 2
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire07
   rotate: false
-  xy: 300, 293
+  xy: 300, 144
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire08
   rotate: false
-  xy: 300, 151
+  xy: 449, 286
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire09
-  rotate: true
-  xy: 428, 2
+  rotate: false
+  xy: 300, 2
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire10
   rotate: false
-  xy: 449, 293
+  xy: 449, 144
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire11
   rotate: false
-  xy: 449, 151
+  xy: 598, 286
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire12
-  rotate: true
-  xy: 570, 2
+  rotate: false
+  xy: 449, 2
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire13
   rotate: false
-  xy: 598, 293
+  xy: 598, 144
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire14
   rotate: false
-  xy: 598, 151
+  xy: 747, 286
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire15
-  rotate: true
-  xy: 712, 2
+  rotate: false
+  xy: 598, 2
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire16
   rotate: false
-  xy: 747, 293
+  xy: 747, 144
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire17
   rotate: false
-  xy: 747, 151
+  xy: 896, 286
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire18
-  rotate: true
-  xy: 854, 2
+  rotate: false
+  xy: 747, 2
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire19
   rotate: false
-  xy: 896, 293
+  xy: 896, 144
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire20
   rotate: false
-  xy: 896, 151
+  xy: 1045, 286
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire21
-  rotate: true
-  xy: 996, 2
+  rotate: false
+  xy: 896, 2
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire22
   rotate: false
-  xy: 1045, 293
+  xy: 1045, 144
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire23
   rotate: false
-  xy: 1045, 151
+  xy: 1194, 286
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire24
-  rotate: true
-  xy: 1138, 2
+  rotate: false
+  xy: 1045, 2
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire25
   rotate: false
-  xy: 1194, 293
+  xy: 1194, 144
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire26
   rotate: false
-  xy: 1194, 151
+  xy: 1343, 286
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire27
-  rotate: true
-  xy: 1280, 2
+  rotate: false
+  xy: 1194, 2
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire28
   rotate: false
-  xy: 1343, 293
+  xy: 1343, 144
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire29
   rotate: false
-  xy: 1343, 151
+  xy: 1492, 286
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire30
-  rotate: true
-  xy: 1422, 2
+  rotate: false
+  xy: 1343, 2
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire31
   rotate: false
-  xy: 1492, 293
+  xy: 1492, 144
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire32
   rotate: false
-  xy: 1492, 151
+  xy: 1641, 286
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire33
-  rotate: true
-  xy: 1564, 2
+  rotate: false
+  xy: 1492, 2
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire34
   rotate: false
-  xy: 1641, 293
+  xy: 1641, 144
   size: 147, 140
   orig: 148, 140
   offset: 1, 0
   index: -1
 fire35
   rotate: false
-  xy: 1641, 151
+  xy: 1790, 286
   size: 147, 140
   orig: 148, 140
   offset: 1, 0

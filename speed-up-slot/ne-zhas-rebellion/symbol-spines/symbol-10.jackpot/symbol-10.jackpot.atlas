@@ -1,173 +1,173 @@
 
 symbol-10.jackpot.png
-size: 220,504
+size: 259,488
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 bongsen
-  rotate: false
-  xy: 86, 218
+  rotate: true
+  xy: 223, 184
   size: 35, 34
   orig: 35, 34
   offset: 0, 0
   index: -1
+idle-en
+  rotate: false
+  xy: 2, 348
+  size: 142, 138
+  orig: 148, 138
+  offset: 3, 0
+  index: -1
 khung
   rotate: true
-  xy: 2, 368
+  xy: 2, 212
   size: 134, 135
   orig: 134, 135
   offset: 0, 0
   index: -1
 onggia
-  rotate: true
-  xy: 2, 254
+  rotate: false
+  xy: 139, 221
   size: 112, 121
   orig: 112, 121
   offset: 0, 0
   index: -1
 rau
   rotate: true
-  xy: 125, 304
+  xy: 178, 347
   size: 41, 46
   orig: 41, 46
   offset: 0, 0
   index: -1
 tay
   rotate: false
-  xy: 86, 175
+  xy: 233, 445
   size: 23, 41
   orig: 23, 41
   offset: 0, 0
   index: -1
 text-symbol-jackpot
   rotate: true
-  xy: 188, 360
+  xy: 146, 344
   size: 142, 30
   orig: 144, 34
   offset: 1, 2
   index: -1
-text-symbol-jackpot-vi
-  rotate: true
-  xy: 139, 402
-  size: 100, 47
-  orig: 100, 47
-  offset: 0, 0
-  index: -1
 tocphai
   rotate: false
-  xy: 179, 302
+  xy: 178, 390
   size: 34, 56
   orig: 34, 57
   offset: 0, 1
   index: -1
 toctrai
-  rotate: false
-  xy: 139, 347
+  rotate: true
+  xy: 178, 448
   size: 38, 53
   orig: 38, 53
   offset: 0, 0
   index: -1
 vfx/smoke00
   rotate: false
-  xy: 125, 262
+  xy: 214, 403
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/smoke01
   rotate: false
-  xy: 167, 260
+  xy: 139, 179
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/smoke02
   rotate: false
-  xy: 125, 220
+  xy: 181, 179
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/smoke03
   rotate: false
-  xy: 167, 218
+  xy: 2, 170
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/smoke04
   rotate: false
-  xy: 2, 212
+  xy: 44, 170
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/smoke05
   rotate: false
-  xy: 44, 212
+  xy: 86, 170
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/smoke06
   rotate: false
-  xy: 123, 178
+  xy: 128, 137
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/smoke07
   rotate: false
-  xy: 165, 176
+  xy: 170, 137
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/smoke08
   rotate: false
-  xy: 111, 136
+  xy: 212, 137
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/smoke09
   rotate: false
-  xy: 153, 134
+  xy: 2, 128
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/smoke10
   rotate: false
-  xy: 2, 170
+  xy: 44, 128
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/smoke11
   rotate: false
-  xy: 44, 170
+  xy: 86, 128
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/smoke12
   rotate: false
-  xy: 2, 128
+  xy: 128, 95
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/smoke13
   rotate: false
-  xy: 44, 128
+  xy: 170, 95
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/smoke14
   rotate: false
-  xy: 86, 94
+  xy: 212, 95
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
@@ -188,84 +188,84 @@ vfx/smoke16
   index: -1
 vfx/smoke17
   rotate: false
-  xy: 128, 92
+  xy: 86, 86
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/smoke18
   rotate: false
-  xy: 86, 52
+  xy: 128, 53
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/smoke19
   rotate: false
-  xy: 170, 92
+  xy: 170, 53
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/smoke20
   rotate: false
-  xy: 2, 44
+  xy: 212, 53
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/smoke21
   rotate: false
-  xy: 44, 44
+  xy: 2, 44
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/smoke22
   rotate: false
-  xy: 86, 10
+  xy: 44, 44
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/smoke23
   rotate: false
-  xy: 2, 2
+  xy: 86, 44
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/smoke24
   rotate: false
-  xy: 44, 2
+  xy: 128, 11
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/smoke25
   rotate: false
-  xy: 128, 50
+  xy: 170, 11
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/smoke26
   rotate: false
-  xy: 170, 50
+  xy: 212, 11
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/smoke27
   rotate: false
-  xy: 128, 8
+  xy: 2, 2
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 vfx/smoke28
   rotate: false
-  xy: 170, 8
+  xy: 44, 2
   size: 40, 40
   orig: 40, 40
   offset: 0, 0

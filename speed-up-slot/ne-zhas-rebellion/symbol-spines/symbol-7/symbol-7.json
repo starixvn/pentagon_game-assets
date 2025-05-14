@@ -1,19 +1,19 @@
 {
 "skeleton": {
-	"hash": "JXtkKz/GI7j211SaDI7kwvL/iAA",
+	"hash": "vmQNZ50enlZvgLvwXuxK9+aYYDM",
 	"spine": "3.8.99",
-	"x": -85.56,
-	"y": -72.54,
+	"x": -86.12,
+	"y": -116.94,
 	"width": 172.04,
-	"height": 149.83,
+	"height": 187.5,
 	"images": "",
 	"audio": ""
 },
 "bones": [
 	{ "name": "root" },
-	{ "name": "background", "parent": "root", "scaleX": 0.93, "scaleY": 0.93 },
+	{ "name": "background", "parent": "root", "y": -2.82, "scaleX": 0.93, "scaleY": 0.93 },
 	{ "name": "khung", "parent": "background", "y": -3.95 },
-	{ "name": "character", "parent": "root", "scaleX": 0.92, "scaleY": 0.92 },
+	{ "name": "character", "parent": "root", "x": -0.56, "y": -6.74, "scaleX": 0.92, "scaleY": 0.92 },
 	{ "name": "tai", "parent": "character", "x": 12, "y": 5.01 },
 	{ "name": "text-freespin", "parent": "background", "y": -8.19 },
 	{ "name": "than", "parent": "character", "x": 1.56, "y": -48.67 },
@@ -38,8 +38,9 @@
 	{ "name": "toc19", "parent": "toc18", "length": 9.96, "rotation": -3.9, "x": 10.98 },
 	{ "name": "toc20", "parent": "toc19", "length": 7.72, "rotation": 36.87, "x": 9.96 },
 	{ "name": "toc21", "parent": "toc20", "length": 10.78, "rotation": -49.69, "x": 7.72 },
-	{ "name": "vfx", "parent": "root", "rotation": 84.51, "y": -33.73, "scaleX": 0.93, "scaleY": 0.93 },
-	{ "name": "vfx2", "parent": "root", "rotation": 84.51, "y": -24.77, "scaleX": 0.93, "scaleY": 0.93 }
+	{ "name": "vfx", "parent": "root", "rotation": 84.51, "y": -33.73, "scaleX": 0.6438, "scaleY": 0.6438 },
+	{ "name": "vfx2", "parent": "root", "rotation": 84.51, "y": -24.77, "scaleX": 2.2089, "scaleY": 2.2089 },
+	{ "name": "idle", "parent": "root", "x": -1.69, "y": 1.13 }
 ],
 "slots": [
 	{ "name": "khung", "bone": "khung", "attachment": "khung" },
@@ -48,12 +49,17 @@
 	{ "name": "than", "bone": "than", "attachment": "than" },
 	{ "name": "toc", "bone": "toc", "attachment": "toc" },
 	{ "name": "tai", "bone": "tai", "attachment": "tai" },
-	{ "name": "text-freespin", "bone": "text-freespin", "attachment": "text-freespin" }
+	{ "name": "text-freespin", "bone": "text-freespin", "attachment": "text-freespin" },
+	{ "name": "idle", "bone": "idle", "attachment": "idle" },
+	{ "name": "Rectangle 4", "bone": "root" }
 ],
 "skins": [
 	{
 		"name": "default",
 		"attachments": {
+			"idle": {
+				"idle": { "x": 0.5, "width": 165, "height": 159 }
+			},
 			"khung": {
 				"khung": { "x": 0.5, "y": 0.5, "width": 137, "height": 139 }
 			},
@@ -128,6 +134,11 @@
 "animations": {
 	"highlight": {
 		"slots": {
+			"idle": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
 			"text-freespin": {
 				"color": [
 					{ "time": 0.3, "color": "ffffffff" },
@@ -365,106 +376,39 @@
 	},
 	"idle": {
 		"slots": {
+			"khung": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"tai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"text-freespin": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"than": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"toc": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
 			"vfx/frieee10": {
 				"attachment": [
-					{ "name": "vfx/frieee10" }
-				]
-			}
-		},
-		"bones": {
-			"toc2": {
-				"rotate": [
-					{ "angle": 0.22 }
+					{ "name": null }
 				]
 			},
-			"toc3": {
-				"rotate": [
-					{ "angle": 0.69 }
-				]
-			},
-			"toc4": {
-				"rotate": [
-					{ "angle": 1.28 }
-				]
-			},
-			"toc5": {
-				"rotate": [
-					{ "angle": 1.94 }
-				]
-			},
-			"toc6": {
-				"rotate": [
-					{ "angle": 2.64 }
-				]
-			},
-			"toc7": {
-				"rotate": [
-					{ "angle": 0.22 }
-				]
-			},
-			"toc8": {
-				"rotate": [
-					{ "angle": 0.69 }
-				]
-			},
-			"toc9": {
-				"rotate": [
-					{ "angle": 1.28 }
-				]
-			},
-			"toc10": {
-				"rotate": [
-					{ "angle": 1.94 }
-				]
-			},
-			"toc11": {
-				"rotate": [
-					{ "angle": 1.28 }
-				]
-			},
-			"toc12": {
-				"rotate": [
-					{ "angle": 1.94 }
-				]
-			},
-			"toc13": {
-				"rotate": [
-					{ "angle": 2.64 }
-				]
-			},
-			"toc14": {
-				"rotate": [
-					{ "angle": 3.67 }
-				]
-			},
-			"toc15": {
-				"rotate": [
-					{ "angle": 0.44 }
-				]
-			},
-			"toc16": {
-				"rotate": [
-					{ "angle": 0.97 }
-				]
-			},
-			"toc17": {
-				"rotate": [
-					{ "angle": 2.64 }
-				]
-			},
-			"toc18": {
-				"rotate": [
-					{ "angle": 3.34 }
-				]
-			},
-			"toc19": {
-				"rotate": [
-					{ "angle": 4 }
-				]
-			},
-			"toc20": {
-				"rotate": [
-					{ "angle": 4.6 }
+			"vfx/frieee11": {
+				"attachment": [
+					{ "name": null }
 				]
 			}
 		}

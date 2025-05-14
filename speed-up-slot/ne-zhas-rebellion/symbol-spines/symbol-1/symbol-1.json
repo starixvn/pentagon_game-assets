@@ -1,6 +1,6 @@
 {
 "skeleton": {
-	"hash": "s6Tq1x9aOO2gpP9AoAFtNyDAexc",
+	"hash": "rq2Qe9k7YeWKFWtTZBjfwtzbY0Y",
 	"spine": "3.8.99",
 	"x": -69.72,
 	"y": -70.72,
@@ -139,24 +139,6 @@
 			}
 		]
 	},
-	"idle": {
-		"slots": {
-			"fire00": {
-				"color": [
-					{ "color": "dfbc1200" }
-				],
-				"attachment": [
-					{ "name": "fire00" }
-				]
-			}
-		},
-		"drawOrder": [
-			{
-				"offsets": [
-					{ "slot": "fire00", "offset": 1 }
-				]
-			}
-		]
-	}
+	"idle": {}
 }
 }

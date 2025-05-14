@@ -1,20 +1,20 @@
 {
 "skeleton": {
-	"hash": "9UyUDyYNiM1qNERyVlYpv9VaVJY",
+	"hash": "FDiMbPdXGH+I2mCCzh6LAtmqBpY",
 	"spine": "3.8.99",
-	"x": -68.4,
-	"y": -69.8,
-	"width": 136.8,
-	"height": 135.99,
+	"x": -76.2,
+	"y": -75.87,
+	"width": 152,
+	"height": 152,
 	"images": "",
 	"audio": ""
 },
 "bones": [
 	{ "name": "root" },
-	{ "name": "onggia", "parent": "root", "x": -4, "y": 8.24, "scaleX": 0.95, "scaleY": 0.95 },
+	{ "name": "onggia", "parent": "root", "x": -4, "y": 6.75, "scaleX": 0.95, "scaleY": 0.95 },
 	{ "name": "bongsen", "parent": "onggia", "x": 24.58, "y": -29.77 },
-	{ "name": "khung", "parent": "root", "y": -6.15, "scaleX": 0.95, "scaleY": 0.95 },
-	{ "name": "text-symbol-jackpot", "parent": "root", "y": -31.83, "scaleX": 0.95, "scaleY": 0.95 },
+	{ "name": "khung", "parent": "root", "y": -2.8, "scaleX": 0.95, "scaleY": 0.95 },
+	{ "name": "text-symbol-jackpot", "parent": "root", "y": -31.27, "scaleX": 0.95, "scaleY": 0.95 },
 	{ "name": "tocphai", "parent": "onggia", "x": 19.15, "y": 49.43 },
 	{ "name": "toctrai", "parent": "onggia", "x": -7, "y": 48.6 },
 	{ "name": "vfx", "parent": "root", "x": 19.49, "y": -11.03, "scaleX": 0.95, "scaleY": 0.95 },
@@ -69,9 +69,11 @@
 	{ "name": "tocphai10", "parent": "tocphai9", "length": 11.67, "rotation": -0.49, "x": 10.72 },
 	{ "name": "vfx2", "parent": "root", "x": -17.92, "y": -6.58, "scaleX": 0.95, "scaleY": 0.95 },
 	{ "name": "vfx3", "parent": "root", "x": 2.46, "y": 8.83, "scaleX": 0.95, "scaleY": 0.95 },
-	{ "name": "tay", "parent": "onggia", "x": -35.25, "y": 16.77, "scaleX": 0.9963, "scaleY": 0.9963 }
+	{ "name": "tay", "parent": "onggia", "x": -35.25, "y": 16.77, "scaleX": 0.9963, "scaleY": 0.9963 },
+	{ "name": "idle", "parent": "root", "y": 0.37, "scaleX": 0.95, "scaleY": 0.95 }
 ],
 "slots": [
+	{ "name": "Rectangle 4 copy 5", "bone": "root" },
 	{ "name": "khung", "bone": "khung", "attachment": "khung" },
 	{ "name": "tocphai", "bone": "tocphai", "attachment": "tocphai" },
 	{ "name": "toctrai", "bone": "toctrai", "attachment": "toctrai" },
@@ -82,7 +84,8 @@
 	{ "name": "vfx/smoke0", "bone": "vfx2", "color": "fff196ff", "attachment": "vfx/smoke28", "blend": "additive" },
 	{ "name": "vfx/smoke1", "bone": "vfx3", "color": "f6ff86ff", "attachment": "vfx/smoke28", "blend": "additive" },
 	{ "name": "text-symbol-jackpot", "bone": "text-symbol-jackpot", "attachment": "text-symbol-jackpot" },
-	{ "name": "tay", "bone": "tay", "attachment": "tay" }
+	{ "name": "tay", "bone": "tay", "attachment": "tay" },
+	{ "name": "idle-vi", "bone": "idle", "attachment": "idle-en" }
 ],
 "skins": [
 	{
@@ -90,6 +93,9 @@
 		"attachments": {
 			"bongsen": {
 				"bongsen": { "x": 0.5, "y": 0.5, "width": 35, "height": 34 }
+			},
+			"idle-vi": {
+				"idle-en": { "width": 148, "height": 138 }
 			},
 			"khung": {
 				"khung": { "y": 0.5, "width": 134, "height": 135 }
@@ -113,8 +119,7 @@
 				"tay": { "x": 0.5, "y": 0.5, "width": 23, "height": 41 }
 			},
 			"text-symbol-jackpot": {
-				"text-symbol-jackpot": { "width": 144, "height": 34 },
-				"text-symbol-jackpot-vi": { "y": 0.5, "width": 100, "height": 47 }
+				"text-symbol-jackpot": { "width": 144, "height": 34 }
 			},
 			"tocphai": {
 				"tocphai": {
@@ -239,6 +244,11 @@
 "animations": {
 	"highlight": {
 		"slots": {
+			"idle-vi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
 			"tay": {
 				"color": [
 					{ "time": 0.0667, "color": "ffffffff" },
@@ -784,230 +794,44 @@
 	},
 	"idle": {
 		"slots": {
-			"vfx/smoke0": {
-				"color": [
-					{ "color": "fff19600" }
-				],
+			"bongsen": {
 				"attachment": [
-					{ "name": "vfx/smoke00" }
+					{ "name": null }
 				]
 			},
-			"vfx/smoke00": {
-				"color": [
-					{ "color": "edff5700" }
-				],
+			"khung": {
 				"attachment": [
-					{ "name": "vfx/smoke00" }
+					{ "name": null }
 				]
 			},
-			"vfx/smoke1": {
-				"color": [
-					{ "color": "f6ff8600" }
-				],
+			"onggia": {
 				"attachment": [
-					{ "name": "vfx/smoke00" }
-				]
-			}
-		},
-		"bones": {
-			"bone4": {
-				"rotate": [
-					{ "angle": -0.56 }
+					{ "name": null }
 				]
 			},
-			"bone3": {
-				"rotate": [
-					{ "angle": -0.3 }
+			"rau": {
+				"attachment": [
+					{ "name": null }
 				]
 			},
-			"bone2": {
-				"rotate": [
-					{ "angle": -1 }
+			"tay": {
+				"attachment": [
+					{ "name": null }
 				]
 			},
-			"rau2": {
-				"rotate": [
-					{ "angle": 0.14 }
+			"text-symbol-jackpot": {
+				"attachment": [
+					{ "name": null }
 				]
 			},
-			"rau6": {
-				"rotate": [
-					{ "angle": 0.4 }
+			"tocphai": {
+				"attachment": [
+					{ "name": null }
 				]
 			},
-			"rau5": {
-				"rotate": [
-					{ "angle": 0.2 }
-				]
-			},
-			"rau4": {
-				"rotate": [
-					{ "angle": 0.05 }
-				]
-			},
-			"rau3": {
-				"rotate": [
-					{ "angle": 0.26 }
-				]
-			},
-			"rau7": {
-				"rotate": [
-					{ "angle": 0.27 }
-				]
-			},
-			"rau8": {
-				"rotate": [
-					{ "angle": 0.12 }
-				]
-			},
-			"rau11": {
-				"rotate": [
-					{ "angle": 0.25 }
-				]
-			},
-			"rau14": {
-				"rotate": [
-					{ "angle": 0.35 }
-				]
-			},
-			"rau13": {
-				"rotate": [
-					{ "angle": 0.7 }
-				]
-			},
-			"rau12": {
-				"rotate": [
-					{ "angle": 0.16 }
-				]
-			},
-			"rau15": {
-				"rotate": [
-					{ "angle": -0.09 }
-				]
-			},
-			"rau19": {
-				"rotate": [
-					{ "angle": -2.04 }
-				]
-			},
-			"rau18": {
-				"rotate": [
-					{ "angle": -0.39 }
-				]
-			},
-			"rau17": {
-				"rotate": [
-					{ "angle": -0.79 }
-				]
-			},
-			"rau16": {
-				"rotate": [
-					{ "angle": -0.93 }
-				]
-			},
-			"rau20": {
-				"rotate": [
-					{ "angle": -0.89 }
-				]
-			},
-			"rau25": {
-				"rotate": [
-					{ "angle": -0.09 }
-				]
-			},
-			"rau24": {
-				"rotate": [
-					{ "angle": -0.38 }
-				]
-			},
-			"rau23": {
-				"rotate": [
-					{ "angle": -0.51 }
-				]
-			},
-			"rau22": {
-				"rotate": [
-					{ "angle": -0.65 }
-				]
-			},
-			"rau21": {
-				"rotate": [
-					{ "angle": -0.78 }
-				]
-			},
-			"toctrai9": {
-				"rotate": [
-					{ "angle": -0.02 }
-				]
-			},
-			"toctrai8": {
-				"rotate": [
-					{ "angle": -0.17 }
-				]
-			},
-			"toctrai7": {
-				"rotate": [
-					{ "angle": -0.64 }
-				]
-			},
-			"toctrai6": {
-				"rotate": [
-					{ "angle": -0.81 }
-				]
-			},
-			"toctrai5": {
-				"rotate": [
-					{ "angle": -1.05 }
-				]
-			},
-			"toctrai4": {
-				"rotate": [
-					{ "angle": -1.18 }
-				]
-			},
-			"toctrai3": {
-				"rotate": [
-					{ "angle": -1.27 }
-				]
-			},
-			"tocphai7": {
-				"rotate": [
-					{ "angle": 0.07 }
-				]
-			},
-			"tocphai10": {
-				"rotate": [
-					{ "angle": 0.22 }
-				]
-			},
-			"tocphai9": {
-				"rotate": [
-					{ "angle": 0.4 }
-				]
-			},
-			"tocphai8": {
-				"rotate": [
-					{ "angle": 0.61 }
-				]
-			},
-			"tocphai6": {
-				"rotate": [
-					{ "angle": 0.31 }
-				]
-			},
-			"tocphai5": {
-				"rotate": [
-					{ "angle": 0.51 }
-				]
-			},
-			"tocphai4": {
-				"rotate": [
-					{ "angle": 0.83 }
-				]
-			},
-			"tocphai3": {
-				"rotate": [
-					{ "angle": 0.72 }
+			"toctrai": {
+				"attachment": [
+					{ "name": null }
 				]
 			}
 		}
