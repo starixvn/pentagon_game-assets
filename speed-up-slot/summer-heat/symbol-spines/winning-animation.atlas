@@ -1,195 +1,195 @@
 
 winning-animation.png
-size: 1316,294
+size: 1298,290
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 win00
   rotate: false
   xy: 2, 2
-  size: 144, 144
+  size: 142, 142
   orig: 150, 150
-  offset: 3, 3
+  offset: 4, 4
   index: -1
 win01
   rotate: false
   xy: 2, 2
-  size: 144, 144
+  size: 142, 142
   orig: 150, 150
-  offset: 3, 3
+  offset: 4, 4
   index: -1
 win02
   rotate: false
-  xy: 148, 148
-  size: 144, 144
+  xy: 146, 146
+  size: 142, 142
   orig: 150, 150
-  offset: 3, 3
+  offset: 4, 4
   index: -1
 win03
   rotate: false
-  xy: 148, 148
-  size: 144, 144
+  xy: 146, 146
+  size: 142, 142
   orig: 150, 150
-  offset: 3, 3
+  offset: 4, 4
   index: -1
 win04
   rotate: false
-  xy: 148, 2
-  size: 144, 144
+  xy: 146, 2
+  size: 142, 142
   orig: 150, 150
-  offset: 3, 3
+  offset: 4, 4
   index: -1
 win05
   rotate: false
-  xy: 294, 148
-  size: 144, 144
+  xy: 290, 146
+  size: 142, 142
   orig: 150, 150
-  offset: 3, 3
+  offset: 4, 4
   index: -1
 win06
   rotate: false
-  xy: 294, 148
-  size: 144, 144
+  xy: 290, 146
+  size: 142, 142
   orig: 150, 150
-  offset: 3, 3
+  offset: 4, 4
   index: -1
 win07
   rotate: false
-  xy: 294, 2
-  size: 144, 144
+  xy: 290, 2
+  size: 142, 142
   orig: 150, 150
-  offset: 3, 3
+  offset: 4, 4
   index: -1
 win08
   rotate: false
-  xy: 440, 148
-  size: 144, 144
+  xy: 434, 146
+  size: 142, 142
   orig: 150, 150
-  offset: 3, 3
+  offset: 4, 4
   index: -1
 win09
   rotate: false
-  xy: 440, 148
-  size: 144, 144
+  xy: 434, 146
+  size: 142, 142
   orig: 150, 150
-  offset: 3, 3
+  offset: 4, 4
   index: -1
 win10
   rotate: false
-  xy: 440, 2
-  size: 144, 144
+  xy: 434, 2
+  size: 142, 142
   orig: 150, 150
-  offset: 3, 3
+  offset: 4, 4
   index: -1
 win11
   rotate: false
-  xy: 586, 148
-  size: 144, 144
+  xy: 578, 146
+  size: 142, 142
   orig: 150, 150
-  offset: 3, 3
+  offset: 4, 4
   index: -1
 win12
   rotate: false
-  xy: 586, 148
-  size: 144, 144
+  xy: 578, 146
+  size: 142, 142
   orig: 150, 150
-  offset: 3, 3
+  offset: 4, 4
   index: -1
 win13
   rotate: false
-  xy: 586, 2
-  size: 144, 144
+  xy: 578, 2
+  size: 142, 142
   orig: 150, 150
-  offset: 3, 3
+  offset: 4, 4
   index: -1
 win14
   rotate: false
-  xy: 586, 2
-  size: 144, 144
+  xy: 578, 2
+  size: 142, 142
   orig: 150, 150
-  offset: 3, 3
+  offset: 4, 4
   index: -1
 win15
   rotate: false
-  xy: 732, 148
-  size: 144, 144
+  xy: 722, 146
+  size: 142, 142
   orig: 150, 150
-  offset: 3, 3
+  offset: 4, 4
   index: -1
 win16
   rotate: false
-  xy: 732, 2
-  size: 144, 144
+  xy: 722, 2
+  size: 142, 142
   orig: 150, 150
-  offset: 3, 3
+  offset: 4, 4
   index: -1
 win17
   rotate: false
-  xy: 732, 2
-  size: 144, 144
+  xy: 722, 2
+  size: 142, 142
   orig: 150, 150
-  offset: 3, 3
+  offset: 4, 4
   index: -1
 win18
   rotate: false
-  xy: 878, 148
-  size: 144, 144
+  xy: 866, 146
+  size: 142, 142
   orig: 150, 150
-  offset: 3, 3
+  offset: 4, 4
   index: -1
 win19
   rotate: false
-  xy: 878, 2
-  size: 144, 144
+  xy: 866, 2
+  size: 142, 142
   orig: 150, 150
-  offset: 3, 3
+  offset: 4, 4
   index: -1
 win20
   rotate: false
-  xy: 878, 2
-  size: 144, 144
+  xy: 866, 2
+  size: 142, 142
   orig: 150, 150
-  offset: 3, 3
+  offset: 4, 4
   index: -1
 win21
   rotate: false
-  xy: 1024, 148
-  size: 144, 144
+  xy: 1010, 146
+  size: 142, 142
   orig: 150, 150
-  offset: 3, 3
+  offset: 4, 4
   index: -1
 win22
   rotate: false
-  xy: 1024, 2
-  size: 144, 144
+  xy: 1010, 2
+  size: 142, 142
   orig: 150, 150
-  offset: 3, 3
+  offset: 4, 4
   index: -1
 win23
   rotate: false
-  xy: 1024, 2
-  size: 144, 144
+  xy: 1010, 2
+  size: 142, 142
   orig: 150, 150
-  offset: 3, 3
+  offset: 4, 4
   index: -1
 win24
   rotate: false
-  xy: 1170, 148
-  size: 144, 144
+  xy: 1154, 146
+  size: 142, 142
   orig: 150, 150
-  offset: 3, 3
+  offset: 4, 4
   index: -1
 win26
   rotate: false
-  xy: 2, 148
-  size: 144, 144
+  xy: 2, 146
+  size: 142, 142
   orig: 150, 150
-  offset: 3, 3
+  offset: 4, 4
   index: -1
 win25
   rotate: false
-  xy: 2, 148
-  size: 144, 144
+  xy: 2, 146
+  size: 142, 142
   orig: 150, 150
-  offset: 3, 3
+  offset: 4, 4
   index: -1
