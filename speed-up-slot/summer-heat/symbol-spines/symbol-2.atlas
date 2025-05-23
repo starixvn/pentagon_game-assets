@@ -1,194 +1,194 @@
 
 symbol-2.png
-size: 1085,154
+size: 152,1059
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 bubble/bubble00
-  rotate: false
-  xy: 97, 78
-  size: 74, 74
+  rotate: true
+  xy: 2, 985
+  size: 72, 73
   orig: 80, 80
-  offset: 3, 3
+  offset: 4, 3
   index: -1
 bubble/bubble01
-  rotate: false
-  xy: 173, 78
-  size: 74, 74
+  rotate: true
+  xy: 77, 985
+  size: 72, 73
   orig: 80, 80
-  offset: 3, 3
+  offset: 4, 3
   index: -1
 bubble/bubble02
-  rotate: false
-  xy: 249, 78
-  size: 74, 74
+  rotate: true
+  xy: 2, 911
+  size: 72, 73
   orig: 80, 80
-  offset: 3, 3
+  offset: 4, 3
   index: -1
 bubble/bubble03
-  rotate: false
-  xy: 325, 78
-  size: 74, 74
+  rotate: true
+  xy: 77, 911
+  size: 72, 73
   orig: 80, 80
-  offset: 3, 3
+  offset: 4, 3
   index: -1
 bubble/bubble04
-  rotate: false
-  xy: 401, 78
-  size: 74, 74
+  rotate: true
+  xy: 2, 837
+  size: 72, 73
   orig: 80, 80
-  offset: 3, 3
+  offset: 4, 3
   index: -1
 bubble/bubble05
-  rotate: false
-  xy: 477, 78
-  size: 74, 74
+  rotate: true
+  xy: 77, 837
+  size: 72, 73
   orig: 80, 80
-  offset: 3, 3
+  offset: 4, 3
   index: -1
 bubble/bubble06
-  rotate: false
-  xy: 553, 78
-  size: 74, 74
+  rotate: true
+  xy: 2, 763
+  size: 72, 73
   orig: 80, 80
-  offset: 3, 3
+  offset: 4, 3
   index: -1
 bubble/bubble07
-  rotate: false
-  xy: 629, 78
-  size: 74, 74
+  rotate: true
+  xy: 77, 763
+  size: 72, 73
   orig: 80, 80
-  offset: 3, 3
+  offset: 4, 3
   index: -1
 bubble/bubble08
-  rotate: false
-  xy: 705, 78
-  size: 74, 74
+  rotate: true
+  xy: 2, 689
+  size: 72, 73
   orig: 80, 80
-  offset: 3, 3
+  offset: 4, 3
   index: -1
 bubble/bubble09
-  rotate: false
-  xy: 781, 78
-  size: 74, 74
+  rotate: true
+  xy: 77, 689
+  size: 72, 73
   orig: 80, 80
-  offset: 3, 3
+  offset: 4, 3
   index: -1
 bubble/bubble10
-  rotate: false
-  xy: 857, 78
-  size: 74, 74
+  rotate: true
+  xy: 2, 615
+  size: 72, 73
   orig: 80, 80
-  offset: 3, 3
+  offset: 4, 3
   index: -1
 bubble/bubble11
-  rotate: false
-  xy: 933, 78
-  size: 74, 74
+  rotate: true
+  xy: 77, 615
+  size: 72, 73
   orig: 80, 80
-  offset: 3, 3
+  offset: 4, 3
   index: -1
 bubble/bubble12
-  rotate: false
-  xy: 1009, 78
-  size: 74, 74
+  rotate: true
+  xy: 2, 541
+  size: 72, 73
   orig: 80, 80
-  offset: 3, 3
+  offset: 4, 3
   index: -1
 bubble/bubble13
-  rotate: false
-  xy: 97, 2
-  size: 74, 74
+  rotate: true
+  xy: 77, 541
+  size: 72, 73
   orig: 80, 80
-  offset: 3, 3
+  offset: 4, 3
   index: -1
 bubble/bubble14
-  rotate: false
-  xy: 173, 2
-  size: 74, 74
+  rotate: true
+  xy: 2, 467
+  size: 72, 73
   orig: 80, 80
-  offset: 3, 3
+  offset: 4, 3
   index: -1
 bubble/bubble15
-  rotate: false
-  xy: 249, 2
-  size: 74, 74
+  rotate: true
+  xy: 77, 467
+  size: 72, 73
   orig: 80, 80
-  offset: 3, 3
+  offset: 4, 3
   index: -1
 bubble/bubble16
-  rotate: false
-  xy: 325, 2
-  size: 74, 74
+  rotate: true
+  xy: 2, 393
+  size: 72, 73
   orig: 80, 80
-  offset: 3, 3
+  offset: 4, 3
   index: -1
 bubble/bubble17
-  rotate: false
-  xy: 401, 2
-  size: 74, 74
+  rotate: true
+  xy: 77, 393
+  size: 72, 73
   orig: 80, 80
-  offset: 3, 3
+  offset: 4, 3
   index: -1
 bubble/bubble18
-  rotate: false
-  xy: 477, 2
-  size: 74, 74
+  rotate: true
+  xy: 2, 319
+  size: 72, 73
   orig: 80, 80
-  offset: 3, 3
+  offset: 4, 3
   index: -1
 bubble/bubble19
-  rotate: false
-  xy: 553, 2
-  size: 74, 74
+  rotate: true
+  xy: 77, 319
+  size: 72, 73
   orig: 80, 80
-  offset: 3, 3
+  offset: 4, 3
   index: -1
 bubble/bubble20
-  rotate: false
-  xy: 629, 2
-  size: 74, 74
+  rotate: true
+  xy: 2, 245
+  size: 72, 73
   orig: 80, 80
-  offset: 3, 3
+  offset: 4, 3
   index: -1
 bubble/bubble21
-  rotate: false
-  xy: 705, 2
-  size: 74, 74
+  rotate: true
+  xy: 77, 245
+  size: 72, 73
   orig: 80, 80
-  offset: 3, 3
+  offset: 4, 3
   index: -1
 bubble/bubble22
-  rotate: false
-  xy: 781, 2
-  size: 74, 74
+  rotate: true
+  xy: 2, 171
+  size: 72, 73
   orig: 80, 80
-  offset: 3, 3
+  offset: 4, 3
   index: -1
 bubble/bubble23
-  rotate: false
-  xy: 857, 2
-  size: 74, 74
+  rotate: true
+  xy: 77, 171
+  size: 72, 73
   orig: 80, 80
-  offset: 3, 3
+  offset: 4, 3
   index: -1
 bubble/bubble24
-  rotate: false
-  xy: 933, 2
-  size: 74, 74
+  rotate: true
+  xy: 2, 97
+  size: 72, 73
   orig: 80, 80
-  offset: 3, 3
+  offset: 4, 3
   index: -1
 bubble/bubble25
-  rotate: false
-  xy: 1009, 2
-  size: 74, 74
+  rotate: true
+  xy: 77, 97
+  size: 72, 73
   orig: 80, 80
-  offset: 3, 3
+  offset: 4, 3
   index: -1
 symbol
-  rotate: false
-  xy: 2, 45
+  rotate: true
+  xy: 2, 2
   size: 93, 107
   orig: 98, 120
   offset: 3, 4
