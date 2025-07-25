@@ -14,9 +14,9 @@
                     "options": {
                         "params": [
                             "--texture-format",
-                            "png"
+                            "webp"
                         ],
-                        "sheet_extension": "png",
+                        "sheet_extension": "webp",
                         "output_path": [
                             "bitcoin-master"
                         ]
@@ -27,6 +27,7 @@
     ],
     "options": {
         "params": [
+            ["--webp-quality", 100],
             [
                 "--maxrects-heuristics",
                 "Best"
@@ -51,6 +52,7 @@
                 "--algorithm",
                 "MaxRects"
             ],
+            ["--basic-sort-by", "Name"],
             [
                 "--opt",
                 "RGBA8888"
