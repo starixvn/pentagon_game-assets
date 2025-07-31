@@ -259,6 +259,21 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>txt_big_ja.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{78,79}</string>
+                <key>spriteSourceSize</key>
+                <string>{78,79}</string>
+                <key>textureRect</key>
+                <string>{{431,170},{78,79}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>txt_big_th.png</key>
             <dict>
                 <key>aliases</key>
@@ -349,6 +364,21 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>txt_small_ja.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{84,83}</string>
+                <key>spriteSourceSize</key>
+                <string>{84,83}</string>
+                <key>textureRect</key>
+                <string>{{420,369},{84,83}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>txt_small_th.png</key>
             <dict>
                 <key>aliases</key>
@@ -404,13 +434,13 @@
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
-            <string>big_small.png</string>
+            <string>big_small.webp</string>
             <key>size</key>
             <string>{512,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:79b51b32984af79350df3d858dbeabf0:909a319dfb5fc2f738c21b15bd51e43c:b5aab313d4beeadd3022c8f36d1b8c20$</string>
+            <string>$TexturePacker:SmartUpdate:7a44715b256890a01aa5dc5e1c27e2d9:8c95051d7401b8a76b3285c726a00849:b5aab313d4beeadd3022c8f36d1b8c20$</string>
             <key>textureFileName</key>
-            <string>big_small.png</string>
+            <string>big_small.webp</string>
         </dict>
     </dict>
 </plist>

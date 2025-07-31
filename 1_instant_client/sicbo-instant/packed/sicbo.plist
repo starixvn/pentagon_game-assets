@@ -904,6 +904,21 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
+            <key>stats_B_ja.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{32,27}</string>
+                <key>spriteSourceSize</key>
+                <string>{32,27}</string>
+                <key>textureRect</key>
+                <string>{{989,317},{32,27}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>stats_B_th.png</key>
             <dict>
                 <key>aliases</key>
@@ -994,6 +1009,21 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
+            <key>stats_T_ja.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{22,22}</string>
+                <key>spriteSourceSize</key>
+                <string>{22,22}</string>
+                <key>textureRect</key>
+                <string>{{522,806},{22,22}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>stats_T_th.png</key>
             <dict>
                 <key>aliases</key>
@@ -1081,6 +1111,21 @@
                 <string>{22,22}</string>
                 <key>textureRect</key>
                 <string>{{570,806},{22,22}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>stats_X_ja.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{29,29}</string>
+                <key>spriteSourceSize</key>
+                <string>{29,29}</string>
+                <key>textureRect</key>
+                <string>{{989,370},{29,29}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -1353,7 +1398,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:089a359ec947755d6916fa812b7fe242:983fab81ace814cda525ed3b6dfbbf89:2137678510243ad0df8186a600fc552a$</string>
+            <string>$TexturePacker:SmartUpdate:b5249ce4016549167b7d407a7c7dac6a:1f73463f3368ad29d402920d86426ea5:2137678510243ad0df8186a600fc552a$</string>
             <key>textureFileName</key>
             <string>sicbo.png</string>
         </dict>
