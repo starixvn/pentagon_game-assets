@@ -784,6 +784,66 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>game-name-es-56.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-2,-2}</string>
+                <key>spriteSize</key>
+                <string>{158,30}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,40}</string>
+                <key>textureRect</key>
+                <string>{{990,88},{158,30}}</string>
+                <key>textureRotated</key>
+                <true/>
+            </dict>
+            <key>game-name-es-57.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-2,-2}</string>
+                <key>spriteSize</key>
+                <string>{158,30}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,40}</string>
+                <key>textureRect</key>
+                <string>{{439,758},{158,30}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>game-name-es-58.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1,-2}</string>
+                <key>spriteSize</key>
+                <string>{158,30}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,40}</string>
+                <key>textureRect</key>
+                <string>{{439,790},{158,30}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>game-name-es-9.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-2,-2}</string>
+                <key>spriteSize</key>
+                <string>{136,30}</string>
+                <key>spriteSourceSize</key>
+                <string>{256,40}</string>
+                <key>textureRect</key>
+                <string>{{582,867},{136,30}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>game-name-id-56.png</key>
             <dict>
                 <key>aliases</key>
@@ -1848,7 +1908,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:6b1330a172631d88c15c83040ba5c889:1cbb542fe955211c2a3ddd15d1695138:7323b466ffb196c1d5db59a4e1916fcf$</string>
+            <string>$TexturePacker:SmartUpdate:b082a87a221e025acdd01666ee5d508d:25e524822ada4da364e6335e359d2e5a:7323b466ffb196c1d5db59a4e1916fcf$</string>
             <key>textureFileName</key>
             <string>mini-sedie-multiplay.png</string>
         </dict>
