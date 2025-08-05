@@ -49,6 +49,21 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>txt-jackpot_es.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-4}</string>
+                <key>spriteSize</key>
+                <string>{95,30}</string>
+                <key>spriteSourceSize</key>
+                <string>{95,40}</string>
+                <key>textureRect</key>
+                <string>{{3,3},{95,30}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>txt-jackpot_id.png</key>
             <dict>
                 <key>aliases</key>
@@ -134,13 +149,13 @@
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
-            <string>jackpot-notification.png</string>
+            <string>jackpot-notification.webp</string>
             <key>size</key>
             <string>{128,256}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:8fae4c662d7a653e7cef01a728e43712:aedb8703188a9973ba009bba8585a6d9:48ef44f597784666fc74dc25bbcb9e93$</string>
+            <string>$TexturePacker:SmartUpdate:67f4f230714eee256d48f283a769e225:892a3c62a8ca53ebe859963a004c6093:406f6bfe9cb767d6f59e8ba53b80cc7b$</string>
             <key>textureFileName</key>
-            <string>jackpot-notification.png</string>
+            <string>jackpot-notification.webp</string>
         </dict>
     </dict>
 </plist>
