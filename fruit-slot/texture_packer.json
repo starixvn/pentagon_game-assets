@@ -7,8 +7,8 @@
       "children": [
         {
           "options": {
-            "params": ["--texture-format", "png"],
-            "sheet_extension": "png",
+            "params": ["--texture-format", "webp"],
+            "sheet_extension": "webp",
             "output_path": ["fruit-slot"]
           }
         }
@@ -23,8 +23,8 @@
       ["--shape-padding", 1],
       ["--format", "cocos2d"],
       ["--algorithm", "MaxRects"],
-	  ["--basic-order", "Ascending"],
-	  ["--basic-sort-by", "Name"],
+      ["--basic-order", "Ascending"],
+      ["--basic-sort-by", "Name"],
       ["--opt", "RGBA8888"],
       ["--max-height", 2048],
       ["--size-constraints", "POT"],
