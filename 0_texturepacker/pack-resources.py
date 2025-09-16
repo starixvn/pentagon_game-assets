@@ -9,7 +9,7 @@ if __name__ == '__main__':
     current_dir = os.path.dirname(os.path.realpath(__file__))
     project_dir = os.path.join(current_dir, '..')
 
-    images_dir = "1_instant_client/big_small"
+    images_dir = "speed-up-cascading/shared"
     if len(sys.argv) > 1:
         images_dir = sys.argv[1]
     
