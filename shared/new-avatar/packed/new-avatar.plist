@@ -19,6 +19,21 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
+            <key>avatar_overlay.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{120,120}</string>
+                <key>spriteSourceSize</key>
+                <string>{120,120}</string>
+                <key>textureRect</key>
+                <string>{{3,157},{120,120}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
             <key>bg_black.png</key>
             <dict>
                 <key>aliases</key>
@@ -121,9 +136,9 @@
             <key>realTextureFileName</key>
             <string>new-avatar.webp</string>
             <key>size</key>
-            <string>{256,256}</string>
+            <string>{256,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:8bc34beac9928f77fd8e9605e3b414e3:6892320357d639813de41a35c4b0512a:a73e0e2ed45fd954f6213956698a56a9$</string>
+            <string>$TexturePacker:SmartUpdate:096cd7c6b900d991e45671cb3fec7bd0:7810c130221f030f3b28a5c64dbb0c6e:a73e0e2ed45fd954f6213956698a56a9$</string>
             <key>textureFileName</key>
             <string>new-avatar.webp</string>
         </dict>
