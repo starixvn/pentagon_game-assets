@@ -584,13 +584,13 @@
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
-            <string>shared-standard-slot.png</string>
+            <string>shared-standard-slot.webp</string>
             <key>size</key>
             <string>{256,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:df36f3fc3387bf58b285c353d5f1098b:37134a05bedeac5bde4c723ce8269a6e:bcd64a82ad967b24690dbea56a38c271$</string>
+            <string>$TexturePacker:SmartUpdate:7e76b859376b785ed15019b740ee99d3:37134a05bedeac5bde4c723ce8269a6e:02fa47b9373ca7bd3cdefd555a754be6$</string>
             <key>textureFileName</key>
-            <string>shared-standard-slot.png</string>
+            <string>shared-standard-slot.webp</string>
         </dict>
     </dict>
 </plist>
