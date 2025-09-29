@@ -453,7 +453,7 @@
             <key>size</key>
             <string>{512,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:b66c5e9b52b6ad8333a902107ac9d632:87977957d4417163fe7adf64c5ee28df:42d07e03c5ea52b11f8ae91872686067$</string>
+            <string>$TexturePacker:SmartUpdate:65cc5bc1ff571c5a456b97e5b984f39c:87977957d4417163fe7adf64c5ee28df:42d07e03c5ea52b11f8ae91872686067$</string>
             <key>textureFileName</key>
             <string>original-games-popup.webp</string>
         </dict>
