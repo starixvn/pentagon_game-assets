@@ -1,0 +1,100 @@
+{"frames": {
+
+"01.png":
+{
+	"frame": {"x":85,"y":245,"w":76,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":12,"w":76,"h":75},
+	"sourceSize": {"w":96,"h":96}
+},
+"02.png":
+{
+	"frame": {"x":179,"y":82,"w":71,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":8,"w":71,"h":78},
+	"sourceSize": {"w":96,"h":96}
+},
+"03.png":
+{
+	"frame": {"x":86,"y":163,"w":80,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":6,"w":80,"h":80},
+	"sourceSize": {"w":96,"h":96}
+},
+"04.png":
+{
+	"frame": {"x":3,"y":87,"w":81,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":7,"w":81,"h":78},
+	"sourceSize": {"w":96,"h":96}
+},
+"05.png":
+{
+	"frame": {"x":179,"y":3,"w":77,"h":73},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":11,"w":77,"h":73},
+	"sourceSize": {"w":96,"h":96}
+},
+"06.png":
+{
+	"frame": {"x":95,"y":3,"w":82,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":5,"w":82,"h":79},
+	"sourceSize": {"w":96,"h":96}
+},
+"07.png":
+{
+	"frame": {"x":3,"y":3,"w":82,"h":90},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":3,"w":82,"h":90},
+	"sourceSize": {"w":96,"h":96}
+},
+"08.png":
+{
+	"frame": {"x":95,"y":84,"w":82,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":10,"w":82,"h":77},
+	"sourceSize": {"w":96,"h":96}
+},
+"09.png":
+{
+	"frame": {"x":168,"y":163,"w":80,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":9,"w":80,"h":77},
+	"sourceSize": {"w":96,"h":96}
+},
+"10.png":
+{
+	"frame": {"x":3,"y":167,"w":78,"h":80},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":7,"w":78,"h":80},
+	"sourceSize": {"w":96,"h":96}
+},
+"11.png":
+{
+	"frame": {"x":168,"y":242,"w":76,"h":78},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":9,"w":76,"h":78},
+	"sourceSize": {"w":96,"h":96}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "end-01.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2c45cbe257f9df7ac91eb30eb2390924:73571c74c36940daad257e3ea94e7a5f:12a058e270095192284ac9d3eb25ae23$"
+}
+}

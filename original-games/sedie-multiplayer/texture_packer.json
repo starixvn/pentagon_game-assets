@@ -1,0 +1,39 @@
+{
+  "children": [
+    {
+      "options": {
+        "input_files": [["", "*.png"]]
+      },
+      "children": [
+        {
+          "options": {
+            "params": ["--texture-format", "png"],
+            "sheet_extension": "png",
+            "output_path": ["end-01"]
+          }
+        }
+      ]
+    }
+  ],
+  "options": {
+    "params": [
+      ["--webp-quality", 100],
+      ["--maxrects-heuristics", "Best"],
+      ["--scale-mode", "Smooth"],
+      ["--pack-mode", "Best"],
+      ["--shape-padding", 0],
+      ["--format", "json"],
+      ["--algorithm", "MaxRects"],
+      ["--opt", "RGBA8888"],
+      ["--max-height", 4096],
+      ["--size-constraints", "POT"],
+      ["--png-opt-level", 0],
+      ["--alpha-handling", "KeepTransparentPixels"],
+      ["--max-width", 4096],
+      ["--trim-mode", "Trim"],
+      ["--border-padding", 2],
+      ["--extrude", 1]
+    ],
+    "rotation": true
+  }
+}
